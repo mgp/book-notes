@@ -29,3 +29,18 @@ by Marko Gargenta
 * pg 77: Android optionally expands on the RGB color set with the alpha channel, so you can express values for each channel in hexadecimal as `#ARGB` or `#AARRGGBB`.
 * pg 79: Alternative resources, like strings in different languages or images with different pixel density, work by specifying the qualifiers in the names of their resource folders.
 * pg 81: The Hierarchy Viewer tool attaches to any device or emulator and introspect the structure of the current view. For performance, aim for flat, nested layouts.
+
+### Chapter 7
+* pg 87: A subclass of `PreferenceActivity` uses `addPreferencesFromResource()` instead of `setContentView()` to set its content from an XML file containing preferences.
+* pg 88: Any building block like an activity, service, broadcast receiver, or content provider must be defined in the `AndroidManifest.xml` file.
+* pg 90: The "title condensed" attribute of a menu item is shown instead of the title attribute if space is limited.
+* pg 91: The `onCreateOptionsMenu()` is only called once to inflate the menu, and doesn’t get called again until the activity is destroyed.
+* pg 96: The `/sdcard` partition is a poorly structured, free-for-all partition that is a suitable place to store large files such as music, photos, or videos.
+* pg 97: The `data` subfolder of the `/data` partition contains subfolders corresponding to each application, each named by the package used to sign the corresponding application.
+
+### Chapter 8
+* pg 101: An unbound service runs independently of activities. A bound service provides more specific APIs through Android Interface Definition Language, or AIDL.
+* pg 102: As long as any part of your app is running, the `Application` object will be created, and so is a good place for common state.
+* pg 104: You must add an `android.name` attribute to the `application` element in `AndroidManifest.xml` to specify your subclass of `Application`.
+* pg 107: The `onStartCommand` method is called whenever the service receives a `startService` intent, and unlike `onCreate` and `onDestroy`, can be called repeatedly.
+
