@@ -44,3 +44,10 @@ by Marko Gargenta
 * pg 104: You must add an `android.name` attribute to the `application` element in `AndroidManifest.xml` to specify your subclass of `Application`.
 * pg 107: The `onStartCommand` method is called whenever the service receives a `startService` intent, and unlike `onCreate` and `onDestroy`, can be called repeatedly.
 
+### Chapter 9
+* pg 120: The single-file nature of SQLite makes security straightforward, as it boils down to filesystem security.
+* pg 122: Class `SQLiteDatabase` supports prepared statements for `INSERT`, `UPDATE`, `DELETE`, and `SELECT`; all other SQL statements must be executed directly.
+* pg 124: The versioning provided by `SQLiteOpenHelper` simplifies recognizing when the schema has changed and tables must be altered.
+* pg 127: The database is stored in the `databases` subdirectory in your application directory along the `/data/data` path.
+* pg 129: On the command line, `sqlite3` will not complain if the file you refer to does not exist, and will simply create a new database.
+
