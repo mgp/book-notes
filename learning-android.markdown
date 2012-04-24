@@ -60,3 +60,9 @@ by Marko Gargenta
 * pg 151: The category `android.intent.category.LAUNCHER` must be added to an activity's `<intent_filter>` for the application to be shown in the launcher drawer.
 * pg 156: The `onMenuOpened()` callback allows you to customize menu items before the menu is displayed.
 
+### Chapter 11
+* pg 163: If you don't specify a needed permission, you won't be notified when the event occurs, which could be a hard bug to find.
+* pg 167: If broadcasts are sent with an intent that no code is listening for, the broadcasts are simply ignored.
+* pg 169: The `BOOT_COMPLETED` intent requires the `RECEIVE_BOOT_COMPLETED` permission, but `CONNECTIVITY_CHANGE` requires `ACCESS_NETWORK_STATE`.
+* pg 172: A receiver can accept broadcasts only from senders with permission to send, while a sender can broadcast only to receivers with a permission to receive.
+
