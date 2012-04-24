@@ -2,11 +2,11 @@
 
 by Marko Gargenta
 
-### Chapter 3
+### Chapter 3: Quick Start
 * pg 20: The mainfest file explains what the application consits of, what its main building blocks are, what permissions it requires, and so on.
 * pg 21: The layout XML is responsible for the layout of widgets, while the strings XML is responsible for their textual content.
 
-### Chapter 4
+### Chapter 4: Main Building Blocks
 * pg 29: An activity transitioning from a _starting_ state to a _running_ state is an expensive operation.
 * pg 30: An activity that is visible but not in focus is _paused_. Once not visible, it is in a _stopped_ state.
 * pg 30: A destroyed activity is no longer in memory. There's no guarantee that it will be stopped before being destroyed, so do all important work en route to the paused state.
@@ -14,7 +14,7 @@ by Marko Gargenta
 * pg 32: Services are either _starting_, _running_, or _destroyed_, and this life cycle is controlled by the developer and not so much by the system.
 * pg 34: Broadcast receivers are a system-wide publish-subscribe system. Receivers are not actively running in memory, but do get to run some code when triggered.
 
-### Chapter 6
+### Chapter 6: Android User Interface
 * pg 48: Use XML to declare everything about the UI that is static, and then a programmatic approach to define what happens when the user interacts with its widgets.
 * pg 49: Layouts allocate space for their children, which can be views or other layouts in turn.
 * pg 50: If you nest multiple `LinearLayout` instances, consider `RelativeLayout`. Heavy nesting has negative effects on time to start the activity, CPU, and battery consumption.
@@ -30,7 +30,7 @@ by Marko Gargenta
 * pg 79: Alternative resources, like strings in different languages or images with different pixel density, work by specifying the qualifiers in the names of their resource folders.
 * pg 81: The Hierarchy Viewer tool attaches to any device or emulator and introspect the structure of the current view. For performance, aim for flat, nested layouts.
 
-### Chapter 7
+### Chapter 7: Preferences, the Filesystem, the Options Menu, and Intents
 * pg 87: A subclass of `PreferenceActivity` uses `addPreferencesFromResource()` instead of `setContentView()` to set its content from an XML file containing preferences.
 * pg 88: Any building block like an activity, service, broadcast receiver, or content provider must be defined in the `AndroidManifest.xml` file.
 * pg 90: The "title condensed" attribute of a menu item is shown instead of the title attribute if space is limited.
@@ -38,20 +38,20 @@ by Marko Gargenta
 * pg 96: The `/sdcard` partition is a poorly structured, free-for-all partition that is a suitable place to store large files such as music, photos, or videos.
 * pg 97: The `data` subfolder of the `/data` partition contains subfolders corresponding to each application, each named by the package used to sign the corresponding application.
 
-### Chapter 8
+### Chapter 8: Services
 * pg 101: An unbound service runs independently of activities. A bound service provides more specific APIs through Android Interface Definition Language, or AIDL.
 * pg 102: As long as any part of your app is running, the `Application` object will be created, and so is a good place for common state.
 * pg 104: You must add an `android.name` attribute to the `application` element in `AndroidManifest.xml` to specify your subclass of `Application`.
 * pg 107: The `onStartCommand` method is called whenever the service receives a `startService` intent, and unlike `onCreate` and `onDestroy`, can be called repeatedly.
 
-### Chapter 9
+### Chapter 9: The Database
 * pg 120: The single-file nature of SQLite makes security straightforward, as it boils down to filesystem security.
 * pg 122: Class `SQLiteDatabase` supports prepared statements for `INSERT`, `UPDATE`, `DELETE`, and `SELECT`; all other SQL statements must be executed directly.
 * pg 124: The versioning provided by `SQLiteOpenHelper` simplifies recognizing when the schema has changed and tables must be altered.
 * pg 127: The database is stored in the `databases` subdirectory in your application directory along the `/data/data` path.
 * pg 129: On the command line, `sqlite3` will not complain if the file you refer to does not exist, and will simply create a new database.
 
-### Chapter 10
+### Chapter 10: Lists and Adapters
 * pg 138: A `ScrollView` contains only one direct child, and should have its width and height specified as `fill_parent`.
 * pg 141: The `startManagingCursor()` method of `Activity` manages the cursor's life cycle the same way it manages its own.
 * pg 143: The `ListActivity` is convenient where the built-in `ListView` is the only widget in the activity.
@@ -60,7 +60,7 @@ by Marko Gargenta
 * pg 151: The category `android.intent.category.LAUNCHER` must be added to an activity's `<intent_filter>` for the application to be shown in the launcher drawer.
 * pg 156: The `onMenuOpened()` callback allows you to customize menu items before the menu is displayed.
 
-### Chapter 11
+### Chapter 11: Broadcast Receivers
 * pg 163: If you don't specify a needed permission, you won't be notified when the event occurs, which could be a hard bug to find.
 * pg 167: If broadcasts are sent with an intent that no code is listening for, the broadcasts are simply ignored.
 * pg 169: The `BOOT_COMPLETED` intent requires the `RECEIVE_BOOT_COMPLETED` permission, but `CONNECTIVITY_CHANGE` requires `ACCESS_NETWORK_STATE`.
