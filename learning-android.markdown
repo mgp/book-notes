@@ -66,3 +66,10 @@ by Marko Gargenta
 * pg 169: The `BOOT_COMPLETED` intent requires the `RECEIVE_BOOT_COMPLETED` permission, but `CONNECTIVITY_CHANGE` requires `ACCESS_NETWORK_STATE`.
 * pg 172: A receiver can accept broadcasts only from senders with permission to send, while a sender can broadcast only to receivers with a permission to receive.
 
+### Chapter 12: Content Providers
+* pg 176: The URI for a content provider has an authority named after the class, one or more segments to specify the data type, and an optional identifier.
+* pg 179: For updating, deleting, and querying data, the selection argument and some others are only used if no identifier was specified in the URI.
+* pg 180: The `query` method should not close the database, as that will destroy the returned cursor.
+* pg 184: The `onUpdate` method of a widget should update all widgets specified by the `appWidgetIds` parameter.
+* pg 185: The `include` element in a layout allows reusing one layout inside another so that code is not duplicated.
+
