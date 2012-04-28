@@ -73,3 +73,12 @@ by Marko Gargenta
 * pg 184: The `onUpdate` method of a widget should update all widgets specified by the `appWidgetIds` parameter.
 * pg 185: The `include` element in a layout allows reusing one layout inside another so that code is not duplicated.
 
+### Chapter 13: System Services
+* pg 190: Requesting updates from a system service may drain battery, so register for updates in `onResume` and unregister in `onPause`.
+* pg 194: The `onDraw` method of a view draws the view on the given canvas.
+* pg 199: Android divides location permissions into abstract fine location and coarse location permissions, such as GPS and wireless networks, respectively.
+* pg 206: An `IntentService` is a subclass of `Service` but runs on its own worker thread, and the work to perform is put in its `onHandleIntent` method.
+* pg 209: A `PendingIntent` allows you to start an activity, start a service, or send a broadcast at a future time.
+* pg 211: The `ELAPSED_REALTIME` parameter will keep the `AlarmManager` from waking up the phone just to run a scheduled alarm.
+* pg 214: The `getString` method of `Context` accepts a variable number of arguments at the end and applies them to the string from `strings.xml` using `String.format`.
+
