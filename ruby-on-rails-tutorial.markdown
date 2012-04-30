@@ -19,3 +19,11 @@ by Michael Hartl
 * The `POST`, `PUT`, and `DELETE` methods are routed to the `create`, `update`, and `destroy` actions, and unlike the other actions do not render pages.
 * In a one-to-many relationship, the model on the one-side uses `has_many`, while the model on the many-side uses `belongs_to`.
 
+### Chapter 3: Mostly static pages
+* Passing the `--skip-unit-test` option to the `rails new` command will skip generating a test directory associated with the `Test::Unit` framework.
+* The Capybara gem allows you to simulate a user's interaction with an application using a natural English-like syntax.
+* The `--without production` option passed to `bundle install` is a remembered option, and so can be omitted on future invocations.
+* Any files in the `public` directly are served directly from the filesystem and don't even hit the Rails stack.
+* After using `rails generate rspec:install` to use `generate` with RSpec, passing `--no-test-framework` to `rails generate` will suppress generating default RSpec tests.
+* Web browsers are incapable of sending `PUT` and `DELETE` methods natively, but web frameworks like Rails make it seem like browsers are issuing such requests.
+
