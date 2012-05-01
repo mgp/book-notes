@@ -31,3 +31,18 @@ by Michael Hartl
 * In embedded Ruby, `<% ... %>` executes the code inside, while `<%= ... %>` executes the code and inserts the result into the template.
 * Calling `<%= yield %>` in the special layout file `application.html.erb` inserts the content of the page into the layout; other values are passed using `provide`.
 
+### Chapter 4: Rails flavored Ruby
+* Functions for use in views are called helpers, and are found in the `app/helpers` directory.
+* The Rails console, accessed with `rails console` or `rails c`, is built on top of interactive ruby, or `irb`.
+* The `puts` method appends a newline character `\n` to the output, while the `print` method does not.
+* Single-quoted strings are truly literal, and so do not interpolate values using the `#{}` syntax, and do not form escape sequences.
+* Any method that returns a boolean ends with `?`.
+* The `nil` object is the only Ruby object that is false in a boolean context, apart from `false` itself. Even `0` is true.
+* The `include` statement mixes in a module. Rails automatically mixes the `ApplicationHelper` into all views so its methods are available everywhere.
+* Bang methods, which end with `!`, mutate a value instead of returning a different value.
+* For blocks, it is typical to use curly braces only for short one-line blocks, and the `do ... end` syntax for anything longer.
+* It is a convention to put an extra space at the two ends of a hash literal, and spaces around each "hashrocket", or `=>`.
+* When using symbols as hash keys, the symbol/hashrocket combination can be replaced with the key name followed by a colon and a value.
+* The `inspect` method returns the string literal for an object, and the shortcut `p` function is equivalent to calling `inspect` on its argument and using `puts`.
+* When a hash is the last argument in a function call, its curly braces are optional.
+
