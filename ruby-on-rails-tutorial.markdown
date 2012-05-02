@@ -49,3 +49,16 @@ by Michael Hartl
 * The `blank?` method, added to the `String` class by Rails, returns whether a string is composed entirely of whitespace.
 * A Rails convention is to pass a hash named `attributes` into the `initialize` method, or constructor, of a class.
 
+### Chapter 5: Filling in the layout
+* The `alt` attribute is passed in the optional options hash to the `image_tag` helper, but is in fact required by the HTML standard.
+* The `bootstrap-sass` gem converts the LESS used by Bootstrap to the Sass language used by Rails.
+* Filenames of partials start with an underscore, but are omitted in the call to `render`. Shared partials are found in the `app/views/layouts` directory.
+* Static assets specific to the application are in `app/assets`; assets for libraries written by your dev team are in `lib/assets`; and assets from third-party vendors are in `vendor/assets`.
+* Filename extensions of assets specify which preprocessor engines to use; if multiple are specified, the associated preprocessors are run from right to left.
+* The asset pipeline puts all CSS in one `application.css` file, all Javascript in one `javascripts.js` file, and minimizes assets in all paths where possible.
+* The `bootstrap-sass` gem provides Sass equivalents of all the LESS variables for colors found in Bootstrap.
+* A named route ending with `_path` is just the pathname, while the one ending with `_url` includes the hostname and scheme.
+* It's convention to route the root of your site using `root` instead of `match '/'`.
+* Files included in the `spec/support` directory are automatically included by RSpec.
+* If you just run `rake` by itself, the default behavior is to run the full test suite.
+
