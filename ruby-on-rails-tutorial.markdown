@@ -45,4 +45,7 @@ by Michael Hartl
 * When using symbols as hash keys, the symbol/hashrocket combination can be replaced with the key name followed by a colon and a value.
 * The `inspect` method returns the string literal for an object, and the shortcut `p` function is equivalent to calling `inspect` on its argument and using `puts`.
 * When a hash is the last argument in a function call, its curly braces are optional.
+* While `array.new` takes an initial value for the array, `Hash.new` takes a default value for the hash.
+* The `blank?` method, added to the `String` class by Rails, returns whether a string is composed entirely of whitespace.
+* A Rails convention is to pass a hash named `attributes` into the `initialize` method, or constructor, of a class.
 
