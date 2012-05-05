@@ -62,3 +62,21 @@ by Michael Hartl
 * Files included in the `spec/support` directory are automatically included by RSpec.
 * If you just run `rake` by itself, the default behavior is to run the full test suite.
 
+### Chapter 6: Modeling users
+* In contrast to the plural convention for controller names, model names are singular, although the underlying table name is in the plural form.
+* For an irreversible database migration like removing a database column, you must define separate `self.up` and `self.down` methods in place of the `change` method.
+* The `annotate` gem precedes each model definition with a comment containing its field names and types.
+* By default all model attributes are accessible, but `attr_accessible` ensures that only the provided attributes are accessible to outside users.
+* Starting `rails console` with the `--sandbox` flag rolls back any changes on exit.
+* The `create` method combines the `new` and `save` actions into one.
+* The `update_attribute` method combines both the `update` and `save` actions into one, but can only modify those attributes defined as accessible using `attr_accessible`.
+* The `db:test:prepare` Rake task ensures that the data model from the development database `db/development.sqlite3` is reflected in the test database `db/test.sqlite3`.
+* In RSpec, whenever an object responds to a boolean method `foo?`, there is a corresponding test method called `be_foo`.
+* Constants in Ruby have a name that starts with a capital letter.
+* Using `validates: uniqueness` is a query-then-write approach subject to race conditions; to properly enforce uniqueness, use an index at the the database level.
+* Not all database adapters use case-insensitive indices, and so you must use a database callback to lowercase a string before writing it.
+* When using `rails generate migration`, to automatically create a migration for table `tablename`, end the migration name with `_to_tabename`.
+* If the password confirmation field is `nil`, Rails doesn’t run the confirmation validation, although this can never happen on the web, and only through the console.
+* The `let` method in RSpec memoizes its value, and so the value is remembered from one invocation to the next.
+* Given a `password_digest` column in the database, the `has_secure_password` method provides a secure way to create and authenticate new users.
+
