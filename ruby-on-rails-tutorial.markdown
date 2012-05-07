@@ -80,3 +80,20 @@ by Michael Hartl
 * The `let` method in RSpec memoizes its value, and so the value is remembered from one invocation to the next.
 * Given a `password_digest` column in the database, the `has_secure_password` method provides a secure way to create and authenticate new users.
 
+### Chapter 7: Sign up
+* The `console` command accepts the environment as an argument, `server` through the `--environment` flag, and `db:migrate` through the `RAILS_ENV` variable.
+* To speed up your tests, redefine the BCrypt cost factor in `config/environments/test.rb` from its secure default value to its fast minimum value.
+* Methods defined in any helper file are automatically available in any view, but strive for organization and convenience.
+* To reset the database, use the `db:reset` Rake task. This may need to be followed with the `db:test:prepare` Rake task before testing.
+* The `count` method on every Active Record class and the `change` method in RSpec can be used to verify that validations stopped a write from succeeding.
+* Passing `-e` and a string to RSpec runs just the tests whose description strings match the given string.
+* To display an empty form using `form_for`, simply create an empty Active Record object in the corresponding controller.
+* Partials expected to be used in views across multiple controllers should be placed in the `app/views/shared` directory.
+* The `any?` method is the opposite of `empty?`, returning `true` if an array is not empty, and `false` if it is.
+* The `pluralize` method in `ActionView::Helpers::TextHelper` is backed by a powerful inflector that can pluralize almost any word.
+* The `redirect_to` method can construct a RESTful URL from any Active Record object passed as a parameter.
+* The `flash` variable is like a special hash whose values disappear upon visiting a second page or upon reloading.
+* Embedded Ruby will automatically convert symbols into strings before inserting them into the template.
+* To change the names of fields with missing values in error messages, edit the corresponding attribute in `config/locales/en.yml`.
+* The `content_tag` helper method can improve readability wherever ERb is used to compute HTML attributes inside quotes.
+
