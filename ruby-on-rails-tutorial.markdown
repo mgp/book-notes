@@ -76,7 +76,7 @@ by Michael Hartl
 * Using `validates: uniqueness` is a query-then-write approach subject to race conditions; to properly enforce uniqueness, use an index at the the database level.
 * Not all database adapters use case-insensitive indices, and so you must use a database callback to lowercase a string before writing it.
 * When using `rails generate migration`, to automatically create a migration for table `tablename`, end the migration name with `_to_tabename`.
-* If the password confirmation field is `nil`, Rails doesn’t run the confirmation validation, although this can never happen on the web, and only through the console.
+* If the password confirmation field is `nil`, Rails doesn't run the confirmation validation, although this can never happen on the web, and only through the console.
 * The `let` method in RSpec memoizes its value, and so the value is remembered from one invocation to the next.
 * Given a `password_digest` column in the database, the `has_secure_password` method provides a secure way to create and authenticate new users.
 
@@ -105,7 +105,7 @@ by Michael Hartl
 * By default, helpers are available in views, but you must use `include` to make them available in controllers.
 * Values stored in the `session` object are stored in a cookie that expires upon the browser closing.
 * The `its` method of RSpec applies the subsequent test to the given attribute rather than the subject of the test.
-* Inside private methods called by a model’s `before_save` method, column names that are written to must be preceded by `self`.
+* Inside private methods called by a model's `before_save` method, column names that are written to must be preceded by `self`.
 * The `permanent` method of `cookies` is a shortcut for setting the optional expires date of a value to 20 years in the future, or `20.years.from_now.utc`.
 * The `||=` operator can be used to assign a value to a variable if it is currently undefined.
 * Passing `validate: false` to `save` skips the validations for the model, which is useful in `rails console`.
