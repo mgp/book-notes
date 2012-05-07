@@ -97,3 +97,17 @@ by Michael Hartl
 * To change the names of fields with missing values in error messages, edit the corresponding attribute in `config/locales/en.yml`.
 * The `content_tag` helper method can improve readability wherever ERb is used to compute HTML attributes inside quotes.
 
+### Chapter 8: Sign in, sign out
+* Modeling sessions as a RESTful resource, signing in is a `POST` request to the `create` action, and signing out is a `DELETE` request to the `destroy` action.
+* Passing the `only` option to `resources` in `config/routes.rb` restricts the RESTful routes generated.
+* If you cannot provide a suitable model for `form_for`, you can pass the name of the resource and the corresponding URI as parameters.
+* Display error messages on rendered pages using `flash.now` because its contents disappear upon an additional request; when using redirects, use `flash`.
+* By default, helpers are available in views, but you must use `include` to make them available in controllers.
+* Values stored in the `session` object are stored in a cookie that expires upon the browser closing.
+* The `its` method of RSpec applies the subsequent test to the given attribute rather than the subject of the test.
+* Inside private methods called by a model’s `before_save` method, column names that are written to must be preceded by `self`.
+* The `permanent` method of `cookies` is a shortcut for setting the optional expires date of a value to 20 years in the future, or `20.years.from_now.utc`.
+* The `||=` operator can be used to assign a value to a variable if it is currently undefined.
+* Passing `validate: false` to `save` skips the validations for the model, which is useful in `rails console`.
+* File `spec/support/utilities.rb` can contain not just helper methods but custom matchers (like `have_selector` or `have_link`) using `RSpec::Matchers.define`.
+
