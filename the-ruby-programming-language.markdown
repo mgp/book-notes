@@ -6,17 +6,17 @@ by David Flanagan and Yukihiro Matsumoto
 * pg 2: Every value is an object, even simple numeric literals and the values `true`, `false`, and `nil`.
 * pg 3: Parentheses are usually optional and commonly omitted, and so method invocations can look like references to named fields or named variables of an object.
 * pg 4: Symbols are immutable, interned strings, and so can be compared by identity rather than textual content.
-* pg 4: Double quoted strings can include arbitrary Ruby expressions delimited by `#` and `}`, and interpolated values are converted to strings by calling `to_s`.
+* pg 4: Double quoted strings can include arbitrary Ruby expressions delimited by `#{` and `}`, and interpolated values are converted to strings by calling `to_s`.
 * pg 5: Strings, arrays, and streams use the `<<` operator for an append operation.
 * pg 6: Methods can be defined on individual objects by prefixing the name of the method with the object, and are called _singletonmethods_.
 * pg 6: Methods that end with `=` are special because they can be invoked using assignment syntax.
 * pg 7: Global variables are prefixed with `$`, instance variables with `@`, and class variables with `@@`.
-* pg 7: The `..` operator has an exclusive right endpoint, while the `...` operator has an inclusive right endpoint.
+* pg 7: The `..` operator has an inclusive right endpoint, while the `...` operator has an exclusive right endpoint.
 * pg 7: `Regexp` and `Range` objects define `===` for membership, which is what the `case` statement also uses, and so it is called the _case equality operator_.
 * pg 10: Even core classes in Ruby are open, and so any program can add methods to them.
 * pg 10: Strings in Ruby are mutable, and so a string literal in a loop evaluates to a new object on each iteration.
 * pg 11: When evaluating conditional expressions, the value `nil` is treated as `false`, and any other value is the same as `true`.
-* pg 11: In Ruby 1.9, the MRI (Matz's Ruby Implementation) was merged with YARV (Yet Another Ruby virtual machine) that executes to bytecode before execution.
+* pg 11: In Ruby 1.9, the MRI (Matz's Ruby Implementation) was merged with YARV (Yet Another Ruby Virtual machine) that executes to bytecode before execution.
 * pg 12: Unlike `print`, `puts` ends with a newline, and its alternative `p` converts objects to strings using `inspect` which can return more programmer-friendly representations.
 * pg 13: When using `ri`, you must use `::` to refer to a class method or `#` to refer to an instance method if both are defined with the same name.
 * pg 14: Ruby 1.9 knows how to find installed gems on its own, and you do not need to put `require rubygems` in your programs that use gems.
