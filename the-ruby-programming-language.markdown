@@ -109,3 +109,44 @@ by David Flanagan and Yukihiro Matsumoto
 * pg 84: Once an instance of a class is frozen, it cannot be thawed, and a copy created with `clone` will also be frozen, while a copy created with `dup` will be thawed.
 * pg 84: The tainted property allows tracking of user input and data derived from it, and the trusted property allows tracking of untrusted data.
 
+### Chapter 4: Expressions and Operators
+* pg 86: Everything in Ruby, including class and method definitions, can be evaluated as an expression and can return a value.
+* pg 87: Variables whose names begin with an underscore or lowercase letter are local variables, defined only within the current method or block.
+* pg 88: If the interpreter hasn’t seen an assignment to a variable, it treats an expression as a method invocation, and raises a `NameError` if no such method exists.
+* pg 88: A variable comes into existence when the interpreter sees an assignment for that variable, even if the assignment is not actually executed.
+* pg 89: Global functions and constants are defined and looked up within the `Object` class, and so omitting the lefthand side of `::` is actually the same as using `Object::`.
+* pg 89: Unlike variables that come into existence when the interpreter sees them, constants do not exist until a value is assigned to them, and so no constants are uninitialized.
+* pg 90: A method name can be separated from the object it is invoked on with `::` instead of `.`, but this is rare because it looks more like a constant reference expression.
+* pg 90: Methods in `Kernel` are global functions, and because global functions are methods of `Object`, they can be invoked in any context regardless of the value of `self`.
+* pg 91: Ruby objects expose only methods to the outside world, and it is intentional that attribute accessor methods without arguments look like variable references.
+* pg 92: By itself, `super` passes the arguments of the current method to the method with the same name in the superclass.
+* pg 94: Assignment to constants is not allowed within the body of a method, since Ruby assumes that methods are intended to be executed more than once.
+* pg 95: When an object has both a getter method and a setter method, it is called an attribute.
+* pg 97: When using the `||=` idiom for assigning a default value, if the left operand is not `nil` or `false`, then no assignment is actually performed nor setter method is invoked.
+* pg 97: Given a single lvalue and multiple rvalues, an array creating all the rvalues is assigned to the lvalue.
+* pg 98: Following a lvalue with a comma performs parallel assignment and discards superfluous rvalues, which is useful for unpacking an array.
+* pg 99: In Ruby 1.9 a list of rvalues can have any number of splats, but you cannot perform a "double splat" on a nested array.
+* pg 99: Any ravlue that defines a `to_a` method can be prefixed with a splat, otherwise no expansion is performed and the splat evaluates to the object itself.
+* pg 99: In Ruby 1.9 a list of lvalues may include one splat operator at any position in the list.
+* pg 100: If a parallel assignment is prefixed with the name of a method, Ruby will interpret the commas as method argument separators rather than lvalue and rvalue separators.
+* pg 102: In general, classes may define their own arithmetic, ordering, and equality operators, but they may not redefine the various boolean operators.
+* pg 103: Unary plus and minus have the method names `+@` and `-@` to disambiguate themselves from the binary plus and minus methods.
+* pg 103: The exponentiation operator handles fractional and negative exponents.
+* pg 104: When an array is multiplied by a string, the result is the same as calling its `join` method and passing that string as an argument.
+* pg 104: The `String`, `Array`, and `IO` classes define `<<` as the append operator, as do other "appendable" classes like `Queue` and `Logger`.
+* pg 105: The boolean operators `&&` and `||` are more efficient than `&`, `|`, and `^` because they do not evaluate their righthand operand unless otherwise needed.
+* pg 105: The `Module` class, which is the superclass of `Class`, defines `A < B` as `true` if class `A` is a subclass or descendant of class `B`.
+* pg 106: The `Module` comparison operators return `nil` between classes where neither one is a subclass of the other.
+* pg 106: `String` defines the pattern matching operator `~=` so that it expects a `RegExp` as its argument, and `RegExp` defines it so that it expects a `String`.
+* pg 106: There is no `!==` operator; if you want to negate `===`, you must do it yourself.
+* pg 107: An idiomatic use of `&&` is to only access an attribute of an object if that object is not `nil`.
+* pg 108: One idiomatic use of `||` is to return the first non-`nil` value in a series of alternatives.
+* pg 108: The `and`, `or`, and `not` operators are low precedence versions of `&&`, `||`, and `!`, and are even lower than the assignment operator.
+* pg 109: The `and` and `or` operators have the same precedence, with `not` slightly higher, which is unlike `&&` having a higher precedence than `||`.
+* pg 110: A flip-flop expression is false until the lefthand expression evaluates to `true`, and remains `true` until the righthand expression evaluates to `true`.
+* pg 110: When a `..` flip-flop flips to `true`, it immediately evaluates its righthand expression to see if it should flop back to `false`, while a `...` flip-flop waits until the next evaluation.
+* pg 112: Since method names can end in a question mark, you must put parentheses around the first operand of the ternary operator or add a disambiguating space.
+* pg 113: Although assignment operators cannot be redefined as methods, compound assignment operators like `+=` use redefinable operators like `+`.
+* pg 113: The `defined?` method returns `nil` given an undefined variable or method, or if the operand is an expression that uses `yield` or `super` in an inappropriate context.
+* pg 115: It is better to think of method invocation as a special kind of expression than to think of `()` as a method-invocation operator.
+
