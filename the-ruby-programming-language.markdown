@@ -54,4 +54,58 @@ by David Flanagan and Yukihiro Matsumoto
 * pg 45: The sign of the result of a modulo operation in Ruby is that of the second operand, instead of the first operand like C and Java.
 * pg 47: In single-quoted strings, a backslash is not special if the character that follows is anything other than a quote or a backslash.
 * pg 47: To break a single-quoted string across multiple lines, break it into multiple adjacent string literals while escaping the newlines between the literals.
+* pg 48: Curly braces may be omitted when the expression to be interpolated in a double-quoted string literal is a reference to a global, instance, or class variable.
+* pg 48: Ruby uses the `%` operator to perform `sprintf`-style string interpolation, just like Python does.
+* pg 48: Double-quoted string literals may span multiple lines, and line terminators become part of the literal unless escaped by a backslash.
+* pg 51: The sequence `%q` follows single-quoted rules, and the sequence `%Q` follows double-quoted rules.
+* pg 51: A string literal formed with `%q` or `%Q` continues until a matching unescaped delimiter is found, and the delimiters `(`, `[`, `<` pair with `)`, `]`, and `>`, respectively.
+* pg 53: Text using sequence `%x` or between backticks is treated as a double-quoted string literal and run as a shell command by `Kernel.``, which runs it as a shell command.
+* pg 53: Every time Ruby encounters a string literal, it creates a new object, and so avoid using literals in loops for efficiency.
+* pg 54: Single characters can be included literally by preceding them with `?`, but since characters are strings with length 1 in Ruby 1.9, this has little use.
+* pg 55: If the righthand operand of a string’s `<<` operator is an integer, it is taken to be a Unicode codepoint, and the corresponding character is appended.
+* pg 56: Ruby does not throw an exception if you access a character beyond the end of the string, but instead returns `nil`.
+* pg 57: Reading `s[s.length]` returns `nil`, while reading `s[s.length, 1]` returns an empty string and will not work for indexes greater than `s.length`.
+* pg 57: Assigning `s[s.length]` is an error, while assigning `s[s.length, 0]` appends to the end of the string.
+* pg 58: Indexing a string with another string is only really useful when you want to replace the matched string with some other string.
+* pg 58: The `each_char` iterator may be more efficient than using the `[]` operator, and complements the `each_byte` and `each_line` iterators.
+* pg 59: In Ruby 1.9, string elements are characters which are strings of length 1, unlike 1.8 which assumes ASCII, where elements are numbers representing byte values.
+* pg 60: If a string consists of only one-byte characters, random access is efficient; otherwise Ruby 1.9 must sequentially iterate to the character.
+* pg 60: Encoding of string literals is the same as the source file encoding, except that literals containing `\u` escapes are always encoded in UTF-8.
+* pg 60: The `ASCII-8BIT` encoding in Ruby 1.9 has the alias `BINARY` and is equivalent to the encoding in Ruby 1.8, while the `US-ASCII` encoding is true 7-bit ASCII.
+* pg 61: The `force_encoding` method does not perform validation, which is done by the `valid_encoding?` method.
+* pg 62: If a string you call `encode` on consists of unencoded bytes, you need to specify the encoding by which to interpret those bytes before transcoding them.
+* pg 63: To obtain the encoding for the current locale, call `Encoding.locale_charmap` and pass the resulting string to the `Encoding.find` factory method.
+* pg 64: Attempting to read an index with `index >= size` or `index < -size` returns `nil` as opposed to raising an exception.
+* pg 64: Assigning an element to an index beyond the end of the array automatically extends the array with `nil` elements.
+* pg 64: The `%w` and `%W` sequences express array literals whose elements are strings without spaces, and follow the same rules as `%q` and `%Q`.
+* pg 65: Arrays indexed with a negative value cannot be used on the left side of assignment statements; to prepend, index with the two integers `0,0`.
+* pg 65: When replacing a subarray by indexing with two integers, if the right side is a single element, the brackets `[` and `]` are optional.
+* pg 66: Treating arrays as unordered sets, the boolean operators `|` and `&` perform union and intersection, while `-` is like set difference but may contain duplicate elements.
+* pg 67: Ruby 1.9 supports a succinct hash literal syntax where the keys are symbols, and the colon moves to the end of the hash key and replaces the arrow.
+* pg 68: If you define a new class that overrides the `eql?` method,  you must also override the `hash` method or else instances of the class will not work as keys.
+* pg 68: As a special case, Ruby makes private copies of all strings used as hash keys; otherwise, if you mutate a key, you must call the `rehash` method after doing so.
+* pg 69: A value can only be used as a range endpoint if it responds to the comparison operator `<=>`.
+* pg 69: A range where the class of the endpoints defines a `succ` method is called a discrete range, and can be iterated using `each`, `step`, and `Enumerable` methods.
+* pg 69: To invoke a method on a range literal, you must parenthesize the literal, or else the method invocation is actually on the range endpoint.
+* pg 70: A continuous membership test compares against the range endpoints, while a discrete membership test uses `succ` to enumerate all values and is potentially more expensive.
+* pg 70: In Ruby 1.9, unless the endpoints are numeric, `include?` and `member?` perform a discrete membership test, while `cover?` performs a continuous membership test.
+* pg 71: The `%s` sequence defines a literal syntax for symbols the same way that `%q` and `%Q` does for strings.
+* pg 71: The `intern` and `to_sym` methods convert strings to symbols, and the `to_s` and `id2name` methods convert back.
+* pg 72: There is no `Boolean` class in Ruby, and `TrueClass` and `FalseClass` both have `Object` as their superclass.
+* pg 73: The `new` method of the `Class` class allocates memory to hold the new object, and then initializes its state by invoking its `initialize` method.
+* pg 74: By default the `Object` class implements method `hash` by returning the object’s ID, which is also returned by the `object_id` method.
+* pg 75: The `instance_of?` method tests if an object is a given class, while `is_a?`, `kind_of?`, and the `===` operator test if an object is an instance or a subclass.
+* pg 76: The `equal?` method tests whether two values refer to exactly the same object, and by convention, subclasses never override it.
+* pg 77: The `==` operator behaves like `equal?` unless overridden, and typically checks equality while performing needed type conversion, like between a `Fixnum` and `Float`.
+* pg 77: The `eql?` method behaves like `equal?` unless overridden, and is typically used as a strict version of `==` that performs no type conversion.
+* pg 78: If the `<=>` comparator cannot make a meaningful comparison, it should return `nil`.
+* pg 79: The `Comparable` mixin defines the operators `<`, `<=`, `==`, `>=`, and `>` in terms of `<=>`, as well as the `between?` operator.
+* pg 79: The `to_s`, `to_i`, `to_f`, and `to_a` methods allow explicit conversion to `String`, `Integer`, `Float`, and `Array`, respectively.
+* pg 80: The default `inspect` method simply calls `to_s`, but should be overridden to return a representation useful for Ruby developers and not end users.
+* pg 81: The `Kernel` module defines the functions `Array`, `Float`, `Integer`, and `String`, which attempt to perform conversions that in some cases use both implicit and explicit conversion methods.
+* pg 81: Numeric objects have a `coerce` method tries to convert an argument to its own type, or else it converts both itself and the argument to a more general compatible type.
+* pg 82: By default both `clone` and `dup` return a shallow copy, but if an `initialize_copy` method is provided, they allocate a new, empty instance and call that.
+* pg 83: The `clone` method copies both the frozen and tainted state of an object, whereas `dup` only copies tainted state, and `clone` also copies any singleton methods, whereas `dup` does not.
+* pg 84: Once an instance of a class is frozen, it cannot be thawed, and a copy created with `clone` will also be frozen, while a copy created with `dup` will be thawed.
+* pg 84: The tainted property allows tracking of user input and data derived from it, and the trusted property allows tracking of untrusted data.
 
