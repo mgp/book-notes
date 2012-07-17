@@ -150,3 +150,37 @@ by David Flanagan and Yukihiro Matsumoto
 * pg 113: The `defined?` method returns `nil` given an undefined variable or method, or if the operand is an expression that uses `yield` or `super` in an inappropriate context.
 * pg 115: It is better to think of method invocation as a special kind of expression than to think of `()` as a method-invocation operator.
 
+### Chapter 5: Statements and Control Structures
+* pg 118: The expression of a conditional must be separated from the body by a newline or semicolon or the keyword `then`.
+* pg 121: Using `if` as a statement modifier does not allow any kind of `else` clause.
+* pg 124: Comma separated expressions in the `when` clause act like the `||` operator, as if any expression evaluates to `true`, its body is executed.
+* pg 126: If a `when` clause contains multiple expressions separated by commas, the `===` operator is invoked on each one.
+* pg 126: Expressions in `when` clauses do not have to be compile-time constants, so no lookup table is used, and performance is comparable to an `if` statement and `elsif` clauses.
+* pg 128: When using `while` or `until` as a modifier, if the loop body is between the `begin` and `end` keywords then the body runs at least once like a `do`/`while` loop, but this usage is discouraged.
+* pg 129: The `for`/`in` loop calls the `each` method of the specified object.
+* pg 129: A loop variable in a `for` loop remains defined after the loop exits, as does new variables defined within the body of the loop.
+* pg 130: Iterators are methods that interact with a block of code that follows them by use of the `yield` statement, and do not need to serve an iteration or looping function.
+* pg 132: In general, `n.times` is equivalent to `0.upto(n-1)`.
+* pg 132: The `Enumerable` module implements the method `each_with_index`, and the rhyming `collect` (also called `map`), `select`, `reject`, and `inject` methods on top of the `each` method.
+* pg 133: If no initial accumulator value is provided to `inject`, it is assigned the first element in the enumerable object, and the block is called first with the second element.
+* pg 134: You can pass a hash literal without curly braces around it to `yield`, but you cannot pass a block, i.e. you cannot pass a block to a block.
+* pg 135: The `block_given?` method and its synonym `iterator?` determines whether there is a block associated with the invocation.
+* pg 135: The `to_enum` and `enum_for` methods return enumerators that can serve as immutable proxy objects, instead of requiring defensive copies.
+* pg 136: The built-in iterator methods of Ruby 1.9 automatically return an enumerator when invoked with no block, bypassing the need to use `to_enum` or `enum_for`.
+* pg 137: In Ruby 1.9, enumerators are also external iterators, where the client can control iteration using the `next` method until `StopIteration` is raised.
+* pg 138: The `Kernel.loop` method in Ruby 1.9 includes an implicit `rescue` clause and exits cleanly when `StopIteration` is raised.
+* pg 138: In general, if new invocations of each on the underlying `Enumerable` object do not restart iteration from the beginning, then calling `rewind` will not restart it either.
+* pg 141: Omitting parentheses around method arguments and using curly brace delimiters will associate a block with the last method argument instead of the method itself.
+* pg 142: A `return` inside a block causes the containing method to return; use `next` instead, or rely on the block returning the value of the last expression evaluated.
+* pg 142: While variables created in a block are undefined outside the block, assigning to a variable already defined outside the block does not create a new block-local variable.
+* pg 143: Follow the list of block parameters with a semicolon and a list of block local variables to prevent inadvertently clobbering the value of some existing variable.
+* pg 145: In Ruby 1.9, prefix a block parameter with `*` to assign it an array with multiple yielded values, or else extra values are silently discarded as if `,` were appended.
+* pg 145: In Ruby 1.9, the final block parameter may be prefixed with `&` to indicate that it is to receive any block associated with the invocation of the block.
+* pg 147: The `return` statement always causes the lexically enclosing method, or the method that the block appears inside of when viewing the source code, to return.
+* pg 148: The `break` statement transfers control out of the block, out of the iterator that invoked it, and to the first expression following the invocation of the iterator.
+* pg 148: A `break` statement can be used with a single expression or multiple expressions; this value or array of values becomes the value of the loop or the iterator return value.
+* pg 151: The `redo` statement transfers control to the first expression of the body, and does not retest the loop condition or fetch the next element from an iterator.
+* pg 151: The `redo` statement is uncommon, but is useful to recover from errors when prompting a user for input.
+* pg 153: Unlike a labeled break, `throw` and `catch` are not restricted to loops, and can propagate up the call stack to cause a block in an invoking thread to exit.
+* pg 154: If `throw` is called, by default the return value of the corresponding `catch` is `nil`, unless you pass a second argument to `throw`.
+
