@@ -183,4 +183,20 @@ by David Flanagan and Yukihiro Matsumoto
 * pg 151: The `redo` statement is uncommon, but is useful to recover from errors when prompting a user for input.
 * pg 153: Unlike a labeled break, `throw` and `catch` are not restricted to loops, and can propagate up the call stack to cause a block in an invoking thread to exit.
 * pg 154: If `throw` is called, by default the return value of the corresponding `catch` is `nil`, unless you pass a second argument to `throw`.
+* pg 155: The `StandardError` exception type is for recoverable errors; all other subclasses of `Exception` represent more serious ones that programs do not attempt to recover.
+* pg 157: `raise` with no arguments creates a `RuntimeError`, while `raise` with a single string argument creates a `RuntimeError` with that as its message.
+* pg 157: If the first argument to `raise` is an object with an `exception` method, it is called and its return value is raised; `Exception` defines such a method.
+* pg 158: The global variable `$!` refers to the `Exception` object that is being handled, but a better alternative is to specify a name in the clause itself.
+* pg 160: To define a catch-all `rescue` clause that handles any exception not handled by previous clauses, use `rescue Exception => ex` as the last clause.
+* pg 161: When the `retry` statement is used in a `rescue` clause, it reruns the block of code to which the `rescue` is attached.
+* pg 162: Putting code in an `else` clause differs from appending it to the end of the `begin` clause in that any exceptions raised in it are not handled by the `rescue` statements.
+* pg 163: An `ensure` clause can cancel exception propagation by raising a new exception, or executing a control statement like `return`, `break`, or `next`.
+* pg 163: If the body of a `begin` statement includes a `return` statement, then if the `ensure` clause has a `return` statement of its own, it changes the return value of the method.
+* pg 164: The `rescue`, `else`, and `ensure` keywords can be used as clauses of a `def` statement, a `class` statement, or a `module` statement.
+* pg 165: `rescue` can be used as a statement modifier, but must be used alone, with no exception class names and no variable names.
+* pg 166: The `at_exit` method of `Kernel` allows registering blocks of code to execute just before the interpreter exits, where the block registered first is executed last.
+* pg 167: The `value` method of a `Thread` object returns the value returned by the associated block, and the caller will block until it becomes available.
+* pg 168: While arguments to the first call of `resume` become block parameters, afterward arguments to `resume` become the return value of `Fiber.yield`, and vice versa.
+* pg 171: Avoid using the additional features of fibers found in the `fiber` module, as they are so powerful that misusing them can crash the VM.
+* pg 172: Continuations were part of the core platform in 1.8 but have been replaced by fibers in 1.9, and should now be considered a curiosity.
 
