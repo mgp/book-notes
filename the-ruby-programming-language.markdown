@@ -242,3 +242,54 @@ by David Flanagan and Yukihiro Matsumoto
 * pg 204: To use a `Method` where a true `Proc` is required, call its `to_proc` method, or prefix the method object with `&` as shorthand.
 * pg 204: An `UnboundMethod` cannot be invoked and does not define a `call` method; you must first convert it to a `Method` object using `bind`.
 
+### Chapter 7: Classes and Modules
+* pg 215: The `class` keyword creates a new constant to refer to the class, which is why all class names must begin with a capital letter.
+* pg 216: The `initialize` method is automatically made private, so an object can call `initialize` on itself, but you cannot explicitly call `initialize` on an object.
+* pg 218: Assignment expressions only invoke a setter method when used with an object, so using a setter without `self` in an instance method creates a new local variable.
+* pg 218: The `attr_reader` and `attr_writer` methods create getters and setters respectively, while `attr_accessor` creates both.
+* pg 219: The getter and setter methods defined with `attr_reader` or `attr_accessor` are just as fast as hardcoded ones.
+* pg 221: If a binary operator of a class expects an argument of a different type, and the operator is called on that different type, the `coerce` method can reverse the operand order.
+* pg 223: Duck typing should not be supported in `==` or `eql?` methods, which should return `false` instead of raising `NoMethodException` if accessors are missing.
+* pg 224: A `==` method should be defined in terms of `==` operators, and an `eql?` method should be defined in terms of `eql?` methods.
+* pg 224: A good general purpose hash function is to start with the value `17`, and multiply that value by `37` before a new variable’s hash is added.
+* pg 225: Ideally the `==` and `<=>` operator should have consistent definitions of equality, but it is not required.
+* pg 226: When defining a mutator method, add `!` to the end if there is a non-mutating version of the same method.
+* pg 226: `Struct` is a class that creates other classes, with read and write accessors, a `==` operator and `to_s` methods, and other useful methods.
+* pg 227: If you assign an unnamed class object to a constant, the name of that constant becomes the name of a class.
+* pg 228: When defining class methods, you can use `self` instead of the class name, which is slightly less clear but applies the DRY principle.
+* pg 230: If constants of a class refer to instances of the class, they must be defined after the `initialize` method of the class.
+* pg 232: Class instance variables are just instance variables, so you can use `attr_reader` and `attr_writer` to define them in the context defined by the syntax `class << self`.
+* pg 232: A private method `m` must be invoked in a functional style as `m`, and not as `o.m` or even `self.m`, but a protected method can be explicitly invoked on any class instance.
+* pg 233: One object can call another’s protected method if it is defined in a class that both objects are instantiated from, or are subclasses of.
+* pg 233: The `public`, `protected`, and `private` methods, when invoked with the names of one or more methods, alter the visibility of the named methods.
+* pg 234: Use `private_class_method` to make a class method private; you can use this to make the new method private if you define factory methods.
+* pg 235: You can also subclass a struct-based class in order to add methods other than the automatically generated ones.
+* pg 238: Private methods cannot be invoked from outside the class that defines them, but they are inherited by subclasses, which can invoke them and override them.
+* pg 238: To avoid accidentally overriding a private method of a class you didn’t write, extend its functionality by encapsulating and delegating to it.
+* pg 239: Because a bare `super` has a special meaning, you must use a pair of empty parentheses to pass zero arguments from a method that has one or more arguments.
+* pg 239: When invoking a class method with an explicit receiver, always invoke the class method on the class that defines it for clarity.
+* pg 240: Instance variables are unrelated with inheritance, so a subclass cannot "shadow" an instance variable in a superclass, and is another reason to prefer encapsulation and delegation.
+* pg 241: A subclass can alter a class variable defined and used by a superclass, but class instance variables are not inherited, and so this is a strong reason to prefer them.
+* pg 241: Constants are looked up in the lexical scope of where they are used before the inheritance hierarchy, and so inherited methods will not find a redefined constant in a subclass.
+* pg 242: The `Class#new` method is inherited by all class objects and is used to initialize new instances, while `Class::new` can be used to create new classes.
+* pg 244: The `initialize_copy` method can rely on `dup` or `clone` to perform a deep copy.
+* pg 244: A class that defines an enumerated type can use `private_class_method` on `:new` and `:allocate`, and `private` on `:dup` and `:clone` to prevent unwanted instances.
+* pg 246: Note that if you have disabled the `clone` and `dup` methods for a class, you must implement custom marshalling methods, or else a copy can still be made.
+* pg 246: Add `require 'singleton'` and then `include Singleton` into your class to properly implement a singleton using the techniques described before.
+* pg 248: `Class` is a subclass of `Module`; both classes and modules can be used as namespaces, but classes cannot be used in mixins as modules can.
+* pg 249: A class or module within another has no special access to the class or module it is nested within.
+* pg 250: Nesting classes keeps the namespace tidy, but does not actually make the nested class private in any way.
+* pg 250: While `include` is usually used as if it were a language keyword, it is a private instance method of `Module`, implicitly invoked on `self`.
+* pg 251: You can include one module within another, and while every class is a module, the arguments to `include` must be modules, not classes.
+* pg 251: To make instance methods of a specified module into singleton methods of the receiver object, use `Object.extend`.
+* pg 252: When defining a module function, avoid using `self`, because the value of `self` will depend on how it is invoked.
+* pg 253: Ruby 1.9 defines a `require_relative` method, which works like `require` but ignores the load path and searches relative to the directory from which the invoking code was loaded.
+* pg 254: The current working directory `.` in a load path is the directory from which a user invokes a Ruby program, and not the directory in which the program is installed.
+* pg 256: The `autoload` function allows lazy-loading a library when a given constant, typically a class or module name, is first encountered.
+* pg 257: Singleton methods of an object are not defined by an object, but must be associated with a class; this is called the eigenclass, singleton class, or metaclass.
+* pg 258: When you open the eigenclass of an object using `class <<`, `self` refers to the eigenclass object.
+* pg 258: When performing a method lookup, Ruby searches the instance methods of any modules included by a class before searching the superclass.
+* pg 260: Invoking a class method performs a standard method lookup on the object that represents the class, and so proceeds through `Class`, `Module`, `Object`, and `Kernel`.
+* pg 261: The eigenclass of a class is the eigenclass of its superclass, and to find a method, Ruby first checks the singleton methods of eigenclasses before looking for instance methods.
+* pg 262: Constants defined in enclosing modules are found before those in included modules, and modules included by a class are searched before the superclass of the class.
+
