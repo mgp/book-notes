@@ -200,3 +200,45 @@ by David Flanagan and Yukihiro Matsumoto
 * pg 171: Avoid using the additional features of fibers found in the `fiber` module, as they are so powerful that misusing them can crash the VM.
 * pg 172: Continuations were part of the core platform in 1.8 but have been replaced by fibers in 1.9, and should now be considered a curiosity.
 
+### Chapter 6: Methods, Procs, Lambdas, and Closures
+* pg 176: Blocks and methods are not objects that Ruby can manipulate, but they can be represented by instances of `Proc` and `Method`, respectively.
+* pg 178: To return more than one value, separate the values by commas and explicitly use `return`, or create an array of values explicitly without using `return`.
+* pg 179: Singleton methods are prohibited on `Symbol` and `Numeric` objects, because Ruby treats `Fixnum` and `Symbol` values as immediate values and not object references.
+* pg 180: The `undef` statement cannot be used to undefine a singleton method in the way that `def` can be used to define such a method.
+* pg 180: Methods that end with `?` are called predicates, and are not required to return `true` or `false`.
+* pg 181: Methods that end with `!` should be used with caution, and are not required to be mutators.
+* pg 181: Operator methods `[]` and `[]=` are special because they can be invoked with any number of arguments, and for `[]=`, the last argument is the value assigned.
+* pg 182: The keyword `alias` lets a Ruby method have two different names, but method overloading is not permitted.
+* pg 183: Omitting the parentheses in method invocations gives the illusion of property access.
+* pg 184: When you do use parentheses in a method invocation, the opening parenthesis must immediately follow the method name with no intervening space.
+* pg 184: To reduce confusion, always use parentheses around a method invocation if any of the arguments use parentheses for expression grouping.
+* pg 186: Argument defaults don’t need to be constants, and can refer to instance variables and to previous parameters in the parameter list.
+* pg 186: Ruby 1.9 allows ordinary parameters to appear after parameters with defaults, but all parameters with defaults must be adjacent in the parameter list.
+* pg 187: In Ruby 1.9, a parameter with `*` must appear after any parameters with defaults specified, but it may be followed by additional ordinary parameters.
+* pg 187: In Ruby 1.9, enumerators are splattable objects and can be used with `*`.
+* pg 189: To better support hashes for named arguments, Ruby allows you to omit the curly braces around a hash literal that is the last argument; this is called a bare hash.
+* pg 189: If you omit the parentheses in a method call, then you must omit the curly braces of the hash, or else Ruby thinks you’re passing a block to the method.
+* pg 190: Block arguments prefixed with `&` must be the last objects in a method definition.
+* pg 191: Even if a block has been converted to a `Proc` object and passed as an argument, it can still be invoked as an anonymous block using `yield`.
+* pg 191: If you find yourself using two identical blocks, create a `Proc` to represent the block, and use the single `Proc` object twice.
+* pg 192: You can use `&` before any object with a `to_proc` method, such as `Method` or `Symbol`.
+* pg 192: The `to_proc` method of `Symbol` returns a `Proc` object that invokes the named method of its first argument, and passes the remaining arguments as parameters.
+* pg 192: While procs have block-like behavior and lambdas have method-like behavior, both are instances of the class `Proc`.
+* pg 193: All `Proc` objects have a `call` method that, when invoked, runs the contained by the block from which the proc was created.
+* pg 193: If `Proc.new` is invoked without a block within a method that does have an associated block, then it returns a proc representing that block.
+* pg 195: A lambda literal argument list requires parentheses if it includes a semicolon and block-local variable names, and there must be no preceding space.
+* pg 195: Lambda literals create `Proc` objects, so you must precede the definition with `&` to pass one to where a block is expected, but regular block syntax is simpler.
+* pg 196: Instead of invoking `call`, Ruby 1.9 allows you to invoke a `Proc` using parentheses prefixed with a period, like the method name is missing.
+* pg 196: Only if a proc has a `*`-prefixed final argument, its `arity` method returns a negative number `n`, where the number of required arguments is `~n` or `-n-1`.
+* pg 197: The `==` method only returns `true` if one `Proc` is a clone or duplicate of the other.
+* pg 197: Calling a proc is like yielding to a block, whereas calling a lambda is like invoking a method; you can test if a `Proc` object is a lambda by calling its `lambda?` method.
+* pg 198: If a proc executes a `return` statement after its lexically enclosing method has already returned, it raises a `LocalJumpError`, so omit the `return` or use a lambda instead.
+* pg 199: It never makes sense to have a top-level `break` statement in a proc created by `Proc.new`, as `new` is the iterator that `break` returns from.
+* pg 199: A lambda is method-like; if `break` is used without an enclosing loop or iteration, it acts just like `return`.
+* pg 200: A proc uses yield semantics to assign arguments, which is similar to parallel assignment and is flexible, while a lambda uses invocation semantics, which is inflexible.
+* pg 202: If a method returns more than one closure, pay attention to the variables they use, as it’s easy to introduce bugs if they are unintentionally sharing variables, or state.
+* pg 203: The `Kernel.binding` method returns a `Binding` object that represents the bindings in effect at whatever point you call it.
+* pg 203: Invoking a `Method` object is less efficient than invoking it directly.
+* pg 204: To use a `Method` where a true `Proc` is required, call its `to_proc` method, or prefix the method object with `&` as shorthand.
+* pg 204: An `UnboundMethod` cannot be invoked and does not define a `call` method; you must first convert it to a `Method` object using `bind`.
+
