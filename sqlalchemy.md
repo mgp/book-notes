@@ -6,23 +6,23 @@ http://docs.sqlalchemy.org/en/rel_0_7/index.html
 
 http://docs.sqlalchemy.org/en/rel_0_7/orm/tutorial.html
 
-* The SQL Expression Language represents the relational database directly without opinion; the ORM presents a high level and abstracted pattern of usage built upon it.
-* The ORM approaches structure and content of data from a user-defined domain model which is transparently persisted and refreshed from its underlying storage model.
+* The SQL Expression Language represents the relational database directly without opinion; the ORM builds upon it a high level and abstracted pattern of usage.
+* The ORM approaches structure and content of data from a user-defined domain model, transparently persisted and refreshed from its underlying storage model.
 * An `Engine` instance is a core interface to the database, adapted to the DBAPI in use.
 * The declarative base class maintains a catalog of classes and tables relative to that base.
-* SQLAlchemy never makes assumptions about names or characteristics of data; the developer must always be explicit about specific conventions in use.
+* SQLAlchemy never makes assumptions about names or characteristics of data; the developer must be explicit about specific conventions in use.
 * The declarative base class has a `metadata` attribute that contains a catalog of all the `Table` objects that have been defined.
 * The declarative system supplies a default constructor which accepts keyword arguments of the same name as that of the mapped attributes.
 * The `Session` object is just a workspace for your objects, local to a particular database connection.
 * Adding an entity to a `Session` does not persist it to the database; this is only done when the session is flushed.
-* Using the identity map, once an object with a particular primary key is in a `Session`, all queries for that particular primary key return that object.
-* SQLAlchemy by default refreshes data from a previous transaction the first time it’s accessed within a new transaction, so that the most recent state is available.
+* Using the identity map, once an object is in a `Session`, all queries with its particular primary key return that same object.
+* By default, data from a previous transaction is refreshed the first time it’s accessed within a new transaction, so that it is not stale.
 * The tuples returned by a `Query` object are named tuples, and can be treated much like an ordinary Python object.
 * A `Query` object is fully generative, so most method calls return a new `Query` object upon which further criteria may be added.
 * The `one()` method of `Query` fully fetches all rows, and if not exactly one object identity or composite row is returned, raises an error.
 * The `relationship()` method uses the foreign key relationships between the two tables to determine the nature of this linkage.
-* A foreign key constraint in most (though not all) relational databases can only link to a primary key column, or a column that has a `UNIQUE` constraint.
-* A foreign key constraint that refers to a multiple column primary key, or a subset of one, and itself has multiple columns, is known as a composite foreign key.
+* A foreign key constraint in most (though not all) relational databases can only link to a primary key column, or a column with a `UNIQUE` constraint.
+* A foreign key constraint that refers to a multiple-column primary key, or a subset of one, and itself has multiple columns, is called a composite foreign key.
 * Objects defined in a relationship use lazy loading by default.
 * The `aliased` construct supports aliasing a table with another name so that it can be distinguished against other occurences of that table in a query.
 * The `subquery` method returns a SQL expression construct representing a `SELECT` statement embedded in an alias, and behaves like a `Table` construct.
@@ -82,4 +82,19 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/session.html
 * Joining a `Session` with an external `Connection` and `Transaction` allows a test's `tearDown` method to rollback subtransactions by its methods.
 * A `ScopedSession` returns the same `Session` object until it is disposed of; methods called on `ScopedSession` also proxy to that `Session` object.
 * Overriding `Session.get_bind()` allows custom vertical partitioning, such as directing write operations to a master and read operations to slaves.
+
+### Relationship Configuration
+
+http://docs.sqlalchemy.org/en/rel_0_7/orm/relationships.html
+
+* An association table used with the `secondary` argument to `relationship()` is automatically subject to `INSERT` and `DELETE` statements.
+* The association pattern requires that child objects are associated with an associated instance before being appended to the parent.
+* The association proxy allows accessing an attribute of an associated object in one "hop" instead of two.
+* An adjacency list pattern is where a table has a foreign key reference to itself, and is used to represent hierarchical data in flat tables.
+* `Query.join()` has an `aliased` parameter that shortens the verbosity of self-referential joins, at the expense of query flexibility.
+* The `join_depth` parameter specifies how many levels deep to join or query when using eager loading with a self-referential relationship.
+* Keyword `backref` adds a second `relationship` on the other side, and adds event listeners to monitor attribute operations in both directions.
+* For a collection that contains a filtering `primaryjoin` condition, a one-way backref ensures that all collection items pass the filter.
+* If there are multiple ways to join two tables, each `relationship()` must specify a `primaryjoin` to resolve the ambiguity.
+* Objects in a colleciton that fail some `primaryjoin` criteria will remain until the attribute is expired and reloaded from the database.
 
