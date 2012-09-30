@@ -31,3 +31,14 @@ http://docs.sqlalchemy.org/en/rel_0_7/index.html
 * By default deletes don't cascade; instead you must explicitly specify this when establishing a relationship.
 * If a many-to-many relationship has any columns other than foreign keys, you must use the "association object" pattern.
 
+### SQL Expression Language Tutorial
+
+* The expression language allows writing backend-neutral SQL expressions, but does not attempt to enforce that expressions are backend-neutral.
+* Table reflection allows "importing" whole sets of `Table` objects automatically from an existing database.
+* An `Insert` object does not render bound data in its string form; to see this, call `compile()` and access its `params` attribute.
+* SQLAlchemy always returns any newly generated primary key value in a returned `ResultProxy`, regardless of the SQL dialect.
+* The `Insert` statement is compiled against the first dictionary in a list of values to insert; subsequent dictionaries must have the same keys.
+* Call `close` on a `ResultProxy` object when done to release cursor and connection resources.
+* The `Column` type determines how an operator is translated to SQL; for example, a `String` interprets `+` as string concatenation.
+* The `label` method produces labels using the `AS` keyword, and allows selecting from expressions that otherwise don't have a name.
+
