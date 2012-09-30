@@ -69,4 +69,11 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/session.html
 * By default a `Session` expires all instances along transaction boundaries, so no instance should have stale data.
 * When merging, if a mapped attribute is missing on the source instance, then it is expired on the target instance, discarding its existing value.
 * The `load` flag when merging is `True` by default, which loads the target's unloaded collections to reconcile the incoming state against the database.
+* Most `merge()` issues can be fixed by asserting that the object is not in the session, or removing unwanted state from its `__dict__`.
+* To delete items in a collection, use cascade behavior to automatically invoke the deletion as a result of removing objects from the parent collection.
+* A `flush()` occurs before any issued `Query` if `autoflush` is changed to `True`, as well as within the `commit()` call for the transaction.
+* If `flush()` fails, then the database transaction has been rolled back, but to reset the state of the `Session` you must still call `rollback()`.
+* Methods `refresh()` and `expire()` are usually only necessary after issuing an `UPDATE` or `DELETE` using `Session.execute()`.
+* Typically cascade is left as its default of `save-update, merge`, or set as `all, delete-orphan` to treat child objects as "owned" by the parent.
+* Without the `delete` cascade option, SQLAlchemy will set a foreign key on a one-to-many relationship to `NULL` when the parent object is deleted.
 
