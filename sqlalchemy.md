@@ -56,3 +56,17 @@ http://docs.sqlalchemy.org/en/rel_0_7/core/tutorial.html
 * A correlated update lets you update a table using a selection from another table, or the same table.
 * The Postgresql, Microsoft SQL Server, and MySQL backends support `UPDATE` statements that refer to multiple tables.
 
+### Using the Session
+
+http://docs.sqlalchemy.org/en/rel_0_7/orm/session.html
+
+* A `Session` requests a connection from the `Engine`, which represents an ongoing transaction until it commits or rolls back its pending state.
+* Objects associated with a `Session` are proxy objects, and there exist events that cause these objects to re-access the database and keep synchronized.
+* You get persistent object instances either by flushing pending instances so they become persistent, or querying for existing instances.
+* A session can span multiple transactions, which must proceed serially; this is called transaction scope and session scope.
+* In a web application, typically the scope of a `Session` is tied to the lifetime of the request, maybe using event hooks in the web framework.
+* A `Session` is similar ot a cache in that it implements the identity map, but only uses the map as a cache if you query by a primary key.
+* By default a `Session` expires all instances along transaction boundaries, so no instance should have stale data.
+* When merging, if a mapped attribute is missing on the source instance, then it is expired on the target instance, discarding its existing value.
+* The `load` flag when merging is `True` by default, which loads the target's unloaded collections to reconcile the incoming state against the database.
+
