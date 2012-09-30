@@ -65,7 +65,7 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/session.html
 * You get persistent object instances either by flushing pending instances so they become persistent, or querying for existing instances.
 * A session can span multiple transactions, which must proceed serially; this is called transaction scope and session scope.
 * In a web application, typically the scope of a `Session` is tied to the lifetime of the request, maybe using event hooks in the web framework.
-* A `Session` is similar ot a cache in that it implements the identity map, but only uses the map as a cache if you query by a primary key.
+* A `Session` is similar to a cache in that it implements the identity map, but only uses the map as a cache if you query by a primary key.
 * By default a `Session` expires all instances along transaction boundaries, so no instance should have stale data.
 * When merging, if a mapped attribute is missing on the source instance, then it is expired on the target instance, discarding its existing value.
 * The `load` flag when merging is `True` by default, which loads the target's unloaded collections to reconcile the incoming state against the database.
@@ -76,4 +76,10 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/session.html
 * Methods `refresh()` and `expire()` are usually only necessary after issuing an `UPDATE` or `DELETE` using `Session.execute()`.
 * Typically cascade is left as its default of `save-update, merge`, or set as `all, delete-orphan` to treat child objects as "owned" by the parent.
 * Without the `delete` cascade option, SQLAlchemy will set a foreign key on a one-to-many relationship to `NULL` when the parent object is deleted.
+* Autocommit mode should not be considered for general use, but frameworks may use it to control when a transaction begins.
+* Two-phase commits, supported by MySQL and PostgreSQL, ensure that a transaction is either committed or rolled back in all databases.
+* You can assign a SQL expression instead of a literal value to an object's attribute, useful for atomic updates or calling stored procedures.
+* Joining a `Session` with an external `Connection` and `Transaction` allows a test's `tearDown` method to rollback subtransactions by its methods.
+* A `ScopedSession` returns the same `Session` object until it is disposed of; methods called on `ScopedSession` also proxy to that `Session` object.
+* Overriding `Session.get_bind()` allows custom vertical partitioning, such as directing write operations to a master and read operations to slaves.
 
