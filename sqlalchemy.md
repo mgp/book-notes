@@ -97,4 +97,7 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/relationships.html
 * For a collection that contains a filtering `primaryjoin` condition, a one-way backref ensures that all collection items pass the filter.
 * If there are multiple ways to join two tables, each `relationship()` must specify a `primaryjoin` to resolve the ambiguity.
 * Objects in a colleciton that fail some `primaryjoin` criteria will remain until the attribute is expired and reloaded from the database.
+* If `backref` creates a bidirectional, self-referential many-to-many relationship, it reverses the `primaryjoin` and `secondaryjoin` arguemnts.
+* The `post_update` option of `relationship()` relates two rows using an `UPDATE` statement on their foreign keys after each is inserted.
+* Setting `passive_updates` to `False` issues the necessary `UPDATE` statements if primary key changes are not propagated to foreign keys.
 
