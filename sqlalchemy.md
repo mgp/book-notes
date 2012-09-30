@@ -101,3 +101,14 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/relationships.html
 * The `post_update` option of `relationship()` relates two rows using an `UPDATE` statement on their foreign keys after each is inserted.
 * Setting `passive_updates` to `False` issues the necessary `UPDATE` statements if primary key changes are not propagated to foreign keys.
 
+### Working with Engines and Connections
+
+http://docs.sqlalchemy.org/en/rel_0_7/core/connections.html
+
+* An `Engine` instance manages many DBAPI connections and is intended to be called upon in a concurrent fashion.
+* A `ResultProxy` that returns no rows, such as that of an `UPDATE` statement, relases cursor resources immediately upon construction.
+* Closing a `ResultProxy` also closes the `Connection`, returning the DBAPI connection to the pool and releasing transactional resources.
+* Nesting transaction blocks creates a new transaction if one is not available, or participates in an enclosing transaction if one exists.
+* PEP-0249 says that a transaction is always in progress, so `autocommit=True` issues a `COMMIT` automatically if one was not created.
+* Implicit execution is discouraged and is not appropriate for use with the ORM, as it bypasses the transactional context of `Session`.
+
