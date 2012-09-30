@@ -4,6 +4,8 @@ http://docs.sqlalchemy.org/en/rel_0_7/index.html
 
 ### Object Relational Tutorial
 
+http://docs.sqlalchemy.org/en/rel_0_7/orm/tutorial.html
+
 * The SQL Expression Language represents the relational database directly without opinion; the ORM presents a high level and abstracted pattern of usage built upon it.
 * The ORM approaches structure and content of data from a user-defined domain model which is transparently persisted and refreshed from its underlying storage model.
 * An `Engine` instance is a core interface to the database, adapted to the DBAPI in use.
@@ -33,6 +35,8 @@ http://docs.sqlalchemy.org/en/rel_0_7/index.html
 
 ### SQL Expression Language Tutorial
 
+http://docs.sqlalchemy.org/en/rel_0_7/core/tutorial.html
+
 * The expression language allows writing backend-neutral SQL expressions, but does not attempt to enforce that expressions are backend-neutral.
 * Table reflection allows "importing" whole sets of `Table` objects automatically from an existing database.
 * An `Insert` object does not render bound data in its string form; to see this, call `compile()` and access its `params` attribute.
@@ -47,4 +51,8 @@ http://docs.sqlalchemy.org/en/rel_0_7/index.html
 * Use `bindparam()` to create bind parameters in a statement; their values are only provided when executing, allowing you to reuse the statement.
 * ANSI functions are part of the functions known by SQLAlchemy, and are special in that they don't have parentheses added after them.
 * Label a function to allow extracting its result from a returned row; assign it a type to enable result-set processing, such as Unicode or date conversions.
+* To embed a `SELECT` in a column expression, use `as_scalar()` or apply a `label()` to it.
+* SQLAlchemy automatically correlates embedded `FROM` objects to that of an enclosing query; to disable or specify explicit `FROM` clauses, use `correlate()`.
+* A correlated update lets you update a table using a selection from another table, or the same table.
+* The Postgresql, Microsoft SQL Server, and MySQL backends support `UPDATE` statements that refer to multiple tables.
 
