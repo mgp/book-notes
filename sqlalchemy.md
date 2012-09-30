@@ -41,4 +41,10 @@ http://docs.sqlalchemy.org/en/rel_0_7/index.html
 * Call `close` on a `ResultProxy` object when done to release cursor and connection resources.
 * The `Column` type determines how an operator is translated to SQL; for example, a `String` interprets `+` as string concatenation.
 * The `label` method produces labels using the `AS` keyword, and allows selecting from expressions that otherwise don't have a name.
+* Any `Table`, `select` constructor, or selectable can be turned into an alias using its `alias` method.
+* The `ON` condition in the SQL produced from a call to `join()` is automatically generated from the `ForeignKey` column of either table.
+* The `outerjoin()` method creates `LEFT OUTER JOIN` constructs in SQL.
+* Use `bindparam()` to create bind parameters in a statement; their values are only provided when executing, allowing you to reuse the statement.
+* ANSI functions are part of the functions known by SQLAlchemy, and are special in that they don't have parentheses added after them.
+* Label a function to allow extracting its result from a returned row; assign it a type to enable result-set processing, such as Unicode or date conversions.
 
