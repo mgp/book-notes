@@ -83,6 +83,20 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/session.html
 * A `ScopedSession` returns the same `Session` object until it is disposed of; methods called on `ScopedSession` also proxy to that `Session` object.
 * Overriding `Session.get_bind()` allows custom vertical partitioning, such as directing write operations to a master and read operations to slaves.
 
+#### API
+
+* Constructor options:
+	* `autocommit`: Defaults to `False`; when `True`, no persistent transaction is used, and connections are released right after use.
+	* `autoflush`: Defaults to `True`, where all `query()` operations call `flush()` before proceeding; typically used when `autocommit` is `False`.
+* `close()`: Closes the session, clears all items and ends the transaction; if `autocommit` is `True`, a new transaction is immediately started.
+* `execute()`: Executes within the transaction, but does not invoke `autoflush`.
+* `expunge()`: Removes an instance from the session, freeing all internal resources to it.
+* `flush()`: Writes all pending `INSERT`, `UPDATE`, and `DELETE` operations to the transaction buffer; if an error occurs, it is rolled back.
+* `is_active`: `False` if `flush` encountered an error, and the `Session` awaits the user to call `rollback` to close out the transaction stack.
+* `merge()`: If the objct to reconcile is not in the session, it attempts to retrieve it, or else creates it.
+* `no_autoflush()`: Returns a context manager that has `autoflush` set to `False`.
+* `refresh()`: This method only needs to be called if a non-ORM SQL statement were emitted in the transaction, or `autocommit` is `True`.
+
 ### Relationship Configuration
 
 http://docs.sqlalchemy.org/en/rel_0_7/orm/relationships.html
