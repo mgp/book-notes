@@ -83,7 +83,7 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/session.html
 * A `ScopedSession` returns the same `Session` object until it is disposed of; methods called on `ScopedSession` also proxy to that `Session` object.
 * Overriding `Session.get_bind()` allows custom vertical partitioning, such as directing write operations to a master and read operations to slaves.
 
-#### API
+##### API
 
 * Constructor options:
 	* `autocommit`: Defaults to `False`; when `True`, no persistent transaction is used, and connections are released right after use.
