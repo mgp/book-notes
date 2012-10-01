@@ -117,7 +117,7 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/relationships.html
 
 ##### API
 
-* `back_populates`: Like `backref` except the complementing property must be configured explicitly, and should include `back_populates`.
+* `back_populates`: Like `backref` except the complementing property must be configured explicitly and also include `back_populates`.
 * Cascade `delete-orphan` won't prevent persisting a child without a parent; set the child's foreign key as `NOT NULL` to ensure this.
 * `cascade_backrefs`: Defaults to `True`; if `False`, assigning a value in the session to the attribute of a transient won't make it pending.
 * `innerjoin`: Defaults to `False`; if `True`, eager loads use inner and not outer joins, which generally perform better.
