@@ -115,6 +115,20 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/relationships.html
 * The `post_update` option of `relationship()` relates two rows using an `UPDATE` statement on their foreign keys after each is inserted.
 * Setting `passive_updates` to `False` issues the necessary `UPDATE` statements if primary key changes are not propagated to foreign keys.
 
+##### API
+
+* `back_populates`: Like `backref` except the complementing property must be configured explicitly, and should include `back_populates`.
+* Cascade `delete-orphan` won't prevent persisting a child without a parent; set the child's foreign key as `NOT NULL` to ensure this.
+* `cascade_backrefs`: Defaults to `True`; if `False`, assigning a value in the session to the attribute of a transient won't make it pending.
+* `innerjoin`: Defaults to `False`; if `True`, eager loads use inner and not outer joins, which generally perform better.
+* `lazy`: Defaults to `select` which lazily loads; `joined` and `subquery` eagerly load by joins; `dynamic` returns a `Query` object.
+* `order_by`: Specifies the ordering to apply when the items are loaded.
+* `passive_deletes`: Defaults to `False`; if `True`, implies that an `ON DELETE` rule is in place to update or delete child rows.
+* `post_update`: If a `flush()` operation returns a "cyclical dependency" error, you may use `post_update` to break the cycle.
+* `secondaryjoin`: Expression used as the join of an association table to the child object, while `primaryjoin` uses the parent object.
+* `single_parent`: Installs a validator to ensure only one parent; its usage is required if `delete-orphan` cascade is set.
+* `viewonly`: Defaults to `False`; if `True`, the relationship is only for loading, and has no effect on the unit-of-work flush process.
+
 ### Working with Engines and Connections
 
 http://docs.sqlalchemy.org/en/rel_0_7/core/connections.html
