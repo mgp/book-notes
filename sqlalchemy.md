@@ -112,3 +112,16 @@ http://docs.sqlalchemy.org/en/rel_0_7/core/connections.html
 * PEP-0249 says that a transaction is always in progress, so `autocommit=True` issues a `COMMIT` automatically if one was not created.
 * Implicit execution is discouraged and is not appropriate for use with the ORM, as it bypasses the transactional context of `Session`.
 
+### Collection Configuration and Techniques
+
+http://docs.sqlalchemy.org/en/rel_0_7/orm/collections.html
+
+* By default, when a parent is deleted, the `Session` loads all its children, to either delete them or set their foreign key to `NULL`.
+* A dynamic form of `relationship` returns a `Query` object in place of a collection when accessed, and works with collections only.
+* Using `passive_deletes` won't load children when a parent is marked for deletion; `ON DELETE CASCADE` can then delegate integrity to the database.
+* Sets, mutable sequences, or almost any other container-like class can be used in place of the default list for a `relationship()`.
+* When using a dictionary collection, it's easiest to use `attribute_mapped_collection` with a `@property`.
+* Dictionary mappings are often combined with the association proxy extension to produce streamlined dictionary views.
+* Lists, sets, and dictionaries and their subclasses are automatically instrumented; add the `__emulates__` class attribute to all others.
+* The `appender`, `remover`, and `iterator` decorators adapt any container class with different method names than its emulated class.
+
