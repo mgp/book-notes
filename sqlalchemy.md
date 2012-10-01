@@ -153,3 +153,9 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/collections.html
 * Lists, sets, and dictionaries and their subclasses are automatically instrumented; add the `__emulates__` class attribute to all others.
 * The `appender`, `remover`, and `iterator` decorators adapt any container class with different method names than its emulated class.
 
+### Relationship Loading Techniques
+
+http://docs.sqlalchemy.org/en/rel_0_7/orm/loading.html
+
+* TODO
+
