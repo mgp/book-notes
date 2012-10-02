@@ -165,7 +165,7 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/loading.html
 * In a one-to-many relationship:
 	* A `LEFT OUTER JOIN` returns rows for empty collections and repeats parent columns for each child, so use it when collections are small.
 	* A subquery load uses an `INNER JOIN` and a minimum of parent columns are returned, so use it for large collections.
-e In a many-to-one relationship:
+* In a many-to-one relationship:
 	* If a small set of target objects is referenced, then lazy-loading can exploit the caching property of the identity map.
 	* If you know the foreign key reference is not `NULL`, you can perform a joined load with `innerjoin=True` which is very efficient.
 * For a query with the necessary joins, option `contains_eager()` populates references and collections without a superfluous `joinedload()`.
