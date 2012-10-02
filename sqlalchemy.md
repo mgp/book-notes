@@ -157,5 +157,20 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/collections.html
 
 http://docs.sqlalchemy.org/en/rel_0_7/orm/loading.html
 
-* TODO
+* The loader strategy specified by the `lazy` keyword for a `relationship()` can be overridden on a per-query basis.
+* Dot-separated names apply only to the acutal attribute named; to also apply to ancestors, use `joinedload_all()` or `subqueryload_all()`.
+* Passing `*` to a loader option sets a default strategy, but it does not supercede other loader options stated in the query.
+* `joinedload()` creates an anonymous alias of the joins it adds, so they can't be referenced by other parts of the query.
+* Queries with modifiers affecting the rows returned are run as subqueries, to which joins for eager loading are then applied to.
+* In a one-to-many relationship:
+	* A `LEFT OUTER JOIN` returns rows for empty collections and repeats parent columns for each child, so use it when collections are small.
+	* A subquery load uses an `INNER JOIN` and a minimum of parent columns are returned, so use it for large collections.
+e In a many-to-one relationship:
+	* If a small set of target objects is referenced, then lazy-loading can exploit the caching property of the identity map.
+	* If you know the foreign key reference is not `NULL`, you can perform a joined load with `innerjoin=True` which is very efficient.
+* For a query with the necessary joins, option `contains_eager()` populates references and collections without a superfluous `joinedload()`.
+
+##### API
+
+TODO
 
