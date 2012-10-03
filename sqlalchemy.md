@@ -172,5 +172,6 @@ http://docs.sqlalchemy.org/en/rel_0_7/orm/loading.html
 
 ##### API
 
-TODO
+* `contains_eager()`: Indicates that an attribute should be eagerly loaded from columns created by an explicit join in the query.
+* `joinedload()`: Its joins are anonymously aliased, affecting how related objects or collections are loaded without impacting the results.
 
