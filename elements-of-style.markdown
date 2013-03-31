@@ -40,3 +40,11 @@
 * pg 32: The proper place for the word or group of words that the writer wants to make most prominent is at the end.
 * pg 33: Any element in the sentence other thant he subject becomes emphatic when placed first.
 
+### III. A Few Matters of Form
+* pg 34: Use colloquialisms or slang without quotation marks or drawing attention to it.
+* pg 34: When two or more words are combined to form a compound ajective, a hyphen is usually required.
+* pg 36: Formal quotations cited as documentary evidence are introduced by a colon and enclosed in quotation marks.
+* pg 37: Provide references in parentheses or footnotes. Omit words _book_, _volume_, _page_ except when referring to only one of them.
+* pg 38: Omit _A_ or _The_ from titles when you place the possessive before them.
+
+
