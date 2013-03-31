@@ -47,7 +47,7 @@
 * pg 37: Provide references in parentheses or footnotes. Omit words _book_, _volume_, _page_ except when referring to only one of them.
 * pg 38: Omit _A_ or _The_ from titles when you place the possessive before them.
 
-# IV. Words and Expressions Commonly Misused
+### IV. Words and Expressions Commonly Misused
 * pg 39: _Aggravate_ is to add to an already troublesome matter; _irritate_ is to vex or annoy.
 * pg 40: When more than two are involved but each is considered individually, _between_ is preferred over _among_.
 * pg 40: Replace _and/or_ by using _or_ and appending _or both_.
