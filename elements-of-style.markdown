@@ -47,4 +47,18 @@
 * pg 37: Provide references in parentheses or footnotes. Omit words _book_, _volume_, _page_ except when referring to only one of them.
 * pg 38: Omit _A_ or _The_ from titles when you place the possessive before them.
 
+# IV. Words and Expressions Commonly Misused
+* pg 39: _Aggravate_ is to add to an already troublesome matter; _irritate_ is to vex or annoy.
+* pg 40: When more than two are involved but each is considered individually, _between_ is preferred over _among_.
+* pg 40: Replace _and/or_ by using _or_ and appending _or both_.
+* pg 41: Replace _as to whether_ with _whether_, _regarded as being_ with _regarded as_, and _as yet_ with _yet_ if equivalent.
+* pg 42: Drop _case_, such as in _in many cases_ or _been the case_, as well as _certainly_.
+* pg 43: Use _compare to_ to highlight similarities in different things, and _compare with_ to highlight differences in similar things.
+* pg 43: A collective is _comprised_ of many things, while many things _constitute_ a collective.
+* pg 44: One thing differs from another, and so use _different from_ instead of _different than_.
+* pg 45: _Each and every one_ is pitchman's jargon and should be avoided.
+* pg 45: Use _enormity_ in the sense of "monstrous wickedness." It is misleading, if not wrong, to use to express bigness.
+* pg 46: Using _etc_ is incorrect at the end of a list introduced by _such as_ or _for example_. In formal writing, _etc_ is a misfit.
+* 
+
 
