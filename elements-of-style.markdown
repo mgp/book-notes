@@ -53,12 +53,43 @@
 * pg 40: Replace _and/or_ by using _or_ and appending _or both_.
 * pg 41: Replace _as to whether_ with _whether_, _regarded as being_ with _regarded as_, and _as yet_ with _yet_ if equivalent.
 * pg 42: Drop _case_, such as in _in many cases_ or _been the case_, as well as _certainly_.
+* pg 42: Do not use _certainly_ or use _very_ indiscriminately to intensify any and every statement; 
 * pg 43: Use _compare to_ to highlight similarities in different things, and _compare with_ to highlight differences in similar things.
 * pg 43: A collective is _comprised_ of many things, while many things _constitute_ a collective.
 * pg 44: One thing differs from another, and so use _different from_ instead of _different than_.
 * pg 45: _Each and every one_ is pitchman's jargon and should be avoided.
 * pg 45: Use _enormity_ in the sense of "monstrous wickedness." It is misleading, if not wrong, to use to express bigness.
 * pg 46: Using _etc_ is incorrect at the end of a list introduced by _such as_ or _for example_. In formal writing, _etc_ is a misfit.
-* 
-
+* pg 46: _Farther_ best serves as a distance word, while _further_ as a time or quantity word.
+* pg 47: _Feature_, like _factor_, usually adds nothing to the sentence in which it occurs.
+* pg 47: _Fortuitous_ means limited to what happens by chance, and should not be used for _fortunate_ or _lucky_.
+* pg 48: Use _hopefully_ to mean _with hope_, as opposed to _I hope_ or _it is to be hoped_.
+* pg 48: _However_ can start a sentence if it means _in whatever way_ or _two whatever extent_; otherwise you mean _nevertheless_.
+* pg 49: _In regards too_ is incorrect, while either _in regard to_ or _as regards_ is correct.
+* pg 50: Reserve _insightful_ for instances of remarkably penetrating vision; otherwise use perceptive or a similar word.
+* pg 50: Be wary of words that end in _-ize_. Use simpler, unpretentious words instead, like _use_ instead of _utilize_.
+* pg 51: Use _kind of_ and _sort of_ in a literal sense.
+* pg 51: _Like_ governs nouns and pronouns; before phrases and clauses the equivalent word is _as_.
+* pg 52: _Loan is a noun_; as a verb, prefer _lend_.
+* pg 53: _Nature_ is redundant when used like _character_; otherwise it should be avoided in vague expressions.
+* pg 53: _Nauseous_ means sicking to contemplate, while _nauseated_ means sick at the stomach.
+* pg 54: _Offputting_ can mean different things in different contexts, so replace it with a word that has clear meaning.
+* pg 55: _Partially_ means to a certain degree when speaking of a condition or state; _partly_ carries the idea of a part as distinct from the whole.
+* pg 55: Replace the present participle with a verbal noun (gerund) to emphasize the verb and not the subject.
+* pg 56: _Personalize_ and _possess_ are pretentious words that should be replaced, while _personally_ can usually be omitted.
+* pg 57: Do not carelessly use _regretful_ in place of _regrettable_.
+* pg 57: You can usually omit _respective_ and _respectively_ without introducing ambiguity.
+* pg 58: In formal writing, the future tense requires _shall_ for the first person, and _will_ for the second and third.
+* pg 58: Restrict _state_ to the sense of expressing fully or clearly, instead of using it as a substitute for _say_ or _remark_.
+* pg 59: Any sentence with _than_ should be examined to make sure that no essential words are missing.
+* pg 59: _That_ is the defining, or restrictive, pronoun; _which_ is the non-defining, or nonrestrictive, one.
+* pg 60: To avoid overusing _he or she_, try using the plural, eliminating the pronoun, or substituting the second person for the third person.
+* pg 61: Replace _this_ when it refers to the complete sense of a preceding sentence or clause, as it may be imprecise.
+* pg 62: _Transpire_ is not a synonym for _happen_, while _type_ is not a synonym for _kind of_.
+* pg 62: _Unique_ means without like or equal, and so there should be no degrees of uniqueness using _most_ or _very_.
+* pg 63: Use _very_ sparingly; where emphasis is necessary, use words strong in themselves.
+* pg 63: Avoid indiscriminately substituting _while_ for _and_, _but_, and _although_; replace it with _at the same time_ to judge its absurdity.
+* pg 64: The suffix _-wise_ should only be used when it refers to a manner, like _clockwise_.
+* pg 64: Phrases like _once a year_, _each Sunday_, or the past tense are more brief and emphatic by omitting _would_.
+* pg 64: Indicate the transition from sentences that state a general habit to those that express the action of a specific day or period.
 
