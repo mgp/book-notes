@@ -93,3 +93,21 @@
 * pg 64: Phrases like _once a year_, _each Sunday_, or the past tense are more brief and emphatic by omitting _would_.
 * pg 64: Indicate the transition from sentences that state a general habit to those that express the action of a specific day or period.
 
+### V. An Approach to Style
+* pg 69: The approach to style is by way of plainness, simplicity, orderliness, and sincerity.
+* pg 70: To achieve style, begin by affecting none, thereby placing yourself in the background.
+* pg 70: Write in a way that comes easily and naturally to you. Never imitate consciously, but don't worry about being an imitator.
+* pg 71: Write with nouns and verbs, not with adjectives and adverbs.
+* pg 72: Rich, ornate prose is hard to digest, so rewrite your writing later and ruthlessly delete the excess.
+* pg 73: Do not overstate, as a single carefree superlative has the potential to destroy, for readers, the object of your enthusiasm.
+* pg 73: Avoid the use of qualifiers such as _rather_, _very_, _little_, and _petty_.
+* pg 75: Do not explain too much, as it is seldom advisable to tell all.
+* pg 77: Only the writer whose ear is reliable is in a position to use bad grammar deliberately.
+* pg 78: Don't use dialect unless you are a devoted student of the tongue you hope to reproduce, and if you do, apply it consistently.
+* pg 79: If mired in a sentence, typically the construction has become too involved, and the sentence should be broken into two.
+* pg 79: Do not inject opinion into a piece of writing; they leave the mark of egotism on a work.
+* pg 80: Do not take shortcuts at the cost of clarity. The only reliable shortcut is to choose words that are strong and surefooted.
+* pg 82: To use language well, do not hack it to bits; accept the whole body of it, cherish its classic form, its variety, and its richness.
+* pg 84: Style takes its final shape more from attitudes of mind than from principles of composition.
+* pg 84: You must sympathize with the reader's plight, but never seek to know his the reader's wants. Write for yourself.
+
