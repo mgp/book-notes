@@ -1,5 +1,9 @@
 ## Leanpub Manual
 
+* A dedication is added through your book's Settings page, and is put before the Table of Contents.
+* Adding About the Author text on the Settings page overrides the About You text on your account profile.
+* Coupons let you sell your book at a discounted price, or let reviewers get free copies.
+* Only e-mail your readers once or twice a month at most.
 * Markdown supports almost all the Kramdown extensions, with the exception of HTML blocks and `<<` becoming the left guillemet.
 * Attributes should be alone on a line, with blank lines above and below.
 * Technical books are on 8.5"x11" paper with inch margins, leaving 6.5"x9" to work with.
@@ -14,6 +18,7 @@
 
 ### Markdown
 
+* An image is inserted by `![caption](images/filename.ext)`, or `![](images/filename.ext)` to insert without a caption.
 * To start a new part in your book, start a line with `-#` followed by the part title.
 * Create `frontmatter.txt`, `mainmatter.txt`, and `backmatter.txt` files that just contain `{frontmatter}`, `{mainmatter}`, and `{backmatter}`.
 * Surround text in carets (`^`) to make it superscript.
