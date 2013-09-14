@@ -5,4 +5,13 @@
 * third rail: dangerous area of discussion, commonly used in politics
 * moratorium: a temporary suspension of activity
 * disabuse: to rid oneself or another of error or fallacy
+* cachet: prestige, or the state of being respected
+* blithely: happily, or in a joyous manner
+* specious: superficially plausible, but actually wrong
+* expiate: to make amends, atone
+* purgatory: a place or condition of suffering or expiation
+* denouement: the final resolution of the intricacies of a plot
+* ineluctable: inevitable, inescapable
+* demure: reserved, modest, and shy
+* grist: useful material to support an argument
 
