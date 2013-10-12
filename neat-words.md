@@ -14,4 +14,6 @@
 * ineluctable: inevitable, inescapable
 * demure: reserved, modest, and shy
 * grist: useful material to support an argument
+* legerdemain: a display of skill or adroitness, wizardry
+* l'esprit de l'escalier: thinking of the perfect retort too late
 
