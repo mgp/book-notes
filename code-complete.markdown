@@ -446,7 +446,7 @@ by Steve McConnell
 #### 31.1: Layout Fundamentals
 
 * The Fundamental Theorem of Formatting is that good visual layout shows the logical structure of a program.
-* The smaller part is writing code that the computer can ready; the larger part is writing code that others can read.
+* The smaller part is writing code that the computer can read; the larger part is writing code that others can read.
 * Structure helps experts to perceive, comprehend, and remember important features of programs.
 
 #### 31.2: Layout Techniques

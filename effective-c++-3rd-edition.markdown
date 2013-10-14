@@ -87,7 +87,7 @@ by Scott Meyers
 * Often an explicit conversion function simply named `get` is preferable, even if clients must explicitly call it each time.
 * Returning the raw resource violates encapsulation, but RAII classes don't exist simply to encapsulate it, but to ensure that it is released.
 
-#### Item 16: Use the same form in corresponding uses of `new` and `delete
+#### Item 16: Use the same form in corresponding uses of `new` and `delete`
 * Using the expression `delete` when `delete []` should be used results in undefined behavior.
 * The memory for an array usually includes the size of the array, so that the `delete` operator knows how many destructors to call.
 * Use the same form of `new` in all constructors that initialize a pointer member, or else you may use the wrong form of `delete`.
