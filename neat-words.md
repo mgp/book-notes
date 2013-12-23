@@ -19,3 +19,5 @@
 * leitmotif: a dominant or recurring theme
 * waiflike: apparently homeless, starving, or forsaken
 * salient: most noticeable or important
+* raise Cain: to raise trouble, raise hell
+* magisterial: having or showing great authority
