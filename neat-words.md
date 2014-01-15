@@ -21,3 +21,10 @@
 * salient: most noticeable or important
 * raise Cain: to raise trouble, raise hell
 * magisterial: having or showing great authority
+* spurious: false or fake
+* apophenia: seeing connections or patterns in random data
+* provenance: the origin or earliest known history of something
+* unrequited: (of a feeling, esp. love) not returned or rewarded
+* attenuated: weakened in force or effect
+* opprobrium: public disgrace arising from shameful conduct
+
