@@ -2,6 +2,8 @@
 
 by Paula LaRocque
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/The-Book-Writing-Ultimate-Guide/dp/0989236706)!*
+
 ### Section One: Writing Mechanics
 
 * Accuracy aside, simplicity, clarity, and brevity are the most important criteria for all writing. They form the bedrock of all good communication, and have for time immemorial.

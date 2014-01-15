@@ -2,6 +2,8 @@
 
 by Jeremy Keith
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893)!*
+
 ### Chapter 1
 * ECMAScript is the proper name of Javascript, which is not related to Java.
 * DHTML was a shorthand term for describing the combination of HTML, CSS, and Javascript.

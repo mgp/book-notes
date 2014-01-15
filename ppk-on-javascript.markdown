@@ -2,6 +2,8 @@
 
 by Peter-Paul Koch
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/ppk-JavaScript-1-Peter-Paul-Koch/dp/0321423305)!*
+
 ### Chapter 1: Purpose
 * pg 6: A fat client emphasizes JS and reduces load times, thereby increasing usability; a thin client uses little JS and thereby increases accessibility.
 * pg 10: ECMA standardized the JS core language, but the W3C created the DOM specification which includes event handling and CSS modification.

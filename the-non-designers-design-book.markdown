@@ -2,6 +2,8 @@
 
 by Robin Williams
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/The-Non-Designers-Design-Book-Edition/dp/0321534042)!*
+
 ## Part 1: Design Principles
 
 ### Ch 1: The Joshua Tree Epiphany

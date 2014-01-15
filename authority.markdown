@@ -2,6 +2,8 @@
 
 by Nathan Barry
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://nathanbarry.com/authority/)!*
+
 #### Chapter 1: On Writing
 * pg 5: You can continue to create cutting-edge work and strive to be the best in your industry, but until you start teaching and sharing, your reach and influence will be 
 limited.

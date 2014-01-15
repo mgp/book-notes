@@ -2,6 +2,8 @@
 
 by Peter Morville, Louis Rosenfeld
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Information-Architecture-World-Wide-Web/dp/0596527349)!*
+
 ### Chapter 1: Defining Information Architecture
 * pg 5: Structuring mean identifying information "atoms," organizing means grouping them into categories, and labeling is naming those categories.
 * pg 5: An information architecture must balance the needs of users with the goals of the business.

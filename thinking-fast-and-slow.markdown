@@ -2,6 +2,8 @@
 
 by Daniel Kahneman
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)!*
+
 ### Introduction
 
 * We use resemblance as a simplifying heuristic to make difficult judgment, causing predictable biases in predictions.

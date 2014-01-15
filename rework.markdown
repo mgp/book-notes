@@ -2,6 +2,8 @@
 
 by Jason Fried and David Heinemeier Hansson
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745)!*
+
 ### Takedowns
 * pg 19: Make decisions right before you do something, not far in advance; long term plans are just guesses.
 * pg 23: It's okay to stay small; once big, it's hard to shrink without firing people and damaging morale.

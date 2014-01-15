@@ -2,6 +2,8 @@
 
 by Steven Krug
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)!*
+
 ### Chapter 1: Don't make me think!
 * pg 11: Kurg's first law of usability is don't make the user think -- what it is and how to use it should be self-evident.
 * pg 15: Every question raised adds to our cognitive workload, distracting attention from the task at hand.

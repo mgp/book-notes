@@ -2,6 +2,8 @@
 
 by Roy Peter Clark
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Writing-Tools-Essential-Strategies-Writer/dp/0316014990)!*
+
 ### Part One: Nuts and Bolts
 
 #### Tool 1: Begin sentences with subjects and verbs. Make meaning early, then let weaker elements branch to the right.

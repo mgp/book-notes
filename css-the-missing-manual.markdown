@@ -2,6 +2,8 @@
 
 by David Sawyer McFarland
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/CSS3-Missing-David-Sawyer-McFarland/dp/1449325947)!*
+
 ### Chapter 3 - Selector Basics: Identifying What to Style
 * pg 43: Tag selectors, sometimes called type selectors, are the selector rules applied to the HTML element names.
 * pg 47: A `div` tag specifies a logical division on the page, and can contain several block-level elements, allowing you to group together logically related tags. A `span` allows you to apply a style to just part of a tag.

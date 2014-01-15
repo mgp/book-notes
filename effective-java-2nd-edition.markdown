@@ -2,6 +2,8 @@
 
 by Joshua Bloch
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)!*
+
 ### Chapter 2: Creating and Destroying Objects
 
 #### Item 1: Consider static factories instead of constructors

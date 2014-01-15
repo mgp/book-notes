@@ -1,5 +1,7 @@
 ## iPhone User Interface Design Projects
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/iPhone-User-Interface-Design-Projects/dp/B005B1F51C)!*
+
 ### Chapter 1: App Cubby
 * pg 5: Read the iPhone Human Interface Guidelines book, and conform to Apple's UI conventions.
 * pg 8: Because the keyboard takes up so much space, have data entry focused on a single field or a small group of fields that fit above the keyboard.

@@ -2,6 +2,8 @@
 
 by Guy Kawasaki
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/The-Art-Start-Time-Tested-Battle-Hardened/dp/1591840562)!*
+
 ### Chapter 1: The Art of Starting
 * pg 8: Create a mantra for your employees as a guideline; a tagline is for your customers.
 * pg 9: Don't write up a business plan, craft a pitch, or start financial projections until you have a prototype.

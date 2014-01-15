@@ -2,6 +2,8 @@
 
 by Marko Gargenta
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Learning-Android-Marko-Gargenta/dp/1449390501)!*
+
 ### Chapter 3: Quick Start
 * pg 20: The mainfest file explains what the application consits of, what its main building blocks are, what permissions it requires, and so on.
 * pg 21: The layout XML is responsible for the layout of widgets, while the strings XML is responsible for their textual content.

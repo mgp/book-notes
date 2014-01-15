@@ -2,6 +2,8 @@
 
 by Steve Krug
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Rocket-Surgery-Made-Easy-Do-It-Yourself/dp/0321657292)!*
+
 * pg 8: Small, informal, do-it-yourself usability testing is also called discount usability testing.
 
 ### Chapter 1: What DIY Testing Is

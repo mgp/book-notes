@@ -2,6 +2,8 @@
 
 by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)!*
+
 ### Chapter 1: Introduction
 
 * Expert designers know not to solve every problem from first principles, but reuse good solutions. This experience makes them experts.

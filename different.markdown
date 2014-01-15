@@ -2,6 +2,8 @@
 
 by Youngme Moon
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Different-Escaping-Competitive-Youngme-Moon/dp/030746086X)!*
+
 ### introduction
 * pg 2: When overcome with choices, a connoisseur sees differences, while a novice sees similarities.
 * pg 8: If comparative diligence proves too taxing, the ability to differentiate dies, as does your ability to compete.

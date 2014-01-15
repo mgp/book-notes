@@ -2,6 +2,8 @@
 
 by Jessica Livingston
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1590597141)!*
+
 ### Chapter 1: Max Levchin (Cofounder, Paypal)
 * pg 7: Part of having a CEO is that you can respectfully disagree, but you can resign if you don't like it that much.
 * pg 12: Invites to sign up work better if they grant access to something valuable left by a friend who invited them.

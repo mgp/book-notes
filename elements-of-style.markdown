@@ -1,3 +1,9 @@
+## The Elements of Style
+
+by William Strunk Jr. and E.B. White
+
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/The-Elements-Style-Fourth-Edition/dp/020530902X)!*
+
 ### I. Elementary Rules of Usage
 * pg 1: Form the possessive singular of nouns by adding _'s_, whatever the final consonant.
 * pg 2: In a series of three or more terms with a single conjunction, add a comma after each term except the last.

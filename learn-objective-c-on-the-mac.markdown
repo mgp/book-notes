@@ -2,6 +2,8 @@
 
 by Mark Dalrymple and Scott Knaster
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Learn-Objective-C-Mac-For-iOS/dp/1430241888)!*
+
 ### Chapter 2: Extensions to C
 * pg 8: Files ending in `.m` are handled by the Objective-C compiler.
 * pg 9: The `#import` directive is like `#include`, but doesn't require the programmer to use an `#ifndef` directive so that a file is included only once.

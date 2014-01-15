@@ -2,6 +2,8 @@
 
 by Dale Carnegie
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)!*
+
 ### Part 1: Fundamental Techniques in Handling People
 
 #### Chapter 1

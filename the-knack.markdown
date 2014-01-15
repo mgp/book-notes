@@ -2,6 +2,8 @@
 
 by Norm Brodsky and Bo Burlingham
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Street-Smarts-All-Purpose-Tool-Entrepreneurs/dp/1591843200)!*
+
 ### Chapter 1: How to Succeed in Business
 * pg 6: The initial goal of every business is to survive long enough to see if it's viable, or can pay its own bills.
 * pg 9: Cost of sales subtracted from sales is your gross profit; as a percentage of sales, it's your gross profit margin.

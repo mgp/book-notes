@@ -2,6 +2,8 @@
 
 by Kristina Chodorow and Michael Dirolf
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/MongoDB-Definitive-Guide-Kristina-Chodorow/dp/1449344682)!*
+
 ### Chapter 1: Introduction
 * pg 3: MongoDB uses memory-mapped files to push memory management to the operating system.
 

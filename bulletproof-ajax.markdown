@@ -2,6 +2,8 @@
 
 by Jeremy Keith
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Bulletproof-Ajax-Jeremy-Keith/dp/0321472667)!*
+
 ### Chapter 1: What is Ajax?
 * pg 8: A tiny, practically invisible inline frame, or hidden `iframe`, can get data from the server; Javascript can use that data to update the main page.
 * pg 9: Ajax isn't tied to XML -- you can use any structured format that carries data.

@@ -2,6 +2,8 @@
 
 by Scott Meyers
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)!*
+
 ### Chapter 1: Accustoming Yourself to C++
 
 #### Item 1: View C++ as a federation of languages

@@ -2,6 +2,8 @@
 
 by Guy Kawasaki
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish-ebook/dp/B00AGFU5VS)!*
+
 ### [ Author ]
 
 #### Chapter 1: Should You Write a Book?

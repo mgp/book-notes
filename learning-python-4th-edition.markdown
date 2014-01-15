@@ -2,6 +2,8 @@
 
 by Mark Lutz
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)!*
+
 ### Chapter 3: How You Run Programs
 * pg 98: A Python file without the `.py` extension and with the executable bit set can be run as a shell script if the hash bang is present in the first line.
 * pg 108: Reloads aren't transitive, so reloading one module won't reload any modules it imports, so avoid the temptation to launch by imports and reloads.

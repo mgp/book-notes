@@ -2,6 +2,8 @@
 
 by Steve McConnell
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)!*
+
 ### Chapter 5: Design in Construction
 
 #### 5.1: Design Challenges

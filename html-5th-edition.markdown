@@ -2,6 +2,8 @@
 
 by Elizabeth Castro
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/HTML-XHTML-CSS-Sixth-Edition/dp/0321430840)!*
+
 ### Chapter 1
 * Elements are block or inline; block elements are displayed on new lines, while inline elements are not. This is the difference between `div` and `span`.
 * If you save your document in UTF-8, and declare it as such when serving it, you don't have to use character references like `&copy`, with the exception of `&amp` for `&`.

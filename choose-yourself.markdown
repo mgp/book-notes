@@ -2,6 +2,8 @@
 
 by James Altucher
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Choose-Yourself-James-Altucher-ebook/dp/B00CO8D3G4)!*
+
 ### I Choose Myself: An Introduction
 * To survive and thrive, you must choose yourself. We cannot afford to rely on others anymore.
 * It's one thing to know "The Secret" and bring positivity into your life, but it's another to actually create opportunities for yourself.

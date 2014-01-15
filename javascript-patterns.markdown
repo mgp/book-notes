@@ -2,6 +2,8 @@
 
 by Stoyan Stefanov
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752)!*
+
 ### Chapter 1: Introduction
 * pg 3: Native objects are described by the ECMAScript standard and are either built-in or user-defined; host objects are defined by the host environment.
 * pg 4: A prototype is an object, not a class or anything special, and every function has a `prototype` property.

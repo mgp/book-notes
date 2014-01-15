@@ -2,6 +2,8 @@
 
 Bear Bibeault and Yehuda Katz
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/jQuery-Action-Second-Edition-Bibeault/dp/1935182323)!*
+
 ### Chapter 1: Introducing jQuery
 * pg 9: When `$` is passed a selector, the returned value contains matching elements in the order they appear in the document.
 * pg 12: Passing a method to `$` executes the method when the DOM has loaded, and doesn't wait for all resources to load.

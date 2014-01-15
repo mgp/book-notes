@@ -2,6 +2,8 @@
 
 by Andy Hunt
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)!*
+
 ### Chapter 1: Introduction
 * pg 13: Programming is all about problem solving. It requires creativity, ingenuity, and invention.
 * pg 14: Software isn't designed in an IDE or other tool. It’s imagined and created in our heads.

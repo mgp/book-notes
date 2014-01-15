@@ -2,6 +2,8 @@
 
 by David Mark and Jeff LaMarche
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Beginning-iPhone-Development-Exploring-SDK/dp/1430224592)!*
+
 ### Chapter 1: Welcome to the Jungle
 pg 7: The iPhone doesn't write memory to a swap file, so usually only half the memory of a 128MB of 256MB device is left for you to use.
 

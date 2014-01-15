@@ -2,6 +2,8 @@
 
 by Jeffrey Sambells and Aaron Gustafson
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/AdvancED-DOM-Scripting-Dynamic-Techniques/dp/1590598563)!*
+
 ### Chapter 1: Do It Right with Best Practices
 * pg 11: Instead of using inline event attributes, use unobtrusive techniques to add the event handlers when the window loads.
 * pg 14: Instead of browser sniffing to find what features you can use, use capability detection and check for the existence of methods directly.

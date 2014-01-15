@@ -2,6 +2,8 @@
 
 by Olivia Fox Cabane
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/The-Charisma-Myth-Personal-Magnetism/dp/1591845947)!*
+
 ### Introduction
 * Charisma is the result of specific nonverbal behaviors, not an inherent or magical personal quality. So its levels can fluctuate.
 * To appear charismatic, appear to possess both high power and high warmth. "Fight or flight?" is the power question. "Friend or foe?" is the warmth question.

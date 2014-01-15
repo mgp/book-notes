@@ -2,6 +2,8 @@
 
 by David Flanagan and Yukihiro Matsumoto
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Ruby-Programming-Language-David-Flanagan/dp/0596516177)!*
+
 ### Chapter 1: Introduction
 * pg 2: Every value is an object, even simple numeric literals and the values `true`, `false`, and `nil`.
 * pg 3: Parentheses are usually optional and commonly omitted, and so method invocations can look like references to named fields or named variables of an object.

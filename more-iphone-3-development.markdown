@@ -2,6 +2,8 @@
 
 by David Mark and Jeff LaMarche
 
+*I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/More-iPhone-Development-Tackling-Beginning/dp/143022505X)!*
+
 ### Chapter 11: MapKit
 * pg 369: When testing if a coordinate is within a map view’s displayed region, be sure to account for the international date line.
 * pg 370: The annotation view is the object that gets displayed on the map, not the floating window (or callout) that is displayed when it’s selected.
