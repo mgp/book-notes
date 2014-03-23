@@ -32,3 +32,42 @@ by Christian Keur, Aaron Hillegass, and Joe Conway
 * You can use `array[index]` as shorthand for `objectAtIndex:`, `insertObject:atIndex:`, and `replaceObjectAtIndex:withObject:`.
 * Objective-C has no notion of namespaces. Prefix class names with three letters to keep them distinct. Two-letter prefixes are reserved by Apple.
 * Precompiled header files saves us from parsing and compiling standard headers repeatedly, but Apple will eventually replace them with the `@import` directive.
+
+### Chapter 3: Managing Memory with ARC
+
+* A variable that does not take ownership of an object is called a *weak reference*. This helps avoid a *strong reference cycle*, or *retain cycle*.
+* To decide what reference in a cycle should be weak, look for a parent-child relationship. A parent should own its child, but a child should never own its parent.
+* Preface the instance variable declaration with `__weak` to convert it to a weak reference.
+* A weak reference knows when the object that it points to is destroyed, and responds by setting itself to `nil`. This avoids a dangling pointer.
+* When using `@property`, the name of the generated instance variable is prefixed by an underscore.
+* By default, properties are declared `atomic`, `readwrite`, and `strong`. We explicitly declare the `strong` attribute, in case a new default attribute value is chosen later.
+* When a property points to an instance of a class that has a mutable subclass, you should set its memory management attribute to `copy`.
+* To prevent needless copying, immutable classes implement `copy` to quietly return a pointer to the original and immutable object.
+* If you implement a custom setter and a custom getter on a `readwrite` property, or a custom getter on a `readonly` property, then you must declare your own instance variable.
+* You can use this technique to define accessor methods that are not backed by any instance variable, or backed by some property of a contained object.
+* ARC was born when the Clang static analyzer became so good that it could insert all the `retain` and `release` messages automatically.
+* Inside an `@autoreleasepool` directive, any newly instantiated object returned from a method that does not have `alloc` or `copy` in its name is put into an autorelease pool.
+
+### Chapter 4: Views and the View Hierarchy
+
+* Each view draws itself by rendering itself to a *layer*, which is an instance of `CALayer`. These layers are then composited together on the screen.
+* The `x` and `y` of `CGPoint` and `width` and `height` of `CGRect` are specified in points, not pixels, so they are consistent across different resolutions.
+* A pixel is equal to half a point on Retina, and equal to one point on non-retina. When printing to paper, an inch is 72 points long.
+* The `drawRect:` method renders the view onto its layer. `UIView` subclasses override this method to perform custom drawing.
+* The `bounds` rectangle is in the view's own coordinate system, for drawing itself. The `frame` rectangle is in the superview's coordinate system, for positioning the subview.
+* Instances of `UIBezierPath` define and draw lines and curves that you can use to make shapes.
+* To set the color drawn by the `stroke` method of `UIBezierPath`, send the message `setStroke` of a `UIColor` instance.
+* `CGContextRef` is the graphics context, which holds the drawing properties (like the pen color and line thickness) and the memory that is being drawn upon.
+* The system creates a `CGContextRef` instance before calling `drawRect:`, and composites that instance after the method completes executing.
+* The current context is an application-wide pointer that is assigned just before `drawRect:` is called. You can retrieve it by calling `UIGraphicsGetCurrentContext()`.
+* A Core Graphics type ending in `Ref` is a pointer typedef. If you create such an object with a function that has `Create` or `Copy` in the name, then you must pass it to the matching `Release` function.
+* Some Core Graphic features cannot be "unset." Instead, you must pass `currentContext` to `CGContextSaveGState` beforehand, and then to `CGContextRestoreGState` afterward.
+
+### Chapter 5: Views: Redrawing and UIScrollView
+
+* When the user touches a view, it is sent the message `touchesBegan:withEvent:`.
+* After the run loop dispatches an event, it invokes `drawRect:` on all dirty views. Send the message `setNeedsDisplay` to a view to mark it as dirty.
+* If you call `setNeedsDisplayInRect:` instead, that `CGRect` method is passed to `drawRect:`, which you can use to optimize re-drawing. But most developers don't bother with this.
+* The `contentSize` of a `UIScrollView` is the size of the area that it can be used to view. This is usually the size of its subview.
+* After adding multiple subviews to a `UIScrollView`, you can set its `pagingEnabled` property to page between them, which snaps its viewing port to a subview. 
+
