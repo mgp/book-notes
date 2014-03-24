@@ -71,3 +71,29 @@ by Christian Keur, Aaron Hillegass, and Joe Conway
 * The `contentSize` of a `UIScrollView` is the size of the area that it can be used to view. This is usually the size of its subview.
 * After adding multiple subviews to a `UIScrollView`, you can set its `pagingEnabled` property to page between them, which snaps its viewing port to a subview. 
 
+### Chapter 6: View Controllers
+
+* A view controller's `view` is not created until it needs to appear on screen.
+* When a view controller initializes its view hierarchy from a NIB file, you do not override `loadView`. The default implementation loads the NIB file.
+* Declare outlets as `weak`. This ensures that, when memory is low, destroying `view` also destroys its subviews and avoids memory leaks.
+* When a view controller is contained by a `UITabBarController`, its `tabBarItem` property appears in the tab bar for that purpose.
+* Calling `init` calls the designated initializer `initWithNibName:bundle:`. It looks for a NIB with the class name in the main bundle, which it specifies by passing `nil` as the bundle.
+* To preserve the benefits of lazy loading, you should never access the `view` property of a view controller in `initWithNibName:bundle:`.
+* Destroying and reloading the view of a view controller due to memory constraints is not the typical behavior on newer devices.
+* When calling `valueForKey:`, key-value coding will first look for a corresponding getter method, followed by an instance variable.
+* Retina display is 640x1136 pixels on a 4" display, and 640x960 pixels on a 3.5" display, while earlier devices have a display of 320x480 pixels.
+* By appending the suffix `@2x` to a higher resolution image, method `imageNamed:` of `UIImage` loads the file that is appropriate for the particular device.
+
+### Chapter 7: Delegation and Text Input
+
+* `UIResponder` is an abstract class that defines methods for handling events, such as touch events, motion events, and remote control events.
+* Touch events are sent directly to the corresponding view. For other event types, `UIWindow` has a `firstResponder` pointer that specifies their handler.
+* Text fields and text views show and hide the keyboard upon becoming and resigning the first responder. Most views refuse to become the first responder so that they do not steal focus.
+* By default, protocol methods are required, but you can precede a list of optional methods with the directive `@optional`.
+* If a method in a protocol is required, then a message will be sent to it without first creating a `SEL` instance and sending message `respondsToSelector:`.
+* You can declare that an object conforms to a protocol in the private extension of that class, as opposed to in its header file.
+* A class that uses a delegate must declare it as a weak reference in order to prevent strong reference cycles.
+* The `textFieldShouldReturn:` method must explicitly dismiss the keyboard by sending the message `resignFirstResponder` to the text field.
+* If your application is throwing exceptions and you're not sure why, adding an exception breakpoint will help you pinpoint what's going on.
+* The `UIApplicationMain` method creates an instance of `UIApplication`, which maintains the run loop.
+* Next, `UIApplicationMain` creates an instance of the delegate class, assigns it to `delegate` of the `UIApplication` instance, and sends a message to `application:didFinishLaunchingWithOptions:`.
