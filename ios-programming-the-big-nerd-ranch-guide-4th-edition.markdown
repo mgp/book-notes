@@ -97,3 +97,24 @@ by Christian Keur, Aaron Hillegass, and Joe Conway
 * If your application is throwing exceptions and you're not sure why, adding an exception breakpoint will help you pinpoint what's going on.
 * The `UIApplicationMain` method creates an instance of `UIApplication`, which maintains the run loop.
 * Next, `UIApplicationMain` creates an instance of the delegate class, assigns it to `delegate` of the `UIApplication` instance, and sends a message to `application:didFinishLaunchingWithOptions:`.
+
+### Chapter 8: UITableView and UITableViewController
+
+* The designated initializer of `UITableViewController` is `initWithStyle:`.
+* To return a read-only view of an `NSMutableArray`, define a private `NSMutableArray` property, and then define an `NSArray` property with the `readonly` attribute that returns it.
+* The `contentView` of a `UITableViewCell` contains the three subviews `textLabel`, `detailTextLabel`, and `imageView`.
+* Call the `registerClass:forCellReuseIdentifier:` of `UITableView` to specify which kind of cell it should instantiate if there are no cells with a given identifier in the reuse pool.
+* To define a placeholder in a code snippet from the library, place its name between `<#` and `#>`.
+
+### Chapter 9: Editing UITableView
+
+* The `strong` attribute must be used with properties that reference top-level objects in the XIB file.
+* To resize an empty view in Interface Builder, go to the Simulated Metrics section, and select None for the Size option.
+* To load a NIB file manually, send `loadNibNamed:owner:options:` to `NSBundle`, where the owner is substituted for the File's Owner placeholder.
+* A `UITableViewController` automatically sets the `editing` property of its table view to match its own `editing` property.
+* To add a cell, a button above the cells of the table view is usually for adding a record for which there is a detail view.
+* To add a cell, a cell with a green plus sign is usually for adding a new field to a record.
+* The `view` and `tableView` properties of `UITableViewController` refer to the same view.
+* When you implement `tableView:commitEditingStyle:forRowAtIndexPath:`, swipe-to-delete also works automatically.
+* In the call to `tableView:moveRowAtIndexPath:toIndexPath:`, the row of the new path is that after the item has been removed from its existing path.
+* In editing mode, the `UITableView` will not display the reordering controls if its data source does not implement `tableView:moveRowAtIndexPath:toIndexPath:`.
