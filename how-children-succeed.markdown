@@ -31,3 +31,30 @@ by Paul Tough
 * pg 41: Anxiety-producing parenting can be undone with a relatively minor intervention, unlike previous early-childhood interventions that focused on the importance of early language skills.
 * pg 48: Pure IQ is stubbornly resistant to improvement after age 8, but executive functions and the ability to handle stress and manage strong emotions can be improved well into adolescence.
 
+### Chapter 2: How to Build Character
+
+* pg 52: Noncognitive skills or character strengths like optimism and resilience and social agility are important for young people without the benefit of a lot of family resources.
+* pg 54: The book *Learned Optimism* says that pessimists view negative events as permanent, personal, and pervasive, while optimists find specific, limited, short-term explanations.
+* pg 58: The meaning of *character* is difficult to define because it often represents adherence to a particular set of values, and so its definition will necessarily change over time.
+* pg 59: Character is not innate or unchanging. It is a set of abilities and strengths that you can learn, can practice, and can teach.
+* pg 62: In the "marshmallow test," children who had been able to wait 15 minutes for their treat had SAT score that were, on average, 210 points higher than those who had demanded the treat after 30 seconds.
+* pg 63: In that test, children who did the best created their own distractions, or followed prompts to think more abstractly about the marshmallow.
+* pg 64: The mechanics of achievement can be divided into motivation and volition, where the latter is the willpower and self-control to start along the path of a goal.
+* pg 67: What motivates us is hard to explain or measure, and part of the complexity is that different personality types responds to different motivations.
+* pg 69: A low-stakes, low-reward test like the *coding-speed* test is a reliable predictor of how well someone will do in life.
+* pg 70: This trait is termed *conscientiousness*. The other important personality dimensions are agreeableness, extraversion, neuroticism, and openness to experience.
+* pg 71: High conscientiousness favorably predicts better grades, more workplace success, fewer crimes, healthier marriages, and longer lives.
+* pg 74: Conscientiousness is different from *grit*, which is a passionate commitment to a single mission and an unswerving dedication to achieving that mission.
+* pg 78: Moral character embodies ethical values like fairness, generosity, and integrity, while performance character embodies values like effort, diligence, and perseverance.
+* pg 82: Wealthy parents are more likely than others to be emotionally distant from their children while also insisting on high levels of achievement.
+* pg 83: Consequently, affluent teenagers use alcohol, cigarettes, marijuana, and harder illegal drugs more than low-income teens. They also suffer from elevated rates of depression.
+* pg 84: Parents making more than one million dollars a year were, by a wide margin, the group most likely to say that they were less strict than their own parents.
+* pg 85: Private schools do not raise the ceiling, but raise the floor, bestowing connections and credentials that will make it hard for a child to fall out of the upper class.
+* pg 85: The best way for a child to build character is to attempt a high risk endeavor, where there is a real and serious possibility of failure.
+* pg 89: Code-switching is the ability to recognize and accurately perform the behaviors appropriate to each different cultural setting.
+* pg 91: Cognitive-behavioral therapy, or CBT, uses the conscious mind to recognize negative or self-destructive thoughts or interpretations and to talk oneself into a better perspective.
+* pg 93: You are more likely to achieve a goal if you concentrate on the positive outcome and the obstacles in the way. Optimists focus only on the former, pessimists only on the later.
+* pg 94: Setting rules for yourself are a metacognitive substitute for willpower. They provide structure, prepare one for encounters with tempting stimuli, and redirect attention elsewhere.
+* pg 96: The *stereotype threat* says giving one a subtle psychological cue having to do with his or her group identify before a test of intellectual or physical ability can affect performance.
+* pg 97: Students gain confidence, perform better, and defend against the stereotype threat when they transition from a fixed mindset to a growth mindset, which says that intelligence is malleable.
+* pg 103: Character can substitute for the support from families and schools and culture that protects other students from the consequences of occasional detours and mistakes and bad decisions.
