@@ -58,3 +58,15 @@ by Paul Tough
 * pg 96: The *stereotype threat* says giving one a subtle psychological cue having to do with his or her group identify before a test of intellectual or physical ability can affect performance.
 * pg 97: Students gain confidence, perform better, and defend against the stereotype threat when they transition from a fixed mindset to a growth mindset, which says that intelligence is malleable.
 * pg 103: Character can substitute for the support from families and schools and culture that protects other students from the consequences of occasional detours and mistakes and bad decisions.
+
+### Chapter 3: How to Think
+
+* pg 114: Cognitive flexibility is the ability to see alternative solutions to problems. Cognitive self-control is the ability to substitute a habitual response for a more effective, less obvious one.
+* pg 120: Children in early adolescence may be motivated best by the unexpected experience of someone taking them seriously, believing in their abilities, and challenging them to improve themselves.
+* pg 121: Schools rarely encourage rigorous self-analysis. Many schools and teachers believe that it is their job only to convey information.
+* pg 131: It is not enough to *want* something; you must *choose* it. You will reveal your choice through your behavior and your determination, so that every action says "This is who I am."
+* pg 133: Hungarian psychologist Laszlo Polgar argued that parents could turn any child into an intellectual prodigy with hard work. He raised both the first female grand master, and the youngest grand master.
+* pg 136: Mihaly Csikszentmihalyi called flow those optimal experiences when a person feels free of mundane distractions, in control of his fate, and totally engaged by the moment.
+* pg 137: Some players can play blindfold chess not because they have photographic memories, but because they remembered patterns, vectors, and even moods.
+* pg 138: The best chess players do not consider more possible outcomes than novices. They simply contemplate the right ones, and never contemplate the less promising options.
+* pg 138: When testing a theory, we succumb to *confirmation bias*, or looking for data that proves us right. We don't attempt *falsification*, or look for contradictory evidence.
