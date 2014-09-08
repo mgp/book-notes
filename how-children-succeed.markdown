@@ -70,3 +70,34 @@ by Paul Tough
 * pg 137: Some players can play blindfold chess not because they have photographic memories, but because they remembered patterns, vectors, and even moods.
 * pg 138: The best chess players do not consider more possible outcomes than novices. They simply contemplate the right ones, and never contemplate the less promising options.
 * pg 138: When testing a theory, we succumb to *confirmation bias*, or looking for data that proves us right. We don't attempt *falsification*, or look for contradictory evidence.
+
+### Chapter 4: How to Succeed
+
+* pg 149: Only 5 percent of American males born in 1900 graduated from college. This doubled between 1925 and 1945, and then again between 1945 and 1965 thanks to the GI Bill.
+* pg 150: Among the 34 countries in the Organization for Economic Co-Operation and Development, the United States is eighth in college enrollment, but it is second to last in college completion.
+* pg 150: Our college-graduate wage premium is the highest in the developed world. A BA can expect to earn 83% more than an American with only a high-school diploma.
+* pg 151: *Undermatching* affects disadvantaged thigh school graduates, meaning they attend colleges below what their GPAs and standardized-test scores qualify them for.
+* pg 153: Graduation rates are not correlated with intelligence, like the ACT or SAT attempts to measure, but character strengths, which a high GPA is indicative of.
+* pg 161: The current high school system was developed to train students not for college but for the workplace, where collegiate skills like critical thinking and problem solving were not highly valued.
+* pg 162: Between 1980 and 2002, the percentage of American tenth graders who said they wanted a BA doubled from 40 percent to 80 percent.
+* pg 165: An ACT prep course that improves students' scores not only opens access to more colleges, but reinforces the growth mindset message, that one can get smarter and do better.
+* pg 168: Noncognitive skills like resilience and resourcefulness and grit are more useful in getting a college student to graduation day than a high ACT score.
+* pg 172: In 1961, the average full-time college student spent 24 hours per week studying outside the classroom. By 1981, it was 20 hours per week. By 2003, it was 14 hours per week.
+
+### Chapter 5: A Better Path
+
+* pg 184: There are fewer entrepreneurs, iconoclasts, or artists graduating from our best colleges now. In 2010, more than half the graduating class went into investment banking or consulting.
+* pg 184: Such undergraduates want to close down as few options and possible and only do things that increase the possibility of future overachievement. Recruiters for these industries cater to this psychology.
+* pg 186: In the 1960s and 1990s there was debate about solving poverty, but not today. In 1966, child poverty stood at 17 percent; now it stands at 22 percent.
+* pg 187: Education and poverty used to be two separate topics in public policy, but now we have replaced them with one conversation about the achievement gap between the rich and the poor.
+* pg 188: This happened when the idea surfaced that improving the academics of poor children could help them escape the cycle of poverty, since it's been shown that kids who do well in school do well in life.
+* pg 189: The consensus of most reform advocates is that there are far too many underperforming teachers, and we must change how such teachers are hired, trained, compensated, and fired.
+* pg 190: Research on teachers remains inconclusive: We don't know how to predict top-tier teachers, or whether a string of such teachers produces a cumulative positive effect on low-income students.
+* pg 191: Focusing on teacher quality has lost sight of a larger issue, namely what this country can do to significantly improve the life chances of millions of poor children.
+* pg 191: The most popular school reforms, including high-performing charter schools, work best with the most able low-income children, and don't work well with the least able.
+* pg 192: The education department's low income designation covers 40 percent of children. Ten percent of all children grow up in families that earn less than $11,000 annually, or less than half of the poverty line.
+* pg 192: Statistically, such children are raised by a poorly educated, never-married single mother. Family members are unemployed and may have disability, depression, or substance abuse.
+* pg 193: No one has found a reliable way to help deeply disadvantaged children. Instead we have an ad hoc system of government agencies and programs that follow them through childhood and adolescence.
+* pg 194: A coordinated system instead could not only be cheaper, and would save lives and money not just in the long run, but right away.
+* pg 195: To liberals, the science says that we must concede to the conservatives' point that character matters. Conservatives think that we're off the hook until poor people shape up and develop better character.
+* pg 196: But science suggests that character strengths that matter for kids are not innate and they are not a choice. They are rooted in brain chemistry and are molded in measurable and predictable ways.
