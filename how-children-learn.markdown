@@ -36,3 +36,27 @@ by John Holt
 * When playing with an instrument or machine for the first time, children must pile up quite a mass of raw sensory data before they can begin trying to sort it out and how to make sense of it.
 * A trained scientist asks nature a question and then cuts the noise of information to a minimum. But to a child in a strange world, everything is noise, and until he has a great deal of data, he has no idea what questions to ask or what questions there are to be asked.
 * Consequently, children are better able to tolerate confusing data, to pick out its patterns. They are also less likely to make fast conclusions on the basis of too little data, or after having made such conclusions, to refuse to consider new and contradictory data.
+
+### Talk
+
+* To a baby, how a sound feels seems to be as important as the sound itself.
+* A puppy raised apart from other dogs will know how to bark when he gets old enough, but it is from hearing people speak around them that babies get the idea of "speaking."
+* Perhaps two-year olds are so touchy because they discovered that they don't know how to talk; they are bursting with things to say, needs, and feelings, but have no way to say them.
+* Children learn to speak by patient and persistent experiment. Above all, they are willing to do things wrong even while trying their best to do them right.
+* Babies and young children like to hear adult conversation, and will often sit quietly for a long time just to hear it. To help little children as they learn to talk, talk to them, and let them be around when we talk to others.
+* When we name an object, we put it into a class of things that are like it. But babies do not, for some time they see just a mass of shifting shapes and colors, a single, ever-changing picture in front of them, and not as separate elements.
+* A baby is only ready to assign a name to something when he sees that is independent of its environment, and that the something is one of a family or class of like things.
+* We only learn words after grasping the large idea of communication by speech, then interpreting tone and context, and finally intuiting a rough outline of the grammar or structure of language.
+* Too much quizzing of a child is likely to make him begin to think that learning does not mean figuring out how things work, but getting and giving answers that please grownups.
+* A child's understanding of the world is uncertain and tentative. His understanding will grow faster if we can make ourselves have faith in it and leave it alone.
+* A family with little verbal skill can handicap a baby. Not just because there is so little talk, but also because, when the baby does try to talk, he is less often understood and thus less often encouraged.
+* Because children are so small, clumsy, inarticulate, foolish, and to some appealing, we easily underestimate the seriousness of many of their questions and concerns, and laugh at them indulgently or ignore them altogether.
+* Children will learn the language that most people speak around them. If a child grows up where people do not speak standard English, then we will do harm if we try to make him think that there is something wrong with his speech.
+* Children's senses are keen, they notice everything, and they want to do things like the grownups. If we speak well, and they hear us, then they will soon speak as we do.
+* Children will not "freeze" mistakes as bad habits. They instead make successive approximations, where they try, make mistakes, and then correct those mistakes.
+* If it takes a long time to develop a good habit, then it will take just as long to develop a bad one. So we don't always have to be in such a big hurry to correct children's mistakes.
+* Children are good at gathering and storing vague information and waiting patiently until, someday, they find they know what it means.
+* Maybe children don't like to hear stories of when they were younger because, to them, their littleness, helplessness, and clumsiness is not cute but humiliating, and so they don't want to be reminded of it.
+* The children need the most practice talking in school, but typically the teacher gets it. A child only talks to the teacher, and only when called upon.
+* To give children more opportunity to speak, we could let them work in small groups, and to talk quietly as they work. This also encourages independent study and more thinking.
+* We only get better at using words, whether hearing, speaking, reading, or writing, if we use those words to say something that we want to say, to people we want to say it to, and for purposes that are our own.
