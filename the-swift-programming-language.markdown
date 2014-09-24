@@ -32,6 +32,7 @@
 * An *implicitly unwrapped optional* has a `!` instead of a `?` after the type that you want to make optional. Use this if an optional will always have a value after it's first set, and you want to remove the need to check and unwrap the optional's value on each access.
 * If you try to access an implicitly unwrapped optional when it doesn't contain a value, you trigger a runtime error, much like if you place a `!` after a normal optional missing a value.
 
+
 ### [Basic Operators](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/BasicOperators.html)
 
 #### Arithmetic Operators
@@ -52,6 +53,7 @@
 
 #### Range Operators
 * The *closed range operator* `a...b` is inclusive of `b`, while the *half-open range operator* `a..<b` is exclusive of `b`.
+
 
 ### [Strings and Characters](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html)
 
@@ -74,3 +76,47 @@
 
 #### Unicode Representations of Strings
 * Methods `utf8` and `utf16` return code units for UTF-8 and UTF-16, while method `unicodeScalars` returns 21-bit `UnicodeScalar` values, which is equivalent to UTF-32 encoding.
+
+
+### [Enumerations](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
+
+#### Enumeration Syntax
+* Unlike C and Objective-C, enumeration members do not assume integer values. Instead, they are fully-fledged values in their own right with an explicitly-defined type.
+* To define multiple member values on a single line, prefix them with `case` and separate them by commas.
+* Once the enumeration type of a variable is known, you can drop the enumeration type name when assigning its value, such as `directionToHead = .East`.
+
+#### Matching Enumeration Values with a Switch Statement
+* A switch statement must be exhaustive when considering the members of an enumeration. Use a `default` case to cover any members that are not addressed explicitly.
+
+#### Associated Values
+* Enumerations can serve as *discriminated unions* or *tagged unions*, where they can store associated values of any given type, and the value types can be different for each enumeration member.
+* Each enumeration member defines only the *type* of associated values, but not actual values themselves.
+* Extract each associated value as a constant (using `let`) or as a variable (using `var`) for use within the `case` body of a `switch` statement.
+* If all of the associated values for a enumeration member are extracted as constants, or if all are extracted as variables, you can place a single `var` or `let` annotation before the member name.
+
+#### Raw Values
+* Unlike associated values, enumeration members with *raw values* are all of the same type (constrained to strings, characters, integer, or floating-point number types), come prepopulated, and the values must be unique.
+* When integers are used for raw values, they auto-increment if no value is specified for some of the enumeration members.
+* Use `toRaw` and `fromRaw` to convert between enumeration members and raw values. The latter returns an *optional* enumeration member, for when no member with the given raw value is found.
+
+
+### [Classes and Structures](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)
+
+#### Comparing Classes and Structures
+* Unlike structures, classes can use inheritance, participate in type casting, have deinitializers, and participate in reference counting.
+* Unlike Objective-C, Swift allows you to set sub-properties of a structure property directly.
+* All structures have an automatically-generated *memberwise initializer*, which allows initializing the properties of an instance by name.
+
+#### Structures and Enumerations Are Value Types
+* A *value type* is a type whose value is copied when it is assigned to a variable or constant, or when it is passed to a function.
+* All the basic types in Swift are value types, and are implemented as structures.
+
+#### Classes Are Reference Types
+* Classes are *reference types*, which are not copied when they are assigned to a variable or constant, or when they are passed to a function.
+
+#### Choosing Between Classes and Structures
+* Consider value types for simple collections of data, any properties are themselves value types, and the structure does not need to inherit properties or behavior from another type.
+
+#### Assignment and Copy Behavior for Strings, Arrays, and Dictionaries
+* Unlike `NSString`, `NSArray`, and `NSDictionary` in Foundation, the `String`, `Array`, and `Dictionary` types in Swift are implemented as structures.
+* Swift only performs an actual copy of such types when it is absolutely necessary, and you should not avoid assignment to try and preempt this optimization.
