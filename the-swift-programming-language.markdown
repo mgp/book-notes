@@ -2,27 +2,27 @@
 
 ### [The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
 
-#### Constants and Variables
+##### Constants and Variables
 * You declare constants with the `let` keyword and variables with the `var` keyword.
 * In practice, it is rare that you will need a type annotation. It may be useful if you are declaring a variable and no initial value is provided.
 * To use string interpolation, wrap the variable name in parentheses and escape it with a backslash before the opening parenthesis.
 
-#### Comments
+##### Comments
 * You can nest multiline comments.
 
-#### Numeric Literals
+##### Numeric Literals
 * Both integers and floats can be padded with extra zeroes and can contain `_` characters to help with readability.
 
-#### Numeric Type Conversion
+##### Numeric Type Conversion
 * Prefer `Int` for even non-negative values. This means that integer constants and variables are immediately interoperable in your code and will match the inferred type for integer literal values.
 * Conversion between integer and floating-point must be explicit, regardless of the direction. An exception is made for numeric literals, which do not have an explicit type in and of themselves.
 
-#### Tuples
+##### Tuples
 * You can decompose tuples. If you only need some parts of the tuple's values, ignore parts of the tuple with the `_` character when decomposing.
 * If the elements in a tuple are unnamed, you can access them with index numbers starting at zero, e.g. `tupleName.0`. If they are named, you can access them by their element names, e.g. `tupleName.firstElementName`.
 * Tuples are not suited for the creation of complex data structures. Use them primarily for returning multiple values from a function.
 
-#### Optionals
+##### Optionals
 * An optional lets you indicate the absence of a value for any type at all, without the need for special constants like `NSNotFound`.
 * You can only assign `nil` to an optional variable. You cannot use it with nonoptional constants and variables. 
 * The value `nil` is not the same in Objective-C as it is in Swift. In Swift, `nil` is not a pointer like it is in Objective-C. Instead, it is an absence of a value of a certain type.
@@ -35,66 +35,89 @@
 
 ### [Basic Operators](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/BasicOperators.html)
 
-#### Arithmetic Operators
+##### Arithmetic Operators
 * The assignment operator in Swift does not return a value, so you cannot accidentally use `=` when you mean `==`.
 * The `%` operator is the remainder operator, and not a modulo operator.
 * Given a negative first operand, the remainder operator can yield a negative value. But the sign of the second operand for the remainder operator is ignored, so `a % b` and `a % -b` always yield the same answer.
 * The remainder operator can also accept a second operand that is a floating point number.
 * It is recommended that you use the prefix version of the increment and decrement operators, unless you need the specific behavior of their postfix forms.
 
-#### Compound Assignment Operators
+##### Compound Assignment Operators
 * The compound assignment operators do not return a value.
 
-#### Comparison Operators
+##### Comparison Operators
 * The identity operators `===` and `!==` test whether two object references both refer to the same object instance.
 
-#### Nil Coalescing Operator
+##### Nil Coalescing Operator
 * The *nil coalescing operator* `(a ?? b)` unwraps an optional `a` if it contains a value, or returns a default value `b` if `a` is `nil`. If `a` is not `nil`, then `b` is not evaluated.
 
-#### Range Operators
+##### Range Operators
 * The *closed range operator* `a...b` is inclusive of `b`, while the *half-open range operator* `a..<b` is exclusive of `b`.
 
 
 ### [Strings and Characters](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html)
 
-#### Strings Are Value Types
+##### Strings Are Value Types
 * The `String` type is a value type, and such a value is copied when it is passed to a function or method, or when it is assigned to a constant or value.
 
-#### Working with Characters
+##### Working with Characters
 * You can create a stand-alone character constant or variable from a single-character string literal by providing a `Character` type annotation.
 
-#### String Interpolation
+##### String Interpolation
 * A string literal can interpolate not just constants, variables, and literals, but expressions such as `\(Double(multiplier) * 2.5)`.
 
-#### Unicode
+##### Unicode
 * A string literal can include an arbitrary Unicode scalar as `\u{n}`, where `n` is between one and eight hexadecimal digits, such as `"\u{2665}"`.
 * Every `Character` instance is a single *extended grapheme cluster*, which is a sequence of one or more Unicode scalars that (when combined) produce a single human-readable character.
 * The use of extended grapheme clusters for `Character` values means that string concatenation and modification may not always affect the character count of a `String` instance.
 
-#### Comparing Strings
+##### Comparing Strings
 * Two `String` or `Character` values are considered equivalent if their extended grapheme clusters are *canonically equivalent*, meaning they have the same linguistic meaning and appearance.
 
-#### Unicode Representations of Strings
+##### Unicode Representations of Strings
 * Methods `utf8` and `utf16` return code units for UTF-8 and UTF-16, while method `unicodeScalars` returns 21-bit `UnicodeScalar` values, which is equivalent to UTF-32 encoding.
 
 
+### [Collection Types](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/CollectionTypes.html)
+
+##### Mutability of Collections
+* Arrays and dictionaries assigned to variables are mutable, while arrays and dictionaries assigned to constants are immutable.
+
+##### Arrays
+* The type of values stored by an array is specified by an explicit type annotation or type inference, and does not have to be a class type.
+* To specify the type of an array, prefer the shorthand form `[ElementType]` over the full form `Array<ElementType>`.
+* Thanks to type inference, you don't have to write the type of an array if you're initializing it with a literal containing values of the same type.
+* You can also use subscript syntax to change a range of values at once, even if the replacement set of values has a different length than the range you are replacing.
+* The `removeAtIndex` and `removeLast` methods return the removed item.
+* Use the global `enumerate` function to iterate over tuples containing each item and its corresponding index.
+* To initialize an empty array, use the syntax `[ElementType]()`. If the context provides type information about an array variable, you can assign it simply `[]`.
+
+##### Dictionaries
+* To specify the type of a dictionary, prefer the shorthand form `[KeyType: ValueType]` over the full form `Dictionary<KeyType, ValueType>`.
+* Thanks to type inference, you don't have to write the type of a dictionary if you're initializing it with a literal containing keys of the same type, and values of the same type.
+* Unlike using subscript syntax, method `updateValue(forKey:)` returns the old value after performing an update. It returns an *optional* value of the dictionary's value type.
+* You can also use subscript syntax to remove a key-value pair from a dictionary by assigning a value of `nil` for that key.
+* If you need to use a dictionary's keys or values with an API that takes an `Array` instance, initialize a new array with the `keys` or `values` property.
+* To initialize an empty dictionary, use the syntax `[KeyType: ValueType]()`. If the context provides type information about a dictionary variable, you can assign it simply `[:]`.
+* Any type conforming to protocol `Hashable` can be used as a dictionary key. All of Swift's basic types are hashable by default, excluding enumeration member values with associated values.
+
 ### [Enumerations](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
 
-#### Enumeration Syntax
+##### Enumeration Syntax
 * Unlike C and Objective-C, enumeration members do not assume integer values. Instead, they are fully-fledged values in their own right with an explicitly-defined type.
 * To define multiple member values on a single line, prefix them with `case` and separate them by commas.
 * Once the enumeration type of a variable is known, you can drop the enumeration type name when assigning its value, such as `directionToHead = .East`.
 
-#### Matching Enumeration Values with a Switch Statement
+##### Matching Enumeration Values with a Switch Statement
 * A switch statement must be exhaustive when considering the members of an enumeration. Use a `default` case to cover any members that are not addressed explicitly.
 
-#### Associated Values
+##### Associated Values
 * Enumerations can serve as *discriminated unions* or *tagged unions*, where they can store associated values of any given type, and the value types can be different for each enumeration member.
 * Each enumeration member defines only the *type* of associated values, but not actual values themselves.
 * Extract each associated value as a constant (using `let`) or as a variable (using `var`) for use within the `case` body of a `switch` statement.
 * If all of the associated values for a enumeration member are extracted as constants, or if all are extracted as variables, you can place a single `var` or `let` annotation before the member name.
 
-#### Raw Values
+##### Raw Values
 * Unlike associated values, enumeration members with *raw values* are all of the same type (constrained to strings, characters, integer, or floating-point number types), come prepopulated, and the values must be unique.
 * When integers are used for raw values, they auto-increment if no value is specified for some of the enumeration members.
 * Use `toRaw` and `fromRaw` to convert between enumeration members and raw values. The latter returns an *optional* enumeration member, for when no member with the given raw value is found.
@@ -102,21 +125,50 @@
 
 ### [Classes and Structures](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)
 
-#### Comparing Classes and Structures
+##### Comparing Classes and Structures
 * Unlike structures, classes can use inheritance, participate in type casting, have deinitializers, and participate in reference counting.
 * Unlike Objective-C, Swift allows you to set sub-properties of a structure property directly.
 * All structures have an automatically-generated *memberwise initializer*, which allows initializing the properties of an instance by name.
 
-#### Structures and Enumerations Are Value Types
+##### Structures and Enumerations Are Value Types
 * A *value type* is a type whose value is copied when it is assigned to a variable or constant, or when it is passed to a function.
 * All the basic types in Swift are value types, and are implemented as structures.
 
-#### Classes Are Reference Types
+##### Classes Are Reference Types
 * Classes are *reference types*, which are not copied when they are assigned to a variable or constant, or when they are passed to a function.
 
-#### Choosing Between Classes and Structures
+##### Choosing Between Classes and Structures
 * Consider value types for simple collections of data, any properties are themselves value types, and the structure does not need to inherit properties or behavior from another type.
 
-#### Assignment and Copy Behavior for Strings, Arrays, and Dictionaries
+##### Assignment and Copy Behavior for Strings, Arrays, and Dictionaries
 * Unlike `NSString`, `NSArray`, and `NSDictionary` in Foundation, the `String`, `Array`, and `Dictionary` types in Swift are implemented as structures.
 * Swift only performs an actual copy of such types when it is absolutely necessary, and you should not avoid assignment to try and preempt this optimization.
+
+
+### [Properties](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html)
+
+##### Stored Properties
+* You can set and then modify the initial value for a stored property during initialization, even if it is a constant.
+* When an instance of a value type is declared as constant using `let`, then all of its properties are constant, and you cannot modify even those properties that are declared using `var`.
+* A *lazy stored property* is prefaced by the `lazy` keyword, and its initial value is not calculated until the first time that it is used.
+* Swift unifies the concepts of properties and instance variables from Objective-C into a single property declaration. A property does not have a corresponding instance variable, and the backing store for a property is not accessed directly.
+
+##### Computed Properties
+* Classes, structures, and enumerations can define *computed properties*, which don't actually store a value, but instead provide a getter and an optional setter.
+* If a computed property's setter does not define a name for the new value to be set, a default name of `newValue` is used.
+* You must declare a *read-only computed property* with the `var` keyword, because its value is not fixed. The `let` keyword is only used for constant properties, to indicate that their values cannot change.
+* You can simplify the declaration of a read-only computed property by removing the `get` keyword and its braces.
+
+##### Property Observers
+* The `willSet` property observer is passed the new property value as a constant parameter. If you omit the parameter name, it will assume the default parameter name of `newValue`.
+* The `didSet` property observer is passed the old property value as a constant parameter. If you omit the parameter name, it will assume the default parameter name of `oldValue`.
+* If you assign a value to a property within its own `didSet` observer, the new value that you assign will replace the one that was just set.
+
+##### Global and Local Variables
+* Global constants and variables are always computed lazily, similar to lazy stored properties. But local constants and variables are never computed lazily.
+
+##### Type Properties
+* A *type property* belongs to the type itself, and not any one instance. A constant type property is similar to a static constant in C, while a variable type property is similar to a static variable in C.
+* Unlike stored instance properties, stored type properties must always have a default value. This is because the type itself doesn't have an initializer that can assign a value to such a property at initialization time.
+* You define type properties for value types with the `static` keyword, and type properties for class types with the `class` keyword. 
+
