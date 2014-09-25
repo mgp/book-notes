@@ -101,6 +101,53 @@
 * To initialize an empty dictionary, use the syntax `[KeyType: ValueType]()`. If the context provides type information about a dictionary variable, you can assign it simply `[:]`.
 * Any type conforming to protocol `Hashable` can be used as a dictionary key. All of Swift's basic types are hashable by default, excluding enumeration member values with associated values.
 
+
+### [Control Flow](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html)
+
+##### For Loops
+* If you don't need access to the current value during each iteration of a `for`-`in` loop, use the `_` character in place of a loop variable.
+* Each item in the dictionary is returned as a `(key, value)` tuple when the dictionary is iterated over using `for`-`in`, and you can decompose that tuple's members as explicitly named constants.
+
+##### Conditional Statements
+* Every `switch` statement must be exhaustive, meaning every possible value must be matched by a case. If this is not appropriate, you can use `default` to specify a catch-all case.
+* Unlike `switch` statements in C and Objective-C, `switch` statements in Swift do not fall through the bottom of each case and into the next one by default.
+* Multiple matches for a single `switch` case can be separated by commas, and can be written over multiple lines if the list is long.
+* Use tuples to test multiple values in the same `switch` statement, where each element can be tested against a different value or range of values. Or use the `_` identifier to match any possible value.
+* A `switch` case can employ *value binding* to bind the value or values it matches to temporary consonants or variables for use in the body of the case.
+* A `switch` case can use a `where` clause to check for additional conditions.
+
+##### Control Transfer Statements
+* A `switch` case that is empty or contains only a comment is a compile-time error. Use a `break` statement, which ends execution of a case immediately, to ignore such a case.
+* A `switch` statement does not fall through the bottom of one case and into the next one, unless that case ends with the `fallthrough` keyword.
+* The `fallthrough` keyword does not check the case conditions for the next `switch` case that it causes execution to fall into.
+* You can mark a loop or `switch` statement with a *statement label*, and use this label with the `break` or `continue` statement to end or continue the execution of the labeled statement.
+
+
+### [Functions](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html)
+
+##### Function Parameters and Return Values
+* Functions without a defined return type return a special value of type `Void`, which is simply an empty tuple that can be written as `()`.
+* If the function returns a tuple, and its return type specifies names for the tuple values, then the tuple's members do not need to be named where the tuple is returned from the function.
+
+##### Function Parameter Names
+* Precede a local parameter name with an *external parameter name* if you want users of your function to provide parameter names when they call your function.
+* If you provide an external parameter name for a parameter, that external name must always be used when you call the function.
+* Use external parameter names whenever the purpose of a function's arguments would be unclear to someone reading your code for the first time.
+* Prefix a local parameter name with `#` to generate an external parameter with the same name.
+* Place parameters with default values at the end of a function's parameter list. This ensures that all calls to the function use the same order for their non-default arguments.
+* Swift provides an automatic external variable name for any parameter that has a default value, ensuring that the argument for that parameter is clear in purpose if a value is provided.
+* A function may have at most one variadic parameter, and it must always appear last in the parameter list, to avoid ambiguity when calling the function with multiple parameters.
+* Variable parameters give you a new modifiable copy of the parameter's value for your function to use. They exist only for the lifetime of that function call.
+* You can only pass a variable as the argument for a parameter with the `inout` keyword, and you must prefix the variable name with `&`.
+
+##### Function Types
+* The *function type* is made up of the parameter types and the return type of a function.
+* To use a function type as the return type of another function, write a complete function type immediately after the return arrow of the returning function.
+
+##### Nested Functions
+* An enclosing function can also return one of its nested functions to allow the nested function to be used in another scope.
+
+
 ### [Enumerations](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
 
 ##### Enumeration Syntax
@@ -171,4 +218,3 @@
 * A *type property* belongs to the type itself, and not any one instance. A constant type property is similar to a static constant in C, while a variable type property is similar to a static variable in C.
 * Unlike stored instance properties, stored type properties must always have a default value. This is because the type itself doesn't have an initializer that can assign a value to such a property at initialization time.
 * You define type properties for value types with the `static` keyword, and type properties for class types with the `class` keyword. 
-
