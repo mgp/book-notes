@@ -148,6 +148,29 @@
 * An enclosing function can also return one of its nested functions to allow the nested function to be used in another scope.
 
 
+### [Closures](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
+* Global functions are closures that have a name and do not capture any values, while nested functions are closures that have a name and can capture values from their enclosing function.
+
+##### Closure Expressions
+* *Closure expressions* provide several syntax optimizations for writing closures in a shortened form without loss of clarity or intent.
+* The `in` keyword indicates that the definition of the closure's parameters and return type has finished, and that the body of the closure is about to begin.
+* If Swift can infer the parameter types and return types of a closure, such as when it's passed to a method, then all the types can be omitted, as well as the enclosing parentheses and the return arrow.
+* It is always possible to infer the parameter types and return type when passing a closure to a function as an inline closure expression.
+* Single-expression closures can implicitly return the result of their single expression by omitting the `return` keyword from their declaration.
+* Swift automatically provides shorthand argument names `$0`, `$1`, etc. These let you omit the closure's argument list from its definition, and the number and type of the shorthand argument names will be inferred from the expected function type.
+
+##### Trailing Closures
+* If a closure expression is provided as the function's only argument and you provide that expression as a trailing closure, you do not need to write `()` after the function's name when you call the function.
+* Trailing closures are most useful when the closure is sufficiently long that it is not possible to write it inline on a single line.
+
+##### Capturing Values
+* In closures, Swift determines what should be captured by reference and what should be copied by value. It also handles all memory management for disposing captured values when no longer needed.
+* If you assign a closure to a property of a class instance, and the closure captures that instance by referring to the instance or its members, you will create a strong reference cycle between the closure and the instance.
+
+##### Closures Are Reference Types
+* Functions and closures are reference types, and so by assigning a closure to two different constants or variables, both of those constants or variables will refer to the same closure.
+
+
 ### [Enumerations](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
 
 ##### Enumeration Syntax
