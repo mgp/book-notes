@@ -241,3 +241,49 @@
 * A *type property* belongs to the type itself, and not any one instance. A constant type property is similar to a static constant in C, while a variable type property is similar to a static variable in C.
 * Unlike stored instance properties, stored type properties must always have a default value. This is because the type itself doesn't have an initializer that can assign a value to such a property at initialization time.
 * You define type properties for value types with the `static` keyword, and type properties for class types with the `class` keyword. 
+
+
+### [Methods](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html)
+Methods are functions that are associated with a particular type.
+
+##### Instance Methods
+* As in Objective-C, the name of a method in Swift typically refers to the method’s first parameter using a preposition such as `with`, `for`, or `by`.
+* Unlike functions, the first parameter name in a method has a local parameter name by default, and the second and subsequent parameter names have both local and external parameter names by default.
+* You can provide an external parameter name for the first parameter either explicitly or by prefixing the `#` symbol, and suppress the external names of subsequent parameters by using the `_` symbol.
+* An instance method has implicit access to all other instance methods and properties of that type, but you can use `self` to refer to a property of the instance instead of an equivalent parameter name.
+* To modify the values of a value type, such as a structure or enumeration, its method must be declared as `mutating`. Any changes made are written back when the method ends.
+* Mutating methods can assign an entirely new instance to the implicit `self` property. For example, a mutating method of an enumeration can set `self` to be a different member of the same enumeration.
+
+##### Type Methods
+* Unlike Objective-C, in Swift you can define type-level methods for all classes, structures, and enumerations.
+
+### [Subscripts](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Subscripts.html)
+
+##### Subscript Syntax
+* Subscript definitions using the `subscript` keyword can be read-write or read-only. This behavior is communicated by a getter and a setter method in the same way as for computed properties.
+* Like with computed properties, you can drop the `get` keyword for read-only subscripts, and the setter can use a default parameter named `newValue` if no parameter is specified.
+
+##### Subscript Usage
+* Subscripts can return an optional type to model the fact that a value will not exist for every parameter value, such as an index or key.
+
+##### Subscript Options
+* Subscripts can take any number of parameters of any type, and return any type. They can use variable parameters and variadic parameters, but cannot use `inout` parameters or provide default parameter values.
+* *Subscript overloading* allows you to define multiple subscript implementations, and a caller will invoke the appropriate one based on the types of the value or values between the braces.
+
+### [Inheritance](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Inheritance.html)
+
+##### Defining a Base Class
+* Swift classes do not inherit from a universal base class.
+
+##### Overriding
+* To override a characteristic that would otherwise be inherited, you prefix your overriding definition with the `override` keyword. This not only clarifies, but guards against errors.
+* An overridden subscript for `someIndex` can access the superclass version of the same subscript as `super[someIndex]` from within the overriding subscript implementation.
+* You can provide a custom getter or setter to override any inherited property, regardless of whether the inherited property is implemented as a stored or computed property at source.
+* You can present an inherited read-only property as a read-write property by providing both a getter and a setter in your subclass property override, but you cannot present an inherited read-write property as a read-only property.
+* If you provide a setter as part of a property override, you must also provide a getter for that override. Simply return `super.someProperty` if you don't want to modify its value.
+* You cannot add property observers defined by `willSet` or `didSet` to inherited constant stored properties or inherited read-only computed properties, because their values cannot be set.
+* You cannot provide both an overriding setter and an overriding property observer for the same property. Instead, simply observe any value changes from within the custom setter.
+
+##### Preventing Overrides
+* Put the modifier `final` before the introducer keyword of a method, property, or subscript to prevent it from being overridden.
+* Put the modifier `final` before the `class` keyword in a class definition to prevent subclassing.
