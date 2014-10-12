@@ -5,7 +5,7 @@ by Steven Krug
 *I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)!*
 
 ### Chapter 1: Don't make me think!
-* pg 11: Kurg's first law of usability is don't make the user think -- what it is and how to use it should be self-evident.
+* pg 11: Krug's first law of usability is don't make the user think -- what it is and how to use it should be self-evident.
 * pg 15: Every question raised adds to our cognitive workload, distracting attention from the task at hand.
 * pg 18: If you can't make a page self-evident, make it self-explanatory, meaning it requires a little thought to comprehend.
 * pg 19: The most important reason to make things self-evident is that users don't spend much time on a page anyway.
@@ -23,10 +23,10 @@ by Steven Krug
 * pg 38: Keep visual busy-ness, or elements clamoring for attention, and background noise to a minimum.
 
 ### Chapter 4: Animal, vegetable, or mineral?
-* pg 41: Kurg's second law of usability is it doesn't matter how many times we have to click, as long as each is an easy choice.
+* pg 41: Krug's second law of usability is it doesn't matter how many times we have to click, as long as each is an easy choice.
 
 ### Chapter 5: Omit needless words
-* pg 45: Kurg's third law of usability is to get rid of half the words on each page, then get rid of half of what's left.
+* pg 45: Krug's third law of usability is to get rid of half the words on each page, then get rid of half of what's left.
 * pg 46: Remove happy talk, which is introductory text that is sociable but content-free.
 * pg 47: Eliminate the need for instructions by making everything self-explanatory, since users muddle through anyway.
 
