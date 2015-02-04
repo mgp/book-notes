@@ -18,7 +18,7 @@ by Michael Fogus
 * A higher-order function is a function that can take a function as an argument, or return a function as a result.
 * Metaprogramming is a programming paradigm that manipulates the basis of the language's execution model.
 * Imperative code operates at a precise level of detail that makes them one-shot implementations at best. This level of detail is often better for compilers than for programmers.
-* Becuase JavaScript is oriented around objects, it must have semantics for self-references, which conflict with the notion of functional programming.
+* Because JavaScript is oriented around objects, it must have semantics for self-references, which conflict with the notion of functional programming.
 * The term *function* means a function that exists on its own, while *method* means a function that is created in the context of an object.
 * Applicative programming is defined as the calling of one function by another function, where the former is provided as an argument to the latter -- such as `map`, `filter`, and `reduce`.
 * Functional programming is collection-centric. As Alan Perlis said, "It is better to have 100 functions operate on one data structure, than 10 functions on 10 data structures."
@@ -27,3 +27,13 @@ by Michael Fogus
 * Functional programming is often about defining a chain of functions, one called after the other, each gradually transforming the result from the last to reach a final solution.
 * Instances with accessor methods lock data up into per-piece of information micro-languages. The associative data technique, by contrast, structures named values to form higher-level data models, accessed in uniform ways.
 * Functional programmers think deeply about their data, the transformations occurring on it, and the hand-over formats between the layers of their applications.
+
+#### Chapter 3: Variable Scope and Closures
+
+* The term "scope" has various meaning among JavaScript programmers, but this book defines it as the variable value resolution scheme, or the lexical bindings.
+* Lexical scope refers to the visibility of a variable and its value analogous to its textual representation, or in accordance with its surrounding source code.
+* Dynamic scoping uses a global table of named values, which any function can modify. Its trouble therefore lies in that the value of any given binding cannot be known until the caller of any given function is known.
+* JavaScript makes selective use of dynamic scoping by allowing manipulating of the `this` reference through the use of `apply` or `call`.
+* In JavaScript, all `var` declarations in a function body are implicitly moved to the top of the function, which is called *hoisting*.
+* A closure is a function that captures the external bindings contained in the scope in which it was defined for later use, even after that scope has completed.
+* Free variables are those variables that will be closed over in the creation of a closure. They are carried along for later use in inner functions that are returned by their enclosing functions.
