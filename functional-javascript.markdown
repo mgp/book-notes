@@ -37,3 +37,16 @@ by Michael Fogus
 * In JavaScript, all `var` declarations in a function body are implicitly moved to the top of the function, which is called *hoisting*.
 * A closure is a function that captures the external bindings contained in the scope in which it was defined for later use, even after that scope has completed.
 * Free variables are those variables that will be closed over in the creation of a closure. They are carried along for later use in inner functions that are returned by their enclosing functions.
+
+#### Chapter 4: Higher-Order Functions
+
+* A higher-order function is a first-class function that either takes a function as an argument, or returns a function as a result.
+* By changing a function so that it exposes a function instead of a value, you open up a world of flexibility to the call site.
+* A feed-forward function is where the result of some call to a passed function is fed into the next call of the function as its argument.
+* While you can directly invoke a particular method on an instance, a functional style prefers functions that take the invocation target as an argument.
+* You might want to create a function that returns another function because the arguments to the higher-order function "configure" the behavior of the returned function.
+* Closing over a free variable ensures that the client of the returned function cannot manipulate the value of that variable.
+* A *referentially transparent* function relies only on its arguments for the value that it will return. This allows you to replace any call to a function with its expected value without breaking your program.
+* The functional style has a propensity to build higher-level parts from lower-level functions.
+* Returning a function from another function, and taking advantage of captured arguments along the way, is known as currying.
+* We can view functional programming as a virtual assembly line, where data is fed into one end of a functional "machine," transformed and optionally validated along the way, and returned at the end as something else.
