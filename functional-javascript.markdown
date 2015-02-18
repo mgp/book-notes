@@ -50,3 +50,29 @@ by Michael Fogus
 * The functional style has a propensity to build higher-level parts from lower-level functions.
 * Returning a function from another function, and taking advantage of captured arguments along the way, is known as currying.
 * We can view functional programming as a virtual assembly line, where data is fed into one end of a functional "machine," transformed and optionally validated along the way, and returned at the end as something else.
+
+#### Chapter 5: Function-Building Functions
+
+* Polymorphic functions are functions that exhibit different behaviors based on their arguments.
+* The essence of functional composition is using existing parts in well-known ways to build up new behaviors.
+* Mutation is a low-level operation. It is acceptable if it happens within the confines of a function and if it never escapes.
+* For every logical parameter, a curried function will keep returning a gradually more configured function until all parameters have been filled.
+* One reason for currying from the right is that partial application handles working from the left, and between them, they have both directions covered.
+* A currying function that takes a function and returns a function expecting only one parameter can be used to ignore additional optional parameters expected by the function.
+* If an API uses higher-order functions, then curried functions, at least to one parameter, are appropriate.
+* JavaScript works against currying because it allows a variable number of arguments to functions, which exhibit different behavior given their number of type.
+* Partial application does not work with one function at a time, but instead stores the partially applied arguments for later execution, given the remaining arguments.
+* Use of partial application can lead to fluent APIs, which in turn makes your code declarative, specifying what is to happen rather than how.
+* Functions that compose other functions should themselves compose.
+
+#### Chapter 6: Recursion
+
+* Recursion is important because it applies a single abstraction to multiple subsets of a common problem, it can hide mutable state, and it can implement laziness and infinitely large structures.
+* When writing a self-recursive function, know when to stop, decide how to take one step, and break the problem into that step and a smaller problem.
+* An accumulator argument is a common technique in recursion for communicating information from one recursive call to the next.
+* If the last action of a function is a recursive call, then it is tail recursive. This means that there is no way the function body will be used again, and its resources can be deallocated.
+* Using a nested function is a common way to hide accumulators in recursive calls.
+* Two or more functions that call one another are known as mutually recursive.
+* To avoid making too many recursive calls and "blowing the stack," a function can return another function that wraps the call to the mutually recursive function instead of calling it directly.
+* A *trampoline* repeatedly calls the return value of a function until its no longer a function, and can thereby flatten out the recursive calls.
+* Recursion is a low-level operation and should be avoided if possible; instead, combine higher-order functions to create new functions.
