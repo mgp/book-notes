@@ -76,3 +76,16 @@ by Michael Fogus
 * To avoid making too many recursive calls and "blowing the stack," a function can return another function that wraps the call to the mutually recursive function instead of calling it directly.
 * A *trampoline* repeatedly calls the return value of a function until its no longer a function, and can thereby flatten out the recursive calls.
 * Recursion is a low-level operation and should be avoided if possible; instead, combine higher-order functions to create new functions.
+
+#### Chapter 7: Purity, Immutability, and Policies for Change
+
+* A pure function returns a result that is calculated only from the values of its arguments, and cannot rely on or change state outside of its body.
+* When you attempt to test functions that rely on the vagaries of external conditions, then all test cases must set up those same conditions for the very purpose of testing.
+* Because JavaScript passes object references around, every function that takes an object or an array is subject to impurity.
+* Pure functions allow for the easy composition of functions and makes replacing any given function in your code with an equivalent function, or even the expected value, trivial.
+* By viewing the function as the basic unit of abstraction, the implementation details of functions are irrelevant as long as they do not "leak out."
+* If you compose two pure functions, then the resulting function is also pure. Therefore try and create pure abstractions around impure ones.
+* Immutable objects should take their values at construction time and never change again afterward. All operations on them should return new instances.
+* A language like JavaScript can only provide so much safety, and the burden is therefore on us to adhere to strictures that ensure that our programming practices are as safe as possible.
+* Factory methods allow returning different types for different construction arguments, allow changing the returned type without changing each call site, are a seam for preconditions, and are composable.
+* The way to control the scope of change is to isolate the thing that changes. Instead of changing an object in-place, a better strategy may be to hold the object in a container and change that instead.
