@@ -89,3 +89,13 @@ by Michael Fogus
 * A language like JavaScript can only provide so much safety, and the burden is therefore on us to adhere to strictures that ensure that our programming practices are as safe as possible.
 * Factory methods allow returning different types for different construction arguments, allow changing the returned type without changing each call site, are a seam for preconditions, and are composable.
 * The way to control the scope of change is to isolate the thing that changes. Instead of changing an object in-place, a better strategy may be to hold the object in a container and change that instead.
+
+#### Chapter 8: Flow-Based Programming
+
+* In Underscore, the `tap` method allows you to inspect an intermediate value belonging to the wrapper object used by `chain`.
+* A function that wraps some behavior for later execution is typically called a *thunk*.
+* jQuery promises are intended to provide a fluent API for sequencing asynchronous operations that run concurrent to the main program logic.
+* Unlike a chain of lazily evaluated thunks, a jQuery promise calculates a value that is available on demand after the promise is executed.
+* The primary problem of method chains is very often they mutate some common reference from one call to the next, whereas functional APIs perform nondestructive transformations that return new values.
+* Indirection and deep function nesting can obscure how functional programming transforms data from one function to the next, but pipelines can make this data flow more explicit.
+* Composing functions that accept parameters and return values of different "shapes" is possible using intermediate state and functions that return answers and update that state separately.
