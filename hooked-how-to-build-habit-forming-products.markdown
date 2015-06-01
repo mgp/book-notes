@@ -56,3 +56,17 @@ by Nir Eyal and Ryan Hoover
 * With the framing effect, perception alone can form a personal reality, even if there is little relationship with objective quality.
 * The anchoring effect leads people to anchor to one piece of information when making a decision, while ignoring other factors.
 * With the endowed progress effect, users are more likely to complete an action if the product communicates that they have already made some progress.
+
+#### Ch 4: Variable Reward
+
+* With the promise of a reward, what draws us to act is not the sensation we receive from the reward itself, but the need to alleviate the craving for the reward.
+* Variable rewards come in three types: *tribe*, *hunt*, and *self*. Habit-forming products utilize one or more of these variable reward types.
+* Rewards of the tribe are social rewards that are driven by our connectedness with other people. We seek awards that make us feel accepted, attractive, important, and included.
+* Once we hunted for food for survival. That same determination, or the rewards of the hunt, is what keeps us wanting and buying today.
+* Rewards of the self are fueled by "intrinsic motivation," where we seek to gain a sense of competency.
+* Variable rewards are not a panacea. Rewards must fit into the narrative of why the product is used and align with the user's internal triggers and motivations.
+* "Reactance" is a response to a threat to our autonomy. By coupling a request with an affirmation of the right to choose, reactance is kept at bay, and compliance increases.
+* No one makes us use the most successful consumer technologies. A company should not build a product betting users will do what they make them do, instead of letting users do what they wan to do.
+* Companies that successfully change behavior present users with an implicit choice between their old way of doing things and a new, more convenient way to fulfill existing needs.
+* Experiences with finite variability eventually become predictable and thus less engaging. Products with infinite variability maintain user interest by sustaining variability with use.
+* Understanding what moves users to return to habit-forming products gives designers an opportunity to build products that align with their interests.
