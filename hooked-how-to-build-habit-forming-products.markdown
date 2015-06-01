@@ -42,3 +42,17 @@ by Nir Eyal and Ryan Hoover
 * In the case of internal triggers, the information about what to do next is encoded as a learned association in the user's memory.
 * To design a product, we must know users' internal triggers, or the pain they seek to solve. But asking to users to reveal these wants is ineffective, since users don't know which emotions motivate them.
 * The "5 Whys Method," used by Toyota, asks to ask the question "why" as many times as it takes to reach an emotion explaining why someone uses a product. This usually happens by the fifth "why."
+
+#### Ch 3: Action
+
+* Dr. BJ Fogg of Stanford posits that to initiate any behavior, the user must have motivation, the user must have the ability to complete the action, and a trigger must be present to active the behavior.
+* He states that we are motivated to seek pleasure and avoid pain, seek hope and avoid fear, and seek social acceptance and avoid rejection. These sides can increase or decrease motivation.
+* An ad that motivates some people will not motivate others, which is all the more reason to understand the needs of your particular target audience.
+* Any technology or product that significantly reduces the steps to complete a task will enjoy high adoption rates by the people it assists. Easier equals better.
+* Fogg describes "six elements of simplicity," which influence a task's difficulty: Time, money, physical effort, brain cycles, deviation from social norms, and deviation from routine.
+* To increase the likelihood of a behavior occurring, Fogg instructs designers to focus on simplicity as a function of the user's scarcest resource at that moment.
+* Prioritize increasing ability over motivation. Increasing motivation is expensive and time consuming. But increasing a product's ease-of-use has the greatest return. 
+* The scarcity effect states that a product can decrease in perceived value if it starts off as scarce and becomes abundant.
+* With the framing effect, perception alone can form a personal reality, even if there is little relationship with objective quality.
+* The anchoring effect leads people to anchor to one piece of information when making a decision, while ignoring other factors.
+* With the endowed progress effect, users are more likely to complete an action if the product communicates that they have already made some progress.
