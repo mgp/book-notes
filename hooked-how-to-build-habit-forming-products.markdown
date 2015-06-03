@@ -83,3 +83,13 @@ by Nir Eyal and Ryan Hoover
 * Progressively stage the investment you want from the user into small chunks of work, starting with small, easy tasks and building up to harder tasks through successive cycles of the Hook model.
 * To create a habit, the user must go through multiple cycles of the hook model. Therefore, a product should load the next trigger when the user invests in it.
 
+#### Ch 6: What Are You Going To Do With This?
+
+* The hook model has us look for the internal trigger, form the external trigger, the simplest action, the variable reward, and the investment that loads the next trigger.
+* The manipulation matrix has two questions as its axes: "Would I use the product myself?" and "Will the product help users materially improve their lives?"
+* You are a facilitator when you create something that you will actually use and that you believe makes the user's life better, because you are facilitating a healthy habit.
+* You are a facilitator if you have experienced the problem firsthand, and you are building something that you would use now, or would have used if you were younger.
+* Estimates for pathological users of the most habit-forming technologies, such as slot machines gambling, is just one percent. Addiction manifests in people with a certain psychological profile.
+* You are a peddler if you create something that you believe is useful, but that you don't use. Consequently, designing a successful product is difficult because you lack the empathy and insight of users.
+* You are an entertainer if you create something that you would use, but it is not useful. But entertainment is ephemeral, and so building an entertainment enterprise is tiring.
+* You are a dealer if you create something that you would not use, and which is not useful. It is exploitive and you are likely only looking to make a buck.
