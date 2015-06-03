@@ -70,3 +70,16 @@ by Nir Eyal and Ryan Hoover
 * Companies that successfully change behavior present users with an implicit choice between their old way of doing things and a new, more convenient way to fulfill existing needs.
 * Experiences with finite variability eventually become predictable and thus less engaging. Products with infinite variability maintain user interest by sustaining variability with use.
 * Understanding what moves users to return to habit-forming products gives designers an opportunity to build products that align with their interests.
+
+#### Ch 5: Investment
+
+* Adopting the "IKEA effect," businesses that leverage user effort confer higher value to their products simply because their users have put work into them.
+* We seek consistency with our past behaviors. It is easier to make a small investment followed by a large investment, instead of a large investment outright.
+* We irrationally change our preferences and view of the world to ease cognitive dissonance, or to reconcile two conflicting ideas.
+* Collectively these tendencies lead to a mental process known as rationalization, which helps us give reasons for our behaviors, even if those reasons might have been designed by others.
+* Investments are about the anticipation of longer-term rewards, not immediate gratification.
+* The investment phase increases friction; it is not effortless. The timing of asking for investment is critical, and should come soon after the reward.
+* Investing time and effort into learning to use a product is a form of investment and stored value. It becomes more familiar, and thus more simple.
+* Progressively stage the investment you want from the user into small chunks of work, starting with small, easy tasks and building up to harder tasks through successive cycles of the Hook model.
+* To create a habit, the user must go through multiple cycles of the hook model. Therefore, a product should load the next trigger when the user invests in it.
+
