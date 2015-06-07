@@ -93,3 +93,20 @@ by Nir Eyal and Ryan Hoover
 * You are a peddler if you create something that you believe is useful, but that you don't use. Consequently, designing a successful product is difficult because you lack the empathy and insight of users.
 * You are an entertainer if you create something that you would use, but it is not useful. But entertainment is ephemeral, and so building an entertainment enterprise is tiring.
 * You are a dealer if you create something that you would not use, and which is not useful. It is exploitive and you are likely only looking to make a buck.
+
+#### Ch 7: Case Study: The Bible App
+
+* If you build only for fame or fortune, you will likely find neither. But build for meaning and you can't fail.
+
+#### Ch 8: Habit Testing And Where To Look For Habit-Forming Opportunities
+
+* The Hook Model can help filter out bad ideas with low habit potential, and identify room for improvement in existing products. But building habit-forming products is still an iterative process.
+* "Habit Testing" helps clarify who your devotees are, what parts of your product are habit forming, and why those aspects of your product are changing user behavior.
+* First, define engagement targets for a devoted user. Then dig into the numbers and identify how many and which type of users meet this threshold.
+* If you classify less than five percent of your users as habitual users, then either you identified the wrong users or your product needs to go back to the drawing board.
+* Among those habitual users, look for similarities of behavior. This is the "Habit Path," or the actions that are critical for creating devoted users. Modify the experience to promote this behavior.
+* Tracking users by cohort and comparing their activity to habitual users should guide how products evolve and improve.
+* First and foremost, observing your own behavior can inspire the next habit-forming product or inform a breakthrough improvement to an existing solution.
+* By looking to early adopters who have already developed nascent behaviors, we can identify niche use cases that can be taken mainstream.
+* Technology happens in waves. Infrastructure advances combine with enabling technologies and platforms to create the basis for new applications, which lead to penetration and customer adoption.
+* Changing user interactions with products can create new routines, which in turn can form new habits. To uncover these user interface changes, look forward, toward the future.
