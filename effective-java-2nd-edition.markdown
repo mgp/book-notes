@@ -262,7 +262,7 @@ by Joshua Bloch
 * Throw an `IndexOutOfBoundsException` instead of an `IllegalArgumentException` if the caller passes in an invalid index for a sequence.
 
 #### Item 61: Throw exceptions appropriate to the abstraction
-* Use exception translation, where low-level exceptions are caught and exceptions appropriate to the hgher-level abstraction are thrown.
+* Use exception translation, where low-level exceptions are caught and exceptions appropriate to the higher-level abstraction are thrown.
 * If an exception does not have a chaining-aware constructor, use the `initCause` method of `Throwable`.
 * Try to avoid low-level exceptions by checking the higher-level method's parameters upfront.
 
