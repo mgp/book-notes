@@ -32,7 +32,7 @@ by Joshua Bloch
 * Caches, listeners, and callbacks can all be sources of memory leaks, but weak references can help.
 
 #### Item 7: Avoid finalizers
-* Do not think of finalizers as Java's analgoue of C++ destructors -- there's no guarantee finalizers will be called at all!
+* Do not think of finalizers as Java's analogue of C++ destructors -- there's no guarantee finalizers will be called at all!
 * If an uncaught exception is thrown in a finalizer, it is ignored, and the finalization abruptly terminates.
 * There is a severe performance penalty for using finalizers -- object creation and deletion increases from nanoseconds to microseconds.
 
