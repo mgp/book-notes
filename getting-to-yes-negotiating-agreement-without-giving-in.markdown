@@ -182,3 +182,68 @@ by Roger Fisher and William Ury
 * Find a precedent that can serve as an objective standard for your request. Use it to generate options that take their point of view into account, recognizing their desire to be consistent.
 * Concentrate both on making the other party aware of the consequences they can expect if they do decide as you wish, and on improving those consequences from their point of view.
 * To evaluate an option from the other side's point of view, consider how they might be criticized if they adopted it. Write out a hypothetical criticism, and their hypothetical defense.
+
+#### Ch 5: Insist on Using Objective Criteria
+
+##### The case for using objective criteria
+
+* The more you bring standards of fairness, efficiency, or scientific merit to bear on your particular problem, the more likely a wise and fair outcome.
+* Benefit from past experience by referring to precedent and community practice. An agreement consistent with precedent is less vulnerable to attack.
+* People using objective criteria tend to use time more efficiently talking about possible standards and solutions, rather than defending their position and attacking the other side's position.
+
+##### Developing objective criteria
+
+* Objective criteria need to be independent of each side's will. Ideally, to ensure a wise agreement, it should also be both legitimate and practical. It should also apply to both sides.
+* To produce an outcome independent of will, use fair standards for the substantiative question, or fair procedures for resolving the conflicting interest.
+* Look at basic procedural means of settling differences, such as "one cuts, the other chooses," "last-best-offer arbitration," taking turns, drawing lots, letting someone else decide, and so on.
+
+##### Negotiating with objective criteria
+
+* Three basic points: Frame each issue as a joint search for objective criteria; reason and be open to reason about their application; and never yield to pressure, only principle.
+* When the other side makes a proposal, ask the theory behind it. Treat the problem as though the other side is looking for an outcome based on objective criteria.
+* Your case will have more impact if it is presented in terms of the criteria or standards that the other side proposes. To them, deferring to it is not an act of weakness, but an act of strength.
+* Insisting for objective criteria does not mean insisting on the criterion that you advance. One standard of legitimacy does not preclude the existence of others.
+* When each party is advancing a different standard, look for an objective basis on deciding between them, such as which has been used by the parties in the past, or which is more widely applied.
+* It's the openness to reason and the insistence on a solution based on objective criteria that makes principled negotiation so persuasive and so effective at getting the other side to play.
+* Pressure can take many forms, such as a bribe, a threat, a manipulative appeal to trust, or a simple refusal to budge. Do not yield to each case of pressure; only yield to principle.
+* If pressured, always invite them to state their reasoning, suggest objective criteria you think may apply, and refuse to budge except on this basis.
+
+#### Ch 6: What If They Are More Powerful?
+
+* In response to power, the best any method of negotiation can do is to protect you against making an agreement that you should reject, and to make the most of the assets that you have.
+
+##### Protecting Yourself
+
+* Having a bottom line, or the worst acceptable outcome, makes it easier to resist pressure and temptations of the moment.
+* But a bottom line is rigid, thereby limiting your ability to learn and your incentive to invent creative solutions. It can also be too high, steering you away from an agreement that you should accept.
+* You negotiate to produce something better than the results you could get without negotiating. That is the BATNA, or the Best Alternative To Negotiated Agreement.
+* Measure all proposed agreements against your BATNA. It is not only a better measure, but is flexible enough to permit the exploration of imaginative solutions.
+
+##### Making the most of your assets
+
+* The relative negotiating power of two parties depends primarily on how attractive to each is the option of not reaching agreement.
+* Generating BATNAs requires listing actions you might conceivably take if no agreement is reached, converting the better ones to practical alternatives, and selecting the one that seems best.
+* A strong BATNA will facilitate breaking off negotiations, thereby allowing you to more forcefully present your interests and the basis on which you think an agreement should be reached.
+* Reveal your BATNA to the other side if it is extremely attractive, or if they think you lack a BATNA. Don't reveal it if it is worse for you than they think.
+* Consider the BATNA of the other side. If they appear to overestimate their BATNA, you will want to help them think through whether their expectations are realistic.
+* If both sides have attractive BATNAs, the best outcome for both parties may well be to not reach an agreement. 
+
+#### Ch 7: What If They Won't Play?
+
+* If the other side focuses on positions and not merits, and principled negotiation fails, then you can play negotiation jujitsu, or you can include a third party.
+
+##### Negotiation jujitsu
+
+* If the other side has a firm position and criticizes your proposal, then rejecting their position only locks them in, and defending your position only locks you in.
+* Instead, when they assert their positions, do not reject them. When they attack your ideas, do not defend them. Instead, sidestep attacks and deflect them against the problem.
+* First, don't attack their position, but look behind it. Treat it one possible option. Look for the interests behind it, seek out the principles that it reflects, and think about ways to improve it.
+* Second, don't defend your ideas, but invite criticism and advice. This leads them to confront your half of the problem, and they may even invent a solution that meets your concerns.
+* When the other side attacks you personally, listen and show that you understand what they are saying. Then recast their attack on you as an attack on the problem.
+* Use questions instead of statements. They generate answers, pose challenges, lead the other side to confront the problem, offer no position to attack, and educate instead of criticize.
+* Also, use silence. It creates the impression of a stalemate that the other side will feel impelled to break by answering your question or creating a new suggestion.
+
+##### Consider the one-text procedure
+
+* More easily than the parties involved, a mediator can separate people from problems, direct the discussion to interests and options, suggest an impartial basis for resolving differences, and more.
+* In the one-text procedure, a third party learns about both parties' needs and interests, and iterates with them on a solution. Finally both parties must jointly accept it or reject it.
+* The one-text procedure is almost essential for large multilateral negotiations. It simplifies the process of decision-making without diminishing the quality of the outcome.
