@@ -247,3 +247,33 @@ by Roger Fisher and William Ury
 * More easily than the parties involved, a mediator can separate people from problems, direct the discussion to interests and options, suggest an impartial basis for resolving differences, and more.
 * In the one-text procedure, a third party learns about both parties' needs and interests, and iterates with them on a solution. Finally both parties must jointly accept it or reject it.
 * The one-text procedure is almost essential for large multilateral negotiations. It simplifies the process of decision-making without diminishing the quality of the outcome.
+
+#### Ch 8: What If They Use Dirty Tricks?
+
+##### How do you negotiate about the rules of the game?
+
+* When the other side is using a tricky tactic, you must recognize the tactic, raise the issue explicitly, and then question its legitimacy and desirability, i.e. negotiate over it.
+* Upon recognizing the tactic, bringing it up makes it less effective, makes the other side worry about alienating you completely, and gives you opportunity to discuss the rules of the game.
+
+##### Some common tricky tactics
+
+* Tricky tactics can be divided into deliberate deception, psychological warfare, and positional pressure tactics.
+
+##### Deliberate deception
+
+* Be wary of false statements. So unless you have reason to trust somebody, don't; do not let someone treat your doubts as a personal attack.
+* Where the issue is one of possible misrepresentation of their intention to comply with the agreement, try to build compliance features into the agreement itself.
+
+##### Psychological warfare
+
+* It is sometimes advantageous to meet on the other side's turf: It may put them at ease and make them more open to suggestion, and if necessary, it will be easier for you to walk out.
+* If you are personally attacked, simply recognizing the tactic will help nullify its effect. Bringing it up will probably prevent a recurrence.
+* Do not use threats; they make the decision harder for the other side. The question is no longer "Should we make this decision?" but "Shall we cave into outside pressure?"
+* Instead of threats, appeal to warnings, or consequences of the other side's action that will occur independently of your will.
+* You can warn the other side about your likely actions in the event of no agreement, as long as you demonstrate that such actions are intended to safeguard your interests, and not to punish the other side.
+
+##### Personal pressure tactics
+
+* If the other side makes an extreme demand, call attention to it. Such a demand that both you and they know will be abandoned undermines their credibility.
+* Faced with a lock-in tactic, interpret the commitment as to weaken it, or resist it on principle. But avoid making it a central question so that the other party can gracefully back down.
+* Faced with a take-it-or-leave-it tactic, inform them what they have to lose if no agreement is reached and look for a graceful way for them to get out of the situation.
