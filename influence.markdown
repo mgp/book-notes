@@ -54,3 +54,48 @@ by Robert B. Cialdini, Ph.D.
 * Declining the requester's first offer is not a good strategy, for you cannot assess whether it is honest or the initial step in an exploitation attempt.
 * By default, accept the gift and engage in the "honored network of obligation" that has served humanity so well, until you realize that it is a tactic for compliance.
 * Upon being confronted with a compliance tactic, mentally redefine the initial offering as a weapon of that tactic, and you will free yourself from the reciprocity rule.
+
+#### Ch 3: Commitment and Consistency
+
+* Once we have made a decision, we will encounter personal or interpersonal pressures to behave consistently with it, and consequently respond in ways that justify it.
+* The drive to be and look consistent constitutes a highly potent weapon of social influence, often causing us to act in ways which are clearly contrary to our own best interests.
+* Inconsistent people are seen as indecisive, confused, two-faced, or even mentally ill. Consistent people are seen as having personal and intellectual strength.
+* Maintaining consistency means we don't have to think hard about an issue anymore, letting us cope with complex environments that make demands on our mental energies and capacities.
+* Furthermore, automatic consistency can supply a safe hiding place from disturbing things that we would rather not realize.
+* Exploiters can structure their interactions with us so that our own need to be consistent with lead directly to their benefit.
+
+##### COMMITMENT IS THE KEY
+
+* Once someone makes a commitment, or takes a stand or goes on record, then there is a natural tendency to behave in ways that are stubbornly consistent with that commitment.
+* Many salespeople use the "foot-int-the-door" technique, or obtain a large purchase by starting with a small one. The purpose of this small one is not profit, but commitment.
+* Making a small agreement can also change our self-image, which in turn increases our willingness to comply with larger requests that are only remotely connected to the small one.
+* Once you have a man's self image where you want it, he should comply naturally with a whole range of requests that are consistent with his view of himself.
+
+##### The Magic Act
+
+* Our behavior informs us about ourselves; it is a primary source of information about our beliefs and values and attitudes.
+* A written statement is not just a lasting personal reminder of one's action, but is also likely to persuade those around him that his statement reflected his actual beliefs.
+* What those around us think is true is enormously important for what we ourselves think is true.
+
+##### The Public Eye
+
+* Public commitments tend to be lasting commitments. And the more public the commitment, the more reluctant we will be to change it.
+
+##### The Effort Extra
+
+* Written commitments require more effort than verbal ones. And the more effort goes into a commitment, the greater its ability to influence the attitudes of the person who made it.
+* Persons who go through a great deal of trouble or pain to attain something tend to value it more highly than persons who attain the same thing with a minimum of effort.
+* This applies to any effortful and troublesome initiation rite, where the loyalty and dedication of those who emerge will increase the chances of group cohesion and survival.
+
+##### The Inner Choice
+
+* We accept inner responsibility for a behavior when we think we have chosen to perform it in the absence of strong outside pressures, such as a large reward or strong threat.
+* Consequently, we must arrange for our children to accept inner responsibility for the actions that we want them to take, and not heavily bribe or threaten them for compliance.
+* Once we have made a commitment, we find new reasons that support or justify our commitment.
+* The "lowball technique" is to induce a commitment, wait for the commitment to stand on its own with the help of these new reasons, and then remove the inducement.
+* If the lowball technique is used for good, then removing the inducement may even heighten the commitment by a person, as he or she can now fully own the commitment.
+
+##### HOW TO SAY NO
+
+* When your stomach tells you that you would be a sucker to make a commitment simply because it would be consistent with a prior commitment, relay that message to the requester.
+* We may experience true feelings about something a split second before we can intellectualize, or even rationalize, about it. This is the signal from our heart of hearts.
