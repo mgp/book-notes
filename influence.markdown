@@ -99,3 +99,111 @@ by Robert B. Cialdini, Ph.D.
 
 * When your stomach tells you that you would be a sucker to make a commitment simply because it would be consistent with a prior commitment, relay that message to the requester.
 * We may experience true feelings about something a split second before we can intellectualize, or even rationalize, about it. This is the signal from our heart of hearts.
+
+#### Ch 4: Social Proof
+
+* The principle of social proof states that one means we use to determine what is correct is to find out what other people think is correct.
+* This applies especially to what constitutes correct behavior. We view behavior as more correct in a given situation to the degree that we see others performing it.
+* Sales and motivation consultant Cavett Robert said: "Since 95 percent of the people are imitators and only 5 percent initiators, people are persuaded more by the actions of others..."
+
+##### CAUSE OF DEATH: UNCERTAIN(TY)
+
+* When we are unsure of ourselves, when the situation is unclear or ambiguous, when uncertainty reigns, we are most likely to look to and accept the actions of others as correct.
+* But others are probably examining the social evidence, too, leading to the phenomenon of "pluralistic ignorance." which is the underlying cause of the bystander effect.
+* The bystander effect happens because the personal responsibility of each individual is reduced, and pluralistic ignorance, where everyone else is looking around instead of taking action.
+* Pluralistic ignorance is strongest when among strangers, because we like to look poised in public, and because we are unfamiliar with the reactions of those we don't know.
+* The confusion, populousness, and low level of acquaintanceship in urban environments fit very well with the factors shown by research to decrease bystander aid.
+
+##### Devictimizing Yourself
+
+* If you need aid, be precise as possible about your need for it. And request assistance from a single individual instead of making a general request for help.
+
+##### MONKEY ME, MONKEY DO
+
+* We will use the actions of others to decide on proper behavior for ourselves, especially when we view those others as similar to ourselves.
+* The Werther Effect is where, in a morbid illustration of the principle of social proof, people who read of another's self-inflicted death kill themselves in imitation.
+* Widely publicized aggression has the tendency to spread to spread to similar victims, no matter whether the aggression is inflicted on the self or on the other.
+* No leader can persuade all the members of a group. But one can persuade a sizeable portion of the group members, which in turn can convince the rest.
+* Thus the most influential leaders, then, are those who know how to arrange group conditions to allow the principle of social proof to work maximally in their favor.
+
+##### HOW TO SAY NO
+
+* Social proof can give us poor counsel when the social evidence has been purposefully falsified. Fortunately, much of this fakery is strikingly obvious.
+* The transparency of rigged social proof provides us with exactly the cue we need for knowing when to disengage our "automatic pilot" and correct our course.
+* When an innocent, natural error produces snowballing social proof that pushes us to an incorrect decision, it is also a liability.
+* In this situation, we assume that a large group of people doing the same thing are somehow better informed, but they are also simply reacting to the principle of social proof.
+* We should periodically check that the social proof aligns with sources of evidence in a situation, such as the objective facts, prior experiences, and our own judgments.
+
+#### Ch 5: Liking
+
+* As a rule, we prefer to say yes to the requests of someone whom we know and we like.
+* Compliance professionals know and exploit this; they arrange for customers to buy from and for a friend, or arm themselves with the name of a friend who recommends their services.
+
+##### Physical Attractiveness
+
+* A halo effect is when one positive characteristic of a person dominates their perception by others. Physical attractiveness is often such a characteristic.
+* We assign to good-looking individuals traits such as talent, kindness, honesty, and intelligence, all while unaware that physical attractiveness plays a role in this process.
+* Adults view aggressive acts as less naughty when performed by an attractive child, and teachers presume attractive children to be more intelligent.
+
+##### Similarity
+
+* We like people who are similar to us in the area of opinions, personality traits, background, or lifestyle.
+
+##### Compliments
+
+* We are suckers for flattery. Although there are limits to our gullibility, we tend to believe praise and to like those who provide it, oftentimes when it is clearly fake.
+
+##### Contact and Cooperation
+
+* Our attitude toward something is influenced by the number of times we have been exposed to it in the past.
+* Repeated contact with something doesn't necessarily cause greater liking. Exposure under conditions such as frustration, conflict, or competition leads to less liking.
+* Cooperation begets liking, and so compliance professionals insist that they are working for the same goals as us, and that we must "pull together" for mutual benefit.
+
+##### Conditioning and Association
+
+* We dislike a person who brings us unpleasant information, even if that person did not cause the bad news. The principle of association also holds for positive connections.
+* Our mothers taught us "guilt by association" when they warned us about being known by the company that we kept. People assume that we have the same personality traits as our friends.
+* Under the "luncheon technique," we become fonder of the people and things that we experience while eating, as we attach to them the positive feeling that arises from eating good food.
+* We understand the association principle well enough to strive to link ourselves to positive events, and to separate ourselves from negative events.
+* Issac Asimov said that you root for your own sex, your own culture, your own locality. Whoever you root for represents you, and when he wins, you win.
+* If we can surround ourselves with success that we are connected to in even a superficial way, then our public prestige will rise.
+* When our public image is damaged, we will try to restore that image by trumpeting our ties to successful others, and avoid publicizing our ties to failing others.
+* While some try to inflate their visible connections to others of success, others may strive to inflate the success of others they are visibly connected to.
+
+##### HOW TO SAY NO
+
+* We cannot guard against the wide range of liking-related factors. Instead we can only monitor for liking the practitioner more than we should under the circumstances.
+* Upon such recognition, actively disliking the practitioner may not serve our own interests. Instead, we must mentally separate the practitioner from the item of sale.
+
+#### Ch 6: Authority
+
+* The Milgram experiments show that "it is the extreme willingness of adults to go to almost any lengths on the command of an authority."
+* A layered and widely accepted system of authority allows the development of sophisticated structures for resource production, trade, defense, expansion, and social control.
+* Information from a recognized authority can provide us with a valuable shortcut for deciding how to act in a situation.
+* Authority figures can bestow wisdom, and taking their advice can prove beneficial -- partly because of that wisdom, and partly because they controlled our rewards and punishments.
+* In many situations where a legitimate authority has spoken, what would otherwise make sense is irrelevant. We don't consider the situation as a whole, but respond only to one aspect of it.
+
+##### CONNOTATION, NOT CONTENT
+
+* Responding to authority is a reflex, and we are often as vulnerable to the symbols of authority as we are to the substance.
+
+##### Titles
+
+* Titles take years of work and achievement to earn, but one who puts in no effort can adopt the mere label and receive a kind of automatic deference.
+* We see size and status as related. People with more prestigious titles are judged taller than those without, and taller people are seen as more authoritative.
+
+##### Clothes
+
+* We respond with mechanical compliance to those who are in uniform, and to those who are well dressed. Both of which are also easily fakable.
+
+##### Trappings
+
+* Trappings such as jewelry and cars also symbolize authority. We are more patient and more forgiving of drivers in new, luxury cars than in older, economy ones.
+
+##### HOW TO SAY NO
+
+* A heightened awareness of authority power, coupled with a recognition for how easily authority symbols can be faked, can help guard against manipulation involving authority.
+* When confronted by an authority figure, ask if he or she is truly an expert. Focus on the authority's credentials and the relevance of those credentials to the topic at hand.
+* Before submitting to authority influence, we should ask how truthful we can expect the expert to be. Even the best informed authorities may not present their information honestly.
+* Compliance practitioners will seem to argue to a degree against their own interests, which can be a subtly effective device for proving their honesty.
+* By establishing truthfulness on minor issues, a compliance professional can then be more believable when stressing the important aspects of their argument.
