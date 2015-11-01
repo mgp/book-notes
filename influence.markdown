@@ -207,3 +207,36 @@ by Robert B. Cialdini, Ph.D.
 * Before submitting to authority influence, we should ask how truthful we can expect the expert to be. Even the best informed authorities may not present their information honestly.
 * Compliance practitioners will seem to argue to a degree against their own interests, which can be a subtly effective device for proving their honesty.
 * By establishing truthfulness on minor issues, a compliance professional can then be more believable when stressing the important aspects of their argument.
+
+#### Ch 7: Scarcity
+
+* Potential loss plays a huge part in decision making. We seem to be more motivated by the thought of losing something than by the thought of gaining something of equal value.
+* Opportunities seem more valuable to us when their availability is limited. Compliance professionals employ this with "limited number" and "deadline" tactics.
+
+##### PSYCHOLOGICAL REACTANCE
+
+* The scarcity principle trades on our weakness for shortcuts, namely that things which are difficult to possess are typically better than things which are easy to possess.
+* Additionally, we hate to lose freedoms that we already have. Scarcity interferes with our prior access to some item, so we want and try to possess the item more than before.
+* This *psychological reactance* can be traced back to the "terrible twos," when children finally identify themselves as autonomous, which brings about the concept of freedom.
+* We rarely recognize the psychological reactance that makes us want an item more, and so we begin to assign it positive qualities to justify the desire.
+* When information is censored, we not only want to have it more, but we tend to believe in the information more, even though we haven't received it.
+* To create agreement on an unpopular opinion, it may be less effective to publicize the opinion, and more effective to have the opinion censored and then to publicize the censorship.
+* Applying the scarcity principle beyond material commodities, information may not have to be censored for us to value it more; it need only be scarce.
+
+##### OPTIMAL CONDITIONS
+
+* We see a thing as more desirable when it has recently become less available than when it has been scarce all along.
+* Not only do we want the same item more when it is scarce, we want it most when we are in competition for it. Such conditions have powerfully motivating properties.
+
+##### HOW TO SAY NO
+
+* Knowing the causes and workings of scarcity pressures is a cognitive thing, but this is insufficient for defense, as cognitive process is suppressed by our emotional reaction to scarcity.
+* By learning to flag the experience of heightening arousal in a compliance situation, we can alert ourselves to the possibility of scarcity tactics and proceed with caution.
+* Scarcity is only a good measure for value if we want something for the social, economic, or psychological benefits of possessing something rare.
+* Often we don't want a thing for the sake of owning it, but for its actual utility. In such cases, it is vital to remember that scarcity does not bestow increased utility.
+
+#### Epilogue
+
+* With the sophisticated mental apparatus that grants us eminence as a species, we have created an environment so overwhelming that we must cope in the fashion of animals that we transcended.
+* We will less frequently enjoy the luxury of a fully considered analysis of the total situation, and will revert increasingly to focus on a single, usually unreliable feature of it.
+* The real treachery, and the thing that we cannot tolerate, is any attempt to make a profit in a way that threatens the reliability of our shortcuts. Because we require them.
