@@ -31,3 +31,43 @@ There is a long assorted list. Here is an attempt to put its items into buckets:
 * Team growth: Recruit engineers, review code in detail and give useful feedback, read and write and give feedback on design documents, help onboard, etc.
 * Technical action: Identify technical debt, generate new ideas and elegant solutions, debug difficult production issues, write the right code at the right times, etc.
 
+
+### [5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead)
+
+#### Learn to Delegate
+
+* When you take on the harder problems, it also misses an opportunities for other developers to grow and problem solve.
+* For problems when your experience and knowledge are important, find a way to delegate but still be involved. Kicking off a design session to discuss general approaches, or reviewing progress a regular basis.
+
+#### Find Time to Code
+
+* Being involved in the code helps you build respect with the rest of the team, and keeps your knowledge up to date and current with constraints, problems, and the "shape" of the codebase.
+
+#### Visualise Your Architecture
+
+* Have a visual representation of their system architecture on-hand and uses it to have discussions with developers.
+* Host a whole-team whiteboard session. Focus on attributes that drive your architectural vision (scalability, performance, usability concerns, etc) and how they have shaped your architecture. Call out assumptions and the historical context.
+
+#### Spend Time 1-on-1 With Team Members
+
+* Anything that you can do to make each person on your team better makes the overall team better.
+* Understand the backgrounds, strengths, interests and goals of the team members. Align their tasks with their responses.
+* Connect developers with opportunities for them to grow.
+
+#### Learn to Speak the Language of the Business
+
+* To communicate technical concepts to non-technical people, find the terms that business people use and find ways to explain tasks in those terms.
+
+
+### [What It Takes to Be a Great Technical Lead](http://elegantcode.com/2008/12/03/what-it-takes-to-be-a-great-technical-lead/)
+
+* Possess strong technical skills. You’re also responsible for fixing technical issues that your teammates can't solve. If you can't fix something yourself, find an acceptable workaround.
+* Teach your teammates. If there are some core principles or practices that you want them to apply to their work, you must invest time to promote that understanding.
+* Trust your teammates. If you trust a teammate, that developer will respond with improved output. The quality may not be ideal, but the developer will show more effort.
+* Stimulate self-organization. Do not simply assign tasks to your teammates, but organize planning meetings where members can choose their tasks. But promote a balance in the assigned tasks.
+* Don't keep the coolest technical tasks for yourself. Give your teammates the opportunities to work on such tasks. This raises morale, trust, and skill.
+* Try to prevent overtime as much as possible. If in a situation where the team must put in some overtime, don't tell your teammates they have to do it; instead ask them if they want to do it. Also do not go home early while your teammates are still working.
+* Remember that you are responsible for the final result. Never put the blame of something wrong on one of your teammates.
+* Give credit where credit is due. Give credit where it is due, and make sure everyone else knows about it too, especially management. Never take credit for the work of a teammate.
+* Realize that your teammates are not your developers. Having a leadership role does not mean that you can boss around your teammates. This destroys morale.
+
