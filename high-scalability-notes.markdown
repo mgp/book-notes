@@ -114,4 +114,103 @@ Notes from posts on the blog [High Scalability](http://highscalability.com/).
 * Backup in S3 for catastrophic failures.
 * Raw data is stored in a Spark cluster.
 
+### [Nifty Architecture Tricks From Wix - Building A Publishing Platform At Scale](http://highscalability.com/blog/2014/11/10/nifty-architecture-tricks-from-wix-building-a-publishing-pla.html)
+
+Platform on which over 54 million web sites have been created, most of which receive under 100 page views per day. So traditional caching does not apply.
+
+Novel consequences:
+
+* Does not use transactions. all data is immutable and they use a simple eventual consistency strategy.
+* Does not cache. Instead, they pay great attention to optimizing the rendering path so that every page displays in under 100ms.
+
+#### Guidelines For How To Build Services
+
+* Services are stateless. To horizontally scale, just add more servers.
+* With the exception of billing/financial transactions, all other services do not use transactions.
+* When designing a new service caching is not part of the architecture. If a service performs poorly, first optimize the code before emplying caching.
+
+#### Editor Segment
+
+* MySQL is a great key-value store. Key is based on a hash function of the file so the key is immutable.
+* An "active database" contains the 6% of sites that are still being updated. It is really fast and relatively small in terms of storage.
+* An "archive database" contains the remaining data that is infrequently accessed. It is relatively slow, but contains huge amounts of storage.
+
+#### High Availability For Editor Segment
+
+* All data is immutable. Revisions are stored for everything. If a corruption can’t be fixed, revert to version where the data was fine.
+* To protect against unavailability, data s replicated across different geographical locations and multiple cloud services.
+
+#### Modeling Data With No Database Transactions
+
+* JSON files are inserted into the database, and finally a manifest is inserted with the identifiers of all resources that were just saved.
+
+#### Public Segment
+
+* Public SLA is that response time is < 100ms at peak traffic. Web sites must be fast with no caching.
+* Data is stored in a denormalized format, optimized for read by primary key. Everything that is needed is returned in a single request.
+* The data returned is in JSON format. Rendering is offloaded to the client.
+
+#### Lessons Learned
+
+* Identify your critical path and concerns.
+* De-normalize and precalculate data, and thereby reduce network chattter, for performance.
+* Take advantage of client’s CPU power.
+* Go immutable. Immutability has far reaching consequences for an architecture, and is an elegant solution to a lot of problems.
+* What really locks you down is data. Moving lots of data to a different cloud is really hard.
+
+### [StackOverflow Update: 560M Pageviews A Month, 25 Servers, And It's All About Performance](http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html)
+
+* 25 servers for everything. That’s high availability, load balancing, caching, databases, searching, and utility functions.
+* Still uses Microsoft products.
+* Uses a scale-up strategy. Not using any cloud service, where their SQL Servers loaded with 384 GB of RAM and 2TB of SSD would cost a fortune.
+* Jeff Atwood said "Hardware is cheap, programmers are expensive" and this apparently still holds true.
+
+#### Stats
+
+* Peak is 2600-3000 requests/sec on most weekdays.
+* Each web server has 2x 320GB SSDs in a RAID 1, and each ElasticSearch box has 300 GB also using SSDs.
+* Has a 40:60 read-write ratio.
+* 11 web servers using IIS, 2 load balancers using HAProxy, 4 active database nodes using MS SQL, 3 application servers implementing the tag engine, 3 machines running ElasticSearch, 2 machines running Redis for distributed cache and messaging.
+
+#### Platform
+
+* ElasticSearch, Redis, HAProxy, and MS SQL.
+
+#### Servers
+
+* The database server is at 10% usage except during backups. The database servers have 384GB of RAM and the web servers are at 10%-15% CPU usage.
+* Scale-up is still working. Other scale-out sites with a similar numbers tend to run on between 100 and 300 servers.
+
+#### SSDs
+
+* ElasticSearch performs much better on SSDs, given SO writes/re-indexes very frequently.
+
+#### High Availability
+
+* The main datacenter is in New York and the backup datacenter is in Oregon.
+* Not everything is replicated between data centers (very temporary cache data that's not needed to eat bandwidth by syncing, etc.), but the important resources are.
+* Nginx was used for SSL, but a transition has been made to using HAProxy to terminate SSL.
+
+#### Databasing
+
+* Each site has its own database, and the schema for each is the same. This is effectively a form of partitioning and horizontal scaling.
+* All the schema changes are applied to all site databases at the same time.
+* Partitioning is not required. Indexing takes care of everything and the data just is not large enough.
+* Scores are denormalized, so querying is often needed.
+* The Tag Engine is entirely self-contained, and runs on three servers for redundancy. If all of them fail, the local web servers will load the tag engine in memory and keep on going.
+
+#### Coding
+
+* Compilation is very fast.
+* New features are hidden via feature switches.
+* Heavy usage of static classes and methods, for simplicity and better performance.
+
+#### Caching
+
+* Network level cache is caching in the browser, CDN, and proxies.
+* Redis works as a distributed in-memory key-value store for all servers that serve the same site.
+* SQL Server Cache caches the entire database in memory. 
+* SSD is used as a cache, and is usually only hit when the SQL server cache is warming up.
+* TODO
+
 
