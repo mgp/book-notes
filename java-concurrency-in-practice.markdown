@@ -90,3 +90,25 @@ by Brian Goetz
 * Objects that are not technically immutable, but whose state will not be modified after publication, are called *effectively immutable*. Such objects, when safely published, can be used safely by any thread without additional synchronization.
 * While effectively immutable objects must be safely published, mutable objects must be safely published, and mus the either thread-safe or guarded by a lock.
 * Many concurrency errors stem from failing to understand the "rules of engagement" for a shared object. When you publish an object, document how it should be accessed.
+
+#### Chapter 10: Avoiding Liveness Hazards
+
+##### 10.1: Deadlock
+
+* When thread A holds lock L and tries to acquire lock M, but at the same time thread B holds lock M and tries to acquire L, this is deadlock, or *deadly embrace*.
+* When a database system detects that a set of transactions has deadlocked by searching the is-waiting-for graph for cycles, it picks a victim and aborts that transaction, thereby releasing its held locks.
+* A program will be free of lock-ordering deadlocks if all threads acquire the locks they need in a fixed global order. Sometimes we must induce this ordering.
+* Invoking an alien method with a lock held is asking for liveness trouble. That method might risk deadlock by acquiring other locks, or block for an unexpectedly long time and stall other threads on the held lock.
+* Calling a method with no locks held is called an *open call*, and classes that rely on open calls are more well-behaved and composable than classes that make calls with locks held.
+* Resource deadlocks occur when thread A holds resource X and tries to acquire resource Y, but at the same time thread B holds resource Y and tries to acquire resource X.
+
+##### 10.2: Avoiding and diagnosing deadlocks
+
+* Try acquiring locks with a timeout. By using a timeout that is much longer than you expect acquiring the lock to take, you can regain control when something unexpected happens.
+* Thread dumps not only include a stack trace for each running thread, but locking information such as which locks are held by a thread, and which lock a thread is waiting to acquire.
+
+##### 10.3: Other liveness hazards
+
+* *Starvation* is when a thread is perpetually denied access to resources it needs in order to make progress; the most commonly starved resource is CPU cycles.
+* *Livelock* is a liveness failure in which a thread, while not blocked, still cannot make progress because it keeps retrying an operation that will always fail.
+* Livelock can occur when multiple cooperating threads change their state in response to the others in such a way that no thread can ever make progress. The solution is to introduce randomness into the retry mechanism.
