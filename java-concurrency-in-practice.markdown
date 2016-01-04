@@ -112,3 +112,39 @@ by Brian Goetz
 * *Starvation* is when a thread is perpetually denied access to resources it needs in order to make progress; the most commonly starved resource is CPU cycles.
 * *Livelock* is a liveness failure in which a thread, while not blocked, still cannot make progress because it keeps retrying an operation that will always fail.
 * Livelock can occur when multiple cooperating threads change their state in response to the others in such a way that no thread can ever make progress. The solution is to introduce randomness into the retry mechanism.
+
+### Chapter 11: Performance and Scalability
+
+##### 11.1: Thinking about performance
+
+* Improving performance means doing more work with fewer resources. When performance of an activity is limited by availability of a particular resource, it is *bound* by that resource.
+* Using concurrency to achieve better performance means using the processing resources we have more effectively, and enable a program to exploit additional processing resources that become available.
+* *Scalability* describes the ability to improve throughput or capacity when additional computing resources (such as CPUs, memory, storage, or I/O bandwidth) are added.
+* The "how much" aspects like scalability, throughput, and capacity are concern for server applications. The "how fast" aspects like service time or latency are concern for client applications.
+* Most optimizations are premature because they are often undertaken before a clear set of requirements is available.
+* Make it right, then make it fast. And if attempting to make it fast, measure. Don't guess.
+
+##### 11.2: Amdahl's law
+
+* Amdahl's law describes how much a program can theoretically be sped up by additional computing resources, based on the proportion of parallelizable to serial components.
+* If F is the faction of the calculation that must be executed serially, then on a machine with N processors, we can achieve a speedup of most: 1/(F+(1-F)/N).
+* When evaluating an algorithm, thinking "in the limit" about what would happen with hundreds or thousands of processors can offer some insight into where scaling limits might appear.
+
+##### 11.3: Costs introduced by threads
+
+* When a new thread is switched in, the data it needs is unlikely to be in the local processor cache, and so a context switch causes a flurry of cache misses and runs a little slower at first.
+* Schedulers give each runnable thread a certain minimum time quantum, thereby amortizing the cost of the context switch and its consequences over more interrupted execution time.
+* A program that does more blocking has more of its threads suspended and switched out. The program therefore incurs more context switches, increasing scheduling overhead and reducing throughput.
+* Special instructions called *memory barriers* can flush or invalidate caches and flush hardware write buffers. They inhibit compiler optimizations; most operations cannot be reordered with them.
+* *Lock elision* optimizes away lock acquisitions. *Lock coarsening* merges together adjacent blocks holding the same lock, reducing synchronization overhead and helping the optimizer.
+* When a lock is contended, the losing threads must block. This can be implemented either by *spin-waiting* or by *suspending* the blocked thread through the operating system.
+
+##### 11.4: Reducing lock contention
+
+* Two factors influence the likelihood of contention for a lock: How often that lock is requested, and how long it is held once acquired.
+* *Lock splitting* and *lock striping* involve using separate locks to guard multiple independent state variables previously guarded by a single lock.
+* Splitting a lock into two offers the greatest possibility for improvement when a lock is experiencing moderate but not heavy contention.
+* Lock striping extends lock splitting by partitioning locking on a variable-sized set of independent objects. But locking the collection for exclusive access is more difficult and costly.
+* If your class has a small number of hot fields that do not participate in invariants with other variables, then replacing them with atomic variables may improve scalability.
+* Tools like `vmstat` or `mpstat` can show whether your application is CPU-bound, while tools like `iostat` or `perfmon` can show whether your application is I/O-bound.
+* The tool `vmstat` has a column reporting the number of threads that are runnable but not currently running because a CPU is not available.
