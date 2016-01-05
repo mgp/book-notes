@@ -91,6 +91,38 @@ by Brian Goetz
 * While effectively immutable objects must be safely published, mutable objects must be safely published, and mus the either thread-safe or guarded by a lock.
 * Many concurrency errors stem from failing to understand the "rules of engagement" for a shared object. When you publish an object, document how it should be accessed.
 
+#### Chapter 4: Composing Objects
+
+##### 4.1: Designing a thread-safe class
+
+* Designing a thread-safe class requires identifying the invariants that constrain the state variables, and establishing a policy for managing concurrent access to them.
+* The smaller the *state space* of an object or variable, the easier it is to reason about. Use `final` fields to reduce the state space.
+* Operations with state-based preconditions are called *state-dependent*.
+* Ownership implies control, but once you publish a reference to a mutable object, you no longer have exclusive control, but at best "shared ownership."
+
+##### 4.2: Instance confinement
+
+* Encapsulating data within an object confines access to the data to the object's methods, making it easier to ensure that the data is always accessed with the appropriate lock held.
+* Instance confinement also allows different state variables to be held by different locks.
+* Confined objects can also escape by publishing other objects such as iterators or inner class instances that may indirectly publish the confined objects.
+* Using a private lock prohibits client code from acquiring it, whereas a publicly accessible lock allows client code to participate in its synchronization policy, perhaps incorrectly.
+
+##### 4.3: Delegating thread safety
+
+* A class with multiple independent thread-safe state variables and no operations that have any invalid state transitions can delegate thread safety to the underlying state variables.
+* If a state variable is thread-safe, does not participate in any invariants that constrain its value, and has no prohibited state transitions for any of its operations, then it can be safely published.
+
+##### 4.4: Adding functionality to existing thread-safe classes
+
+* Extending a class to support a thread-safe operation is more fragile than adding code directly to the class, as its synchronization policy is now distributed over multiple source files.
+* Just as subclassing violates encapsulation of implementation, client-side locking violates encapsulation of synchronization policy.
+
+##### 4.5: Documenting synchronization policies
+
+* Document a class's thread safety guarantees for its clients; document its synchronization policy for its maintainers.
+* If you want clients to be able to create new atomic operations on your class, you must document which locks they should acquire to do so safely.
+* If you must guess whether a class is thread-safe, improve the quality of your guess by interpreting the specification by someone who must implement it versus someone who will merely use it.
+
 #### Chapter 10: Avoiding Liveness Hazards
 
 ##### 10.1: Deadlock
