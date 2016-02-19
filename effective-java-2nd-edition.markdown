@@ -115,7 +115,7 @@ by Joshua Bloch
 * Always use the `@SuppressWarnings` annotation on the smallest scope possible, to not mask other, critical warnings.
 
 #### Item 25: Prefer lists to arrays
-* Arrays are covariant, so `Sub[]` is a subtype of `Super[]`, and reified, so they retain their type-information at runtime and `Super[]` can throw an `ArrayStoreException` when given a different subclass; by contrast, `List<E>` is covariant and erased.
+* Arrays are covariant, so `Sub[]` is a subtype of `Super[]`, and reified, so they retain their type-information at runtime and `Super[]` can throw an `ArrayStoreException` when given a different subclass; by contrast, `List<E>` is invariant and erased.
 * Consequently, arrays provide runtime safety but not compile-time safety, while a generic type like `List<E>` provides compile-time safety but not runtime safety.
 
 #### Item 27: Favor generic methods
