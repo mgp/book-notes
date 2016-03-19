@@ -4,12 +4,42 @@
 
 #### Inside Out
 
-* The Character Ethic from early success literature focused on integrity, humility, fidelity, temperance, courage, justice, patience, industry, simplicity, modesty, and the Golden Rule.
-* The Personality Ethic, by contrast, makes success a function of personality, of public image, of attitudes and behaviors, skills and techniques that lubricate the process of human interaction.
+* The Character Ethic from early success defines the foundation of success as integrity, humility, fidelity, temperance, courage, justice, patience, industry, simplicity, modesty, and the Golden Rule.
+* The Personality Ethic, by contrast, defines success a function of personality, of public image, of attitudes and behaviors, skills and techniques that lubricate the process of human interaction.
 * If your character is fundamentally flawed, then if you employ good human relations techniques, you will be seen as manipulative. You will not be successful.
+* The Personality Ethic may allow you to get by in short-term situations, but these secondary traits have no permanent worth in long-term relationships.
 * Character communicates most eloquently. As Emerson once put it, "What you are shouts so loudly in my ears I cannot hear what you say."
 * We experience everything through two mental maps: Realities, or the way things are, and values, or the way things should be.
 * The influences of our lives, such as family, school, church, work environment, friends, associates, and current social paradigms, have all shaped our frame of reference, our paradigms, and our maps.
-* These paradigms are the source of our attitudes and behaviors. We cannot act with integrity outside of them. We cannot maintain wholeness if we talk and walk differently than we see.
+* We see the world not as it is, but as we are. When we describe the world, we describe ourselves, our perceptions, and our paradigms.
 * The more aware we are of our basic paradigms, the more we can examine them, test them against reality, and listen to others and be open to their perceptions, thereby getting a more objective view.
-* If we want to make a relatively minor change in our lives, we can perhaps appropriately focus on attitudes and behaviors. But significant change requires working on our basic paradigms.
+* To make a minor change in our lives, we can perhaps focus on our attitudes and behaviors. To make a significant, quantum change, we must focus on our basic paradigms.
+* The Character Ethic is based on the fundamental idea that principles govern human effectiveness. These are natural laws in the human dimension, like Newton's law in the physical dimension.
+* These natural laws are woven into the fabric of every civilized society throughout history and comprise the roots of every family and institution that has endured and prospered.
+* These principles include fairness, integrity and honesty, dignity, service, quality or excellence.
+* Principles are not values. We can hold values that are in violation of these fundamental principles. Principles are the territory, and values are the maps.
+* The Personality Ethic promises quality of life without going through the natural process of work and growth that makes it possible. But this work is required for progress.
+* Borrowing strength builds weakness in the borrower because it reinforces dependence on external factors to get things done. It also builds weakness in the person forced to acquiesce, and weakness in the relationship.
+* When a relationship is strained and the air is charged with emotion, an attempt to teach is often perceived as a form of judgment or rejection.
+* To solve the problems created and interact within the Personality Ethic, we need a paradigm based on the principles that accurately describe the territory of effective human being and interacting.
+* "Inside-out" means to start first with self; more fundamentally, to start with the most inside part of self, which is your paradigms, your character, and your motives.
+* An outside in paradigm leads to people who feel victimized and immobilized, who focus on the weakness of others and the circumstances they feel are responsible for their own stagnant situation.
+
+#### The 7 Habits - An Overview
+
+* Sow a thought, reap an action; sow an action, reap a habit; sow a habit, reap a character; sow a character, reap a destiny.
+* Because habits are consistent, often unconscious patterns, they constantly express our character and produce our effectiveness or ineffectiveness.
+* Knowledge is the theoretical paradigm, the what to do and the why; skill is the how to do; and desire is the motivation, the want to do. To make something a habit, we must have all three.
+* Dependent people need others to get what they want. Independent people get what they want through their own efforts. Interdependent people combine their efforts with those of others to achieve the greatest success.
+* Independent people who don't have the maturity to think and act interdependently may be good individual producers, but they won't be good leaders or team players.
+* As an interdependent person, you have the opportunity to share yourself deeply, meaningfully with others, and you have access to the vast resources and potential of other human beings.
+* Only independent people can choose to become interdependent. Dependent people cannot. They don't have the character to do it; they don't own enough of themselves.
+* True effectiveness is a function of not just what is produced, but the producing asset of the capacity to produce. This is the P/PC balance, where P is the produced, and PC is for production capability.
+* Like Aesop's fable, P is what is produced (the golden egg), and PC is the producing asset or capacity to produce (the goose).
+* There are physical, financial, and human assets. For each type, there is not just an asset or produced good, but value in the production capability.
+* You can't buy a person's heart, where his enthusiasm and loyalty is. You can't buy a person's mind, where his ingenuity and resourcefulness is.
+* Maintaining a balance between the golden egg (production) and the health and welfare of the goose (production capability) is difficult, but it is the very essence of effectiveness.
+* Be patient with yourself. Self-growth is tender; it is holy ground. There's no greater investment.
+
+
+
