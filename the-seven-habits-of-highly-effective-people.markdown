@@ -41,5 +41,27 @@
 * Maintaining a balance between the golden egg (production) and the health and welfare of the goose (production capability) is difficult, but it is the very essence of effectiveness.
 * Be patient with yourself. Self-growth is tender; it is holy ground. There's no greater investment.
 
+### Part Two: Private Victory
 
+#### Habit 1: Be Proactive
+
+* Self-awareness, or the ability to think of our very thought process, is why we can evaluate and learn from others' experience as well as our own, and make or break our habits.
+* Through self-awareness, we can examine our paradigms and determine whether they are reality- or principle-based or if they are a function of conditioning and conditions.
+* The three social maps, or theories of determinism to explain our nature, are genetic, psychic (i.e. your upbringing), and environmental (someone or something in your environment).
+* Between stimulus and response, man has freedom to choose. Within that freedom are endowments that make us uniquely human, such as self-awareness, imagination, conscious, and independent will.
+* Reactive people are driven by feelings, by circumstances, by conditions, by their environment. Proactive people are driven by values, carefully thought about, selected and internalized.
+* It's not what happens to us, but our response to what happens to us that hurts us.
+* Our most difficult experiences become the crucibles that forge our character and develop the internal powers, the freedom to handle difficult circumstances in the future and inspire others to do so as well.
+* There are three central values in life: the experiential, which happens to us; the creative, which we bring into existence; and the attitudinal, or our response to difficult circumstance.
+* Our basic nature is to act. This not only enables us to choose our response to particular circumstances, but it empowers us to create circumstance.
+* The best employees are the proactive ones who are solutions to problems, who seize the initiative to do whatever is necessary but consistent with correct principles.
+* The language of reactive people absolves them of responsibility. It is a self-fulfilling prophecy, where people feel increasingly victimized and out of control.
+* The Circle of Concern contains all of our concerns. Proactive people focus their efforts on the embedded Circle of Influence, which are the things they can do something about.
+* Problems over which we have direct control are solved by working on our habits; problems with indirect control we solve by changing our methods of influence.
+* It is much safer to say "I am not responsible." If you say "I am responsible," then you might also have to say "I am irresponsible."
+* The Circle of Concern is filled with statements with "have," like "If I only had..." The Circle of Influence is filled with "be," like "I can be more patient" or "I can be wise."
+* Mistakes are also out there in the Circle of Concern. We can't recall them, we can't undo them, and we can't control the consequences that came as a result.
+* It is important to immediately admit and correct our mistakes so that they have no power over the next moment and we are empowered again.
+* The commitments we make to ourselves and to others, and our integrity to those commitments, is the essence and clearest manifestation of our proactivity.
+* Making promises, setting goals, and being true to them is the essence of our growth. It builds the strength of character that makes possible every other positive thing in our lives.
 
