@@ -150,8 +150,8 @@ by Joshua Bloch
 * An `EnumMap` contains an array internally, offering the speed of an ordinal-indexed array with the type safety and richness of the `Map` interface.
 * Instead of using an array of arrays to define a mapping from two enum values, use `EnumMap<..., EnumMap<...>>`, which is internally represented as an array of arrays.
 
-#### Item 34: Emulate extensible enumerated types with interfaces
-* If two enumerated types implement the same interface, both their classes adhere to the type `<T extends Enum<T> & InterfaceName>`.
+#### Item 34: Emulate extensible enums with interfaces
+* If two enums implement the same interface, both their classes adhere to the type `<T extends Enum<T> & InterfaceName>`.
 * Since implementations cannot be inherited from one `enum` type to another, the functionality must be encapsulated in a helper class or a static helper method.
 
 #### Item 35: Prefer annotations to naming patterns
