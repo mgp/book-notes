@@ -65,3 +65,44 @@
 * The commitments we make to ourselves and to others, and our integrity to those commitments, is the essence and clearest manifestation of our proactivity.
 * Making promises, setting goals, and being true to them is the essence of our growth. It builds the strength of character that makes possible every other positive thing in our lives.
 
+#### Habit 2: Begin With The End In Mind
+
+* The most fundamental application of this habit is to begin today with the image, picture, or paradigm of the end of your life as the frame of reference or criterion by which everything else is examined.
+* This ensures that each day does not violate the criteria you define as most important, and that each day contributes meaningfully to the vision you have of your life as a whole.
+* If a ladder is not leaning against the right wall, then every step we take up it just takes us to the wrong place faster.
+* "Begin with the end in mind" is based on the principle that all things are created twice: There's a mental creation first, and a physical creation second.
+* We are either the second creation of our own proactive design, or we are the second creation of other people's agendas, of circumstances, or of past habits. 
+* Management is the bottom-line focus: How can I best accomplish certain things? Leadership is a top-line focus: What do I want to accomplish?
+* If industries do not monitor their environment, including their own work teams, and exercise the creative leadership to head in the right direction, then no amount of management expertise can save them.
+* Leadership is even more lacking in our personal lives. We're into managing with efficiency, setting and achieving goals before we have even clarified our values.
+* Use your imagination and creativity to write new scripts for yourself that are more effective, more congruent with our values and the principles that give our values meaning.
+* By writing a new script, you can live out of your imagination instead of your memory, and tie yourself to your limitless potential instead of your limiting past. You can become your own first creator.
+* Once you have a sense of mission, you have the essence of your own proactivity; you have vision and values to direct your life.
+* What is at the center of our life, or our Circle of Influence, will be the source of our security, guidance, wisdom, and power.
+* Security is your sense of worth, guidance is your source of direction, wisdom is your perspective, and power is your capacity to act.
+* If we are marriage centered, then we become highly dependent on the relationship with our spouse, and may be dependent on the person with whom we are in conflict.
+* If we are family centered, then our need to be popular with the children may override the importance of a long-term investment in our children's growth and development.
+* If we are money centered, then we are vulnerable to all the external factors that will affect that net worth.
+* If we are work centered, then our fundamental identity comes from our work, and our security is vulnerable to anything that happens to prevent us from continuing in it.
+* If we are possession centered, then we feel inferior when in the presence of someone with greater net worth, and feel superior when in the presence of someone with lesser net worth. There is no constancy.
+* If we are pleasure centered, we take too much undisciplined leisure time, in which we continually take a course of least resistance that gradually wastes our life.
+* If we are friend centered, then the social mirror becomes the source of our four life-support factors, and we depend on the fluctuating moods, attitudes, and behaviors of others.
+* If we are church centered, image or appearance can become a person's dominant consideration, leading to hypocrisy that undermines personal security and intrinsic worth.
+* If we are self centered, then we accept but never give. But paying attention to the development of the self gives context for dramatic increase in the four life-support factors.
+* The ideal is to create one clear center from which you consistently derive a high degree of security, guidance, wisdom, and power, empowering your proactivity and giving congruency and harmony to every part of your life.
+* Centering our lives on correct principles creates a solid foundation for the four life-support factors. Correct principles do not change; we can depend on them.
+* Principle-centered living yields a self-aware, knowledgeable, proactive individual, unrestricted by the attitudes, behaviors, and actions of others or by circumstances or environmental influences.
+* The only real limitation of principle-centered living is the natural consequences of the principles themselves.
+* Looking at things through a paradigm of correct principles yields an outlook that is dramatically different than what you see through any other centered paradigm.
+* Because you have a high degree of security, guidance, wisdom, and power that flows from a solid, unchanging core, you have the foundation of a highly proactive and highly effective life.
+* To seek some abstract meaning to our lives in our Circle of Concern is to abdicate our proactive responsibility, to place our own first creation in the hands of circumstance and other people.
+* Until you accept the idea that you are responsible, or that you are the programmer, you won't invest in writing the program.
+* The more we are able to draw upon our right brain capacity, the more fully we can project a holistic picture of what we want to do and be in life.
+* If you're proactive, you don't need to wait for circumstances or other people to create perspective-expanding experiences. You can consciously create your own.
+* Almost all world-class athletes and other peak performers are visualizers. They see it, they feel it, they experience it before they actually do it.
+* Affirmation and visualization are forms of programming; we must not submit ourselves to any programming that is not in harmony with our basic center or anything other than correct principles.
+* When people work to become effective in their life, they don't think broadly enough. They lose the sense of proportion and balance necessary to effective living.
+* Identify your various roles, and then think about long-term goals for each one. They should extend a mission statement that is based on correct principles, reflecting your deepest values, unique talent, and sense of mission.
+* Just identifying the various areas in your life and two or three important results you feel you should accomplish in each area to move ahead gives you an overall perspective and sense of direction.
+* Mission statements for families or for organizations are best when everyone comes together with mutual respect, expressing different views, and works together to create something greater than any one person could do.
+
