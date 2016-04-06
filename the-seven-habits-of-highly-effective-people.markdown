@@ -106,3 +106,31 @@
 * Just identifying the various areas in your life and two or three important results you feel you should accomplish in each area to move ahead gives you an overall perspective and sense of direction.
 * Mission statements for families or for organizations are best when everyone comes together with mutual respect, expressing different views, and works together to create something greater than any one person could do.
 
+#### Habit 3: Put First Things First
+
+* Habit 1 says that you are the creator. Habit 2 is the first or mental creation; it is the deep contact with our basic paradigms and values and the vision of what we can become.
+* Habit 3 is the second or physical creation. It is the fulfillment, the actualization, and the natural emergence of the first two habits.
+* Practicing Habit 3 requires effective self-management. This is the breaking down, analysis, sequencing, specific application, time-bound left-brain aspect of self government.
+* Empowerment comes from learning how to use this great endowment of independent will in the decisions that we make every day.
+* The degree to which we have developed our independent will is measured by our personal integrity, which is fundamentally the value that we place on ourselves.
+* Successful people do things that failures don't like to do. This requires independent will to be a function of your values rather than a function of the impulse or desire of any given moment.
+* The efficiency focus of modern time management creates expectations that clash with the opportunities to develop rich personal relationships, meet human needs, and enjoy spontaneous moments.
+* Urgent matters require immediate attention and are usually visible. Important matters have to do with results, and contribute to your mission or your high priority goals.
+* If we do not practice Habit 2, then we don't have a clear idea of what is important, of the results that we desire in our lives, and we are diverted to responding to the urgent.
+* People who focus on only urgent matters, important or not, lead irresponsible lives. Focusing on things that are important but not urgent, or Quadrant II, is the heart of effective personal management.
+* Crises are important and urgent matters. Cultivating proactivity to focus on Quadrant II matters, such as building relationships, planning, and maintenance will lessen them.
+* To make time for Quadrant II, you cannot steal time from crises; instead you must say no to urgent and unimportant, or not urgent and unimportant matters.
+* The essence of important time and life management is to organize and execute around balanced priorities.
+* How you spend your time is a function of your priorities. To spend time on Quadrant II tasks requires a principle center and a personal mission that are planted in your heart and mind.
+* Identify your roles and select your goals, and then translate each goal to a specific day of the week, either as a priority item or, even better, as a specific appointment.
+* Your roles and goals provide a natural prioritization that grows out of your innate sense of balance.
+* Reviewing your schedule each morning puts you in touch with the value-based decisions you made as you organized the week as well as unanticipated factors that may have come up.
+* Living the program is a function of our independent will, integrity, and commitment to our correct principles and deepest values, which give meaning and context to our goals, schedules, and life.
+* You can't simply think efficiency with people. You think effectiveness with people and efficiency with things.
+* Frustration is a function of our expectations, and our expectations are often a reflection of the social mirror rather than our own values and priorities.
+* Delegating to others is perhaps the single most powerful high-leverage activity there is. It enables both individuals and organizations to grow.
+* Gopher delegation uses one-on-one supervision of methods. The user still thinks like a producer and is responsible for the results. This does not scale.
+* Stewardship delegation focuses on results instead of methods, giving people a choice of methods and makes them responsible for the results. It does scale.
+* With stewardship delegation, you must communicate the desired results without focusing on methods, guidelines while identifying paths to failure, resources available, standards for evaluating results, and consequences from the evaluation.
+* Trust is the highest form of human motivation and brings out the very best in people, but you may have to train people so that their competency can rise to the level of trust.
+* Stewardship delegation applies to any kind of person or situation: you simply ramp up or down the desired results, resources, accountability interviews, and consequences.
