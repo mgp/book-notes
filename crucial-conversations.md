@@ -39,3 +39,16 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * These questions remind us of our goal and original purpose, and also affect our physiology by sending blood to the brain which in turn keeps us focused.
 * Restructure the Fool's Choice: Clarify what you don't want, add it to it what you do want, and then begin searching for healthy options to bring you to dialogue.
 
+### Chapter 4: Learn to Look
+
+* We have trouble watching both content and conditions in a crucial conversation: We are so caught up in what we're trying to say that we don't see what's happening to ourselves and others.
+* In a conversation, look for the moment when it turns crucial, signs that people don't feel safe (silence or violence), and your own Style under Stress.
+* To spot when a conversation turns crucial, look to yourself for a physical signal, a change in emotions, or a behavioral cue.
+* People who are gifted at dialogue keep a constant vigil on safety. They pay attention to the content and they watch for signs that people are becoming fearful.
+* Dialogue calls for the free flow of meaning, and nothing stops the flow of meaning like fear. Fear can cause you to both push too hard and to withdraw.
+* People rarely become defensive because of what you're saying, but moreso because they no longer feel safe. The problem is not the content of your message, but the condition of the conversation.
+* Watching for safety violations allows you to restore the peripheral vision that narrows when you feel genuinely threatened, and to reengage your brain and its centers of higher reasoning.
+* Do not allow the actions of those who feel unsafe to beget fight or flight. Instead, recode the signs of violence or silence that people feel unsafe, and do something to create safety.
+* Silence is characterized by *masking* (such as sarcasm, sugarcoating, or couching), *avoiding* sensitive subjects, or *withdrawing* from the conversation altogether.
+* Violence consists of *controlling* (such as cutting others off, overstating facts, speaking in absolutes, etc.), *labeling* to dismiss others under a stereotype or category, or *attacking* through belittling or threatening.
+* You must also self-monitor. Pay close attention to what you're doing and the impact it's having, and then alter your strategy if necessary. Check whether you're having a good or bad impact on safety.
