@@ -26,3 +26,16 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * Because the meaning is shared, and everyone takes part in the free flow of meaning, people act on whatever decisions they make with both unity and conviction.
 * The time you spend up front establishing a shared pool of meaning is more than paid for by faster, more unified, and more committed action later on.
 * Whenever we find ourselves arguing, debating, running away, or otherwise acting in an ineffective way, it's because we don't know how to share meaning.
+
+### Chapter 3: Start with Heart
+
+* The first step of achieving the results that we really want is to fix the problem of believing that others are the source of all that ails us.
+* People who are best at dialogue realize that the only person we can continually inspire, prod, and shape with any degree of success is the person in the mirror.
+* Skilled people Start with Heart; that is, they begin high-risk discussions with the right motives, and they stay focused no matter what happens.
+* These people maintain focus by: sticking with their goals and what they want; and not making Fool's Choices, and so they believe that dialogue is an option regardless of the circumstances.
+* When faced with pressure and strong opinions, we often stop worrying about the goal of adding to the pool of meaning and start looking for ways to win, punish, or keep the peace.
+* Our motives usually change without any conscious thought on our part. To move back to motives that allow for dialogue, we must step away from the interaction and look at ourself.
+* Ask what you want for yourself, what you want for others, and what you want for the relationship. Then ask how you would behave if you really wanted those results.
+* These questions remind us of our goal and original purpose, and also affect our physiology by sending blood to the brain which in turn keeps us focused.
+* Restructure the Fool's Choice: Clarify what you don't want, add it to it what you do want, and then begin searching for healthy options to bring you to dialogue.
+
