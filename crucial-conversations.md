@@ -52,3 +52,24 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * Silence is characterized by *masking* (such as sarcasm, sugarcoating, or couching), *avoiding* sensitive subjects, or *withdrawing* from the conversation altogether.
 * Violence consists of *controlling* (such as cutting others off, overstating facts, speaking in absolutes, etc.), *labeling* to dismiss others under a stereotype or category, or *attacking* through belittling or threatening.
 * You must also self-monitor. Pay close attention to what you're doing and the impact it's having, and then alter your strategy if necessary. Check whether you're having a good or bad impact on safety.
+
+### Chapter 5: Make It Safe
+
+* The *good* fix safety issues by sugarcoating their message, but this avoids the real problem. The *best* don't play games; they step out of the content of the conversation, make it safe, and then step back in.
+* Crucial conversations often go awry not because others dislike the content of the message, but because they believe the content suggests a malicious intent, thereby subverting safety.
+* Mutual Purpose is required to begin dialogue: Where others perceive that you're working toward a common outcome, and that you care about their goals, interests, and values. And vice versa.
+* When Mutual Purpose is at risk, we end up in debate. Other signs include defensiveness, hidden agendas, accusations, and circling back to the same topic.
+* If you enter a conversation to get what you want, you will appear critical and selfish. Instead, find the Mutual Purpose: to draw someone willingly into a crucial conversation, see their point point of view.
+* Mutual Respect is required to continue dialogue: If someone perceives disrespect in the conversation, it is no longer about its original purpose, but about defending dignity.
+* When Mutual Purpose is at risk, emotions become charged and fear turns to anger. Then people resort to name-calling, yelling, and making threats.
+* Recognize that we all have weaknesses; this creates a kinship and connection to others, which creates a Mutual Respect and eventually enables us to stay in dialogue with virtually anyone.
+* When you've made a mistake that hurts others, start with a sincere apology. You must give up saving face, being right, or winning in order to achieve healthy dialogue and better results.
+* Contrasting is a skill that first addresses others' concerns that you don't respect them or that you have a malicious purpose, and then confirms your respect or clarifies your real purpose.
+* Contrasting is not apologizing. It is not a way of taking back something we've said that hurt others' feelings, but a way of ensuring that what we said didn't hurt more than it should have.
+* Use contrast to provide context and proportion for your words, and to also bolster safety when you are about to drop into the pool of meaning something that could cause a splash of defensiveness.
+* If you are in the middle of a debate because each side has a different purpose, seek to create Mutual Purpose using the four skills in the acronym CRIB.
+* *Commit* to seek a mutual purpose: Commit to stay in the conversation until we invent a solution that serves a purpose we both share. Verbalize this even if the other person seems committed to winning.
+* *Recognize* the purpose behind the strategy: Separate strategies, or what you're asking for, from the purpose, or what you actually want. This can create new options that can serve both of your interests.
+* *Invent* a mutual purpose: If you cannot discover a Mutual Purpose for dialogue, invent one by moving to more encompassing goals. Find an objective that is more meaningful or more rewarding.
+* *Brainstorm* new strategies: Once committed to finding something that everyone can support and surfaced what you really want, you'll no longer be spending your time on unproductive conflict.
+* Before a crucial conversation begins, think about which skills will help you must. A little progress can produce a lot of benefit.
