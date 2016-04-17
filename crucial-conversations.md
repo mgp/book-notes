@@ -73,3 +73,26 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * *Invent* a mutual purpose: If you cannot discover a Mutual Purpose for dialogue, invent one by moving to more encompassing goals. Find an objective that is more meaningful or more rewarding.
 * *Brainstorm* new strategies: Once committed to finding something that everyone can support and surfaced what you really want, you'll no longer be spending your time on unproductive conflict.
 * Before a crucial conversation begins, think about which skills will help you must. A little progress can produce a lot of benefit.
+
+### Chapter 6: Master My Stories
+
+* Others don't create emotions for you; you create your own emotions. And then, when you create strong emotions, you either find a way to master them or fall hostage to them.
+* The worst at dialogue treat their emotions as the only valid response, falling hostage to their emotions without even realizing it.
+* The best at dialogue act on their emotions, influencing and often changing their emotions by thinking them out, thereby making it possible to choose behaviors that create better results.
+* After we observe what others do and before we feel an emotion, we tell ourselves a story, adding meaning, guessing at motive, and adding judgment before responding with emotion.
+* Stories are our interpretations of the facts, providing a rationale for what's going on. We use them to explain the *why*, *how*, and *what*.
+* Any set of facts can be used to tell an infinite number of stories; by taking control of our stories, they won't control us.
+* To take control, first take an honest look at your behavior. If an unhelpful story is driving you to silence or violence, stop and consider how others would see your actions.
+* Next, stop and think about your feelings. Most people are emotionally illiterate; expand your vocabulary to better know how you feel, and more understand what is going on and why.
+* Then, question your feelings, thereby allowing you to question your stories. This will allow you to develop new stories, and thereby develop new feelings.
+* Separate stories from facts. Test whether you can see or hear what you're calling a "fact," and look in stories for words that express judgments and attributions that create strong emotions.
+* When we feel a need to justify our ineffective behavior or disconnect ourselves in bad results, we tend to tell ourselves one of three "clever stories."
+* "Victim stories" make us innocent while ignoring our own role in the problem; "villain stories" assume the worst motives or grossest incompetence for others while ignoring any possible good intentions or skills.
+* These stories form a double standard: When we make mistakes, we tell a victim story; when others make mistakes, we tell a villain story.
+* "Helpless stories" make us out to be powerless to do anything healthy or helpful, thereby justifying the action we're about to take.
+* Villain stories and victim stories look back to explain the situation we're in, while helpless stories look forward to explain why we can't do anything to change our situation.
+* We often tell clever stories to excuse ourselves of any responsibility, or to justify our actions when we consciously act against our own sense of what's right.
+* Clever stories are incomplete and omit information about us, others, and our options. To add details, turn victims into actors, villains into humans, and the helpless into the able.
+* These details create a *useful* story, which creates emotions that lead to healthy action, such as dialogue.
+* When humanizing "villains," we relax our absolute certainty long enough to allow for dialogue, which is the only reliable way to discover others' genuine emotions.
+
