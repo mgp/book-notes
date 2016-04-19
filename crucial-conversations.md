@@ -96,3 +96,16 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * These details create a *useful* story, which creates emotions that lead to healthy action, such as dialogue.
 * When humanizing "villains," we relax our absolute certainty long enough to allow for dialogue, which is the only reliable way to discover others' genuine emotions.
 
+### Chapter 7: STATE My Path
+
+* The best at dialogue speak their minds completely and do it in a way that makes it safe for others to hear what they have to say and respond to it as well.
+* To maintain safety in dialogue, be confident in what you say and your ability to say it without causing offense, and be humble to encourage others' input.
+* Rely on STATE to discuss sensitive topics: State your facts, Tell your story, Ask for others' paths, Talk tentatively, and Encourage testing.
+* Starting with facts shows that you are reasonable and rational; starting with a story could easily surprise and insult others, thereby killing safety and muting the facts.
+* Lead others down your Path to Action, starting with the facts and then moving to your story. The story conveys the severity of the implications.
+* Encourage others to share their facts, stories, and feelings, and be willing to abandon or shape your story as more information pours into the pool of shared meaning.
+* Speaking in absolute and overstated terms decreases your influence, while the more tentatively you speak, the more open people become to your opinions.
+* When you begin your story with a complete disclaimer and do use a tone that suggests you're consumed with doubt, you do the message a disservice.
+* Invite opposing views. If no one speaks up, play devil's advocate and model disagreeing by disagreeing with your own view.
+* You can argue as vigorously as you want for your point of view, provided you are even more vigorous at encouraging, or even pleading with, others to disprove it.
+* When you find yourself being forceful in your views, stop and think about what you really want for yourself, others, and the relationship, and ask if your behavior is congruent with that.
