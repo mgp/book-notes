@@ -109,3 +109,21 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * Invite opposing views. If no one speaks up, play devil's advocate and model disagreeing by disagreeing with your own view.
 * You can argue as vigorously as you want for your point of view, provided you are even more vigorous at encouraging, or even pleading with, others to disprove it.
 * When you find yourself being forceful in your views, stop and think about what you really want for yourself, others, and the relationship, and ask if your behavior is congruent with that.
+
+### Chapter 8: Explore Others' Paths
+
+* When someone retreats to the security of silence or violence, you can't force others to dialogue, but you can take steps to make it safer for them to do so.
+* The cure to silence or violence is to get at the underlying source; this calls for genuine curiosity at a time when you're likely feeling frustrated or angry.
+* To avoid overreacting to others' stories, ask yourself "Why would a reasonable, rational, and decent person say this?"
+* When others are in silence or violence, we're joining their Path to Action *already in progress*. We must encourage them to share not their conclusions, but their observations.
+* Helping others retrace their Path to Action helps us curb or emotion, and returns us to the facts and story behind the emotion, where feelings can be resolved.
+* To encourage others to share, we must listen. We must employ the power listening tools of AMPP: Ask, Mirror, Paraphrase, and Prime.
+* Ask: Stop filling the pool with your meaning, step back, and invite the other person to talk about his or her view.
+* Mirror: Describe how the other person looks or acts, creating safety by using a tone that says that you're okay with them feeling how they're feeling.
+* Paraphrase: Once you get a clue as to why the person is feeling the way he or she does, you can paraphrase to build additional safety.
+* Instead of pushing too hard, ask what the other person wants to see happen. This moves his or her brain to problem solving and away from attacking or avoiding.
+* Prime: When there is still no safety, offer your best guess as to what the other person is thinking or feeling. Only do this as a last resort.
+* Remember that you are trying to understand the other person's point of view; not necessarily agree with it or support it.
+* If you completely agree with the other person's path, say so and move on; don't turn an agreement into an argument.
+* If you agree with what has been said but the information is incomplete build. Point out areas of agreement, and then add elements that were left out of the discussion.
+* If you disagree, do not suggest that he or she is wrong, but suggest that you differ. Then share your path using the STATE skills.
