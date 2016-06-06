@@ -127,3 +127,23 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * If you completely agree with the other person's path, say so and move on; don't turn an agreement into an argument.
 * If you agree with what has been said but the information is incomplete build. Point out areas of agreement, and then add elements that were left out of the discussion.
 * If you disagree, do not suggest that he or she is wrong, but suggest that you differ. Then share your path using the STATE skills.
+
+### Chapter 9: Move to Action
+
+* The end of a crucial conversation is risky because if you aren't careful about how you classify the conclusion and decisions, you can violate expectations.
+* This manifests by people not understanding how decisions are going to be made, or by no decision ever being made.
+* When the line of authority for making decisions is clear, it is that authority who decides what method of decision-making to employ.
+* When the line of authority for making decisions is unclear, use your best dialogue skills to get meaning into the pool. Jointly decide how to decide.
+* Make decisions by command, consult, vote, and consensus. These represent increased involvement, which increases commitment but decreases efficiency.
+* With command decisions, either outside forces place demands on us, or we turn decisions over to others and then follow their lead.
+* In the case of external forces, it's not our job to decide what to do; it's our job to decide how to make it work.
+* Consulting is where decision makers invite others to influence before they make a choice. It permits gaining ideas and support without bogging down the decision-making process.
+* Voting is best suited to situations where efficiency is the highest value, and you're selecting from a number of good options.
+* Consensus can either produce tremendous unity and high-quality decisions, or can be a horrible waste of time.
+* Reserve consensus for high-stakes and complex issues, or issues where everyone must absolutely support the final choice.
+* Don't involve people who don't care, omit people who contribute no new information, but involve those whose authority or influence you need.
+* Create assignments by specifying who, does what, by when, and how will you follow up?
+* When passing out assignments, "we" can lead someone to believe that others are taking on the responsibility. Assign a name to every responsibility.
+* To help clarify deliverables, use Contrasting to explain what you don't want. Or make things concrete by pointing to a prototype or sample.
+* Assignments without deadlines are far better at producing guilt than stimulating action.
+* If you want people to feel accountable, then you must give them opportunity to account. Build expectation for follow-up into every assignment.
