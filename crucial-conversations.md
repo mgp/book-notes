@@ -147,3 +147,28 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * To help clarify deliverables, use Contrasting to explain what you don't want. Or make things concrete by pointing to a prototype or sample.
 * Assignments without deadlines are far better at producing guilt than stimulating action.
 * If you want people to feel accountable, then you must give them opportunity to account. Build expectation for follow-up into every assignment.
+
+### Chapter 10: Yeah, But
+
+* With sexual or other harassment, own up to tolerating the behavior for too long, and then establish Mutual Purpose and then STATE your path.
+* With a sensitive spouse, use contrasting, tentatively explain consequences, and use testing. Look for signs that safety is at risk, then make it safe.
+* When a teammate fails to live up to agreements, speak up and hold each other accountable.
+* When experiencing deference to authority, either you are creating fear or you are living with the ghosts of past bosses, or both.
+* If you are the problem, solicit peer feedback. If it stems from ghosts, go public and reward risk-takers, encourage testing, and thank people for contrary opinions.
+* With lack of trust, bring up your concerns, and STATE what you see happening. Do not tell a Villain Story that exaggerates others' untrustworthiness.
+* With someone who won't talk about anything serious, Make It Safe, use tentative language, Explore Others' Paths, and be patient.
+* When you see signs of improvement, invite talking about how you talk or don't talk about important issues, building safety by establishing Mutual Purpose.
+* When faced with subtle and unacceptable actions, retrace your Path to Action to its source, and if the behaviors are worthy of dialogue STATE Your Path.
+* With someone shows no initiative, establish new and higher expectations. Deal with the overall pattern, not a specific instance.
+* With a problem shows a pattern, STATE Your Path. Talk about the pattern; talking about any one instance will make your concern seem trivial.
+* When you need to calm down, suggest that you need some time alone and that you'd like to pick up the conversation later.
+* Suggesting someone else needs to calm down is patronizing. To get back to the source of their anger, retrace their Path to Action.
+* When faced with endless excuses, gain commitment to solving the overall problem, not simply the stated cause.
+* Insubordination catches most leaders by surprise. They buy time to figure out what to do, which lets the person get away with it.
+* When you catch insubordination, speak up immediately but respectfully. Change topics from the issue at hand to how the person is currently acting.
+* Stories left unattended don't get better with time, they ferment. Then when we can't take it anymore, we say something that we regret.
+* Use your STATE skills before a story turns too ugly, or if you've let the problem build, use your STATE skills and tell the most simple and least offensive story.
+* With touchy and personal issues, use contrasting, establish Mutual Purpose to show honorable intentions, and tentatively describe the problem.
+* When faced with word games, STATE the pattern of playing games, discuss both behaviors and outcomes, and then hold them accountable to results.
+* With someone who delivers surprises, clarify that one needs to complete the assignment as planned or immediately inform you if they run into a problem.
+* With someone who violates all the dialogue principles, choose your targets carefully: Focus on what bothers you the most, and what is easiest to work on.
