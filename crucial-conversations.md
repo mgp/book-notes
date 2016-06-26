@@ -172,3 +172,16 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * When faced with word games, STATE the pattern of playing games, discuss both behaviors and outcomes, and then hold them accountable to results.
 * With someone who delivers surprises, clarify that one needs to complete the assignment as planned or immediately inform you if they run into a problem.
 * With someone who violates all the dialogue principles, choose your targets carefully: Focus on what bothers you the most, and what is easiest to work on.
+
+### Chapter 11: Putting It All Together
+
+* The first lever for getting to dialogue is asking whether you're playing games or in dialogue. If you've moved away, don't be afraid to express that sentiment.
+* The second lever is making it safe. Asking a question, showing interest, an appropriate touch, an apology, a smile, or a request for a "time out" all build safety.
+* For "Start with Heart", focus on what you really want, and refuse the Sucker's Choice.
+* For "Learn to Look," look for when the conversation becomes crucial, and look for safety problems.
+* For "Make It Safe," apologize when appropriate, contrast to fix misunderstanding, and CRIB to get Mutual Purpose.
+* For "Master My Stories," retrace your path to action, separate fact from story, and watch for the Three Clever Stories.
+* For "STATE My Path," Share your facts, Tell your story, Ask for others' paths, Talk tentatively, and Encourage testing.
+* For "Explore Others' Paths," use AMPP, or Ask, Mirror, Paraphrase, and Prime, and then Agree, Build, and Compare.
+* For "Move to Action," decide how you will decide, and then document decisions and follow up.
+* The current quality of your leadership and your life is fundamentally a function of how you are presently handling crucial conversations.
