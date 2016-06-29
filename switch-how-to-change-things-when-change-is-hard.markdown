@@ -42,3 +42,17 @@ by Chip Heath and Dan Heath
 * Scripting only the critical moves, instead of all moves, provides focus and makes it easier for people to change direction.
 * Don't assume the new moves are obvious. Translate aspirations into actions by clearly defining behavioral goals.
 * Conventional wisdom says that people resist change, people are stubborn and set in their ways; but clarity dissolves resistance.
+
+#### Chapter 4: Point to the Destination
+
+* Good to Great showed that a "Big, Hairy, Audacious Goal," or BHAG, was a motivational goal that distinguished lasting companies from less successful ones.
+* In creating change, we want a *destination postcard*, or inspirational and vivid picture of the near-term future that shows what is possible.
+* By pointing to an attractive destination, the Rider applies his strengths to figure out how to get there, instead of getting lost in analysis.
+* SMART goals, or those that are Specific, Measurable, Actionable, Relevant, and Timely, address ambiguity and irrelevance, but lack emotional response.
+* SMART goals are better for steady-state situations than change situations, because the assumptions underlying them are that the goals are worthwhile.
+* When a big picture goal is imprecise, its ambiguity creates wiggle room for the Elephant to rationalize failure.
+* A Black & White goal, by contrast, is all-or-nothing, but uninspiring and scripts critical behaviors instead of creating a destination postcard.
+* B&W goals may be the solution for the potential for inaction on your team, or for silent resistance that may slow or sabotage your change initiative.
+* Your goal can be less unyielding, but marry your long-term goal with short term critical moves while providing a behavioral script.
+* Don't obsess about the middle, because it's going to look different once you get there. Look for a strong beginning and strong ending and get moving.
+* In summary, for the Rider, follow the bright spots, and give direction by sending a destination postcard and scripting critical moves.
