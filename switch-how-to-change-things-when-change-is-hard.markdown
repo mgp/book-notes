@@ -72,3 +72,17 @@ by Chip Heath and Dan Heath
 * Negative emotions produce particular actions and facial expressions, and have a narrowing effect on our thoughts, providing focus.
 * Positive emotions "broaden and build" our repertoire of thoughts an actions: They broaden what we consider doing, through which we build resources and skills.
 * To solve bigger, more ambiguous problems, we must rely on positive emotion and encourage open minds, creativity, and hope.
+
+#### Chapter 6: Shrink the Change
+
+* People find it more motivating to be partially finished with a longer journey than to be at the starting line of a shorter one.
+* That sense of progress is critical, because the Elephant is easily demoralized. It needs reassurance for the first step.
+* If leading a change effort, don't focus solely on what's new and different about the change to come; remind people what's already been conquered.
+* If people are facing a daunting task, and their instinct is to avoid it, shrink the change.
+* Make the change small enough that they can't help but score a victory. Progress will snowball, and you will motivate the Elephant.
+* You can shrink the change either by limiting the investment you're asking for, or by setting milestones within reach.
+* When you engineer early successes, what you are really doing is engineering hope, which is Elephant fuel.
+* Once people are on the path and making progress, it's important to make their advances visible. Such encouragement is self-reinforcing.
+* This also focuses attention on small milestones that are attainable and visible rather than the eventual destination, which may seem very remote.
+* A small win reduces importance, reduces demands, and raises perceived skill levels, each of which makes the change more self-sustaining.
+* Ensure that the small wins that are both meaningful and within immediate reach.
