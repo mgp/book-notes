@@ -56,3 +56,19 @@ by Chip Heath and Dan Heath
 * Your goal can be less unyielding, but marry your long-term goal with short term critical moves while providing a behavioral script.
 * Don't obsess about the middle, because it's going to look different once you get there. Look for a strong beginning and strong ending and get moving.
 * In summary, for the Rider, follow the bright spots, and give direction by sending a destination postcard and scripting critical moves.
+
+### Part 2: Motivate the Elephant
+
+#### Chapter 5: Find the Feeling
+
+* When change works, it's because leaders are speaking to the Elephant as well as to the Rider.
+* Analytical tools work best when the parameters are known, the assumptions are minimal, and the future is not fuzzy.
+* The sequence of change is not ANALYZE-THINK-CHANGE but SEE-FEEL-CHANGE, as you're presented with evidence that makes you feel something.
+* Trying to fight inertia and indifference with analytical arguments is a solution that does not match the problem.
+* We are bad at self-evaluation because it involves interpretation, and the Elephant tends to take the rosiest interpretation of the facts.
+* These *positive illusions* make change difficult because they make it difficult for us to get a clear picture of where we are and how we're doing.
+* The ambiguity in terms like "leader" or "team player" only enables our corresponding positive illusions.
+* Some may try to create a "burning platform," or crisis to convince people they're facing a catastrophe and have no choice but to move.
+* Negative emotions produce particular actions and facial expressions, and have a narrowing effect on our thoughts, providing focus.
+* Positive emotions "broaden and build" our repertoire of thoughts an actions: They broaden what we consider doing, through which we build resources and skills.
+* To solve bigger, more ambiguous problems, we must rely on positive emotion and encourage open minds, creativity, and hope.
