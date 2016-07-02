@@ -85,4 +85,22 @@ by Chip Heath and Dan Heath
 * Once people are on the path and making progress, it's important to make their advances visible. Such encouragement is self-reinforcing.
 * This also focuses attention on small milestones that are attainable and visible rather than the eventual destination, which may seem very remote.
 * A small win reduces importance, reduces demands, and raises perceived skill levels, each of which makes the change more self-sustaining.
-* Ensure that the small wins that are both meaningful and within immediate reach.
+
+#### Chapter 7: Grow Your People
+
+* Shrinking the change makes people feel "big" relative to the challenge. Or you can grow the people, giving them strength to act.
+* In the *consequences model* of decision making, we weigh costs and benefits and make the choice that maximizes our satisfaction.
+* In the *identity model*, we ask "Who am I?", "What kind of situation is this?", and "What would someone like me do in this situation?"
+* An identity model omits any calculation of costs and benefits.
+* Because identities are central to the way people make decisions, any change effort that violates someone's identity is likely doomed to failure.
+* If someone doesn't aspire to be the person who would make the change you're asking, then you must work hard so they aspire to a different self-image.
+* People are receptive to new identities, and identities "grow" from small beginnings. Start small and build momentum.
+* Even an ultimately successful quest is going to involve failure en route, and your Elephant really hates to fail.
+* People with a fixed mindset avoid challenges, feel threatened by negative feedback, and try not to be seen exerting too much effort.
+* People with a growth mindset believe that abilities are like muscles, and that they can be built up with practice.
+* Those with a growth mindset stretch themselves, take risks, accept feedback, and take a long term view. They can't help but progress in their lives and careers.
+* A growth mindset compliment praises effort rather than skill.
+* The business world implicitly rejects the growth mindset. You plan and then execute; practice looks like poor execution.
+* If failure is a necessary part of change, then the way people interpret failure is critical.
+* Although growth mindset seems to draw attention to failure, and even encourages us to seek out failure, it is unflaggingly optimistic.
+* It reframes failure as a natural part of the change process. People only persevere if they perceive falling down as learning, not falling.
