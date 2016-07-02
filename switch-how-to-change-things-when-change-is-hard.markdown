@@ -116,3 +116,17 @@ by Chip Heath and Dan Heath
 * When it comes to changing our own behavior, environmental tweaks may prove more effective than self-control.
 * The Haddon Matrix is a framework that decomposes accidents into pre-event, event, and post-event time periods.
 * Pre-event focuses on prevention, event focuses on minimizing the probability of damage, and post-event focuses on minimizing damage.
+
+#### Chapter 9: Build Habits
+
+* One of the subtle ways in which our environment acts on us is by reinforcing or deterring our habits.
+* Good habits allow good things to happen without the Rider taking charge, which is good because his self-control is exhaustible.
+* An action trigger is when you've made the decision to execute a certain action when you encounter a certain situational trigger.
+* An action trigger preloads the next action; there is no cycle of conscious deliberation. You conserve the Rider's self-control.
+* By predeciding with an action trigger, you pass the control of your behavior onto the environment. You create an "instant habit."
+* Leaders who can instill habits that reinforce their teams' goals are essentially making progress for free.
+* The hard question for a leader is not how to form habits but which habits to encourage.
+* When creating a habit to support your change, it needs to advance the mission, and it needs to be relatively easy to embrace.
+* In shaping the Path, the humble checklist is a tool that combines the strategies of tweaking the environment and building habits.
+* Checklists educate people about what's best, showing them the ironclad way to do something.
+* Even without ironclad ways of doing something, checklists avoid blindspots in a complex environment, and provide insurance against overconfidence.
