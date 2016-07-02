@@ -104,3 +104,15 @@ by Chip Heath and Dan Heath
 * If failure is a necessary part of change, then the way people interpret failure is critical.
 * Although growth mindset seems to draw attention to failure, and even encourages us to seek out failure, it is unflaggingly optimistic.
 * It reframes failure as a natural part of the change process. People only persevere if they perceive falling down as learning, not falling.
+
+### Part 3: Shape the Path
+
+#### Chapter 8: Tweak the Environment
+
+* The Fundamental Attribution Error is our inclination to attribute people's behavior to the way they are rather than to the situation they're in.
+* What looks like a people problem is often a situation problem; that problem can be remedied by shaping the path.
+* Tweaking the environment is about making the right behaviors a little bit easier and the wrong behaviors a little bit harder.
+* You know you've got a smart solution when everyone hates it and it still works, or if it works so well that hate turns to enthusiasm.
+* When it comes to changing our own behavior, environmental tweaks may prove more effective than self-control.
+* The Haddon Matrix is a framework that decomposes accidents into pre-event, event, and post-event time periods.
+* Pre-event focuses on prevention, event focuses on minimizing the probability of damage, and post-event focuses on minimizing damage.
