@@ -140,3 +140,15 @@ by Chip Heath and Dan Heath
 * Every culture is shaped by language. Incubating a new language with a new set of values can create an "oppositional identity."
 * If you want to change the culture of your organization, you must let the reformers come together in a free space.
 * You must also permit an identity conflict, or an "us versus them" struggle to happen. Think of it as organizational molting.
+
+#### Chapter 11: Keep the Switch Going
+
+* Recognize and celebrate your first step on the path to change. And when you spot that movement, reinforce it.
+* Set a behavioral destination and then use "approximations," rewarding each tiny step toward the destination.
+* Reinforcement is the key to getting past the first step on the journey, but we are quicker to grouse than to praise.
+* Learning to find bright spots, or approximations, and reward them requires constantly scanning the environment.
+* Change is not an event; it is a process. And to lead a process requires persistence.
+* The mere exposure effect says the more you're exposed to something, the more you like it. This can help sustain change.
+* Cognitive dissonance says that once people have begun to act in a new way, it will be difficult for them to dislike the way they're acting.
+* As small changes snowball into big changes, inertia will shift from resisting change to supporting it.
+* People who change have a clear direction (the Rider), ample motivation (the Elephant), and a supportive environment (the Path).
