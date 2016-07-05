@@ -130,3 +130,13 @@ by Chip Heath and Dan Heath
 * In shaping the Path, the humble checklist is a tool that combines the strategies of tweaking the environment and building habits.
 * Checklists educate people about what's best, showing them the ironclad way to do something.
 * Even without ironclad ways of doing something, checklists avoid blindspots in a complex environment, and provide insurance against overconfidence.
+
+#### Chapter 10: Rally the Herd
+
+* In ambiguous situations or unfamiliar environments, such as during change, we all look to others for cues on how to behave.
+* In situations where the herd has embraced the right behavior, publicize it. Otherwise, publicizing will hurt, not help.
+* Rallying the support of others who could in turn influence those you hope to sway is an attempt to change the culture.
+* "Free spaces" are small-scale meetings where reformers can gather and ready themselves for action without observation by the dominant group.
+* Every culture is shaped by language. Incubating a new language with a new set of values can create an "oppositional identity."
+* If you want to change the culture of your organization, you must let the reformers come together in a free space.
+* You must also permit an identity conflict, or an "us versus them" struggle to happen. Think of it as organizational molting.
