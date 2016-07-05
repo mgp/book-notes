@@ -102,3 +102,157 @@ https://www.khanacademy.org/economics-finance-domain/core-finance
 * Every time we went through a recession from the mid-80s onwards, the government solution as to make financing easier, meaning the fed would lower interest rates and increase available credit.
 * When people cannot borrow anymore, they are forced to save. Consequently, demand will decrease by the amount saved, which in turn decreases capacity utilization, and consequently prices.
 * When World War II ended, factories were no longer utilized for the war. But Germany, Western Europe, and Japan had their factories bombed, and so their demand picked up the slack from US capacity.
+
+### Stocks and bonds
+
+#### Introduction to stocks
+
+_What it means to buy a company's stock_
+
+* When you buy stock, you become part owner of a company. When you buy a bond, you become part lender to a company.
+* An asset is something that has value or has future benefit. A loan to someone else is an asset, because they will pay you back. (Whereas a loan to you is a liability.)
+* Assets minus debt or liability leaves owners equity. When you a part owner of a company, you own a piece of that equity.
+* If the share price of a company is less than the owners equity divided by the number of outstanding shares, then it means that the market doesn't believe the company is worth that price.
+* Average volume is the number of shares sold per day. Market cap is the publicly traded price multiplied by the number of outstanding shares.
+* The market cap reflects the market's view of the company's assets, and again, it may differe from the assets reflected by the books.
+
+_Bonds vs. stocks_
+
+* A company can raise money by borrowing money, which is debt, or selling shares of itself, which is equity.
+* A security is something that can be bought or sold and that has some sort of claim on something, or some economic value.
+* A security in the equity world is a stock, and a security in the debt world is a bond.
+* Debt could be a bank loan, or typically a bond, which is borrowing from the public market.
+* The face value, or par value of a bond, is an I.O.U. from a company for payback at some future date called maturity.
+* A zero coupon bond is where the company does not pay interest until they pay off the entire loan. The interest is implicit in the value delivered.
+* A coupon is a regular payment on the bond that the company makes.
+* Bonds are traded just like stocks, but their price is somewhat difficult to find.
+* When you hold a bond, you have lent some money to the company, and as long as the company doesn't go bankrupt then it will pay you interest and your money back.
+
+#### Shorting stock
+
+_Basic shorting_
+
+* A short on a stock is a bet that the stock is going to go down.
+* To short, you borrow the stock and then immediately sell it its current price. Then later, you can buy the stock at its lower price, and return it to the owner.
+* Obviously, if the stock appreciates in value, then you lose money instead of make money. Shorting is the riskiest thing you can do, as a stock price can go unbelievably high.
+
+_Shorting stock_
+
+* When you short a stock, you borrow the share from a broker or brokerage. These shares typically belong to other clients of the broker.
+* When you long on a security, you're buying the security. When you go short, you're borrowing the security and then selling it.
+* When you borrow a share, you have to pay interest on it.
+* If you borrow a share from the broker, and the owner of that share then immediately sells it, the broker really just shuffles around the ownership of shares. This is because stocks are fungible.
+* The stockholders give the brokerage permission to do this becuase they get a percentage of the interest that you are paying. It is beneficial to them.
+* If the company then issues a dividend on the stock, then as a borrower you forfeit that dividend. The broker makes it appear like the real stockholder still owns the stock and receives it.
+* If the stock depreciates in value, then you can unwind your trade or cover your short by purchasing a share at the lower price and returning that to the broker.
+
+_Shorting stock 2_
+
+* When you buy a stock, your potential loss is at most the stock price. When you short a stock, your potential loss is unbounded.
+
+_Is short selling bad?_
+
+* People who short create extra supply for the stock, which lowers the price at which the stock is borrowed, because you have more aggregate sellers.
+* When the short is covered, you have more aggregate buyers at the point where it is covered, which raises the price at which it is covered.
+* A short seller therefore reduces the volatility of the stock by reducing peaks and raising the trophs of a curve with no short sellers present, which is good for everybody.
+* Management has the best incentive to be positive of a stock. They are shareholders and have the best transparency and are compensated based on how the stock does.
+* Sell-side analysts work for brokerages and investment banks who publish reports with buy ratings. They work for the people who offer securities or financial services.
+* Bankers, government, and rating agencies are all in the positive camp and benefit when stocks continue to go up beyond where they should go up.
+* Only the short sellers have the sophistication, the time, and the monetary incentive to scrutinize what management is doing. They are on society's side in keeping management in check.
+
+#### Understanding company statements and capital structure
+
+_Gross and operating profit_
+
+* Revenue minus the cost of goods sold equals gross profit. It's called gross profit because it's the profit that we think of from selling an incremental unit.
+* The gross profit minus expenses like rent, salaries, debt and amortization, and so on leaves you with the operating profit. It tells how much profit is coming from the business. You subtract items relating to business operations.
+* Subtracting interest expense from operating profit leaves you pre-tax income. Subtracting taxes from that leaves you net income.
+
+_Basic capital structure differences_
+
+* The capital sturcture of your business affects everything after your operating profit. It answers how the company is funding its assets.
+
+_Market capitalization_
+
+* A publicly traded company simply means that its shares are traded on some exchange, such as the NYSE or NASDAQ.
+* The market capitalization specifies what the market thinks the owner equity of a company is worth. It's different from the number on the books.
+
+_Market value of assets_
+
+* When the market values a company more than its books, then the intangibles represent the difference, such as management expertise, location, and so on.
+
+#### Bonds
+
+_Corporate debt versus traditional mortgages_
+
+* With a mortgage, the bank determines a fixed payment that you pay every month. It won't change over the course of the mortgage. Some part is interest, and some is principal, or paying down the debt on the mortgage.
+* With each new fixed payment, you're paying less interest because you've paid off more of the principal. And consequently you're paying off more of the principal.
+* Corporate debt is usually interest only debt. The company pays interest on every payment, and on the last payment they also repay the full amount of the principal.
+* If the company cannot pay back the principal at this time, it can take out a new loan for the same amount and use that to pay the principal of the previous loan.
+
+_Introduction to bonds_
+
+* A bond is a way to parcipate in lending to a company.
+* For a company to raise money, they can either issue new shares and collect the price per share on each share to raise money. This is financing via equity.
+* If a company instead borrows money, it does not get a cut of the profits. Instead they are paid interest on the money that was lended, before shareholders get any profits at all.
+* If the company does well, then shareholders benefit but not bond holders. But if the company does poorly, then shareholders suffer while bond holders remain secure.
+* The interest on a bond is called the annual coupon because the first bonds that were issued had coupons that could be redeemed for interest.
+* Coupons are generally paid semi-annually, or every six months.
+
+_Introduction to the yield curve_
+
+* When most people talk about the yield curve, they are talking about the risk free yield curve, or the yield curve for treasuries.
+* Treasury bills, notes, and bonds are simply loans to the federal government. They are considered risk free, because if the government is low on cash they it raise taxes to pay you back.
+* T-bills, T-notes, and T-bonds are all loans to the government, but for different amounts of time.
+* Lending money for shorter amounts of time has less risk, because only so much can happen in a short amount of time.
+* The interest rate is an annualized interest rate. On a 1-month T-bill, it is the interest aggregate interest accrued if you made the loan over 12 consecutive months.
+* The yield curve simply plots the annualized interest rate over different amounts of time.
+* When the government needs to borrow money, it declares how much it needs to borrow over what amount of time, and they have an auction where investors from the world participate. The demand at the auction determines the rate.
+* If a lot of people want to buy the treasury, then there is a lot of demand relative to the supply, and so the government has to pay a lower interest rate.
+
+_Relationship between bond prices and interest rates_
+
+* If interest rates go up, then the price of bonds goes down, which is also known as trading at a discount to the par.
+* This is because if the bond were reissued, then someone would expect a higher coupon value, commensurate with what you could get on the open market.
+* Similarly, if interest rates go down, then the coupon value of the bond is therefore exceptional, and the bond is worth more. We also say that it trades at a premium to par.
+
+_Treasury bond prices and yields_
+
+* When the price of a treasury security goes up, the yield or interest that you get on your loan goes down. You receive the same amount back, but lend more money.
+* The price of a treasury goes up when there is more demand to buy them.
+
+_Annual interest varying with debt maturity_
+
+* In a short amount of time, there is less of a chance of something catastrophic happening, and more predictability of the world. Therefore money lent for shorter times have lower interest rates.
+
+_The yield curve_
+
+* When people talk about the yield curve, they are talking about the plot for the United States Treasury bills and bonds in dollars.
+
+### Investment vehicles, insurance, and retirement
+
+#### Retirement accounts: IRAs and 401ks
+
+_Traditional IRAs_
+
+* In a traditional IRA, income that you contribute is not taxed. If you did not have an IRA, what you could have contributed would be taxed.
+* You pay a penalty and taxes if you withdraw from your IRA before age 59.5. Otherwise you can buy and sell securities within the IRA without being penalized.
+* Capital gains are gains made from capital investments. Profit from an investment within an IRA are not subject to capital gains.
+* When you are 60 or over, you can withdraw without paying a penalty, but you must pay taxes. But you're likely earning less money, and so the tax bracket you're in will be lower.
+
+_Roth IRAs_
+
+* A Roth IRA will tax you on contributions, but will not tax you on withdrawl. Like a traditional IRA, earnings are not taxed in the account.
+* Early withdrawl from a traditional IRA incurs a 10% penalty and taxes, whereas there is no taxes or penalty if you withdrawl the principal amount from a Roth IRA. You only pay 10% penalty and taxes on earnings.
+* With a Roth IRA, when you withdraw over 59.5, you get your money regardless of your tax bracket.
+* With a traditional IRA, you pay taxes at the end not only on what you put in, but on all of your earnings. With a Roth IRA, you pay taxes only on what you put in.
+* At age 70.5, you are forced to withdraw from a traditional IRA, whereas there is no age limit on a Roth IRA.
+
+_401(k)s_
+
+* A 401k is very similar to a traditional IRA in that you put pre-tax money in, and you can withdraw after age 59.5, whereupon you will pay income tax.
+* Again, this is advantageous if you are in a high tax bracket when making money, and in a low tax bracket when withdrawing money after age 59.5.
+* 401k accounts have a higher limit for contributing annually.
+* 401k accounts are also organized by your current employer, who may specify potential investments and run the fund, and also match your contributions.
+* You can also borrow from the 401k without penalty, although you must pay interest to the 401k.
+* A traditional IRA gives you much more flexibility on where you want to invest; a company may structure a 401k so that you can only invest in that company's stock.
