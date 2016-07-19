@@ -24,3 +24,14 @@ by Charles Duhigg
 * Without habit loops, our brains would shut down, overwhelmed by the minutiae of daily life.
 * It is possible to learn and make unconscious choices without remembering anything about the lesson or decision making.
 * By learning to observe the cues and rewards of habit loops, we can change the routines.
+
+#### Ch 2: The Craving Brian: How to Create New Habits
+
+* To cultivate a new habit, create a carving. A craving is what makes cues and rewards work, and what powers the habit loop.
+* As a habit becomes stronger, the cue begins eliciting a pleasure response from our brain, thereby creating anticipation and cravings.
+* New habits form by putting together a cue, routine, and reward, and then cultivating a craving that drives the loop.
+* To overpower a habit, we must recognize which craving is driving the behavior. Otherwise we will subconsciously submit to it.
+* A cue and reward, on their own, are not enough for a new habit to last; a craving prompted by the cue is always required.
+* Think about a reward to create a craving; this will make it easier to endure the routine.
+* What we crave doesn't have to have any material benefit, such as tingling from toothpaste or foaming from shampoo.
+* Cravings are what drive habits, and figuring out how to spark a craving makes creating a new habit easier.
