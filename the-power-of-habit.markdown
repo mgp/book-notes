@@ -35,3 +35,14 @@ by Charles Duhigg
 * Think about a reward to create a craving; this will make it easier to endure the routine.
 * What we crave doesn't have to have any material benefit, such as tingling from toothpaste or foaming from shampoo.
 * Cravings are what drive habits, and figuring out how to spark a craving makes creating a new habit easier.
+
+#### Ch 3: The Golden Rule of Habit Change: Why Transformation Occurs
+
+* It is easier to convince someone to adopt a new behavior if there is something familiar at the beginning and end.
+* To change a habit, you must keep the old cue and deliver the old reward, but must insert a new routine.
+* To create a new habit you must trigger a new craving; but to change an old habit, you must address an old craving with a new routine.
+* Often, we don't really understand the cravings driving our behaviors until we look for them.
+* Habit replacement can work well until a stressor appears. But a strong belief can help preserve the reworked habit loop.
+* People might be skeptical about their ability to change if they're by themselves, but a community creates belief.
+* When people join groups where change seems possible, the potential for that change to occur becomes more real.
+* Attacking the behaviors we think of as addictions by modifying the behaviors surrounding them is one of the most effective modes of treatment.
