@@ -46,3 +46,17 @@ by Charles Duhigg
 * People might be skeptical about their ability to change if they're by themselves, but a community creates belief.
 * When people join groups where change seems possible, the potential for that change to occur becomes more real.
 * Attacking the behaviors we think of as addictions by modifying the behaviors surrounding them is one of the most effective modes of treatment.
+
+### Part Two: The Habits of Successful Organizations
+
+#### Ch 4: Keystone Habits, or the Ballad of Paul O'Neill: Which Habits Matter Most
+
+* Keystone habits are the habits that matter most when remaking businesses and lives. They start a process that, over time, transforms everything.
+* Success doesn't depend on getting every single thing right, but instead relies on identifying a few key priorities and fashioning them into powerful levers.
+* Exercise, eating with your family, and making your bed, when done habitually, start chain reactions that help other good habits take hold.
+* Small wins have an influence disproportionate to the accomplishments of the victories themselves, and are how keystone habits create widespread change.
+* They fuel transformative changes by leveraging tiny advantages into patterns that convince people that bigger achievements are within reach.
+* The second way keystone habits encourage change by creating structures that help other habits flourish.
+* The final way keystone habits encourage widespread change is by creating cultures where new values become ingrained. They make hard choices easier.
+* Grit is the tendency to work strenuously toward challenges, maintaining effort and interest despite failure, adversity, and plateaus in progress.
+* Keystone habits transform us by creating cultures that make clear the values that, in a difficult or uncertain moment, we might otherwise forget.
