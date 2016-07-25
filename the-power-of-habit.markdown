@@ -60,3 +60,14 @@ by Charles Duhigg
 * The final way keystone habits encourage widespread change is by creating cultures where new values become ingrained. They make hard choices easier.
 * Grit is the tendency to work strenuously toward challenges, maintaining effort and interest despite failure, adversity, and plateaus in progress.
 * Keystone habits transform us by creating cultures that make clear the values that, in a difficult or uncertain moment, we might otherwise forget.
+
+#### Ch 5: Starbucks and the Habit of Success: When Willpower Becomes Automatic
+
+* Dozens of studies show that willpower is the single most important keystone habit for individual success.
+* Self-discipline has a bigger effect on academic performance than does individual talent.
+* Willpower is not a skill, but instead like a muscle; it gets tired as it works harder, and you can completely exhaust it.
+* If you strengthen your willpower muscles in one part of your life, that strength will spill over and touch everything.
+* We can teach ourselves how to handle moments of adversity by creating willpower habit loops.
+* Starbucks teaches the LATTE method: Listen to the customer, Acknowledge the problem, Take action, Thank them, then Explain why the problem occurred.
+* Willpower becomes habit by choosing a certain behavior ahead of time, and then following that routine when an inflection point arrives.
+* Increasing someone's agency, or their feeling of control or decision-making authority, taxes them less in situations that require self-control.
