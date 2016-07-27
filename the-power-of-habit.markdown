@@ -71,3 +71,15 @@ by Charles Duhigg
 * Starbucks teaches the LATTE method: Listen to the customer, Acknowledge the problem, Take action, Thank them, then Explain why the problem occurred.
 * Willpower becomes habit by choosing a certain behavior ahead of time, and then following that routine when an inflection point arrives.
 * Increasing someone's agency, or their feeling of control or decision-making authority, taxes them less in situations that require self-control.
+
+#### Ch 6: The Power of Crisis: How Leaders Create Habits Through Accident and Design
+
+* Destructive organizational habits are usually the product of thoughtlessness, or of leaders who avoid curating a culture.
+* Organizations do not make rational choices based on deliberate decision making, even though it may seem that way.
+* Instead, organizations are guided by long-held organizational habits, patterns that often emerge from thousands of employees' independent decisions.
+* These habits, or "routines," provide hundreds of unwritten rules that companies need to operate.
+* Among the most important benefits of routines is that they create truces between potentially warring groups or individuals within an organization.
+* If you follow the established patterns and abide by the truce, then rivalries won't destroy the company or your livelihood.
+* Leaders must cultivate habits that both create a real and balanced peace and, paradoxically, make clear who is in charge.
+* During turmoil, organizational habits become malleable enough to both assign responsibility and create a more equatable balance of power.
+* Good leaders seize crises to remake organizational habits. Wise leaders prolong a sense of emergency on purpose.
