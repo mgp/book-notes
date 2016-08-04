@@ -83,3 +83,11 @@ by Charles Duhigg
 * Leaders must cultivate habits that both create a real and balanced peace and, paradoxically, make clear who is in charge.
 * During turmoil, organizational habits become malleable enough to both assign responsibility and create a more equatable balance of power.
 * Good leaders seize crises to remake organizational habits. Wise leaders prolong a sense of emergency on purpose.
+
+#### Ch 7: How Target Knows What You Want Before You Do: When Companies Predict (and Manipulate) Habits
+
+* Customers act like creatures of habit, automatically repeating past behavior with little regard to current goals.
+* People's buying habits are more likely to change when they go through a major life event; and they often don't notice or care.
+* Our brains crave familiarity in music because familiarity is how we manage to hear without becoming distracted by all the sound.
+* By playing a new song between songs that are already popular, you make that new song seem familiar, thereby mitigating its risk.
+* If you dress something new in old habits, it's easier for the public to accept it. You make the novel seem familiar.
