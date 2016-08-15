@@ -91,3 +91,15 @@ by Charles Duhigg
 * Our brains crave familiarity in music because familiarity is how we manage to hear without becoming distracted by all the sound.
 * By playing a new song between songs that are already popular, you make that new song seem familiar, thereby mitigating its risk.
 * If you dress something new in old habits, it's easier for the public to accept it. You make the novel seem familiar.
+
+#### Ch 8: Saddleback Church and the Montgomery Bus Boycott: How Movements Happen
+
+* Movements begin as the habits of friendship, grow through habits of communities, and are sustained by new habits that change participants' sense of self.
+* On the whole, our deepest relationships tend to be with people who look like us, earn the same amount of money, and come from similar backgrounds.
+* There is a natural instinct embedded in friendship, a sympathy that makes us willing to fight for someone we like when they are treated unjustly.
+* Weak ties are people who share membership in social circles, but aren't directly connected by the strong ties of friendship.
+* Weak ties give us access to social networks where we don't otherwise belong. They move a political or social movement beyond an initial clique.
+* The habits of peer pressure spread through weak ties, and gain their authority through communal expectations.
+* The strong ties of friendship and the weak ties of peer pressure merge to create incredible momentum and permit widespread social change.
+* For an idea to grow beyond a community, it must be self-propelling. This requires giving people new habits that help them figure out where to go on their own.
+* Everyone's identity must change in a movement. You start to see yourself as part of a vast social enterprise, and then you really believe you are.
