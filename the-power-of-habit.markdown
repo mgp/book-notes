@@ -103,3 +103,14 @@ by Charles Duhigg
 * The strong ties of friendship and the weak ties of peer pressure merge to create incredible momentum and permit widespread social change.
 * For an idea to grow beyond a community, it must be self-propelling. This requires giving people new habits that help them figure out where to go on their own.
 * Everyone's identity must change in a movement. You start to see yourself as part of a vast social enterprise, and then you really believe you are.
+
+#### Ch 9: The Neurology of Free Will: Are We Responsible for Our Habits?
+
+* Courts and juries have decided that some powerful habits overwhelm our capacity to make choices, and so we're not responsible for what we do.
+* People with sleep terrors are in the grip of terrible anxieties, but their brains have shut down except for primitive regions, or "central pattern generators."
+* These generators create habits, or automatic behaviors so ingrained that they happen with almost no input from higher regions of the brain.
+* For problematic gamblers, a near miss is a prompt to put down another bet; for others, it creates apprehension and is a prompt for quitting.
+* For Aristotle, habits reigned supreme. He thought that the behaviors that occur unthinkingly are the evidence of our truest selves.
+* Every habit is malleable, but we must decide to change it. You have not just the freedom, but the responsibility, to remake them.
+* The will to believe is the most important ingredient in creating belief in change, and an important method for creating that belief is habits.
+* If you believe you can change, that change becomes real. Your habits are what you choose them to be.
