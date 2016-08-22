@@ -22,3 +22,16 @@ By Michael Bungay Stanier
 * The new habit formula requires identifying the trigger, identifying the old habit, and defining the new behavior.
 * There are just five types of triggers: location, time, emotional state, other people, and the immediately preceding action.
 * When adopting coaching, pick someone who might be up for it and will cut you slack, and don't incorporate all ideas at once.
+
+#### 1: The Kickstart Question
+
+* Small talk might be a useful way to warm up a conversation, but it's rarely a bridge that leads to a conversation that matters.
+* Don't begin your coaching conversation with an agenda that was perfect a week ago, but now puts process in front of what really matters.
+* Don't avoid a conversation because that feels comfortable, assuming that there's no conversation or question about what the issue is.
+* The question "What's on your mind?" quickly turns into a real conversation about the thing that matters most.
+* Coaching for performance focuses on specific problems; coaching for development focuses on the person dealing with those problems.
+* The 3P model focuses on a project, a person, or a pattern of behavior that is at the heart of a difficulty that the person is working through.
+* Projects is where coaching for performance tends to occur. Start here and see whether conversion would benefit from including another P.
+* When you're talking about people, you're not talking about them, but your relationship and your role in that relationship.
+* Looking at patterns of behavior that you'd like to change is most likely when coaching for development conversations will emerge.
+* We are what we give our attention to. The Kickstart Question helps make explicit something that may be unduly influencing the way you work.
