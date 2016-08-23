@@ -35,3 +35,15 @@ By Michael Bungay Stanier
 * When you're talking about people, you're not talking about them, but your relationship and your role in that relationship.
 * Looking at patterns of behavior that you'd like to change is most likely when coaching for development conversations will emerge.
 * We are what we give our attention to. The Kickstart Question helps make explicit something that may be unduly influencing the way you work.
+
+#### 2: The AWE Question
+
+* The question "And What Else?" has impact because more options can lead to better decisions, you ask more questions, and you buy yourself time.
+* The first answer is never the only answer, and rarely the best answer. Better options lead to better decisions, which lead to better outcomes.
+* Giving wrong advice often feels more comfortable than asking a question, as both we and organizations value clarity and certainty.
+* And when you're not entirely sure what's going on, and you need a moment to figure things out, the AWE question buys you extra time.
+* Use the principles of practicing deeply to ask "And what else?" with genuine interest and curiosity.
+* When someone responds "There is nothing else," view that as a sign of success. Move on to another question.
+* When it is time to move on, the variation "Is there anything else?" invites closure while producing the same results.
+* Don't fall victim to the Paradox of Choice. When the AWE question generates three to five answers, you've made great progress.
+* Studies show that follow-up questions that promote higher-level thinking, like the AWE question, deepen understanding and promote participation.
