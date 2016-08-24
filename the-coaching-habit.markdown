@@ -47,3 +47,17 @@ By Michael Bungay Stanier
 * When it is time to move on, the variation "Is there anything else?" invites closure while producing the same results.
 * Don't fall victim to the Paradox of Choice. When the AWE question generates three to five answers, you've made great progress.
 * Studies show that follow-up questions that promote higher-level thinking, like the AWE question, deepen understanding and promote participation.
+
+#### 3: The Focus Question
+
+* If you jump in to tackle a presented problem, typically you're working on the wrong problem, doing work your team do, or the work doesn't get done.
+* The challenge most people present is not the real challenge; it is a symptom, secondary issue, or ghost of a previous problem.
+* Doing the work of others may feel convenient at times, but it will eventually feel overwhelming, and you'll become the bottleneck.
+* "What's the real challenge here for you?" slows down the rush to action, so you solve the real problem and not the first problem.
+* The question invites analyzing multiple challenges, and makes it personal instead of appealing to high-level or abstract challenges.
+* If asking "What's on your mind?" reveals many problems, don't focus on one or offer advice; instead follow up with the focus question.
+* You can only coach the person in front of you. Don't tolerate gossip about someone else; ask the challenge question to focus on the relationship.
+* If listening to a high-level conversation about "us" and "we" instead of "me" and "I," the focus question can bring focus to the person at hand.
+* Adding "for you" to the end of as many questions as possible can make conversations more development- than performance-oriented.
+* Remember that there is a place for your advice, however; one of your roles as a manager or leader is to have answers.
+* Research shows that adding "for you" to a question helps people figure out the answers faster and more accurately.
