@@ -61,3 +61,18 @@ By Michael Bungay Stanier
 * Adding "for you" to the end of as many questions as possible can make conversations more development- than performance-oriented.
 * Remember that there is a place for your advice, however; one of your roles as a manager or leader is to have answers.
 * Research shows that adding "for you" to a question helps people figure out the answers faster and more accurately.
+
+#### 4: The Foundation Question
+
+* There are many reasons why the question "What do you want?" may not be asked or answered clearly, but the illusion of communication has taken place.
+* The illusion that each party knows what the other one wants sets the stage for plenty of frustrating exchanges.
+* Wants are surface requests or tactical outcomes; needs are affection, freedom, participation, creation, identity, protection, recreation, understanding, and subsistence.
+* Understand and express what you want. When we each understand what the other wants, we're in the middle of an interesting and worthwhile conversation.
+* If you're not sure about a situation, you read it as unsafe, and you begin to back away, unable to engage your conscious brain.
+* So that others engage rather than retreat from you, focus on TERA, so that you think about how to influence the environment that drives engagement.
+* T is for tribe, where the brain evaluates whether someone else is on your side or is your opposition.
+* E is for expectation, where the brain evaluates whether what's going to happen next is clear or ambiguous.
+* R is for rank, where the brain evaluates whether someone else is more or less important than you are, and its effect on your status.
+* A is for autonomy, where the brain evaluates whether you have a choice or not.
+* Your goal is to raise the overall TERA quotient, and by asking questions you can do just that.
+* The miracle question, "If a miracle happens, how do you know things are better?" focuses on the end in mind, like the foundation question.
