@@ -27,4 +27,5 @@
 * unrequited: (of a feeling, esp. love) not returned or rewarded
 * attenuated: weakened in force or effect
 * opprobrium: public disgrace arising from shameful conduct
-
+* cosset: care for and protect in an overindulgent way
+* puerile: childishly silly and trivial
