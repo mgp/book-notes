@@ -76,3 +76,17 @@ By Michael Bungay Stanier
 * A is for autonomy, where the brain evaluates whether you have a choice or not.
 * Your goal is to raise the overall TERA quotient, and by asking questions you can do just that.
 * The miracle question, "If a miracle happens, how do you know things are better?" focuses on the end in mind, like the foundation question.
+
+#### 5: The Lazy Question
+
+* Offering help is not always helpful: You raise your status and lower the other person's, whether you mean to or not.
+* The Drama Triangle says that we bounce around between three archetypal roles: Victim, Persecutor, and Rescuer.
+* As a victim, you attract Rescuers and have no responsibility to fix anything, but you're powerless. You're a whiner.
+* As a persecutor, you have a sense of power and control, but you end up being responsible for everything and you create victims. You're a bully.
+* As a rescuer, you feel indispensable and morally superior, but people reject your help and you create victims. You're a meddler.
+* Rescuers create victims, even though we want to believe that it's the other way around.
+* The question "How can I help?" forces a colleague to make a direct and clear request, and stops you from thinking that you know how best to help.
+* The worst thing you can do is something that is not so right that it's actually useful, but not so wrong that someone tells you to stop.
+* If you ask "What do you want from me," preface it with "Out of curiosity" or "Just so I know" to soften the tone.
+* Don't be afraid of the question. You can answer yes, no, provide a counter-offer, or think about it to buy yourself time.
+* Asking the Lazy Question not only makes you more effective, but gains you respect as well.
