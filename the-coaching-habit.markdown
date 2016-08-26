@@ -90,3 +90,20 @@ By Michael Bungay Stanier
 * If you ask "What do you want from me," preface it with "Out of curiosity" or "Just so I know" to soften the tone.
 * Don't be afraid of the question. You can answer yes, no, provide a counter-offer, or think about it to buy yourself time.
 * Asking the Lazy Question not only makes you more effective, but gains you respect as well.
+
+#### 6: The Strategic Question
+
+* Being busy is not a measure of success. And the maxim "work smarter, not harder" sounds good but is impossible to act upon.
+* The qualifier "strategic" is overused. Michael Porter defined strategy as "The essence of strategy is choosing what not to do."
+* A "Yes" is nothing without the "No" that gives it boundaries and form.
+* The No of omission applies to the options that are automatically eliminated by you saying Yes.
+* The No of commission puts the spotlight on how to create the space and focus, energy and resources needed to create the Yes.
+* Follow the 3P model of Projects, People, and Patterns to ensure that you cover all bases for the No of commission.
+* It's easiest to say no to those who are closest to us, and to those who are distant from us. In between it's much harder.
+* Say no by saying yes more slowly. Stay curious before committing by questions around urgency and resourcing.
+* In response, the person will either order you to work, have good answers, go find the answers, or find someone else to do the work.
+* It's awkward saying no to something, because you're actually saying no to someone.
+* Ask: What is our winning aspiration? Where will we play? How will we win? What capabilities must be in place? And what management systems are required?
+* The question behind these questions is the Strategic Question: What will you say No to if you say Yes to this?
+* The strategy question helps fight the planning fallacy, where we fail at estimating how much time we take to complete something.
+* Prospect theory says we overvalue things that we have because we don't like loss. The strategy question focuses on what we're holding onto.
