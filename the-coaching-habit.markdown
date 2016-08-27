@@ -107,3 +107,17 @@ By Michael Bungay Stanier
 * The question behind these questions is the Strategic Question: What will you say No to if you say Yes to this?
 * The strategy question helps fight the planning fallacy, where we fail at estimating how much time we take to complete something.
 * Prospect theory says we overvalue things that we have because we don't like loss. The strategy question focuses on what we're holding onto.
+
+#### 7: The Learning Question
+
+* People don't learn when you tell them something, or even when they do something, but instead when they recall and reflect on what happened.
+* The question "What was most useful to you" creates space for people to have learning moments.
+* Retention increases when we take the time and effort to find an answer, or we create and share our own connections to new ideas.
+* Interrupt the process of forgetting by asking a question. Find a way to ask the question in places other than the end of a conversation.
+* The Learning Question frames what just happened as something that was useful and creates a moment in which to figure out what it was.
+* It has the person focus on the one or two key takeaways from the conversation.
+* Suffixing the question with "for you" makes it personal; people are telling themselves what was useful, which sounds like better advice.
+* The answer to the question not only provides guidance on what to do next time, but reassures you that you're being useful.
+* Finally, the question prompts insight instead of eliciting judgment, and it reminds people how useful you are to them.
+* Tell others what you found to be the most useful; this equal exchange of information strengthens the social contract.
+* The peak-end rule says that how we evaluate an experience is disproportionately influenced by its peak and its ending moments.
