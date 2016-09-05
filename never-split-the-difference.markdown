@@ -80,3 +80,13 @@ by Chris Voss
 * If the other party is not listening, antagonize them into "no" by mislabeling their emotions or desires, or by asking what they don't want.
 * If despite all your efforts, the other party won't say "no," then they are indecisive, confused, or have a hidden agenda. Walk away.
 * If your emails are being ignored, provoke a "no" with the one sentence email: "Have you given up on this project?"
+
+#### Chapter 5: Trigger the Two Words That Immediately Transform Any Negotiation
+
+* Psychologist Carl Rogers proposed unconditional positive regard, or that real change can only come when the therapist accepts the client as he or she really is.
+* But because most of us experience conditional positive regard, we instead calibrate our words to gain approval but disclosing little.
+* Before you convince someone to see what you're trying to accomplish, you must say the things to them that will get them to say "that's right."
+* A good summary is the combination of re-articulating the meaning of what is said plus acknowledging the emotions underlying that meaning.
+* When your adversaries say "that's right," they feel they have assessed what you've said and pronounced it as correct of their own free will. They embrace it.
+* If your adversaries say "you're right," then they won't own the conclusion. Their behavior won't change.
+* "You're right," like "yes," is a social lubricant that is not in any way a substitute for real understanding between two parties.
