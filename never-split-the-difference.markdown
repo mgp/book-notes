@@ -58,3 +58,25 @@ by Chris Voss
 * Going right after negativity brings us to a safe zone of empathy. Every one of us has an inherent need to be understood, and to connect.
 * Following on the heels of an argument is a great position for a negotiator, because your counterpart is desperate for an empathetic connection.
 * The first goal of these tools is human connection; that they might help you extract what you want is a bonus.
+
+#### Chapter 4: Beware "Yes", Master "No"
+
+* "Yes" is often a meaningless answer that hides deeper objections.
+* "No" provides an opportunity for both parties to clarify what they don't want, and is a safe choice that maintains the status quo.
+* By giving someone permission to say "no" to your ideas, emotions calm, effectiveness increases, and the other party can really look at your proposal.
+* "No" is not rejection. It means the other party is uncomfortable, does not understand, wants to consult someone else, and so on.
+* After pausing, ask solution-based questions or simply label their effect.
+* There are actually three kinds of "yes": counterfeit, confirmation, and commitment.
+* A counterfeit yes is where your counterpart feels it is an escape route or uses it to continue the conversation for some edge.
+* A confirmation yes is a reflexive response to a black-and-white question, a simple affirmation with no promise of action.
+* A commitment yes is a true agreement that leads to action.
+* The job of a good negotiator isn't to put on a great performance, but to gently guide their counterpart to discover their goal as his own.
+* The other party should feel equally responsible, if not solely responsible, for creating the connection with you and the new ideas that they have.
+* While we can't control others' actions, we can influence them by inhabiting their world and seeing and hearing exactly what they want.
+* Primal needs are urgent and illogical, and so arguing them into a corner is just going to push your counterpart to flee with a counterfeit yes.
+* Nice, employed as a ruse, is disingenuous and manipulative. In the context of a negotiation, feigned sympathy can backfire.
+* Saying "no" gives the speaker the feeling of safety, security, and control. It is a sign that the other party is engaged and thinking.
+* No is not an abuse of power, an act of rejection, a manifestation of stubbornness, or the end of a negotiation.
+* If the other party is not listening, antagonize them into "no" by mislabeling their emotions or desires, or by asking what they don't want.
+* If despite all your efforts, the other party won't say "no," then they are indecisive, confused, or have a hidden agenda. Walk away.
+* If your emails are being ignored, provoke a "no" with the one sentence email: "Have you given up on this project?"
