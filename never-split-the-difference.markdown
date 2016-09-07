@@ -90,3 +90,36 @@ by Chris Voss
 * When your adversaries say "that's right," they feel they have assessed what you've said and pronounced it as correct of their own free will. They embrace it.
 * If your adversaries say "you're right," then they won't own the conclusion. Their behavior won't change.
 * "You're right," like "yes," is a social lubricant that is not in any way a substitute for real understanding between two parties.
+
+#### Chapter 6: Bend Their Reality
+
+* Negotiation is never a linear formula. We all have irrational blind spots, hidden needs, and undeveloped notions.
+* There are always ways to bend our counterpart's reality so that it conforms to what we ultimately want to give them, not to what they initially think they deserve.
+* Splitting the difference, or a "win-win approach," at best satisfies neither side, and at worst fails against an adversary with a win-lose approach.
+* We don't compromise because it's right, but because it's easy and we save face. Distilled to its essence, we compromise because it's safe.
+* Never split the difference. Creative solutions are almost always preceded by some risk, annoyance, confusion, or conflict.
+* A deadline creates an environment of reactive behavior and poor choices, allowing our counterpart can let it do all the work for him.
+* Deadlines are the boogeymen of negotiation. They are often arbitrary, almost always flexible, and never as consequential as we think.
+* If you internalize "No deal is better than a bad deal," then your patience can become a powerful weapon.
+* Deadlines cut both ways. When the negotiation is over for one side, then it's over for the other side too.
+* Hiding your deadline increases the risk of an impasse, because having a deadline pushes you to speed up your concessions, but the other side, thinking it has time, will just hold out for more.
+* While we may use logic to reason ourselves toward a decision, the actual decision making is governed by emotion.
+* The most powerful word in negotiations is "fair." We comply with agreements if we feel we have been treated fairly, and lash out if we don't.
+* The phrase "We just want what's fair" destabilizes the other side. Instead of conceding irrationally, apologize, and offer to go back to where the unfairness began and fix things.
+* The phrase "We've given you a fair offer" is nefarious. Mirror with "Fair?" and label with "It seems like you're ready to provide evidence to support that."
+* The phrase "I want you to feel like you're being treated fairly at all times. Please stop me at any time if you feel like you're being treated unfairly, and we'll address it" is empowering.
+* While our decisions may be largely irrational, there are consistent patterns, principles, and rules behind how we act.
+* The certainty effect says that we are drawn to sure things over probabilities, even when the probability is a better choice.
+* Loss aversion says that people will take greater risks to avoid losses than to achieve gains.
+* Real leverage in a negotiation is not delivering what the other party wants, but convincing them that they have something concrete to lose if the deal falls through.
+* Start with an accusation audit to anchor your counterpart's emotions in preparation for a loss. From loss aversion, they'll jump at the chance to avoid it.
+* Let the other side anchor monetary negotiations, since you often don't know enough to open with confidence.
+* Be prepared to withstand the first offer. It could be extreme to bend your reality, and so his following, merely absurd offer will seem reasonable.
+* Establish a range in your offer. Expect your counterpart to come in at the low end, so make the low number what you actually want.
+* Anchor your counterpart high, then make your offer seem reasonable by offering things that aren't important to you but could be important to them.
+* Similarly, if their offer is low, then ask for things that matter more to you than to them.
+* Numbers that end in 0 feel like temporary placeholders. Numbers that sound less rounded feel serious and permanent to your counterpart.
+* A wholly unrelated surprise gift can make extreme anchors palatable because they introduce a dynamic of reciprocity.
+* When negotiating a salary, be pleasantly persistent on non-salary terms. The more you talk about them, the more you'll hear the full range of options.
+* Once you've negotiated a salary, define success for your position, as well as metrics for your next raise.
+* By selling yourself and your success as a way your boss can validate his own intelligence and sell it to the rest of the company, he'll have a stake in your success.
