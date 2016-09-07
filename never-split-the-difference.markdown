@@ -123,3 +123,26 @@ by Chris Voss
 * When negotiating a salary, be pleasantly persistent on non-salary terms. The more you talk about them, the more you'll hear the full range of options.
 * Once you've negotiated a salary, define success for your position, as well as metrics for your next raise.
 * By selling yourself and your success as a way your boss can validate his own intelligence and sell it to the rest of the company, he'll have a stake in your success.
+
+#### Chapter 7: Create The Illusion Of Control
+
+* Successful negotiation involves the illusion of control: Having your counterpart do the work for you and suggesting your solution himself.
+* The calibrated, or open-ended, question acknowledges the other side openly, while letting you introduce ideas and requests without sounding pushy.
+* Negotiation in a tit-for-tat, reciprocity-driven manner fails because we all want to extract something from each other, but don't want to give.
+* The calibrated question forces the other party to pause and actually think about how to solve the problem.
+* The counterpart solves the problem, and so it gives him the illusion of control. Additionally, there is no reciprocity involved.
+* Giving the illusion of control like this suspends "unbelief," or complete rejection to what the other side is saying.
+* The greatest calibrated question "How am I supposed to do that?" transforms confrontational showdowns into joint problem-solving sessions.
+* Calibrated questions take the aggression out because they are subject to interpretation by your counterpart instead of being rigidly defined.
+* They have the power to educate your counterpart on what the problem is rather than causing conflict by telling them what the problem is.
+* Calibrated questions avoid "can," "is," "are," "do," or "does," which can be answered with a simple "yes" or "no."
+* Start questions with "what" and "how." "Who," "when," and "where" will cause your counterpart to share a fact without thinking. "Why" can sound accusatory.
+* Only use "why" when the defensiveness that it creates supports the change that you are trying to get them to see.
+* The question "What is the biggest challenge you face?" gets the other side to teach you something about themselves.
+* A well-designed calibrated question implies that you need the other party's intelligence to overcome the problem, which appeals to very aggressive or egotistical types.
+* Your counterpart is using his mental and emotional resources to overcome your challenges, internalizing your way and the obstacles in it as his own.
+* This guides the other party into designing a solution that is in fact your solution.
+* Calibrated questions require self-control and emotional regulation. You cannot influence the emotions of another party without controlling your own.
+* The first and most basic rule of keeping your emotional cool is to figuratively bite your tongue. Pause and think.
+* Also, when you are verbally assaulted, do not counterattack. Instead disarm your opponent by asking a calibrated question.
+* The hostage mentality says that in moments of conflict, we react to lack of power by either becoming extremely defensive or lashing out.
