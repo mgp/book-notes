@@ -195,3 +195,31 @@ by Chris Voss
 * De-escalate by suggesting a time-out. Neither party is hostage to a bad situation, and they'll regain a sense of agency and power.
 * Ackerman bargaining: Set your target price as a nonround number, then offer 65, 85, 95, 100 percent. Use empathy in between offers. On your final offer, throw in a non-monetary item.
 * People getting concessions often feel better about the bargaining process than those who are given a single, firm, "fair" offer.
+
+#### Chapter 10: Find The Black Swan
+
+* Black Swan theory tells us that things happen that were previously thought to be impossible, or never thought of at all.
+* Black Swans are events or pieces of knowledge that sit outside of our regular expectations and therefore cannot be predicted.
+* When pieces don't add up it's usually because our frame of reference is off. They only will if we break free of our expectations.
+* Conventional questioning and research techniques confirm "known knowns" and reduce uncertainty. They don't uncover "unknown unknowns."
+* Black Swans are leverage multipliers. Leverage, or the ability to inflict loss and withhold gain, can always be manufactured.
+* Leverage is fluid; you should always be aware of which side, at any given moment, feels they have the most to lose if negotiations collapse.
+* Positive leverage is the ability to provide or withhold things that your counterpart wants.
+* Negative leverage is the ability to make a counterpart suffer, and is based on threats. It preys on loss aversion.
+* Black swans as negative leverage include what is important to them, such as what signifies status to them or what worries them.
+* Negative leverage can be perceived as taking away autonomy. Instead, label your leverage and make it clear without attacking.
+* Normative leverage is using the other party's norms and standards to advance your position.
+* Look for inconsistencies between the other party's beliefs and actions. To find out what they believe, simply ask and listen openly.
+* Positioning your demands within the worldview your counterpart uses to make decisions shows them respect, which gets you attention and results.
+* Building rapport allows you to find similarities with your counterpart. We trust people more when we view them as being similar or familiar.
+* When you ascertain your counterpart's unattained goals, express passion for their goals and for their ability to achieve them.
+* To increase your effectiveness, offer reasons that reference your counterpart's worldview.
+* It is when we hear or see something that doesn't make sense, or something "crazy," when we should push forward and look for Black Swans.
+* People acting with incomplete information appear crazy to those who have different information.
+* People may appear crazy if they have constraints that they are not eager to reveal, such as not having the power to close the deal.
+* People complying with needs and desires you don't yet understand, based on their own rules or worldview, may appear crazy.
+* Email is a bad medium for finding Black Swans: counterparts have time to think and re-center themselves, and you can'tread non-verbal parts of a response.
+* Get face time with your counterpart, and hunt for Black Swans at the fringes and ends of meetings, where people let their guard down.
+* It is not the person across the table who scares us, but conflict itself. We overwhelmingly resort to flight in fight-or-flight.
+* Genuine, honest conflict between people over their goals helps energize the problem-solving process in a collaborative way.
+* Every negotiation, every conversation, every moment of life is a series of small conflicts that can rise to creative beauty. Embrace them.
