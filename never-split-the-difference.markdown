@@ -169,3 +169,29 @@ by Chris Voss
 * The phrase "Your offer is very generous, but I'm sorry, that just doesn't work for me" is a second way of saying "no."
 * The phrase "I'm sorry but I'm afraid I just can't do that" is a third way, and is a little more direct.
 * The art of closing a deal is staying focused to the very end.
+
+#### Chapter 9: Bargain Hard
+
+* The bargaining step produces the most anxiety and unfocused aggression, which is why it's more fumbled and mishandled than any other step.
+* You and your counterpart have habits of mind and behavior, and once you identify them you can leverage them in a strategic manner.
+* Negotiators fall into three categories: Accommodators, Assertives, and Analysts.
+* To be good, you have to be yourself at the bargaining table. To be great, you have to add to your strengths, not replace them.
+* Analysts are methodical and diligent. They are not in a big rush, and their self-image is linked to minimizing mistakes.
+* Analysts work alone, rarely show emotion, extensively prepare, are hypersensitive to reciprocity, are skeptical, value silence, and don't value apologies.
+* As an analyst, smile when you speak, so that you are not cut off from an essential source of data, namely your counterpart.
+* Accommodators value most the building of a relationship. They value the time communicating and want a win-win.
+* If your counterpart is an accommodator, ask calibrated questions to translate their talk into action.
+* As an accommodator, do not sacrifice your objections, and beware of excessive chitchat, especially if your counterpart is one as well.
+* Assertives believe time is money. Their self image is linked to getting things done, and getting things perfect isn't paramount.
+* Focus on what assertives have to say, because until they are convinced you understand them, they won't listen to your point of view.
+* Mirrors, calibrated questions, labels, and summaries work well with assertives, who see every silence as an opportunity to speak more.
+* As an assertive, be conscious of your tone. Use calibrated questions and labels to make yourself more approachable.
+* Don't assume that you are normal; this will lead to you unconsciously projecting your style onto the other side.
+* If your counterpart has an extreme anchor, deflect with calibrated questions. If you must name a price first, allude to an incredibly high number someone else might charge.
+* Anger on your part shows passion, but reduces your counterpart's resources for other cognitive activity, thereby reducing your gains.
+* Use strategic umbrage, or threats delivered without anger but with poise, like "I'm sorry that just doesn't work for me."
+* The statement "I feel ___ when you ___ because ___" counteracts unproductive statements and demands a time-out from your counterpart.
+* In any bare-knuckle bargaining session, the most vital principle is never to look at your counterpart as your enemy.
+* De-escalate by suggesting a time-out. Neither party is hostage to a bad situation, and they'll regain a sense of agency and power.
+* Ackerman bargaining: Set your target price as a nonround number, then offer 65, 85, 95, 100 percent. Use empathy in between offers. On your final offer, throw in a non-monetary item.
+* People getting concessions often feel better about the bargaining process than those who are given a single, firm, "fair" offer.
