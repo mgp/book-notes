@@ -146,3 +146,26 @@ by Chris Voss
 * The first and most basic rule of keeping your emotional cool is to figuratively bite your tongue. Pause and think.
 * Also, when you are verbally assaulted, do not counterattack. Instead disarm your opponent by asking a calibrated question.
 * The hostage mentality says that in moments of conflict, we react to lack of power by either becoming extremely defensive or lashing out.
+
+#### Chapter 8: Guarantee Execution
+
+* Your job isn't just to get to an agreement, but to get to one that can be implemented and making sure that it happens.
+* "How" questions, correctly used, are gentle and graceful ways to say "no" and guide your counterpart to develop a solution that's your own.
+* The other benefit of a "how" question is that it forces your counterpart to consider and explain how a deal will be implemented.
+* "How" questions convince them that the final solution is their idea, and people always make more effort to implement a solution when they think it's theirs.
+* "How will we know when we're on track?" and "How will we address things if we find we're off track" push counterparts to think they're defining success their way.
+* If you hear "you're right" or "I'll try," dive back in with calibrated "how" questions until you get a "that's right."
+* If you want your deal implemented, you must discover and affect any individuals who can act as deal makers or deal killers.
+* Beware of parties who are not directly involved but can help implement agreements they like and block ones they don't.
+* Many negotiations hinge on something other than money, often having more to do with self-esteem, status, and other non-financial needs.
+* Effective negotiators are conscious of verbal, paraverbal (how it's said), and nonverbal communications.
+* The 7-38-55 rule says 7 percent of a message is based on words, 38 percent from tone of voice, and 55 percent from body language and facial expressions.
+* When someone's tone of voice or body language is incongruous with their words, use labels to discover its source.
+* The Rule of Three is getting the other party to agree to the same thing three times. This uncovers falsehoods and the aforementioned incongruence.
+* To avoid sounding like a broken record, label or summarize, or use calibrated questions to hear agreement three times.
+* The Pinocchio Effect says that liars use more words, speak in more complex sentences, and use far more third-person pronouns.
+* The harder it is to hear a first-person pronoun from a negotiator, the more important they are. Smart negotiators defer to people away from the table to avoid getting pinned down.
+* Humanize yourself, use your name to introduce yourself, and say it in a fun and friendly way.
+* The phrase "Your offer is very generous, but I'm sorry, that just doesn't work for me" is a second way of saying "no."
+* The phrase "I'm sorry but I'm afraid I just can't do that" is a third way, and is a little more direct.
+* The art of closing a deal is staying focused to the very end.
