@@ -231,6 +231,52 @@ _The yield curve_
 
 ### Investment vehicles, insurance, and retirement
 
+#### Mutual funds and ETFs 
+
+_Open-ended mutual fund (part 1)_
+
+* With a mutual fund, there is a corporation and its management company, both registered with the SEC.
+* The corporation can issue more shares and grow its assets under management, or AUM; the management company takes a percentage on the order of 1%.
+* The management company is a mutual fund, and so it can both market itself and solicit funds from the public.
+* With open-ended mutual funds, the public can buy shares to grow the AUM.
+* If the management grows the company valuation, then that added wealth is distributed among all the shares, minus the management fee.
+
+_Open-end mutual fund redemptions (part 2)_
+
+* The valuation of the corporation is called its net asset value, or NAV. The share price is the NAV per share.
+* At the end of the day shares can be added or removed from the fund; this is done at the NAV per share.
+* When a client redeems a share from the company, the management company buys back the share and therefore cancels the share.
+* An open-ended fund means at the end of the day it can add or remove investors, and the fund can keep growing and shrinking.
+* Because of this constant buying and selling with the public, management cannot have their money invested in relatively illiquid assets.
+* Therefore investors must keep 3-5% of the AUM in cash for buying back shares, but they are not getting return on cash.
+
+_Closed-end mutual funds_
+
+* With a closed-end mutual fund, initial investors are found, and then the share structure is locked and the fund is closed.
+* After the fund is closed, shares cannot be created or canceled.
+* There is no need to market the fund after the fund is closed, since it cannot take on new investors.
+* If you are an investor and need your money back, then you cannot redeem your share; you must instead sell it to someone else.
+* This is what happens with any company. When you buy or sell a stock of IBM, you do not transact with IBM, but from someone else in the secondary market.
+* The disadvantage to the fund manager is that it's much less flexible in terms of growing and shrinking the fund.
+* The advantage is that he doesn't need to keep cash around in case the shareholders want to redeem their shares.
+
+_Exchange traded funds (ETFs)_
+
+* An ETF combines both the dynamic growth of open-ended mutual funds and the trade on an open market of closed-ended mutual funds.
+* In an ETF, only approved, large institutions can go to the fund and buy or redeem a large block of shares.
+* This is good for the fund because the lack of small transaction saves them cost on overhead.
+* These large institutions then go and trade the shares on the open market.
+* ETFs have lower fees because they don't have to do back-and-forth with each individual investor.
+* Moreover they are not actively managed; instead they simply buy some market or some asset class or commodity, such as the S&P 500 or gold.
+
+_Ponzi scheme_
+
+* In a Ponzi scheme, investors are not having their money invested.
+* Whoever is running the scheme sends statements to investors showing that their investment is actually growing.
+* Because of this perceived success, new investors will join.
+* When the first investor leaves and withdraws his perceived value, the positive difference is covered by the investments from the other investors. Such a withdrawl only legitimizes the scheme.
+* A ponzi scheme collapses if all the investors get scared and there are mass withdrawls.
+
 #### Retirement accounts: IRAs and 401ks
 
 _Traditional IRAs_
@@ -256,3 +302,57 @@ _401(k)s_
 * 401k accounts are also organized by your current employer, who may specify potential investments and run the fund, and also match your contributions.
 * You can also borrow from the 401k without penalty, although you must pay interest to the 401k.
 * A traditional IRA gives you much more flexibility on where you want to invest; a company may structure a 401k so that you can only invest in that company's stock.
+
+#### Hedge funds
+
+_Hedge funds intro_
+
+* Hedge funds are not regulated by the SEC, and so they cannot market themselves, and they cannot take money from the public.
+* To invest in one, you must be an accredited investor, which means you must have a certain net worth, a certain income, or a certain level of sophistication by virtue of your education.
+* In a mutual fund, managers get a percentage of assets. Therefore they market it so that it is large. They do not get a cut of the profits.
+* A hedge fund is more actively managed, and so fees are 1 to 2%, and management gets a cut of the profits, on the order of 20%.
+
+_Hedge fund structure and fees_
+
+* The hedge fund takes a traditional management fee, as well as a percentage of the profits.
+* Hedge funds tend to be open-end funds, where at certain points investors can either add more funds or redeem their funds.
+
+_Are hedge funds bad?_
+
+* Because managers take a cut of the profits but aren't on the line for a percentage of the losses, they may take disproportionate levels of risk.
+* To mitigate this, it is expected that the manager has some of their own money invested in the fund, or skin in the game.
+* It is in the best interest of the limited partners, who are assumed to be sophisticated investors, to ensure this.
+* Note that getting a percentage of the upside but having limited downside is not unique to hedge fund managers.
+* Hedge funds are also secretive with their investments. They must reveal something, however, so that they attract investors.
+* Secrecy stops others from trading against the fund, making the same investments, or go ahead of the fund and try to buy the same assets.
+* Hedge funds become dangerous when they control so much in notional funds that they become too big to fail, or failure hurts not just investors but all of society.
+* When something is too big to fail, then people don't let it fail, which goes against everything that we know about capitalism.
+
+_Hedge funds, venture capital, and private equity_
+
+* A hedge fund can put the invested money to work immediately because it invests in fairly liquid assets.
+* A venture capital firm will have to look at business plans and entrepreneurs.
+* Similarly, a private equity firm will have to look for companies in which they might want to buy private equity.
+* Venture capital and private equity will base their management fee on what was committed.
+* But unlike a hedge fund, they invest slowly, making a capital call to collect the committed money for their investments as needed.
+
+_Hedge fund strategies: Long short 1_
+
+* You may be confident in picking companies that outperform or under-perform the market, but have no confidence in your ability to predict the market.
+* In this case, a risk is that you want to buy a company but the market goes down, or that you want to short a company but the market goes up.
+
+_Hedge fund strategies: Long short 2_
+
+* A long short hedge is when, in equal amounts, you buy shares of companies that you think will do well, and short shares of companies that you think will do poorly.
+* If the market goes up, both share prices go up, but the company you thought would do well goes up more.
+* Your profit from buying the company that you thought would do well covers the loss from the company that you thought would do poorly.
+* If the market goes down, both share prices go down, but the company you thought would do poorly goes down more.
+* Your profit from shorting the company that you thought would do poorly covers the loss from the company that you thought would do well.
+
+_Hedge fund strategies: Merger arbitrage_
+
+* When a company announces that it wants to acquire another company at a higher share price, that other company's stock price usually jumps up.
+* Typically it jumps to somewhere between the current price and the higher share price.
+* If the acquisition happens, the share price should ascend to the higher share price.
+* If the acquisition falls through, the share price should descend to the original share price.
+* Merger arbitrage is when you buy if you expect the merger to happen, or short if you expect the merger to fall through.
