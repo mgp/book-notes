@@ -356,3 +356,63 @@ _Hedge fund strategies: Merger arbitrage_
 * If the acquisition happens, the share price should ascend to the higher share price.
 * If the acquisition falls through, the share price should descend to the original share price.
 * Merger arbitrage is when you buy if you expect the merger to happen, or short if you expect the merger to fall through.
+
+### Options, swaps, futures, MBSs, CDOs, and other derivatives
+
+#### Put and call options
+
+_American call options_
+
+* An call option allows you to buy a stock at a certain price; these are sold by options exchanges.
+* An American option can be exercised between now and some expiration date; a European option can be exercised only on that date.
+* Buying an option allows you to put less capital at risk, in return for less upside.
+* If the stock price drops below the option price, the option is "out of the money," and you just won't exercise the option.
+
+_American put options_
+
+* A put option allows you to sell a stock at a certain price; these are sold by options exchanges.
+* Unlike traditional shorting of stock, if the stock goes up you are not required to buy it back; you simply let the option expire.
+
+_Call option as leverage_
+
+* After buying a stock, the potential upside you can gain is unlimited, while the most you can lose is 100%.
+* When you buy an option, the potential gain or potential loss is measured against the cost of the option itself.
+* Your potential gain is higher because the option price is smaller than the stock price, but your potential loss is 100% if you don't exercise the option.
+* This is financial leverage, where leverage is using a tool to exert more force than you otherwise could.
+
+_Put vs. short and leverage_
+
+* Typically when you borrow a share for shorting, you have to put at least 50% of the value of the short as capital up front.
+* After you short a stock, your gain is measured against the capital that you had up front.
+
+_Call payoff diagram_
+
+* You can either graph the value at expiration versus the underlying stock price, or your profit/loss versus the underlying stock price.
+* The former simply shows the value of the option; the latter incorporates the actual cost of it.
+
+_Put as insurance_
+
+* If you buy a share of stock and a put option at the same price, then any loss on the stock will be covered by the gain on the put option.
+* When people talk about buying insurance on a position, they typically talk about buying such a put option.
+
+_Put-call parity_
+
+* The value of a bond is constant at the date of expiration; its value can cover any loss on a call option with the same price.
+* The value of the call option plus the bond equals the value of the stock plus the put option. This is called put-call parity.
+
+_Arbitrage basics_
+
+* Arbitrage just means taking advantage of difference in price on essentially the same thing to make a risk-free profit.
+* This requires buying from a cheaper source and selling at a more expensive source.
+* This increases demand at the cheaper source and supply at the more expensive source, and therefore the prices will approach one another.
+
+_Put-call parity arbitrage I_
+
+* In the put-call parity scenario, you buy the cheaper side and sell the more expensive side. The difference is your risk-free profit.
+
+_Option expiration and price_
+
+* Options that expire farther in the future cost more, because you get to retain the option for longer.
+* If the stock does well, then you capture more of the upside with a further expiration date.
+* If the stock does poorly, then you increase your chances of the stock once again become in the money with a further expiration date.
+* If the stock is doing well, do not exercise your option, but instead sell it to capture whatever value the buyer sees in the future optionality.
