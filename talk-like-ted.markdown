@@ -38,3 +38,25 @@ by Carmine Gallo
 * A powerful narrative can persuade others that your company, product, or idea can help them achieve the success that they desire.
 * When telling a story, use metaphors, analogies, and vivid language, and eliminate cliches, buzzwords, and jargon. Audiences tune out familiar phrases.
 * Introduce a hero, or someone that people can root for, and a villain. Cast the villain as a challenge, but not as an actual person or competitor.
+
+#### Chapter 3: Have a Conversation
+
+* Practice relentlessly and internalize your content so that you can deliver the presentation as comfortably as having a conversation with a close friend.
+* True persuasion happens only when you gain your listeners' trust. Voice, gestures, and body language incongruent with your words betrays that trust.
+* An authentic presentation takes practice. It requires that your nonverbal communication is consistent with your message.
+* To craft and deliver a presentation, get help with planning, receive early feedback, and rehearse in front of others.
+* To improve body language and delivery, identify what you are passionate about, and practice until true presence comes to the surface.
+* The four elements of verbal delivery are rate, volume, pitch, and pauses.
+* Most people slow down their rate of speech when giving a presentation, making them sound unnatural. Talk like you're having a conversation instead.
+* The problem with most technical or scientific discussions is that the presenters fail to make the content visual, interesting, or entertaining.
+* Truthful and confident people have command presence; their look of authority begins with what they wear and how they carry themselves.
+* Great leaders convey a feeling of control despite the circumstances, even if there is no immediate solution.
+* Complex thinkers use complex gestures and gestures actually give the audience confidence in the speaker.
+* So use gestures, but use the sparingly and only at key moments to reinforce key messages.
+* Keep your gestures between your eyes and your belly button. Hands that hang below your navel lack energy and confidence.
+* An "eager nonverbal" style has animated, broad, open movements; hand movements openly projected outward; and forward-leaning body positions.
+* If you fidget, tap, or jingle, watch a recording of yourself presenting; this makes you better equipped to eliminate useless movements and gestures.
+* If you stand still, walk and work the room. Again, record yourself presenting, and ensure that you walk out of frame several times.
+* "Power posing" increases testosterone and lowers cortisol levels in the brain, which will make you feel more confident and commanding.
+* Fake it until you make it. And then fake it until you become it.
+* Delivery and gestures, mastered through practice, will enhance your overall message, but without passion and practice, your presence will be severely diminished.
