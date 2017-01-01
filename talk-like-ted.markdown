@@ -60,3 +60,23 @@ by Carmine Gallo
 * "Power posing" increases testosterone and lowers cortisol levels in the brain, which will make you feel more confident and commanding.
 * Fake it until you make it. And then fake it until you become it.
 * Delivery and gestures, mastered through practice, will enhance your overall message, but without passion and practice, your presence will be severely diminished.
+
+### Part 2: Novel
+
+#### Chapter 4: Teach Me Something New
+
+* Reveal information that's completely new to your audience, packaged differently, or offers a fresh and novel way to solve a problem.
+* The human brain loves novelty, and so an unfamiliar, unusual, or unexpected element intrigues us and jolts us out of preconceived notions.
+* As long as you relate your topic to the audience by teaching them something new they can use in their daily lives, you'll hook them, too.
+* Making information new and exciting releases dopamine in the listener; this in turn makes the information memorable.
+* Sometimes the data you present might not be earthshaking or entirely unfamiliar, but that doesn't mean you can't deliver it in a fresh way.
+* The smarter someone is, the more likely they are to be persuaded if you give them a new lens through which to see the world.
+* You'll become more interesting if you're interested in learning and sharing ideas from other fields that are much different from your own.
+* Great conversations or presentations take you to ideas you'd never considered, instead of ideas that are cliché or overused.
+* In order to force the brain to see things differently, you must find new and novel ways for it to perceive information differently.
+* Pay attention to the stories in your life; if they teach you something new and valuable, chances are other people will want to hear about it.
+* The Flynn Effect shows that the average IQ scores have increased for each generation wherever such IQ data is available.
+* If you can't explain your big idea, or the one thing you want your audience to know, in 140 characters or less, keep working on your message.
+* The "Twitter headline" brings clarity to your message and makes it easier for your audience to process the content.
+* Cognitive research shows that our brains need to see the big picture before the details.
+* The headline should identify what the product, service, or cause is as well as what makes it unique. Do not create a tagline instead.
