@@ -96,3 +96,22 @@ by Carmine Gallo
 * A succinct message that conveys your idea is easily shared via social media; it is the digital equivalent of the sound bite.
 * Great communicators are great storytellers; stories create impact moments.
 * End with a "showstopper" moment, or a high note. It seals the deal and permanently brands the message in our minds.
+
+#### Chapter 6: Lighten Up
+
+* Don't take yourself or your topic too seriously; the brain loves humor, so give your audience something to smile about.
+* Humor lowers defenses and makes you more likable, making your audience more receptive to your message and more willing to support you.
+* Unless you are a professional comedian, jokes are not authentic; but a humorous observation is appropriate and very effective.
+* Humor is one of those tools the brain is hardwired to react to and is key to making a message new and novel.
+* We use humor as an "ingratiation tactic," making it easier to be accepted into a group. It's a form of interpersonal communication.
+* Laughter induces or accentuates positive emotion in others, in order to influence their behavior and promote a more favorable attitude.
+* When we meet people who have a good sense of humor, we are more likely to attribute other desirable traits to their personalities.
+* In management, humor reduces hostility, deflects criticism, relieves tension, improves morale, and helps communicate difficult messages.
+* Anecdotes, observations, and personal stories are not intended to elicit a huge laugh but to put a smile on people's faces and endear the speaker.
+* Start a presentation with observational humor; if you try to draw a big laugh right out the gate and bomb, you may not recover.
+* An analogy, or a comparison which points out similarities between two different things, can bring a smile to your listener.
+* An easy way to get a laugh without being a comedian or telling a joke is to quote someone else who said something funny.
+* Quotes break up your slides nicely and provide a mental break. Avoid quotes that are common and overused, and ensure that they are relevant.
+* Most PowerPoint presentations have no emotional impact, so include photos or a video to lighten the mood.
+* Blend humor, shock, and statistics: Statistics alone are boring, shock alone is a turn off, and humor alone would take away from any serious implications.
+* Laughter also lowers blood pressure, strengthens the immune system, improves breathing, and just makes you feel good.
