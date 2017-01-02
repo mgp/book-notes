@@ -80,3 +80,19 @@ by Carmine Gallo
 * The "Twitter headline" brings clarity to your message and makes it easier for your audience to process the content.
 * Cognitive research shows that our brains need to see the big picture before the details.
 * The headline should identify what the product, service, or cause is as well as what makes it unique. Do not create a tagline instead.
+
+#### Chapter 5: Deliver Jaw-Dropping Moments
+
+* A jaw-dropping moment delivers a shocking, impressive, or surprising moment that is so moving or memorable that is remembered long afterward.
+* Such moments create a heightened state of emotion, which increases the chance your audience will remember your message and act on it.
+* Identify the most important points you need to make, and then find a novel and memorable way to communicate those messages.
+* When you need to create a presentation, do not start by opening the application; instead start by creating the story.
+* An emotionally charged event releases dopamine, which aids memory and information processing.
+* How vividly we perceive something in the first place predicts how vividly we will remember it later on.
+* The brain is wired to recall emotionally vivid events, whether positive or negative, and avoid the mundane.
+* A "holy smokes" moment is the one moment when you drive a point home; it's the first thing you tell someone else who wants to know about your presentation.
+* To create such a moment, use a prop or demo, unexpected or shocking statistics, pictures or video, memorable headlines, and personal stories.
+* When presenting statistics, make numbers meaningful by placing them in a context that the audience can relate to.
+* A succinct message that conveys your idea is easily shared via social media; it is the digital equivalent of the sound bite.
+* Great communicators are great storytellers; stories create impact moments.
+* End with a "showstopper" moment, or a high note. It seals the deal and permanently brands the message in our minds.
