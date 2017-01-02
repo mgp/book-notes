@@ -115,3 +115,17 @@ by Carmine Gallo
 * Most PowerPoint presentations have no emotional impact, so include photos or a video to lighten the mood.
 * Blend humor, shock, and statistics: Statistics alone are boring, shock alone is a turn off, and humor alone would take away from any serious implications.
 * Laughter also lowers blood pressure, strengthens the immune system, improves breathing, and just makes you feel good.
+
+### Part 3: Memorable
+
+#### Chapter 7: Stick to the 18-Minute Rule
+
+* If you must create a presentation that's longer than 18 minutes, build in soft breaks like stories, videos, and demonstrations every 10 minutes.
+* The longer the presentation, the more the listener has to organize, comprehend, and remember, creating a "cognitive backlog" and anxiety.
+* Tasks that demand willpower reduce your glucose levels. Glucose provides energy, and your brain cells need twice as much energy as other cells.
+* Creativity thrives under intelligent constraints. A time limit provides a focus and a framework for creativity to flourish.
+* It takes courage to keep things simple. Simplicity is the ultimate sophistication, so keep your pitches simple.
+* The rule of three means people remember three things really well; add more items and retention falls of considerably.
+* The rule of three is a more contemporary and accurate formulation of "the magical number seven, plus or minus two."
+* A message map is a tool for a pitch or presentation that helps keep your content clear and concise, and which uses the rule of three.
+* It is: Create a Twitter-friendly headline, support it with three key messages, and reinforce each message with stories, statistics, and examples.
