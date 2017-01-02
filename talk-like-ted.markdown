@@ -130,6 +130,26 @@ by Carmine Gallo
 * A message map is a tool for a pitch or presentation that helps keep your content clear and concise, and which uses the rule of three.
 * It is: Create a Twitter-friendly headline, support it with three key messages, and reinforce each message with stories, statistics, and examples.
 
+#### Chapter 8: Paint a Mental Picture with Multisensory Experiences
+
+* Deliver presentations that touch more than one of the senses: sight, sound, touch, taste, and smell.
+* The brain does not pay attention to boring things, but it craves multisensory experiences.
+* When the brain is allowed to build a visual model in addition to a verbal one, the mental connections are much stronger.
+* Vision trumps all other senses, so deliver information as a combination of pictures and text rather than just text alone.
+* When paying attention to a lecture, conversation, or presentation, the brain cannot pay equal attention to multiple items; it cannot multitask.
+* Concepts presented as pictures instead of words are six times more likely to be recalled.
+* Pictures are processed in several channels instead of one, giving the brain a far deeper and meaningful encoding experience.
+* The "dual coding" theory suggests that pictures are encoded as both visual and verbal, while words are encoded only verbally.
+* Use visuals to enhance words, not duplicate.
+* Each slide should have only one theme or statistic; do not bombard the audience with an avalanche of numbers and charts all in one view.
+* Don't just think about what you want people to know, think about how you want them to feel.
+* Strive for no more than 40 words on the first ten slides, and work on eliminating bullet points from your slides.
+* Metaphors, analogies, and rich imagery work because the same brain areas are activated as if you were actually seeing the event.
+* Use concrete examples as much as possible; the brain is not designed to grasp abstractions.
+* An anaphora is a speaking device where you repeat the same words at the beginning of successive clauses or sentences.
+* Props and demonstrations are useful multisensory tools to help the audience tangibly grasp your idea and the problem it solves.
+* Courage gets noticed; courage wins hearts and minds; courage is what you need to deliver the talk of your life.
+
 #### Chapter 9: Stay in Your Lane
 
 * Most people can spot a phony, so if you try to be something you're not, you'll fail to gain your audience's trust.
