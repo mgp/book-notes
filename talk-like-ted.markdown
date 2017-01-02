@@ -129,3 +129,11 @@ by Carmine Gallo
 * The rule of three is a more contemporary and accurate formulation of "the magical number seven, plus or minus two."
 * A message map is a tool for a pitch or presentation that helps keep your content clear and concise, and which uses the rule of three.
 * It is: Create a Twitter-friendly headline, support it with three key messages, and reinforce each message with stories, statistics, and examples.
+
+#### Chapter 9: Stay in Your Lane
+
+* Most people can spot a phony, so if you try to be something you're not, you'll fail to gain your audience's trust.
+* Successful people identify their life's core purpose and relentlessly follow that purpose to become the best representation of themselves.
+* Your goal should not be to "deliver a presentation," but to inspire your audience, to move them, and to have them dream bigger.
+* Be real, be yourself; you'll never convince your audience of anything if they don't trust, admire, and genuinely like you.
+* Identify your lane and why you're so passionate about that lane. Stay there, hold the space, and be your true authentic self.
