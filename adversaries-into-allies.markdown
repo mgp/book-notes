@@ -22,3 +22,17 @@ by Bob Burg
 * Set the frame in every interpersonal conflict; otherwise you allow the other person to, and it won't serve you well.
 * Tact is the ability to say something in a way that makes the other person feel less threatened or defensive and more open to your ideas.
 * Empathy is related to tact but can be defined as the ability to identify with another person's feelings.
+
+#### Chapter 2: It's (Much) More Than Just About Being Nice
+
+* People take advantage of you not because you are nice, but because you allow yourself to be taken advantage of.
+
+#### Chapter 3: Persuasion Versus Manipulation
+
+* There is perhaps nothing more dangerous than a bad person with good people skills.
+* Manipulation aims at control, not cooperation. Persuasion enhances the self-esteem of the other party, leading to better responses.
+* A manipulator uses knowledge to only his advantage, while a persuader uses it to the other person's advantage as well.
+* A manipulator will play on your negative emotions in order to elicit your compliance, which a persuader will never do.
+* Often people resort to manipulation because they don't know how to effective persuade; their tactics are what's negative, not their intent.
+* The Ultimate Influencer always asks "Am I doing something that will hurt this person or be contrary to their best interests?"
+* If you are sure that your point of view will benefit them, it is your responsibility to persuade them about this, not to manipulate them.
