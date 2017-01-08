@@ -36,3 +36,27 @@ by Bob Burg
 * Often people resort to manipulation because they don't know how to effective persuade; their tactics are what's negative, not their intent.
 * The Ultimate Influencer always asks "Am I doing something that will hurt this person or be contrary to their best interests?"
 * If you are sure that your point of view will benefit them, it is your responsibility to persuade them about this, not to manipulate them.
+
+### Section 2: Control Your Own Emotions
+
+* If you choose to control your emotions, or to respond instead of react, you can influence almost every interaction for the better.
+* In a frustrating challenge, your emotions are the only part of the situation that is in your power to control.
+
+#### Chapter 4: Responding Versus Reacting
+
+* Self-control of your emotions is important and powerful not only in what it allows you to do but who it allows you to be.
+* When you react, you are being controlled by outside circumstances. When you respond, you are in control of yourself, of your emotions.
+
+#### Chapter 5: Effectively Handle Verbal Attacks
+
+* Listen and remain calm. Then say "I... might possibly owe you an apology. Did I say or do something to offend you?"
+* If he or she is simply having a bad day, say "I understand. I've had those myself. Is there anything I can do to help?"
+* If your discussion turns less than cordial, the key to being heard is to actually lower your voice.
+
+#### Chapter 6: Make Calm Your Default Setting
+
+* Your default setting to pressure situations is directly proportional to your ability to problem solve, to live in the solution, and to lead.
+* To make this change, vividly imagine the next time a potentially upsetting situation occurs, you become calm. Then follow through.
+* The ability to remain calm when others aren't is another separator that creates influence and allows us to gently persuade.
+* Understand the default setting of others. Realize you can't change them; instead, work within that context.
+* The more you help them operate their default settings successfully, the better you can lead, persuade, and influence successfully.
