@@ -60,3 +60,29 @@ by Bob Burg
 * The ability to remain calm when others aren't is another separator that creates influence and allows us to gently persuade.
 * Understand the default setting of others. Realize you can't change them; instead, work within that context.
 * The more you help them operate their default settings successfully, the better you can lead, persuade, and influence successfully.
+
+#### Chapter 7: Overcome Your Anger
+
+* Anger is a turnoff to people. You might be able to obtain compliance through displays of anger, but never commitment.
+* You can't effectively influence someone against whom you hold a grudge. And the negative energy you emit to everyone will make you less attractive, and diminish your influence.
+* Focus on gratitude for all the good in your life. The more in tune you are with gratitude, the less you'll feel the need to be angry.
+
+#### Chapter 8: The Persuasive Power of Positive Detachment
+
+* When detached from an outcome in a positive way, you'll be less bothered if you don't get what you want, but chances are better that you will get what you want.
+* Without the attachment you are able to focus more clearly on your goal without the distraction of fear, which always accompanies attachment.
+* Do your very best; then, regardless of the result, you can have peace of mind knowing you gave it your wall.
+
+#### Chapter 9: Think Before You Speak
+
+* It's best to handle conflict before it ever takes root; the next best thing you can do is stop it before it escalates.
+* Instead of exploding at someone via email, simply write it without sending it, wait before sending, or enlist help to critique and edit.
+
+#### Chapter 10: Agree to Disagree
+
+* Agree to disagree with someone when any further discussion cannot possibly help your relationship, but might just hurt it.
+* Honor a person's right to believe a certain way without agreeing with it; this leaves that person much more open to your other ideas when you speak again.
+
+#### Chapter 11: Consider the Source
+
+* First, determine whether a criticism is worth taking seriously, given the source. Regardless of the source, do not take it personally.
