@@ -86,3 +86,20 @@ by Bob Burg
 #### Chapter 11: Consider the Source
 
 * First, determine whether a criticism is worth taking seriously, given the source. Regardless of the source, do not take it personally.
+
+### Section 3: Understand the Clash of Belief Systems
+
+* A belief system is how we see the world. Truth is objective fact, and belief systems color that truth, providing a unique interpretation of it.
+* The trouble is when we fail to notice our belief systems at work and operate in accordance with our beliefs, even harmful ones.
+* Without understanding that everyone operates out of their own paradigm and worldview, we are stuck on the same level of misunderstanding and miscommunication as everyone else.
+
+#### Chapter 12: Belief Systems -- the Problem and the Solution
+
+* Beliefs are extremely difficult to change because they operate primarily on an unconscious level.
+* We view things not as they are, but as we are. We believe in truths, and we will unconsciously steer our way to our truths, according to our beliefs.
+* In conflict, ask yourself: How is my or his belief system distorting the truth? What questions can I ask him to clarify his belief system? What information can I give to clarify my belief system?
+
+#### Chapter 13: "How Would You Define...?"
+
+* When parties involved are defining a word differently, they may not even know what they are disagreeing about.
+* Look out for words that are subjective, like "soon," "often," "later," "nearby," and "long" and ask for clarification.
