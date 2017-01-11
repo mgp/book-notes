@@ -120,3 +120,23 @@ by Bob Burg
 * Give people the benefit of the doubt; judging favorably hurts no one, helps everyone, and simply makes a lot more sense.
 * Much of what we take personally isn't personal, but the result of transferring our belief system onto others.
 * Use an "I message" to determine if something was personal: "I felt hurt... I took it personally... For my own clarification, I'd like to ask you about it."
+
+#### Chapter 17: Love Languages From Liberty the Cat
+
+* We receive love as words of affirmation, quality time, receiving gifts, acts of service, and physical touch.
+* Determine your love language as well as the other person's, and be sure to stay conscious of both.
+
+#### Chapter 18: First, Know the Issue. Then, Choose the Words
+
+* Understanding the other person's belief system, or underlying cause of their position, is critical to choosing the most persuasive words.
+* Discover why someone feels a certain way, and then prepare your presentation in a way that honors them, their egos, and their intent.
+* By acknowledging their intent, that frame continues to place you all on the same side, all wishing for the same effect.
+
+#### Chapter 19: The Answer? Based on What Information?
+
+* We provide advice or opinions that would serve us based on our values and our beliefs, and fill in any blanks needed to reinforce our story.
+* Do not provide advice or opinions if you do not have enough information to go on.
+
+#### Chapter 20: Perceptual Realities Equal Different Conclusions
+
+* We absolutely must see the reality based on their perception if we are going to obtain buy-in to our suggestions and ideas.
