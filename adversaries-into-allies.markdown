@@ -103,3 +103,20 @@ by Bob Burg
 
 * When parties involved are defining a word differently, they may not even know what they are disagreeing about.
 * Look out for words that are subjective, like "soon," "often," "later," "nearby," and "long" and ask for clarification.
+
+#### Chapter 14: Accept the Responsibility for Communication
+
+* When it comes to effective communication, the onus is on us to be sure that the other person understands our point, want, or need.
+* Because we come from different belief systems, the chances of someone knowing what we want without us clarifying are very slim.
+* Avoid giving or accepting mixed messages, such as saying contradictory things, or contradictory body language.
+
+#### Chapter 15: The Importance of Conscious Awareness
+
+* When you disagree or feel offended by someone, ask if your feelings are being filtered through your paradigm, or if you're making a decision about that person based on limited information.
+* When you are consciously aware, you can think and act out of strength and choice instead of unconsciously accepted programming.
+
+#### Chapter 16: Persona or Not? How Do You Know?
+
+* Give people the benefit of the doubt; judging favorably hurts no one, helps everyone, and simply makes a lot more sense.
+* Much of what we take personally isn't personal, but the result of transferring our belief system onto others.
+* Use an "I message" to determine if something was personal: "I felt hurt... I took it personally... For my own clarification, I'd like to ask you about it."
