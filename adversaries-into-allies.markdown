@@ -140,3 +140,25 @@ by Bob Burg
 #### Chapter 20: Perceptual Realities Equal Different Conclusions
 
 * We absolutely must see the reality based on their perception if we are going to obtain buy-in to our suggestions and ideas.
+
+### Section 4: Acknowledge Their Ego
+
+* We're taught to ignore or obliterate the ego, but it motivates the good in our lives.
+* Trouble happens when the part with unhealthy desires controls us, causing trouble and wreaking havoc in our affairs.
+
+#### Chapter 22: Don't Shame or Embarrass
+
+* If you want any chance of positively influencing a person, shaming them will totally sabotage it.
+* Delivering your point in a way that leaves the other person's ego intact via tact, empathy, and kindness, earns their respect.
+* Don't correct another person publicly just to make your point. A huge part of influence is that the person likes you and trusts you.
+* If you have to insult someone to be funny, it probably best not to be funny. But self-deprecating humor is always disarming.
+
+#### Chapter 23: Be a Judge, Not a Lawyer
+
+* In a disagreement, see the situation from your side and theirs. Focus especially on theirs since you are predisposed to see your side.
+
+#### Chapter 24: The Principle of Agreement
+
+* When someone says something you know is wrong, agree to disarm the person. Then transition into methods of persuasion.
+* Then follow with "I'm wondering if..." or "Here's what I'm thinking" and make your suggestion. But don't use the word "but."
+* As the person is abiding, provide an out phrase, such as "If you can't do it, I'll definitely understand."
