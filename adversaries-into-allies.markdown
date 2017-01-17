@@ -162,3 +162,25 @@ by Bob Burg
 * When someone says something you know is wrong, agree to disarm the person. Then transition into methods of persuasion.
 * Then follow with "I'm wondering if..." or "Here's what I'm thinking" and make your suggestion. But don't use the word "but."
 * As the person is abiding, provide an out phrase, such as "If you can't do it, I'll definitely understand."
+
+#### Chapter 25: Ego Repair
+
+* When someone acts negative toward you, the reason why may not be the reason they give you. Dig for the real reason.
+* Thanking someone in advance for what you want them to do can persuade them to do exactly what you thanked them for.
+
+#### Chapter 26: The Power of Handwritten Notes
+
+* In many situations, nothing makes an impact like a handwritten note of appreciation.
+* With the advent of technology, those who write them stand out and are positioned more powerfully than those who don't.
+* If you want to take an extra step that's even more powerful, type a note to his or her boss.
+
+#### Chapter 27: Education -- A Powerful Key to Influence
+
+* Edify people, or build them up in the minds of others and their own minds, even for the things you wish they would do.
+* People will believe their own press and start adopting the traits and behaviors for which they're being praised.
+
+#### Chapter 28: Do You Look For Disagreement?
+
+* Pointing out the one contrarian example in an otherwise sound and principle-based statement comes across as argumentative and ego-based.
+* If you must disagree, think about it first, look first for where you agree, use tact, and finally reconsider whether this is necessary.
+* Ask if you are motivated by a genuine desire to add value, or if you're disagreeing to get attention, begin an argument, or feel better about yourself.
