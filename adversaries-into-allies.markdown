@@ -184,3 +184,17 @@ by Bob Burg
 * Pointing out the one contrarian example in an otherwise sound and principle-based statement comes across as argumentative and ego-based.
 * If you must disagree, think about it first, look first for where you agree, use tact, and finally reconsider whether this is necessary.
 * Ask if you are motivated by a genuine desire to add value, or if you're disagreeing to get attention, begin an argument, or feel better about yourself.
+
+#### Chapter 29: Compliment the Uncomplimented
+
+* Complimenting something who is usually not complimented has a tremendous impact on how far that person will go out of their way to help you.
+* Those who might be deciding whether to do business with you or become more involved with you socially are watching how you treat others.
+
+#### Chapter 30: Caught In the Act... Of Doing Something Right
+
+* When you catch someone in the act of doing something right, acknowledge it verbally, and make sure everyone else sees and hears you do it.
+* Whether positive or negative, behavior that gets rewarded gets repeated.
+
+#### Chapter 31: "I Appreciate Ya"
+
+* Instead of just saying thank you to someone, say "I appreciate you" to separate you from everyone else.
