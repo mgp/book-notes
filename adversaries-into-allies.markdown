@@ -198,3 +198,22 @@ by Bob Burg
 #### Chapter 31: "I Appreciate Ya"
 
 * Instead of just saying thank you to someone, say "I appreciate you" to separate you from everyone else.
+
+### Section 5: Setting the Frame
+
+* Setting the frame is when we can influence another's response by controlling the stimulus, our action.
+* In any interpersonal interaction, a frame will be set. Ensure that it is you, not the other person, who sets it.
+* If the other person has entered the transaction setting a frame, reset their frame simply by setting your own.
+
+#### Chapter 32: Positive Expectation Works, But Not Why You Think It Does
+
+* By expecting someone to be helpful, you take on a corresponding attitude, which in turn changes his or her attitude. 
+* If you display gratitude and appreciation for their kindness, they are going to respond by living up to those feelings.
+* There may be nothing more powerful in beginning a relationship, conversation, or overcoming an interpersonal challenge than a smile.
+* Smiles are the most contagious emotional signal of all, having an almost irresistible power to make other people smile in return.
+
+#### Chapter 33: Framing Your Influence in Your First Conversation
+
+* Focus on the other person. Show interest in them and make them feel good about themselves; they will like you and begin to trust you.
+* Two Feel-Good Questions are how they got started in their line of business, and what they enjoy most about what they do.
+* Ask how to know if someone you're speaking with is someone they'd like to meet. You communicate value.
