@@ -217,3 +217,22 @@ by Bob Burg
 * Focus on the other person. Show interest in them and make them feel good about themselves; they will like you and begin to trust you.
 * Two Feel-Good Questions are how they got started in their line of business, and what they enjoy most about what they do.
 * Ask how to know if someone you're speaking with is someone they'd like to meet. You communicate value.
+
+#### Chapter 34: Sometimes, It's Good to Let 'Em See You Sweat
+
+* While a slick person may overwhelm and dazzle, they typically are not as relatable as the "real" person.
+* During those times when, for whatever reason, you feel overwhelmed, under-confident, or scared, just admit it, and win.
+
+#### Chapter 35: The Ransburger Pivot
+
+* Always begin with a point on which you both agree; this shows that you both want the same result, but have different views on how to get there.
+* With the Ransburger Pivot, you pivot from a point you both agree on, and so it's easier for the other person to accept your new conclusion.
+* Begin with "Like you, I want..." Add a lead-in phrase "I appreciate your thoughts" or "I agree with..."
+
+#### Chapter 36: The Value of the Correct Phrase
+
+* When attempting to express value to another person, people don't care how it affects you, but care how it affects them.
+
+#### Chapter 37: "What Can I Do to Help?"
+
+* Control your emotions, present a calm, self-controlled front, and set or reset the frame by asking "What can I do to help?"
