@@ -236,3 +236,33 @@ by Bob Burg
 #### Chapter 37: "What Can I Do to Help?"
 
 * Control your emotions, present a calm, self-controlled front, and set or reset the frame by asking "What can I do to help?"
+
+#### Chapter 38: Win By Making the Other's Case First
+
+* To positively disarm and win over someone with whom you're having a disagreement, first point out their side of the story.
+* This communicates that you are not someone who is out to get them, prove them wrong, or win at all costs.
+* When we are truly desirous of the truth and not just winning an argument, people understand our intent and accept our position quicker.
+
+#### Chapter 39: Help Them to Live In the Solution
+
+* If someone is solution-resistant, acknowledge the problem instead of ignoring it, but relentlessly focus on the solution. 
+
+#### Chapter 40: Avoid Negative Framing
+
+* Think of words or phrases you've used or heard in the past that seem to upset or annoy people, and erase them from your vocabulary.
+
+#### Chapter 41: Don't Fall Victim to Either/Or
+
+* The alternate of choice is an effective way of framing a choice for a prospect, making the options easier to grasp.
+* When given a choice between only two things, slow down and ask if there is another choice that works better for you, or if you would prefer neither.
+
+#### Chapter 42: Persuasion Secrets of a Ten-Year-Old
+
+* Give the person something admirable to live up to. If there is a problem, find the solution. Also answer any objections.
+
+#### Chapter 43: Change Your Frame, Change Your Life
+
+* An outcome can occur only in relation to the context, or the frame, in which it's set.
+* By resetting our own frame, we can choose to interpret an event so that it is conducive to our happiness rather than to our misery.
+* Reframe a challenging encounter as an opportunity to practice patience, responding instead of reacting, or influence.
+* Also reframe so that you feel fortunate that you don't have the same problems or feeling of unhappiness as the other person.
