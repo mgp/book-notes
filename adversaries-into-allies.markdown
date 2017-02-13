@@ -266,3 +266,34 @@ by Bob Burg
 * By resetting our own frame, we can choose to interpret an event so that it is conducive to our happiness rather than to our misery.
 * Reframe a challenging encounter as an opportunity to practice patience, responding instead of reacting, or influence.
 * Also reframe so that you feel fortunate that you don't have the same problems or feeling of unhappiness as the other person.
+
+### Section 6: Communicate with Tact and Empathy
+
+* With tact, you can make a point and allow the other person to feel good, making them more open to embracing your message.
+* With empathy, you can understand his feelings enough to know why you need to tell him this.
+* Having and communicating with empathy is what really makes you more likely to communicate with tact.
+
+#### Chapter 44: Tact, the Language of Strength
+
+* We want someone to not only accept our suggestion without becoming defensive, but to truly embrace it and correct their actions.
+* Control your emotions so that you think before you speak, and choose words that honor the other person's belief system and ego.
+* When you begin with the right intent, the right words will generally follow. Empathy often determines the attitude.
+
+#### Chapter 45: The Beauty of Empathy
+
+* Understanding how they feel is not enough. You must communicate that you understand how the other person feels.
+* If you cannot feel what the other person feels, say you understand that they are feeling something. Let them feel heard.
+* Sympathy is about your feelings, while empathy is about theirs; the latter provides more value and is more productive.
+
+#### Chapter 46: Lead-in Phrases Lead the Way
+
+* A lead-in phrase softens or buffers the potential sting of your advice and makes it more acceptable and easier to embrace.
+* The best lead-in phrase is "You know more about this than I do. I'm wondering if..."
+* Such phrases not only open their minds, but open ours, causing us to ask ourselves if we are in fact correct.
+
+#### Chapter 47: Deflection Via the Parry
+
+* Fighting back against an insult won't make it or the insulter disappear; it instead only provides fodder for conflict.
+* Instead, first acknowledge the source positively, saying you have great respect for them. Stay above their level.
+* Also acknowledge the critique. A good parry is to simply say "That's a good question" or "You make a valid point."
+* Deflection keeps things impersonal and allows for positive detachment, so that your answer can best serve everyone.
