@@ -297,3 +297,32 @@ by Bob Burg
 * Instead, first acknowledge the source positively, saying you have great respect for them. Stay above their level.
 * Also acknowledge the critique. A good parry is to simply say "That's a good question" or "You make a valid point."
 * Deflection keeps things impersonal and allows for positive detachment, so that your answer can best serve everyone.
+
+#### Chapter 48: Kind Words Regarding Your Competitors
+
+* By complimenting your competitor, it builds up yourself in the mind of your prospect.
+* It shows you are confident, are successful, and that you will never say anything bad about your prospect or their staff.
+* But if your competitor is a thief, don't lie and speak well of them; instead say nothing at all.
+
+#### Chapter 49: Tact Does Not Equal Compromise
+
+* While it's fine to compromise or negotiate on things, it's not okay to cave on our principles or beliefs.
+* When you maintain your tact and kindness, the other person will lower their defensive shield. At that point change can occur.
+
+#### Chapter 50: Give Them a Back Door
+
+* When faced with potential conflict, people feel pressured to respond or behave in a certain way, creating an adversarial frame.
+* Give the person an emotional escape route, removing any pressure they might feel, because now they know they have a choice.
+* Your goal is to make them feel comfortable enough not to feel the need to take it. But if they do, they would have anyway.
+* Let it be their decision and they will feel good about it because it was their decision, not yours.
+
+#### Chapter 51: How to Say No Graciously and Effectively
+
+* You can say no. Say it with kindness and gratitude and with absolutely no defensiveness.
+* Do not make an excuse for saying no; the other person cannot attempt to answer your objection in order to persuade you.
+* Saying no you should say no allows you to say yes more often when you should say yes, and to say yes more effectively.
+
+#### Chapter 52: Don't Tread on Me
+
+* When dealing with disrespectful people, stay polite and honest, say no with politeness and tact, and stay alert.
+* To respond with a request or call for inappropriate action you might say, "I'm not comfortable with..."
