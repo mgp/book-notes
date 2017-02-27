@@ -1,2 +1,1 @@
-Notes from some books that I've read. Enjoy!
-
+Notes from books and other interesting things that I've read. Enjoy!
