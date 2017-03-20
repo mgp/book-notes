@@ -320,9 +320,55 @@ by Bob Burg
 
 * You can say no. Say it with kindness and gratitude and with absolutely no defensiveness.
 * Do not make an excuse for saying no; the other person cannot attempt to answer your objection in order to persuade you.
-* Saying no you should say no allows you to say yes more often when you should say yes, and to say yes more effectively.
+* Saying no when you should say no allows you to say yes more often when you should say yes, and to say yes more effectively.
 
 #### Chapter 52: Don't Tread on Me
 
 * When dealing with disrespectful people, stay polite and honest, say no with politeness and tact, and stay alert.
 * To respond with a request or call for inappropriate action you might say, "I'm not comfortable with..."
+
+#### Chapter 53: Turning Down an Offer, While Leaving Room for Another
+
+* The ego elicits emotional decisions and, when insulted, people will make decisions not in their best interest.
+* Thank the other person for their offer, list your reasons for turning it down using an "I message," and then thank them again.
+* If the other person says nothing, ask "What can you offer that would help me justify the decision to buy?"
+
+#### Chapter 54: Dealing With an Interrupter
+
+* Tell the interrupter it doesn't do anyone any good if he interrupts you while you're trying to ask the question that he asked.
+* Alternatively, without any sign of emotion, continue with your original thought. Do this repeatedly to send a message.
+* Finally, ask if the other person is genuinely interested in your thoughts, and express your need to feel like you can express your point.
+* If you catch yourself interrupting, then apologize. Overcome interrupting and people will credit you as a great listener.
+
+#### Chapter 55: The Ben Franklin Method for Winning People Over
+
+* Sometimes having someone do something kind for you can mend a relationship, just as if you had done something kind for him.
+
+#### Chapter 56: Dr. Franklin and Another Great Lesson in Communication
+
+* Anything be communicated more persuasively by not coming across as a dogmatic know-it-all, but with humility and respect for others' feelings and opinions.
+* Use lead-in phrases like "It appears to me...", "I imagine it's...", or "If I'm not mistaken..."
+* "The fact of the matter is..." usually doesn't lead into a fact, and you're encouraging resistance and not acceptance.
+
+#### Chapter 57: Timing Rules!
+
+* If the timing is bad but the conversation must take place now, acknowledge the bad timing and convey that the situation is critical.
+* When taking part in an important conversation, be sure that all parties have the time and willingness to participate.
+* Create agreement for sufficient time by asking for it.
+* If the other party insists on keeping it short, ask but use an "I message" so that you take responsibility for finding more time.
+
+#### Chapter 58: Making People Comfortable With You
+
+* Reintroduce yourself to someone you've recently met, whenever you see them, until you're certain that they know your name.
+* You'll never offend a person by showing them the courtesy of making life easier for them.
+
+#### Chapter 59: Collecting Money Owed You In a Winning Way
+
+* Be tactful and compliment their values and integrity, show gratitude for their patronage, and say it would mean "a lot" if they paid.
+* Add if there is a problem that you are not aware of, you'd appreciate letting you know so that you can discuss.
+* Do not come across as demanding, but do not come across as weak.
+
+#### Chapter 60: The Pleasure of "My Pleasure"
+
+* "My pleasure" says it was a pleasure to help you, and that I will be happy to do so again anytime.
+* "No problem" implies it was sort of a hassle to help you, but I did it anyway.
