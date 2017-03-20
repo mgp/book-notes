@@ -372,3 +372,18 @@ by Bob Burg
 
 * "My pleasure" says it was a pleasure to help you, and that I will be happy to do so again anytime.
 * "No problem" implies it was sort of a hassle to help you, but I did it anyway.
+
+#### Chapter 61: Deliver the Right Message for Your Audience
+
+* Pay attention to the often poor communication you experience and asking yourself how to make it more acceptable and persuasive.
+
+#### Chapter 62: Seeking Forgiveness
+
+* If someone is so angry that he ignores you, have an intermediary, whom you both trust, try to intercede.
+* Otherwise, let her know that you understand that he is still angry and not yet ready to speak, but when she is, you will be there for her.
+* When mistakes happen, apologize with no excuses.
+
+#### Chapter 63: "Acknoweldge Me!"
+
+* When someone voices a complaint, let them know that we understand that they are upset.
+* Display empathy in such a way that says, "You matter."
