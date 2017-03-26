@@ -387,3 +387,12 @@ by Bob Burg
 
 * When someone voices a complaint, let them know that we understand that they are upset.
 * Display empathy in such a way that says, "You matter."
+
+#### Chapter 64: Just Listen
+
+* Sometimes, by just listening, people feel heard and the problem dissolves; other times, they simply solve it themselves.
+
+#### Chapter 65: Remember to Scratch the Hogs
+
+* If a person says no, don't try to persuade. They will feel relaxed instead of pressured, and in turn trust and like you.
+* People tend to intuitively trust those who are like them; relate-ability is accomplished most easily by finding similarities.
