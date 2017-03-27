@@ -396,3 +396,18 @@ by Bob Burg
 
 * If a person says no, don't try to persuade. They will feel relaxed instead of pressured, and in turn trust and like you.
 * People tend to intuitively trust those who are like them; relate-ability is accomplished most easily by finding similarities.
+
+#### Chapter 66: The Pre-Apology Approach
+
+* Empathize; it's always easier to get what you want or need by first helping the other person feel better about themselves.
+* Look and listen for what someone is feeling, even if they're unaware they're communicating it, and acknowledge it.
+
+#### Chapter 67: Influencing in Style: A Reader Success Story
+
+* Set a positive frame and compliment; then reject an offer while making it impersonal, and give the other person an out.
+
+### Section 7: The Character of Ultimate Influencers
+
+#### Chapter 68: Stand Firm on Principle
+
+* Do not change your principles. Be consistent and predictable and make your character understandable.
