@@ -411,3 +411,35 @@ by Bob Burg
 #### Chapter 68: Stand Firm on Principle
 
 * Do not change your principles. Be consistent and predictable and make your character understandable.
+
+#### Chapter 70: Focus on Your Strengths but Don't Ignore Your Weaknesses
+
+* Group weaknesses into those that don't matter, those that matter and need to be mitigated, and those that matter and need to be turned into a strength.
+
+#### Chapter 71: Ignore Problems at Your Peril
+
+* Do not ignore or hide from problems. Acknowledge the problem, and then live in the solution.
+
+#### Chapter 72: Why Top Influencers Build Strong Teams
+
+* True leaders not only accept having smarter and more knowledgeable people on their team, they seek them out.
+* On the other hand, positional leaders tend to derive their self-esteem from their status.
+
+#### Chapter 73: Consistency: A Prime Ingredient of Trust
+
+* Consistency removes uncertainty and leads to trust, and trust in turn leads to influence.
+* How you do anything is how you do everything; or, consistency of effort is paramount.
+
+#### Chapter 74: Growing from Your Mistakes
+
+* Being able to admit you are wrong is not only a first sign of maturity but perhaps the foundation for any type of growth and effectiveness.
+
+#### Chapter 75: Self-Correction: When Your Replay Shows You Fumbled
+
+* There is no natural dichotomy on being principle based and admitting one is wrong, nor staying in principle based while adjusting your strategy.
+* Focusing on self-correction helps you understand yourself better and be more prepared to notice when you've messed up.
+* Aside from acknowledging the mistakes, recognize and celebrate your victories as well.
+
+#### Chapter 76: Want to Be an Ultimate Influencer? Say Little and Do Much
+
+* Establish a reputation for saying little, always coming through on your promises, and then over-delivering on them.
