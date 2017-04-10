@@ -93,3 +93,12 @@ by Daniel Pink
 * Explain bad events as temporary, specific, and external, and find ways to "dispute" and "de-catastrophize" negative explanations.
 * Thinking through the gloom-and-doom scenarios and mentally preparing for the very worst can help some people manage their anxieties.
 * Writing yourself a fake rejection letter can make consequences seem less dire, and even reveal soft spots in what you're presenting.
+
+#### Ch 6: Clarity
+
+* Partly because our brains evolved when the future itself was perilous, we are bad at wrapping our minds around far-off events.
+* Clarity is the capacity to help others see their problems in fresh and revealing ways, and to identify problems they didn't realize they had.
+* The ability to move others hinges on problem finding, not solving, when one's mistaken, confused, or clueless about the true problem.
+* People most disposed to creative breakthroughs tend to be problem finders, and not just problem solvers.
+* Non-sales selling depends more on the problem-finding because information symmetry enables us to problem solve.
+* We must now be adept at curating data, not accessing it; we must also be adept at asking questions, not answering questions.
