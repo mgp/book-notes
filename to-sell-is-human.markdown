@@ -43,3 +43,29 @@ by Daniel Pink
 * But as long as there are complicated products where the potential for lucre is enormous, abide by caveat emptor.
 * The low road is now harder to pass and the high road has become the better, more pragmatic, long-term route.
 * There are no "natural" salespeople, in part because we're all naturally salespeople with a selling instinct.
+
+### Part 2: How to Be
+
+#### Ch 4: Attunement
+
+* Attunement is the ability to bring one's actions and outlook into harmony with other people and with the context you're in.
+* Power leads individuals to anchor too heavily on their own vantage point, insufficiently adjusting to others' perspective.
+* Start your encounters assuming that you have less power; this will help you see other side's perspective, and in turn move them.
+* Perspective-taking is a cognitive capacity, mostly about thinking; empathy is an emotional response, mostly about feeling.
+* Perspective-taking is better than empathy, because you can submerge your own interests.
+* People belong to groups, situations, and contexts, so pay attention to the relationships and connections of a person.
+* Syncing our mannerisms and vocal patterns to someone else so that we both understand and can be understood is fundamental to attunement.
+* Related to mimicry, touching someone on the upper arm or shoulder has positive results.
+* The correlation between extraversion and sales in one study was only 0.07, or virtually non-existent.
+* Extraverts can talk too much and listen too little, and fail to balance between asserting and holding back.
+* Intraverts can be too shy to initiate and too timid to close.
+* Ambiverts are the best movers because they're the most skilled attuners, knowing when to speak up and when to shut up.
+
+*Sample Case*
+
+* Jim Collins' favorite opening question is "Where are you from?" because it opens someone up easily.
+* To master strategic mimicry: watch, then wait before applying, and finally wane, or become less conscious of what you're doing.
+* Jeff Bezos uses an empty chair in meetings to represent the customer; let the chair represent whom you must be attuned to.
+* A discussion map of a meeting has an X next to someone's name when they talk, and has arrows for directed comments.
+* Finding similarities can help you attune yourself to others and help them attune themselves to you.
+* Similarity is a key form of human connection, as people are more likely to move together when they share common ground.
