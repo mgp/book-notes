@@ -69,3 +69,27 @@ by Daniel Pink
 * A discussion map of a meeting has an X next to someone's name when they talk, and has arrows for directed comments.
 * Finding similarities can help you attune yourself to others and help them attune themselves to you.
 * Similarity is a key form of human connection, as people are more likely to move together when they share common ground.
+
+#### Ch 5: Buoyancy
+
+* How to stay afloat in the ocean of rejection, or buoyancy, is the second essential quality in moving others.
+* Positive self-talk is better than negative self-talk, but most effective is to ask questions instead of make statements.
+* The interrogative elicits answers, in which are strategies for actually carrying out the task.
+* Moreover, interrogative self-talk inspires thoughts about autonomous and intrinsically motivated reasons to pursue a goal.
+* Negative emotions narrow our vision and help us survive in the moment, namely fight or flight.
+* Positive emotions broaden our ideas about actions, opening us to a wider range of thoughts, making us more receptive and creative.
+* Believing in an offering leads to a deeper understanding of it, allowing sellers to better match what they have with what others need.
+* A ratio of positive to negative emotions between 3:1 and 11:1 is ideal.
+* Negative emotions offer us feedback on our performance, information on what's not working, and hints on how to do better.
+* Unchecked levity makes you flighty, ungrounded, and unreal, while unchecked gravity leaves you in a heap of misery.
+* Learned helplessness is a habit of people explaining negative events to themselves as permanent, pervasive, or personal.
+* They believe that the negative conditions will last a long time, the causes are universal, and that they're the ones to blame.
+* Optimism can stir persistence, steady us during challenges, and stoke the confidence that we can influence our surroundings.
+
+*Sample Case*
+
+* Next time you're getting ready to persuade others, ask yourself "Can I move these people?" Answer it, directly and in writing.
+* Be more positive by displaying positive emotions of joy, gratitude, serenity, interest, hope, pride, amusement, inspiration, awe, and love.
+* Explain bad events as temporary, specific, and external, and find ways to "dispute" and "de-catastrophize" negative explanations.
+* Thinking through the gloom-and-doom scenarios and mentally preparing for the very worst can help some people manage their anxieties.
+* Writing yourself a fake rejection letter can make consequences seem less dire, and even reveal soft spots in what you're presenting.
