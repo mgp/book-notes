@@ -102,3 +102,11 @@ by Daniel Pink
 * People most disposed to creative breakthroughs tend to be problem finders, and not just problem solvers.
 * Non-sales selling depends more on the problem-finding because information symmetry enables us to problem solve.
 * We must now be adept at curating data, not accessing it; we must also be adept at asking questions, not answering questions.
+* The contrast principle says we understand something when compared to something else than when we see it in isolation.
+* The less frame: Restricting people's choices can help them see those choices more clearly instead of overwhelming them.
+* The experience frame: Frame a sale as a purchase of an experience, which is more satisfying than the sale of a good.
+* The label frame: Simply changing the label of an activity can favorably alter behavior.
+* The blemished frame: Adding a minor negative detail in an otherwise positive description can give that description more impact.
+* The blemishing effect only works if the subject is in a "low effort" state, and if the negative information comes last.
+* The potential frame: Highlighting one's potential, not achievements, causes deeper thought into why that person is a good choice.
+* Clarity on how to think without clarity on how to act can leave people unmoved, so provide a clear path of action.
