@@ -110,3 +110,11 @@ by Daniel Pink
 * The blemishing effect only works if the subject is in a "low effort" state, and if the negative information comes last.
 * The potential frame: Highlighting one's potential, not achievements, causes deeper thought into why that person is a good choice.
 * Clarity on how to think without clarity on how to act can leave people unmoved, so provide a clear path of action.
+
+*Sample Case*
+
+* Irrational questions work better than rational questions when trying to motivate resistant people.
+* To become an efficient curator, first seek, or gather information; then sense, or create meaning out if it; and finally share.
+* To ask better questions, write down as many as you can, classify them as open-ended or closed-ended, and choose the best three.
+* The Five Whys technique forces us to examine and express the underlying reasons for our behaviors and attitudes.
+* Always focus on the "one percent," or the essence of what you're exploring, that gives life to the other ninety-nine.
