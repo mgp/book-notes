@@ -118,3 +118,26 @@ by Daniel Pink
 * To ask better questions, write down as many as you can, classify them as open-ended or closed-ended, and choose the best three.
 * The Five Whys technique forces us to examine and express the underlying reasons for our behaviors and attitudes.
 * Always focus on the "one percent," or the essence of what you're exploring, that gives life to the other ninety-nine.
+
+### Part 3: What To Do
+
+#### Ch 7: Pitch
+
+* Pitching is the ability to distill one's point to its persuasive essence.
+* A pitch isn't to move others to immediately adopt your idea, but to begin a conversation, collaborate, and arrive at a mutually beneficial outcome.
+* The elevator pitch is a bit threadbare, because organizations today are more democratic and because CEOs have more distractions.
+* A one-word pitch reduces a point to a single word, and helps you be heard when attention spans are nearly disappearing.
+* The question pitch asks a question, which compels people to respond and is more effective than statements unless the backing arguments are weak.
+* The rhyming pitch relies on rhymes increasing "processing fluency," and we equate this ease of processing with accuracy.
+* The subject-line pitch relies on utility when one is busy and curiosity when one is bored, but not both; as well as specificity.
+* The Twitter pitch values short pitches that ask questions, convey information with links, and to self-promotion.
+* The Pixar pitch follows the structure "One upon a time ___. Every day, ___. One day, ___. Because of that, ___. Because of that, ___. Until finally, ___."
+
+*Sample Case*
+
+* Ensure that after hearing your pitch, you can answer what someone should know, someone should feel, and someone should do.
+* You can enliven question pitches, one-word pitches, rhyming pitches, and Twitter pitches with visuals.
+* A pecha-kucha presentation contains exactly twenty slides, each of which appears on the screen for exactly twenty seconds.
+* When pitching, go first if you're the incumbent and last if you're the challenger; avoid the middle.
+* In a pitch, granular numbers are more credible than coarse ones.
+* Ask people to describe in three words what your organization, your product, and you are about, and then look for patterns.
