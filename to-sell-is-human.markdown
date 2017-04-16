@@ -141,3 +141,21 @@ by Daniel Pink
 * When pitching, go first if you're the incumbent and last if you're the challenger; avoid the middle.
 * In a pitch, granular numbers are more credible than coarse ones.
 * Ask people to describe in three words what your organization, your product, and you are about, and then look for patterns.
+
+#### Ch 8: Improvise
+
+* Sales scripts perform nicely in an environment where buyers have minimal choices and sellers have maximal information.
+* The stable, simple, and certain conditions that favored scripts have given way to the dynamic, complex, and unpredictable conditions that favor improvisation.
+* To move others, follow the three essential rules of improv: hear others, say "Yes and," and make your partner look good.
+* Listening without some degree of intimacy isn't really listening; it's passive and transactional, not active and engaged.
+* Don't listen *for* anything; instead, take in anything and everything someone says as an offer you can do something with.
+* While "Yes, but" spirals down into frustration, "Yes, and" spirals up toward positivity.
+* Under conditions of information asymmetry, results are often win-lose; but with information parity, we cannot push for win-lose.
+* Making your partner look good calls for, and enables, clarity, the capacity to develop solutions that nobody previously imagined.
+* Ask questions, because when both sides view an encounter as an opportunity to learn, the desire to defeat the other side wanes.
+* Never argue, for to win an argument is to lose a sale.
+
+*Sample Case*
+
+* If your conversation partner isn't finishing his sentence, or can't speak without you interrupting, then you need to slow down.
+* Ask questions, but don't ask yes-no questions, don't ask questions that are veiled opinions.
