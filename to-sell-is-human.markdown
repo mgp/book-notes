@@ -159,3 +159,23 @@ by Daniel Pink
 
 * If your conversation partner isn't finishing his sentence, or can't speak without you interrupting, then you need to slow down.
 * Ask questions, but don't ask yes-no questions, don't ask questions that are veiled opinions.
+
+#### Ch 9: Serve
+
+* For service to cause people to achieve something greater and more enduring than an exchange of resources, make it personal and purposeful.
+* In circumstances in which we move others, we not adopt a stance that is abstract and distant, but concrete and personal.
+* This lets you recognize the person you're trying to serve, and also puts you personally behind whatever you're trying to sell.
+* Many of us like to say "I'm accountable," but few of us are so deeply committed to serving other that we'll say, "Call my cell."
+* We assume everyone is driven by self-interest, but we all do things for "prosocial" or "self-transcending" reasons.
+* We should also be tapping others' innate desire to serve by making it purposeful, not just personal.
+* A servant-leader begins with the natural feeling that one wants to serve; then conscious choice brings one to aspire to lead.
+* The best test of this philosophy is whether those who are served grow as persons, and in turn more likely themselves to become servants.
+* Servant selling asks if the person you're selling to agrees to buy, will his or her life, and the state of the world, improve?
+
+*Sample Case*
+
+* Upserving means doing more than the other person expects or you initially intended, transforming a mundane interaction into a memorable experience.
+* Really good salespeople want to solve problems and serve customers, becoming part of something larger than themselves.
+* Emotionally intelligent signage either expresses empathy with the person viewing it, or tries to trigger empathy in that person.
+* To make an encounter personal and encourage you to genuinely serve, imagine that the person you're dealing with is you grandmother.
+* If the buyer isn't improving her life, or the world isn't a better place after the interaction, you're doing something wrong.
