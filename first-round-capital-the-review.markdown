@@ -69,3 +69,23 @@ by Kim Scott
 * Third, make it easier to speak truth to power. If you are managing managers, institute skip-level meetings with their direct reports.
 * Ask the direct reports for one or two things they'd like their boss to do differently, and then have the boss institute an action plan, and over-communicate it with his or her team.
 * Fourth, put your own oxygen mask on first. You can't give a damn about other people if you don't give a damn about yourself.
+
+### This is How Effective Leaders Move Beyond Blame
+
+http://firstround.com/review/this-is-how-effective-leaders-move-beyond-blame/
+
+by Dave Zwieback
+
+* Blame and biasses, such as hindsight bias, gives us a convenient story about what happened in any negative situation. To the extent that a story is comfortable, we believe that it's true.
+* Blame and bias can short-circuit any real learning. Those with information that could materially improve future outcomes now have more reasons to withhold it because they don't want to be punished.
+* It's impossible to learn without all the data, without the full account of what happened. This is why information is more important than punishment.
+* By shifting the role of the individual in an incident from suspect to witness, the process of learning becomes inclusive and far richer.
+* To banish blame, convert your traditional postmortem into a learning review by following three steps.
+* First, set the context: Figure out what contributed to a successful iteration so that we can feed this learning back into our organization and systems, and make subsequent iterations even better.
+* Remind your team that they're all operating within complex systems, and that the way they function and fail is often unpredictable.
+* Human error is a symptom, and never the cause, of trouble deeper within the system. We accept that no person wants to do a bad job.
+* Second, build a timeline: It should capture what people were thinking at the time it was happening, namely what each person knew, when they knew it, and how they knew it. 
+* During the learning review, listen for and help participants avoid blaming, cognitive biases, and counter-factuals such as "we could have," "we should have," "if only," and "we didn't."
+* Third, close the loop: Determine and prioritize the remediation items, and then publish the learning review as widely as possible.
+* If the incident impacted customers, use the 3 Rs to structure the writeup, namely Regret, Reason, and Remedy from Drop the Pink Elephant by Bill McFarlan.
+* If the magnitude of a mishap or success is great, then you can be sure that the opportunity to learn will be, too.
