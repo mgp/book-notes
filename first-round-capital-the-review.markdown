@@ -48,3 +48,24 @@ by Ann Mehl and Jerry Colonna
 * Another is to say early and often that all staff members are welcome to speak up in any situation.
 * Finally, pay attention to all non-verbal communication when talking with someone, and remember how critical it is to observe without judgment.
 * The earlier you start using these techniques the better, because each new employee you onboard will be initiated to your improved, clear style of communication.
+
+### Radical Candor: The Surprising Secret to Being a Good Boss
+
+http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/
+
+by Kim Scott
+
+* The single most important thing a boss can do if focus on guidance: Giving it, receiving it, and encouraging it.
+* If you imagine a graph with the vertical axis as caring personally and the horizontal axis as challenging directly, radical candor is in the top right.
+* By caring personally, or "giving a damn," you build up the capital to challenge directly, or "be willing to piss people off."
+* HHIPP: Radical candor is humble, helpful, immediate, in person (in private if it's criticism and in public if it's praise) and it doesn't personalize.
+* Challenging directly without caring personally is the quadrant of obnoxious aggression. Caring personally without challenging directly is the quadrant of ruinous empathy.
+* The final quadrant, of neither caring personally nor challenging directly, is manipulative insincerity.
+* There are four things a manager can do to create an environment of meaningful guidance.
+* First, find opportunities for impromptu feedback. The goal with day-to-day guidance is to push toward radical candor.
+* Second, make backstabbing impossible. Squelch political or passive behavior, and stop acting as well-meaning but ultimately harmful go-betweens.
+* Have the employees try to resole things between themselves, and then if that fails, become involved with both parties present. 
+* At that point, make a strong effort to find a solution, or else conflicts will become too difficult to resolve, people will avoid them, and you'll create a passive-aggressive culture.
+* Third, make it easier to speak truth to power. If you are managing managers, institute skip-level meetings with their direct reports.
+* Ask the direct reports for one or two things they'd like their boss to do differently, and then have the boss institute an action plan, and over-communicate it with his or her team.
+* Fourth, put your own oxygen mask on first. You can't give a damn about other people if you don't give a damn about yourself.
