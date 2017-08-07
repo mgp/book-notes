@@ -19,3 +19,24 @@ by Daniel Pink
 * Scientific management assumed that we are purely rational, but we do things for self-seeking, self-actualizing reasons.
 * We classify work as either algorithmic or heuristic; the latter requires experimenting with possibilities to devise a novel solution.
 * Carrots and sticks work well for algorithmic tasks, but heuristic tasks require creativity, which requires intrinsic motivation.
+
+#### Chapter 2: Seven Reasons Carrots and Sticks (Often) Don't Work
+
+* The best use of money as a motivator is to pay people enough to take the issue of money off the table, or to satisfy "baseline rewards."
+* The Sawyer Effect says that rewards can diminish intrinsic motivation, and thereby diminish performance, creativity, and upstanding behavior.
+* Contingent and expected "if-then" rewards require people to forfeit some of their autonomy, leading to long-term damage.
+* Rewards, by their very nature, narrow our focus. That is helpful for algorithmic work, but detrimental for heuristic work.
+* Like a paradox, those who are least motivated to pursue extrinsic rewards create a better state of mind to eventually receive them.
+* Intrinsic motivation, or the drive to do something because it is interesting, challenging, or absorbing, is essential for creativity.
+* Rewards can taint altruistic or moral tasks, turning them into pure transactions with no intrinsic reward.
+* Making an extrinsic reward the only destination that matters means that some people will take the quickest way there, along the low road.
+* Rewards are addictive in that once offered, they're expected for any similar task; and once the status quo, they must be increased.
+* Extrinsic motivators can reduce not just breadth but depth, fostering short-term thinking and ignoring the long-term.
+
+#### Chapter 2A: ... and the Special Circumstances When They Do
+
+* Without healthy baseline rewards, such as wages, benefits, and so on, motivation of any sort is difficult and often impossible.
+* Rewards do not undermine people's intrinsic motivation for routine tasks, because there is no such motivation to undermine.
+* For creative tasks where "if-then" rewards are a mistake, focus on "now that" rewards, or introduce rewards after the job is done.
+* But repeated "now that" rewards can become expected "if then" entitlements, thereby reducing effective performance.
+* Also consider intangible rewards like praise, and feedback that provides useful information.
