@@ -27,7 +27,7 @@ by Charles Duhigg
 
 #### Ch 2: The Craving Brian: How to Create New Habits
 
-* To cultivate a new habit, create a carving. A craving is what makes cues and rewards work, and what powers the habit loop.
+* To cultivate a new habit, create a craving. A craving is what makes cues and rewards work, and what powers the habit loop.
 * As a habit becomes stronger, the cue begins eliciting a pleasure response from our brain, thereby creating anticipation and cravings.
 * New habits form by putting together a cue, routine, and reward, and then cultivating a craving that drives the loop.
 * To overpower a habit, we must recognize which craving is driving the behavior. Otherwise we will subconsciously submit to it.
