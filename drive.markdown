@@ -40,3 +40,15 @@ by Daniel Pink
 * For creative tasks where "if-then" rewards are a mistake, focus on "now that" rewards, or introduce rewards after the job is done.
 * But repeated "now that" rewards can become expected "if then" entitlements, thereby reducing effective performance.
 * Also consider intangible rewards like praise, and feedback that provides useful information.
+
+#### Chapter 3: Type I and Type X
+
+* Self-Determination Theory says that our innate needs are competence, autonomy, and relatedness, and when satisfied, we're motivated, productive, and happy.
+* When we use rewards to motivate, that's when they're most demotivating; the less salient they are, the better.
+* Theory X believes in the mediocrity of the masses, and so mediocrity becomes the ceiling of what you can achieve.
+* Theory Y says that an interest in work is natural, creativity and ingenuity abound, and people will accept and even seek responsibility.
+* Type X people are driven by external rewards and deeper satisfaction is welcome but secondary.
+* Type I people are motivated by the freedom, challenge, and purpose of the undertaking itself; any other gains are simply a welcome bonus.
+* Type I's almost always perform Type X's in the long run, but an intense focus on extrinsic rewards can deliver fast results in the short term.
+* Type I's like recognition because it is a form of feedback, but for Type X's, recognition is a goal in itself.
+* Type I's have higher self-esteem, better interpersonal relationships, and greater general well-being than Type X's.
