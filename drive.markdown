@@ -52,3 +52,19 @@ by Daniel Pink
 * Type I's almost always perform Type X's in the long run, but an intense focus on extrinsic rewards can deliver fast results in the short term.
 * Type I's like recognition because it is a form of feedback, but for Type X's, recognition is a goal in itself.
 * Type I's have higher self-esteem, better interpersonal relationships, and greater general well-being than Type X's.
+
+### Part 2: The Three Elements
+
+#### Chapter 4: Autonomy
+
+* A ROWE, or results-only work environment, requires that work gets done, but doesn't focus on how, where, or when it's done.
+* Autonomy is different from independence; it means acting with choice, which means it can happen while interdependent with others.
+* Autonomous motivation promotes greater conceptual understanding, higher productivity, less burnout, and greater levels of psychological well-being.
+* As a boss, see issues from the employee's perspective, give meaningful feedback, provide choice over what to do and how to do it, and encourage taking on new projects.
+* Type I behavior emerges when people have autonomy over the four T's: their task, their time, their technique, and their team.
+* William McKnight, the founder of 3M, had a simple credo: "Hire good people, and leave them alone."
+* For nonroutine tasks, the link between how much time someone spends and what that somebody produces is irregular and unpredictable.
+* Autonomy over your team is a tall order, which is one reason why people are drawn to entrepreneurship.
+* People working in self-organized teams are more satisfied than those working in inherited teams.
+* Encouraging autonomy doesn't mean discouraging accountability; people must always be accountable for their work.
+* Assume that people want to be accountable, and that making sure they have control over their task, time, technique, and team begets this.
