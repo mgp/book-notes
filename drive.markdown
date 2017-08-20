@@ -68,3 +68,20 @@ by Daniel Pink
 * People working in self-organized teams are more satisfied than those working in inherited teams.
 * Encouraging autonomy doesn't mean discouraging accountability; people must always be accountable for their work.
 * Assume that people want to be accountable, and that making sure they have control over their task, time, technique, and team begets this.
+
+#### Chapter 5: Mastery
+
+* Only engagement can produce mastery, which is important also in our personal lives, where personal fulfillment is paramount.
+* In flow, the goals are clear, the feedback is immediate, and the task difficulty is barely beyond your ability, so that the effort is its own reward.
+* One study has shown that the urge to master something new and engaging is the best predictor for productivity.
+* When what must do exceeds one's capabilities, the result is anxiety. When what must do is below one's capabilities, the result is boredom.
+* Shrewd enterprises give employees the freedom to sculpt their jobs in ways that bring some flow to otherwise mundane duties.
+* Mastery is a mindset, and our beliefs about ourselves and our abilities can set the abilities on what we accomplish.
+* Incremental theorists see intelligence as malleable, like strength; entity theorists see it as fixed, like height.
+* A learning goal, like speaking French, leads to mastery because one doesn't have to prove any proficiency in order to keep trying, unlike a performance goal.
+* Type X embraces performance goals, prefers performance goals, and sees effort as weakness.
+* Type I embraces learning goals, prizes learning gaols, and sees effort as a way to improve.
+* Mastery requires grit, which is a perseverance and passion for long term goals, especially through the painful parts.
+* Master is an asymptote in that you can never fully attain it, but in the end mastery attracts precisely because mastery eludes.
+* People are more likely to reach flow at work, because it offers clear goals, immediate feedback, and challenges matched to our abilities.
+* We are motivated most by making progress, and so organizations should create conditions for it, shine a light on it, and celebrate it.
