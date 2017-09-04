@@ -85,3 +85,16 @@ by Daniel Pink
 * Master is an asymptote in that you can never fully attain it, but in the end mastery attracts precisely because mastery eludes.
 * People are more likely to reach flow at work, because it offers clear goals, immediate feedback, and challenges matched to our abilities.
 * We are motivated most by making progress, and so organizations should create conditions for it, shine a light on it, and celebrate it.
+
+#### Chapter 6: Purpose
+
+* Autonomous people working toward mastery perform at very high levels, but achieve more in the purpose of some greater objective.
+* As an emotional catalyst, wealth maximization lacks the power to fully mobilize human energies.
+* Businesses like "for benefit" organizations, B corps, and low-profit LLCs pursue purpose, and use profit as the catalyst rather than the objective.
+* Humanize what people say, and you may well humanize what they do.
+* It's often difficult to do something exceptionally well if we don't know the reasons we're doing it in the first place.
+* Workers thirst for context, and a powerful way to provide it is to spend less time telling how and a little more time showing why.
+* Naive policies can replace workers' intrinsic motivation to do the right thing with an extrinsic motivation to ensure the company isn't sued or fined.
+* People with profit goals are not happier, and show increased anxiety, depression, and negative indicators, than those with purpose goals.
+* Satisfaction depends not merely on having goals, but on having the right goals.
+* A healthy society and a healthy business begins with purpose and considers profit a way to move toward that end or a happy by-product.
