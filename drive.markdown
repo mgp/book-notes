@@ -98,3 +98,33 @@ by Daniel Pink
 * People with profit goals are not happier, and show increased anxiety, depression, and negative indicators, than those with purpose goals.
 * Satisfaction depends not merely on having goals, but on having the right goals.
 * A healthy society and a healthy business begins with purpose and considers profit a way to move toward that end or a happy by-product.
+
+### Part 3: The Type I Toolkit
+
+#### Type I for Individuals: Nine Strategies for Awakening Your Motivation
+
+* To find what gives you flow, page yourself 40 random times in a week, and record what you're doing, how you're feeling, and whether you're in flow.
+* "A great person is a sentence." As you contemplate your purpose, craft yours, and don't let it be a muddled paragraph.
+* Ask yourself "Was I a little better today than I was yesterday?" Look for small measures of improvement to keep yourself motivated.
+* Create a "to don't" list, or enumerate the behaviors and practices that sap your energy, divert your focus, and ought to be avoided.
+* Deliberate practice seeks to maximize performance by repetition, seeking critical feedback, and focusing ruthlessly on where you need help.
+* As a compass for meaning and direction, answer in one sentence "What gets you up in the morning?" and "What keeps you up at night?"
+
+#### Type I for Organizations: Thirteen Ways to Improve Your Company, Office, or Group
+
+* Nearly everything that people do is commissioned, and so carve out a small island of non-commissioned work to flex your creativity.
+* To ease into a culture of 20 percent time, start with 10 percent time, for a limited period, and with a small group of receptive people.
+* Turn your next off-site into a "FedEx day" where something must be delivered, because real challenges invigorate more than controlled leisure.
+* Conduct an autonomy audit of your team, where you ask everyone to rate their autonomy over their task, time, team, and technique.
+* Leaders often know little about the experiences of the people working for them, but they will also do things differently if they see data.
+* Give yourself a performance review each month with performance and learning goals, and later identify where you're falling short.
+* For self-reviews, set some small goals so you will always accomplish some tasks, understand your work in the larger purpose, and be brutally honest.
+* Giving employees a way to acknowledge a coworker puts the feedback control in the hands of those closest to the activity.
+* To relinquish control, involve employees in goal-setting for buy-in, use non-controlling language like "think about" and "consider", and hold office hours.
+* Ask each person to answer "What is our organization's purpose?" because people won't be motivated to work if they don't know this purpose.
+* Employees using "they" suggests disengagement and even alienation, while "we" suggests they are part of something significant and meaningful.
+* If you think people in your organization are predisposed to rip you off, maybe the solution isn't to build tighter rules, but to hire new people.
+* To create flow in a team, have someone bored with his current assignment train someone else in skills he's already mastered, and then take on a harder assignment.
+* Don't ask focus on changing the whole organization. Pile up small wins, and worry less about changing everything than about doing something.
+* Take that first, subversive step. If things fail, don't say a word; but if things work out, tell others.
+* Sell your boss not on mastery, autonomy, and purpose, but on results; and so play down the means and play up the ends.
