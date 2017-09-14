@@ -26,3 +26,26 @@ by Michael Lopp
 * Your manager is not a manager until he participated in a layoff, or participates in the constructive deconstruction of an organization.
 * You want to see who your manager will become because it's often the first time he sees the organization is bigger than the people.
 * A successful organization is built of layers of people glued together with managers, who translate between layers in both directions.
+
+#### 3. Stables and Volatiles
+
+* The birth of a 1.0 launch initiates the split of a development team into two groups: Stables and Volatiles.
+* Stables happily work with direction, appreciate plans, calmly assess risk and mitigate failure, and tend to generate process.
+* Volatiles have issues with authority, seek a thrill in risk, build a lot but nothing stable or beautiful, aren't reliable, and leave a trail of disruption.
+* Volatiles turn into Stables by building process and carefully describing how things should be done, because they have the scars and experience.
+* These new Stables hire people who are familiar, who are predisposed to be Volatiles, which in turn leads to new disruption.
+* A Stable's choice of disruption is within the context of the last war, while a second-generation Volatile will remind you "there is no box."
+* As a leader, you need to figure out how to let the Volatiles disrupt, while constantly negotiating a temporary peace treaty with the Stables.
+
+#### 4. The Rands Test
+
+* A growing group needs to continually invest in new ways to figure out what it is collectively thinking, so everyone knows what's going on.
+* When shit hits the fan, don't cancel your one-on-one with folks who are responsible, or with folks who can prevent future fan hittage.
+* In a team meeting, kill lies, and identify what is broken and start discussing how to fix it.
+* The presence of status reports comes down to control, a lack of imagination, and a lack of trust in the organization.
+* Be comfortable saying "no" to your boss. If you are always on your best behavior and unwilling to speak your mind, then something is wrong.
+* Independently judge whether your company is growing or dying, and develop a defensible opinion regarding the state of the business.
+* A regular meeting where everyone can hear the CEO explain his or her vision of the company, and that allows anyone to ask a question, is vital.
+* Part of a healthy organization isn't just that information is freely flowing around; it's that people are leveraging it or acting on it.
+* Busy feels good, but it is usually tactical and not strategic. Find time in which you're investing in yourself at work.
+* In the absence of information, people make shit up, and if they feel threatened, what they make up amplifies their fears. So kill the gossip.
