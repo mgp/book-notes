@@ -128,3 +128,12 @@ by Daniel Pink
 * Don't ask focus on changing the whole organization. Pile up small wins, and worry less about changing everything than about doing something.
 * Take that first, subversive step. If things fail, don't say a word; but if things work out, tell others.
 * Sell your boss not on mastery, autonomy, and purpose, but on results; and so play down the means and play up the ends.
+
+#### The Zen of Compensation: Paying People the Type I Way
+
+* Effective organizations compensate people in amounts and ways that allow individuals to mostly forget about compensation and focus on the work.
+* The most important aspect of any communication package is fairness.
+* Internal fairness is paying people commensurate with their colleagues; external fairness is paying people in line with similar work in similar companies.
+* Paying more than average is an elegant way to bypass "if-then" rewards, and to eliminate concerns about unfairness.
+* Use performance metrics that are wide-ranging, relevant, and hard to game.
+* When the payoff for reaching targets is modest, rather than massive, it's less likely to narrow people's focus or encourage taking the low road.
