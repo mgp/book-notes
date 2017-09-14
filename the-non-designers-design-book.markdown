@@ -1,19 +1,19 @@
-# The Non-Designer's Design Book, 3/e
+## The Non-Designer's Design Book, 3/e
 
 by Robin Williams
 
 *I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/The-Non-Designers-Design-Book-Edition/dp/0321534042)!*
 
-## Part 1: Design Principles
+### Part 1: Design Principles
 
-### Ch 1: The Joshua Tree Epiphany
+#### Ch 1: The Joshua Tree Epiphany
 * pg 12: Once you can name something, you're conscious over it, have power over it, and own it. You're in control.
 * pg 13: *Contrast* of type, color, size, line thickness, shape, space, etc. is the most visual attraction on a page.
 * pg 13: *Repetition* of colors, shapes, textures, spatial relationships, line thickness, fonts, sizes, graphic concepts etc. develops organization and strengthens unity.
 * pg 13: *Alignment* creates a clean, sophisticated, fresh look.
 * pg 13: *Proximity* combines multiple visual units into one, and gives the reader a clear structure.
 
-### Ch 2: Proximity
+#### Ch 2: Proximity
 * pg 15: Group related items together, so that the related items are seen as one cohesive group rather than a collection of unrelated items.
 * pg 16: When applying proximity correctly, it should be clear where we begin reading, and where our eyes should follow next.
 * pg 21: Proximity means elements are intellectually connected. Those that have some sort of communication relationship should also be visually connected.
@@ -22,7 +22,7 @@ by Robin Williams
 * pg 27: Don't use exclusively all caps, because they are hard to read.
 * pg 32: Try squinting your eyes and counting the number of visual elements. If there are more than three to five, move related elements closer to one another.
 
-### Ch 3: Alignment
+#### Ch 3: Alignment
 * pg 33: Don't place things on pages arbitrarily. Every item should have a visual connection with something else on the page.
 * pg 33: While proximity can push items apart, alignment can tell us that they still belong to the same piece.
 * pg 35: A centered alignment often appears a bit weak. Left- and right-aligned text has a stronger edge, which gives strength to the layout.
@@ -34,7 +34,7 @@ by Robin Williams
 * pg 48: Find a strong line and use it. For example, align text along the side of a graphic or photo, eliminating any "trapped" white space.
 * pg 49: If your alignments are strong, then you can break through them consciously and it will look intentional. Just don't be a wimp about it.
 
-### Ch 4: Repetition
+#### Ch 4: Repetition
 * pg 51: Repeat some aspect of design throughout the entire piece, such as a bold font, thick line, color, design element, particular format, spatial relationship, etc.
 * pg 51: We already use some repetition in our work. But we want to turn that inconspicuous repetition into a visual key that ties everything together.
 * pg 52: If the last element on a page is bold, then the reader's eye is drawn back to the preceding bold elements.
@@ -43,7 +43,7 @@ by Robin Williams
 * pg 61: If an element from a design is strong, you can create multiple designs around it. This ensures variety, while the repetition ensures unity.
 * pg 64: Don't repeat an element so much that it becomes annoying or overwhelming. It should provide contrast, and not confuse the focus.
 
-### Ch 5: Contrast
+#### Ch 5: Contrast
 * pg 65: If two items are not exactly the same, then make them different. Really different.
 * pg 70: The easiest way to add interesting contrast is with typefaces, but don't forget about rules, colors, spacing, textures, graphic sizes, etc.
 * pg 72: Pull out key phrases in bold so that the reader will be drawn to them, even when skimming.
@@ -51,10 +51,10 @@ by Robin Williams
 * pg 73: Don't be afraid to make some items small to contrast with larger items. If the reader is interested, they'll read the smaller print.
 * pg 76: A reader's eye follows the eye of anything on the page, so make sure those eyes lead the reader to the focus of the piece.
 
-### Ch 6: Review
+#### Ch 6: Review
 * pg 90: Designers are always "stealing" other ideas. A design changes in the adaptation and becomes yours.
 
-### Ch 7: Using Color
+#### Ch 7: Using Color
 * pg 92: The *primary colors* yellow, red, and blue are the only colors you can't create.
 * pg 92: Mix adjacent primary colors to create the *secondary colors*. Blue and yellow make green, yellow and red make orange, and red and blue make purple.
 * pg 94: *Complementary colors* are across from each other on the color wheel, such as blue and orange, red and green, and yellow and purple.
@@ -70,7 +70,7 @@ by Robin Williams
 * pg 107: In RGB, mixing red and green gives you yellow. It is composed of beams of light that are not reflected off of any physical object.
 * pg 108: Switching between CMYK and RGB loses a little data each time, so do your work in RGB and switch to CMYK as the last step.
 
-### Ch 8: Extra Tips & Tricks
+#### Ch 8: Extra Tips & Tricks
 * pg 110: When creating an identity package, follow the principle of repetition. Every piece should have some identifying image or style.
 * pg 113: On a business card, avoid parentheses, abbreviations, and superfluous words that just add clutter.
 * pg 117: When designing a letterhead, envelope, or business card together, work on all pieces at the same time to ensure that the chosen layout works with each one.
@@ -87,9 +87,9 @@ by Robin Williams
 * pg 140: Put navigation links at the top or above the fold, and add substantial margins to text to increase its readability.
 * pg 142: For fonts, specify Geneva or Verdana or Trebuchet in front of Helvetica, and New York or Georgia in front of Times.
 
-## Part 2: Designing with Type
+### Part 2: Designing with Type
 
-### Ch 9: Type (& Life)
+#### Ch 9: Type (& Life)
 * pg 145: The relationship between types on a page is *concordant*, *conflicting*, or *contrasting*. Recognizing and naming contrasts is key.
 * pg 146: A concordant design is calm and formal. It uses just one type face, perhaps in different sizes or styles like bold and italic.
 * pg 148: Conflicting type faces are similar to one another, and most of the time it looks like a mistake.
@@ -97,7 +97,7 @@ by Robin Williams
 * pg 152: We can contrast type by size, weight, structure, form, direction, and color.
 * pg 152: To see what is wrong with a combination of type faces, don't look for what is different between them. Instead, look for what is similar.
 
-### Ch 10: Categories of Type
+#### Ch 10: Categories of Type
 * pg 154: *Oldstyle* faces have slanted serifs, diagonal stress, and moderate thick/thin transition in the strokes. It's best for excessive body copy.
 * pg 155: *Modern* faces have thin and horizontal serifs, vertical stress, and radical thick/thin transition. They look best when set very large.
 * pg 156: *Slab serif* faces have thick and horizontal serifs, vertical stress, and very little thick/thin transition. They are darker than oldstyle and very readable.
@@ -106,7 +106,7 @@ by Robin Williams
 * pg 160: *Decorative* faces are fun, distinctive, and one exists for any whim you want to express. Use them very sparingly.
 * pg 164: The *x-height* is the height of the main body of lowercase letters, the *ascender* are letter parts taller than the x-height, and *descenders* are letter parts below the baseline.
 
-### Ch 11: Type Contrasts
+#### Ch 11: Type Contrasts
 * pg 166: If contrasting two typographic elements by their size, make the difference profound. Don't contrast 12-point with 14-point type.
 * pg 168: When you put type in all caps, it takes up more space, and so you have to make its point size smaller. It also decreases readability.
 * pg 170: When combining weights, emphasize their difference. Invest in at least one very strong, black face to provide beautiful, strong contrast.
@@ -123,8 +123,7 @@ by Robin Williams
 * pg 189: Using such color not only makes a page more inviting to read, but it helps organize information, such as separating stories on a page.
 * pg 192: Look through any good magazine for examples and ideas of contrasts in type.
 
-## Part 3: Extras
+### Part 3: Extras
 
-### Ch 12: So, Does It Make Sense?
+#### Ch 12: So, Does It Make Sense?
 * pg 198: To redesign something, start with a focal point, group your information, create strong alignments, create a repetition, and use strong contrasts.
-
