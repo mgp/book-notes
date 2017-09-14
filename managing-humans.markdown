@@ -49,3 +49,15 @@ by Michael Lopp
 * Part of a healthy organization isn't just that information is freely flowing around; it's that people are leveraging it or acting on it.
 * Busy feels good, but it is usually tactical and not strategic. Find time in which you're investing in yourself at work.
 * In the absence of information, people make shit up, and if they feel threatened, what they make up amplifies their fears. So kill the gossip.
+
+#### 5. How to Run a Meeting
+
+* When two people talk, it's a conversation. With three or more, it's a meeting, which needs rules so people know when to talk.
+* An alignment meeting are regular meetings with tactical communication exchanges. Creative meetings require diving into solving a hard problem.
+* The agenda answers the question of how everyone can get out of a meeting so that they can actually work.
+* The referee shapes the meeting to meet the requirements of the agenda and the expectations of the participants.
+* The referee must scan for attendees who aren't engaged. If someone is doing anything except listening, then they aren't listening.
+* To re-engage someone, ask a question relevant to the current state of the topic, referee silence, or change the scenery.
+* As a referee, own the meeting. Summoning the dictator to shut someone down is a last resort, because then everyone may shut down.
+* A good referee will improvise, whether letting someone ramble who's onto something, or cutting a meeting short because progress is blocked.
+* Meetings must exist, but meetings cannot be seen as the only solution for making progress.
