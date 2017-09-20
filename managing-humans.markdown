@@ -88,3 +88,12 @@ by Michael Lopp
 * With a disaster, you're not experiencing the problem anymore, but the employee's emotional baggage regarding the problem.
 * A disaster is the result of poor management, when someone believes that the only option for catalyzing change is to totally lose their shit.
 * A one-on-one is your chance to perform weekly preventative maintenance while also understanding the health of your team.
+
+#### 8. The Monday Freakout
+
+* If someone is going to freak out, it's going to be on a Monday, after fretting over the weekend about the work that awaits.
+* When the freakout happens, don't participate. Instead listen and maintain eye contact, and repeatedly nod.
+* There is likely a very real issue underlying the freakout, after the noisy preamble designed to get your attention.
+* When you take the reins, ask questions; this moves the person from the emotional state to the rational one.
+* One pleasant side-effect of attacking freakouts with questions is that the person is already close to a solution, so dig for it.
+* The fact that a person is screaming at you is a good sign that he clearly, loudly cares. But you still screwed up.
