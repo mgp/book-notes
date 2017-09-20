@@ -61,3 +61,30 @@ by Michael Lopp
 * As a referee, own the meeting. Summoning the dictator to shut someone down is a last resort, because then everyone may shut down.
 * A good referee will improvise, whether letting someone ramble who's onto something, or cutting a meeting short because progress is blocked.
 * Meetings must exist, but meetings cannot be seen as the only solution for making progress.
+
+#### 6. The Twinge
+
+* Freshman managers think it's their job to be responsible for their team's every thought and action, but you must learn to delegate.
+* You must understand the art of evaluating a Spartan set of data, extracting the truth, and trusting your "Twinges."
+* Management is a total career restart, and so approaches you use for products isn't going to work for people.
+* As a manager, your day is full of stories. Always be asking if you believe each story, knowing that it's incomplete, and that it supports one point of view.
+* Sniffing around pisses people off, and may be interpreted as micromanagement, but it's drawing on your past experiences to find failures, which cause Twinges.
+* If you don't keep a story in check with a Twinge, and that story jumps from one person to the next, then you let a lie propagate.
+* In summary, listen to stories, map them to your own experience, and ask questions and demand specifics when there is a Twinge.
+
+#### 7. The Update, the Vent, and the Disaster
+
+* Your job in a one-on-one is to give the smallest voice a chance to be heard.
+* Always hold a one-on-one at the same time each week; this sends a weekly reminder that you are there for them, no matter how busy.
+* Give a one-on-one 30 minutes at least; don't reduce the time because you have so many people working for you, because you work for them.
+* Start by asking "how are you?" It's deliberately vague so that the recipient can't help but put themselves in the answer.
+* As you listen to a one-on-one, put the person in one of three buckets: the update, the vent, and the disaster.
+* A successful one-on-one is not a status report, it is an opportunity to learn something new above the daily grind of business.
+* If the one-on-one is a status report, listen twice as hard for something you can discuss, investigate, and explore.
+* If that fails, then either come with prepared points, do a mini-performance review, or discuss your own professional disaster.
+* Don't confuse a vent for a conversation. They don't want a solution, they want to be heard, and you must listen as long as it takes.
+* A vent concludes and you can jump in when the other person loses steam, or it devolves into a rant.
+* With a disaster, the worst response is any semblance of emotion. Don't ask questions, just be quiet and let the emotion pass.
+* With a disaster, you're not experiencing the problem anymore, but the employee's emotional baggage regarding the problem.
+* A disaster is the result of poor management, when someone believes that the only option for catalyzing change is to totally lose their shit.
+* A one-on-one is your chance to perform weekly preventative maintenance while also understanding the health of your team.
