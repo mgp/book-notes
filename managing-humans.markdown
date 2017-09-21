@@ -97,3 +97,12 @@ by Michael Lopp
 * When you take the reins, ask questions; this moves the person from the emotional state to the rational one.
 * One pleasant side-effect of attacking freakouts with questions is that the person is already close to a solution, so dig for it.
 * The fact that a person is screaming at you is a good sign that he clearly, loudly cares. But you still screwed up.
+
+#### 9. Lost in Translation
+
+* Beginners are not burdened with the complexity and depth of understanding; they shine brightly with enthusiasm until The Fall.
+* When getting to know an employee, the first question you want to be able to answer is, "What does this person want?"
+* When you know where someone wants to be, only then can you start to figure out how to get them there.
+* When communication is suspect, rely heavily on clarification. When you say something that might be ambiguous, ask "What did you hear?"
+* In return, when you listen, and the topic or intent isn't abundantly clear, restate "Okay, what I heard was..."
+* Sometimes you must verbally go back and forth until a work commitment is stated, because it is never implied.
