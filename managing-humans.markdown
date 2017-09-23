@@ -106,3 +106,26 @@ by Michael Lopp
 * When communication is suspect, rely heavily on clarification. When you say something that might be ambiguous, ask "What did you hear?"
 * In return, when you listen, and the topic or intent isn't abundantly clear, restate "Okay, what I heard was..."
 * Sometimes you must verbally go back and forth until a work commitment is stated, because it is never implied.
+
+#### 10. Agenda Detection
+
+* An informational meeting simply has talkers and listeners; there is no problem to be solved other than the transmission of information.
+* At a conflict resolution meeting, some problem needs to be solved, and agenda detection is more complex.
+* Participants are players, who participate and want something out of the meeting, and pawns, who are silent or instruments of running the meeting.
+* If you're sitting in a meeting where you're unable to identify any players, get the hell out.
+* The pros are the players who are on the winning side of the issue, while the cons are getting screwed and look pissed off.
+* A good pro doesn't acknowledge that they're the pro, and so they don't have to take the heat for whatever the conflict is.
+* To get out, figure out what the cons want, then synthesize everything into constructive next steps and communicate that to the cons.
+* If you're 30 minutes into a meeting and can't figure out what the issue is, then there are too many issues, and it's time to go.
+
+#### 11. Dissecting the Mandate
+
+* There are three distinct phases to the mandate, which is decide, deliver, and deliver (again).
+* When the debate is no longer productive, and people start confusing the emotion with the decision, then it's time to make a decision.
+* For every person who has a strong opinion, there are probably four others who just want someone to make a decision so they can get back to work.
+* A mandate may annoy the concerned parties, but the silent majority will appreciate the peace and quiet after your verdict.
+* A good mandate takes moxie. There team has to leave the room knowing a decision has been made, and there is no wiggle room.
+* If your team has argued for awhile, a mandate feels less like laying down the law, and more like relaying the results of an investigation.
+* Deliver (again) is individually taking the time to express your reasoning to concerned parties, both winners and losers.
+* Expect venting from the losers. If instead they're nodding their head, they don't believe the battle is over, so you must have them open up.
+* If you have to relay some higher authority's mandate, you must figure out its justification to satisfy the rest of your team.
