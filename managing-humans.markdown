@@ -129,3 +129,13 @@ by Michael Lopp
 * Deliver (again) is individually taking the time to express your reasoning to concerned parties, both winners and losers.
 * Expect venting from the losers. If instead they're nodding their head, they don't believe the battle is over, so you must have them open up.
 * If you have to relay some higher authority's mandate, you must figure out its justification to satisfy the rest of your team.
+
+#### 12. Information Starvation
+
+* For each piece of information you see, you must correctly determine who on your team needs that information to do their job.
+* The creation of information is the act of creating context and foundation when there is none.
+* When you hear gossip, listen not only for what is actually being said, but for what informational gap in knowledge is being filled by this gossip.
+* Perhaps the biggest loss of essential information is when managers rely on their brains as to-do lists.
+* Maintain a consistent flow of information. Even if it's useless to you, you never know who on your team may care about it.
+* Taking the time to give each piece of information that you're passing on a bit of your personal context never hurts.
+* Your team is always going to tell you what they need to know. Employ some aggressive silence to bring it out of them.
