@@ -157,3 +157,14 @@ by Michael Lopp
 * Managers in a hurry needs to remember that managementese puts you a few key metaphors from sounding like a used-car salesman.
 * When you're talking to individuals, ditch the managementese, and talk to them using the familiar language of a friend.
 * Your goal is to have a conversation, and so both people sitting at the table need to trust and understand what is being said.
+
+#### 15. You're Not Listening
+
+* The most basic rule of listening is: If they don't trust you, then they aren't going to say shit.
+* A good conversation begins with a bunch of words elegantly connected with listening; it all starts with the ability to listen.
+* Eye contact is the easiest way to demonstrate your full attention, and it's also the easiest way to destroy it.
+* Keep asking stupid questions based on whatever topics until you find an answer where the other person lights up.
+* Being a curious fool builds connective tissue, allowing you to develop a mental profile of someone, and setting you up for bigger conversations.
+* To stop on a point, repeat their last sentence by saying "What I hear you saying is..." and repeat your version of their thought.
+* This communicates that you are directing your full attention to understand what the person said and what it means.
+* When you can't find the question, segue, or words to bring out what the other person wants to say, disrupt the conversation with silence.
