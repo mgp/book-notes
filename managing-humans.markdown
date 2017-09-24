@@ -139,3 +139,21 @@ by Michael Lopp
 * Maintain a consistent flow of information. Even if it's useless to you, you never know who on your team may care about it.
 * Taking the time to give each piece of information that you're passing on a bit of your personal context never hurts.
 * Your team is always going to tell you what they need to know. Employ some aggressive silence to bring it out of them.
+
+#### 13. Subtlety, Subterfuge, and Silence
+
+* Management is chess; when presented with a problem, look at the board, figure out the consequences of each move, and then pick one.
+* Subtlety starts with humility; sometimes your approach needs to start with admitting that you don't have all the answers.
+* Subtlety finishes with elegance; you solve the problem in an ingenious, novel way that builds and refines your management aptitude.
+* Subterfuge is a risk. Using it for good means keeping the intent honest, but it doesn't mean that someone isn't going to be pissed.
+* To talk about something relevant, you've got to gather and to process data. In silence, you can assess.
+* Everyone's basic agenda is visible after talking to them for 30 seconds. Everyone says what they have and what they need.
+* Use silence to learn about your coworkers, and to construct a better picture about how to interact with them.
+
+#### 14. Managementese
+
+* Managers are hubs of communication. The better they communicate across boundaries, the more data they have, and the better their decisions are.
+* When you use managementese with an employee, they usually know what you're talking about, but you've self-identified as manager.
+* Managers in a hurry needs to remember that managementese puts you a few key metaphors from sounding like a used-car salesman.
+* When you're talking to individuals, ditch the managementese, and talk to them using the familiar language of a friend.
+* Your goal is to have a conversation, and so both people sitting at the table need to trust and understand what is being said.
