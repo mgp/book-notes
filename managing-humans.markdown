@@ -168,3 +168,18 @@ by Michael Lopp
 * To stop on a point, repeat their last sentence by saying "What I hear you saying is..." and repeat your version of their thought.
 * This communicates that you are directing your full attention to understand what the person said and what it means.
 * When you can't find the question, segue, or words to bring out what the other person wants to say, disrupt the conversation with silence.
+
+#### 16. Fred Hates the Off-Site
+
+* At some organizational scale, natural cross-pollination and communication activities that used to happen organically can no longer occur.
+* Off-sites create a space and place where a team can bond, a strategy can be devised, or you can begin an epic journey.
+* You can't invite everyone; you must select a group of folks who are going to best represent the company on whatever huge problem you're solving.
+* Everyone should present at the offsite. To reduce attendees, cut people who can't present anything meaningful, or people presenting the same thing.
+* If you invite someone who is not presenting, then they should speak up randomly and brilliantly.
+* The off-site is to create grounds to speak heresy, and that's easier when you aren't surrounded by visual reminders of obvious constraints.
+* The Master of Ceremonies is the person responsible for not just moving the day along, but also knowing when to stop and pivot.
+* The Taker of Notes is tasked with not only capturing the bright ideas, but the right ideas.
+* Avoid personality tests. They apply clever labels to people, but to really understand one, solve a hard problem together.
+* Don't invite external facilitators; they don't know the culture, the problem at hand, the politics, or the personalities.
+* An off-site must be at least two days long, letting people soak in a problem overnight, and then attack it the next day.
+* Unless the energy of an off-site is channeled back into the workspace and immediately acted upon, then an off-site is a frustrating opportunity to dream, but not to act.
