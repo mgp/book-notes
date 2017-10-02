@@ -203,3 +203,14 @@ by Michael Lopp
 * Be able to draw a detailed architectural diagram of the product, to demonstrate that you understand everything about it.
 * Write unit tests, fix some bugs, or even own a feature.
 * By building the product you're closer to your team, and you're closer to how software development is constantly changing in your organization.
+
+#### 19. Tear It Down
+
+* People who want flat organizations don't understand how groups of people organize, and haven't built anything with more than a few individuals.
+* There are three leaders: The Lead, The Lead of Leads, and The Director.
+* The Lead is at the beginning of leading the work, not doing it. They are tactical. Their focus is the team.
+* The Lead of Leads no longer has any hands-on responsibility. They are equal parts tactical and strategic. Their focus is across the company.
+* The Leads of Leads run the company, because they are the ones who are ensuring that the work actually gets done.
+* A bad Lead of Lead is fatal; they lose touch with Directors and lack strategic data, or lose touch with Leads and lack tactical data.
+* The Director curates the vision. They are ideally completely strategic. The Lead of Leads must translate this vision into action.
+* There is no hierarchy in the roles described above, because leaderships comes from everywhere.
