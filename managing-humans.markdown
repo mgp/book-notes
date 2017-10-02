@@ -183,3 +183,23 @@ by Michael Lopp
 * Don't invite external facilitators; they don't know the culture, the problem at hand, the politics, or the personalities.
 * An off-site must be at least two days long, letting people soak in a problem overnight, and then attack it the next day.
 * Unless the energy of an off-site is channeled back into the workspace and immediately acted upon, then an off-site is a frustrating opportunity to dream, but not to act.
+
+#### 17. A Different Kind of DNA
+
+* Everyone wants to grow, but in many companies the only perceived growth path is via management.
+* Job grades are a distraction packaged as a solution to the fact that we don't have a good idea how to grow engineers outside the management hierarchy.
+* We need managers to scale responsibility and communication, but we need to dispel the idea that they are the exclusive decision-makers.
+* DNA, or a design n' architecture, is a formal meeting with bright engineers from across the team or company tasked with a specific purpose.
+* It has the best candidates to vet the idea, to talk about how to make it better, to constructively criticize, while being drama- and politics-free.
+* If you don't contribute to the DNA meeting, you won't be invited back. And if you don't bring your A game, you'll get mentally trampled.
+* A DNA meeting is a staff meeting of the influential engineers who don't want direct reports, but want to lead.
+* DNA exists as an acknowledgment that a team is led not just by the folks who build the people, but also by the people who build the product.
+
+#### 18. An Engineering Mindset
+
+* The first rule of management is to stay flexible.
+* If you remove yourself from the code, then you remove yourself from the act of creation.
+* Use the development environment to build the product, so that you understand the language your team uses when talking about getting stuff done.
+* Be able to draw a detailed architectural diagram of the product, to demonstrate that you understand everything about it.
+* Write unit tests, fix some bugs, or even own a feature.
+* By building the product you're closer to your team, and you're closer to how software development is constantly changing in your organization.
