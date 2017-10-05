@@ -214,3 +214,23 @@ by Michael Lopp
 * A bad Lead of Lead is fatal; they lose touch with Directors and lack strategic data, or lose touch with Leads and lack tactical data.
 * The Director curates the vision. They are ideally completely strategic. The Lead of Leads must translate this vision into action.
 * There is no hierarchy in the roles described above, because leaderships comes from everywhere.
+
+#### 20. Titles Are Toxic
+
+* Titles were created as a way to give folks a path toward growth, not for judging someone else's importance from a business card alone.
+* A job is a well-defined thing that has a clear and easy-to-understand set of responsibilities, while a title often has neither.
+* The first growth path is the lead or management track, which is there so that communications and decisions can be sensibly organized.
+* Your titles might be toxic if they don't reflect a job that you would consider to be of real and obvious value.
+* The second growth path, assigning titles to engineers, cannot capture the seemingly infinite ways in which people evolve.
+* Titles place an absolute professional value on individuals, while the reality is that you are a collection of skills of varying ability.
+* It is a tall order for a title to capture expected ability, to measure seniority, and to serve as a measure of compensation.
+
+#### 21. Saying No
+
+* When the team no longer questions the decisions of a manager, that manager feels like his decisions are always correct, which is statistically impossible.
+* The good managers are those who have learned how to recover from decisions with dignity, and with help from the team.
+* Saying no forces an idea to defend itself with facts, and for your manager to stop and think.
+* Saying no is saying "stop," and when everyone thrives on movement, the ability to strategically choose when to stop is a sign of a manager willing to defy convention.
+* Don't be paralyzed by the fact that you're one big, bad decision from being out of a job. Embrace the confidence of being "the boss."
+* You are responsible for making great decisions, and the best way to do that is to involve as much of your team as possible in those decisions.
+* By including your team in the decision process and creating an environment where they can say no, you're creating trust.
