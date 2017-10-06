@@ -234,3 +234,18 @@ by Michael Lopp
 * Don't be paralyzed by the fact that you're one big, bad decision from being out of a job. Embrace the confidence of being "the boss."
 * You are responsible for making great decisions, and the best way to do that is to involve as much of your team as possible in those decisions.
 * By including your team in the decision process and creating an environment where they can say no, you're creating trust.
+
+### Part II: The Process is the Product
+
+#### 22. 1.0
+
+* You're going to be screwed at some point. Keep thinking, don't yell, treat those you work with decently, and you'll be fine.
+* Maslow's hierarchy of needs is helpful with folks on the edge, and can provide insight when someone is stressing out.
+* Don't trust charts and graphs, because they paint the world in a clean and linear fashion that only supports the message of the author.
+* In the Rands 1.0 hierarchy, the top is the Pitch, or the idea. You're in a hurry, so don't forget it.
+* The People are next, and no one is indispensable. You must let go of people who aren't working on the 1.0 product with a sense of urgency.
+* Then Process, which defines communication. The process doesn't have to be good, but it has to be stuck in a place where everyone can see it.
+* A great stagnation warning sign during 1.0 is when someone decides to create an organization chart saying "This is who does what."
+* Finally, you have Product. You don't have a company until you have a product, which a neutral party must validate because you've gone nuts.
+* The lower the failure in the pyramid, the higher the cost. A failure of pitch is a structural one that affects your entire company.
+* What you're really building in a 1.0 is a lasting, interesting culture that continues to build great products if you're lucky.
