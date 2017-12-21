@@ -29,3 +29,19 @@ by Liz Wiseman
 * pg 60: Become a genius watcher by identifying a strength and using five whys to find the underlying capabilities; then ask others to test your hypothesis; and finally identify roles to use and expand this genius.
 * pg 62: Also remove Diminishers aggressively, as they cause others to operate at only half of their full intelligence and capability.
 * pg 63: Talent Magnets encourage people to grow and leave. When people leave, they celebrate their departures and shout their success, which is their best recruiting tool.
+
+#### Chapter 3: The Liberator
+
+* pg 67: Multipliers liberate people to think, speak, and act with reason. They create an environment where the best ideas surface and where people do their best work.
+* pg 69: Diminishers act as tyrants, shutting down the flow of intelligence and thereby rarely accessing people's best work.
+* pg 72: Tyrants create a tense environment, full of stress and anxiety. Liberators create an intense environment that requires concentration, diligence, and energy.
+* pg 72: A Tyrant creates stress that causes people to hold back, and creates whiplash. A Liberator creates space for people to step up, and creates momentum.
+* pg 77: Liberators create a duality by creating both comfort and pressure in the environment. They give you space, but expect your best work.
+* pg 78: A Liberator creates space. They release others by retraining themselves, ferociously listen, operate consistently to create predictability and safety, and amplify the important voices.
+* pg 82: They demand people's best work. They ask if someone is giving their best work, but do not conflate that best work with outcomes.
+* pg 84: They generate rapid learning cycles. They admit and share their own mistakes, and they insist on learning from mistakes.
+* pg 87: Tyrants dominate the space, create an anxiety that imposes a mental tax on others, and create cycles of criticism, judgment, and retreat.
+* pg 89: Liberators believe people's best thinking must be given, not taken. Diminishers believe pressure increases performance, but an unsafe environment yields only the safest ideas.
+* pg 91: If prone to dominating discussions, give yourself a time budget for talking during a meeting. Use your time wisely.
+* pg 92: Divide your opinions into soft opinions, where you have a perspective to offer, and hard opinions, where you have a clear and emphatic point of view.
+* pg 92: When sharing mistakes, get personal by sharing what you did and what you learned, and go public with them so that everyone can learn.
