@@ -45,3 +45,18 @@ by Liz Wiseman
 * pg 91: If prone to dominating discussions, give yourself a time budget for talking during a meeting. Use your time wisely.
 * pg 92: Divide your opinions into soft opinions, where you have a perspective to offer, and hard opinions, where you have a clear and emphatic point of view.
 * pg 92: When sharing mistakes, get personal by sharing what you did and what you learned, and go public with them so that everyone can learn.
+
+#### Chapter 4: The Challenger
+
+* pg 102: Diminishers operate as Know-It-Alls, assuming that their job is to know the most and tell the organization what to do.
+* pg 103: A Multiplier plays the role of a Challenger, finding new opportunities and then stretching their organization to get there.
+* pg 104: A Know-It-All provides all the answers, thereby teaching subordinates to wait for those answers, and then finally concludes that "they couldn't have figured this out without me."
+* pg 104: A Challenger accepts that he or she doesn't have to have all the answers, and so is free to ask bigger, more provocative, and more interesting questions.
+* pg 107: A Challenger seeds the opportunity. They allow others to discover those opportunities, ask questions that challenge fundamental assumptions, reframe problems to show their opportunity, and provide a starting point but not a complete solution.
+* pg 111: They lay down a challenge. They extend a clear and concrete challenge, ask the hard questions that need to be answered, and let others fill in the blanks.
+* pg 118: They generate belief. They take the challenge down to the ground level, lay out a path, co-create a plan to create buy-in, and then orchestrating small and early wins.
+* pg 121: Know-It-Alls tell people what they know, tell people how to do their jobs, and test other people's knowledge to see if they're doing it right.
+* pg 125: A Know-It-All creates idle cycles because everyone must wait on him or her. A Challenger creates rapid cycles.
+* pg 128: To draw the intelligence out of people and guide others through a challenge, find a meeting you can lead solely with questions.
+* pg 128: Create a learning experience that will reveal a need that must be met, create energy, and ignite a fire within your organization.
+* pg 129: When you create an early win, get the entire organization to do it together, en masse, so that everyone can see the results and start to believe that something great is possible.
