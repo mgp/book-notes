@@ -60,3 +60,15 @@ by Liz Wiseman
 * pg 128: To draw the intelligence out of people and guide others through a challenge, find a meeting you can lead solely with questions.
 * pg 128: Create a learning experience that will reveal a need that must be met, create energy, and ignite a fire within your organization.
 * pg 129: When you create an early win, get the entire organization to do it together, en masse, so that everyone can see the results and start to believe that something great is possible.
+
+#### Chapter 5: The Debate Maker
+
+* pg 136: Diminishers operate as Decision Makers, assuming there are only a few people worth listening to, and ignoring many sources of insight.
+* pg 136: Multipliers operate as Debate Makers, leading rigorous debate that challenge and stretch what people know, thereby making the organization smarter over time.
+* pg 142: A Debate Maker frames the issue. They find the right issue and formulate the right question, form the team, ensure data is collected, and frame the decision by clarifying the decision-making process and establishing roles.
+* pg 145: They spark the debate, making it engaging, comprehensive, fact-based, and educational. They create safety for best thinking, and demand rigor by asking hard questions, demanding evidence, and pursuing all sides of an issue.
+* pg 149: They drive a sound decision. They re-clarify who makes the decision and when, make the decision, and communicate the decision and the rationale.
+* pg 152: A Decision Maker raises issues, dominates the discussion with his or her own ideas, and then force a decision by relying heavily on their own opinion or short-cutting a rigorous debate.
+* pg 154: A Decision Maker doesn't use the full complement of talent, intelligence, and information available, while a Debate Maker stretches it.
+* pg 155: With a "shared inquiry" technique, the discussion leader only asks questions, participants must supply evidence, and everyone participates.
+* pg 156: Following this, to create a debate, ask a hard question that confronts underlying assumptions, ask for evidence when opinions are offered, and ask each person.
