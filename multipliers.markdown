@@ -72,3 +72,18 @@ by Liz Wiseman
 * pg 154: A Decision Maker doesn't use the full complement of talent, intelligence, and information available, while a Debate Maker stretches it.
 * pg 155: With a "shared inquiry" technique, the discussion leader only asks questions, participants must supply evidence, and everyone participates.
 * pg 156: Following this, to create a debate, ask a hard question that confronts underlying assumptions, ask for evidence when opinions are offered, and ask each person.
+
+#### Chapter 6: The Investor
+
+* pg 161: Diminishers act as Micromanagers, jumping in, saving the day, and driving results through personal involvement.
+* pg 161: Multipliers act as Investors, infusing others with the resources and ownership needed to produce results independent of the leader. They expect a return.
+* pg 168: Investors establish ownership up front. They give away the majority ownership, give ownership of the whole and not just a piece, and stretch a role and the person in it.
+* pg 173: They invest resources. They teach and coach by asking questions, and provide backup when complications arise.
+* pg 175: They hold people accountable. They give back leadership and accountability, make others find solutions and not just problems, allow consequences to take effect and inform intelligent action, and make the scoreboard visible.
+* pg 181: A Micromanager maintains ownership, jump in when problems arise, and take back problems that are given to them instead of keeping them with the team.
+* pg 186: A Micromanager doesn't use the full complement of talent and resourcefulness available, while an Investor stretches it and grows the assets in his or her portfolio.
+* pg 187: Investors earn the right to step away from an organization without jeopardizing its performance.
+* pg 188: When you delegate, don't just say what you're expecting of someone, but also tell them that they are in charge and accountable, not you.
+* pg 188: Allow people to experience the natural consequences of their actions. Orchestrate small teaching moments, then talk about it and find a path forward.
+* pg 190: When someone brings you a problem, ask that person to complete the thought process and provide a fix.
+* pg 191: When you see team members struggling, offer help, but have an exit plan. Hand back the pen.
