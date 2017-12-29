@@ -87,3 +87,15 @@ by Liz Wiseman
 * pg 188: Allow people to experience the natural consequences of their actions. Orchestrate small teaching moments, then talk about it and find a path forward.
 * pg 190: When someone brings you a problem, ask that person to complete the thought process and provide a fix.
 * pg 191: When you see team members struggling, offer help, but have an exit plan. Hand back the pen.
+
+#### Chapter 7: Becoming a Multiplier
+
+* pg 199: Multiplier leadership is not the norm, because the path of least resistance is frequently the path of the diminisher.
+* pg 200: If you are underneath a diminisher, manage like a multiplier and let the results speak for themselves. You can out-lead your boss.
+* pg 201: If you're overworked or overwhelmed, become a multiplier by working the extremes, start with the assumptions, and taking a 30-day challenge.
+* pg 204: Leaders need to have mastery of a small number of skills, and no show-stopper weaknesses. So work two extremes by neutralizing a weakness and topping off a strength.
+* pg 207: Our assumptions have a powerful effect on outcomes. Try on the multiplier assumptions and not the diminisher ones and let them guide your actions.
+* pg 210: The most effective and enduring learning involves small, successive experimentation with new approaches, so focus your efforts on a single discipline for 30 days.
+* pg 215: Beyond the 30 days, sustain momentum by developing your mastery of skills layer by layer.
+* pg 216: Stay with it for a year to develop Mastery. Each year, carry with you a question that challenges your thinking and inspires your learning.
+* pg 217: Build a community. The most successful participants of the 30-day challenge worked collectively or had a partner as a sounding board and accountability point.
