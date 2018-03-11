@@ -1,6 +1,6 @@
 ## Frameworks
 
-Below are frameworks I use to guide my work.
+Below are frameworks that I use to guide my work and my relationships.
 
 #### SMART Goals
 
@@ -128,6 +128,30 @@ From Daniel Pink's book Drive. These are the things that intrinsically motivate 
 * Autonomy
 * Purpose
 
+#### [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+
+Radical candor is a simple tool for ensuring that your team gets the right kind of guidance.
+
+It has a graph with two axes:
+
+* The vertical axis is "Care personally," or the "give a damn" axis.
+* The horizontal axis is "Challenge directly," or the "willing to piss people off" axis.
+
+With four quadrants:
+
+* Top-right, or caring personally and challenging directly, is radical candor. This is best.
+* Bottom-right, or challenging directly without caring personally, is obnoxious aggression. This is second best.
+* Top-left, or caring personally without challenging directly, is ruinous empathy. This is where most of us are.
+* Bottom-left, without caring personally or challenging directly, is manipulative insincerity.
+
+Delivering radical candor is HHIPP:
+
+* Humble
+* Helpful
+* Immediate
+* In person (private if it's criticism, public if it's praise)
+* Doesn't personalize
+
 #### [Faultlines](https://www.groupoe.com/blog-on-teams/146-faultlines-can-divide-your-team-be-aware-and-be-smart.html)
 
 A dividing line that splits what is supposed to be a single, unified team into two or more subgroups.
@@ -141,7 +165,7 @@ A dividing line that splits what is supposed to be a single, unified team into t
 Addressing faultlines:
 
 * Establish and emphasize shared goals that all team members can embrace.
-* Use "connectors,"" or someone who shares something in common with multiple groups.
+* Use "connectors," or someone who shares something in common with multiple groups.
 
 #### [GROW Model](https://www.mindtools.com/pages/article/newLDR_89.htm)
 
