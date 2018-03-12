@@ -1,8 +1,6 @@
-## Frameworks
+Below are frameworks and playbooks that I use to guide my work and my relationships.
 
-Below are frameworks that I use to guide my work and my relationships.
-
-#### SMART Goals
+### SMART Goals
 
 SMART is a framework for ensuring a goal is well stated.
 
@@ -17,7 +15,7 @@ Caveats:
 * SMART does not test whether the goal itself is a good idea.
 * Do not let it enable weak players to set low goals. The setting of tough, demanding, stretching goals that generate the greatest levels of effort and performance.
 
-#### 5 Essential Mentorship Questions
+### 5 Essential Mentorship Questions
 
 What is it that you really want to be and do?
 
@@ -32,7 +30,7 @@ What will you do different tomorrow to meet those challenges?
 
 How can I help / where do you need the most help?
 
-#### Project retrospectives
+### Project retrospectives
 
 Ask did the project achieve its objectives?
 
@@ -61,7 +59,7 @@ Lessons learned:
 * If we could do this again, what would you wish you'd known from the beginning?
 * What would be useful for a related follow-up project?
 
-#### OKRs
+### OKRs
 
 OKRs are a process for setting, communicating, and monitoring goals and results in organizations.
 
@@ -82,7 +80,7 @@ Guidelines:
 * Review regularly.
 * A key result is green if you reach 70% of the stated target.
 
-#### RACI Model
+### RACI Model
 
 The RACI Model is a process for clarifying roles on teams, used in project management.
 
@@ -98,7 +96,7 @@ Steps in a RACI process:
 * When a single A or R cannot be identified, decompose the deliverable into smaller deliverables.
 * Can have multiple Cs and Is for a deliverable.
 
-#### Zones of Collaboration
+### Zones of Collaboration
 
 Zones of Collaboration is a framework to clarify what work your team has control over, and what work your team does not have control over.
 
@@ -120,7 +118,7 @@ Zone 3: How is your team interfering with the work of other teams? How are other
 * This can be work that one team used to own but no longer owns and is having a tough time moving away from it.
 * Protect your team from interference by other teams to ensure that your team delivers great work.
 
-#### Mastery, Autonomy, and Purpose
+### Mastery, Autonomy, and Purpose
 
 From Daniel Pink's book Drive. These are the things that intrinsically motivate us.
 
@@ -128,7 +126,7 @@ From Daniel Pink's book Drive. These are the things that intrinsically motivate 
 * Autonomy
 * Purpose
 
-#### [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+### [Radical Candor](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
 
 Radical candor is a simple tool for ensuring that your team gets the right kind of guidance.
 
@@ -152,7 +150,7 @@ Delivering radical candor is HHIPP:
 * In person (private if it's criticism, public if it's praise)
 * Doesn't personalize
 
-#### [Faultlines](https://www.groupoe.com/blog-on-teams/146-faultlines-can-divide-your-team-be-aware-and-be-smart.html)
+### [Faultlines](https://www.groupoe.com/blog-on-teams/146-faultlines-can-divide-your-team-be-aware-and-be-smart.html)
 
 A dividing line that splits what is supposed to be a single, unified team into two or more subgroups.
 
@@ -167,7 +165,7 @@ Addressing faultlines:
 * Establish and emphasize shared goals that all team members can embrace.
 * Use "connectors," or someone who shares something in common with multiple groups.
 
-#### [GROW Model](https://www.mindtools.com/pages/article/newLDR_89.htm)
+### [GROW Model](https://www.mindtools.com/pages/article/newLDR_89.htm)
 
 GROW is a model for structuring your coaching or mentoring sessions.
 
@@ -193,7 +191,7 @@ Will (or Way Forward):
 * Ask how to keep motivated.
 * Decide when to review progress.
 
-#### [SBI](https://www.youtube.com/watch?v=-oRKr5xA9N0)
+### [SBI](https://www.youtube.com/watch?v=-oRKr5xA9N0)
 
 SBI is a framework that promotes feedback based on identifying behavior and impact in a specific situation.
 
@@ -214,13 +212,13 @@ Impact:
 * Describes your emotional response and is particular to you.
 * Start this with "I felt..."
 
-#### Types of "Yes"
+### Types of "Yes"
 
 * Counterfeit: Where your counterpart feels it is an escape route or uses it to continue the conversation for some edge.
 * Confirmation: A reflexive response to a black-and-white question, a simple affirmation with no promise of action.
 * Commitment: A true agreement that leads to action.
 
-#### Attributing irrationality
+### Attributing irrationality
 
 If someone appears to be acting irrationally, consider:
 
