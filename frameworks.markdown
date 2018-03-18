@@ -227,3 +227,45 @@ From the book [Never Split the Difference](never-split-the-difference.markdown) 
 * Either person may have incomplete information.
 * That person is operating under constraints that he or she is not eager to reveal.
 * That person is complying with needs or desires based on his or her own rules or worldview.
+
+### [BICEPS model](https://www.palomamedina.com/biceps)
+
+BICEPS is a model for representing one's core needs. Use it so that others feel understood and valued.
+
+Belonging
+
+* Community: A feeling of friendship and closeness with a group.
+* Community well-being: People feel cared for and happy.
+* Connection: Feeling mutual understanding with another person.
+
+Improvement/Progress
+
+* Progress towards purpose: Moving toward a goal for the company, team, or yourself.
+* Improving the lives of others.
+* Personal growth: Growth in yourself in skills that matter to you.
+
+Choice
+
+* Choice: Having control over key parts of your world.
+* Autonomy: Having clear ownership with no need to ask for permission.
+* Ability to make decisions about what matters to you.
+
+Equality/Fairness
+
+* Access to resources (money, time, space, etc) feels equitable.
+* Access to information is fair.
+* You support each other equally.
+* Decisions are fair and everyone is treated as equally important.
+
+Predictability
+
+* There's certainty about resources (money, space, etc) to focus on your job.
+* There's certainty about when things will happen and when you can prepare.
+* You can anticipate and thus prepare for future challenges.
+* Goals, strategy, and direction don't change too fast.
+
+Status
+
+* Status: You hold a title or role that honors your worth.
+* Your work is highly visible to people that matter.
+* Your work is recognized and appreciated in positive ways.
