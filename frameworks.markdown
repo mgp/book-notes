@@ -120,7 +120,7 @@ Zone 3: How is your team interfering with the work of other teams? How are other
 
 ### Mastery, Autonomy, and Purpose
 
-From Daniel Pink's book Drive. These are the things that intrinsically motivate us.
+From the book [Drive](drive.markdown) by Daniel Pink. These are the things that intrinsically motivate us.
 
 * Mastery
 * Autonomy
@@ -214,13 +214,15 @@ Impact:
 
 ### Types of "Yes"
 
+From the book [Never Split the Difference](never-split-the-difference.markdown) by Chris Voss. There are three types of "yes" that someone gives:
+
 * Counterfeit: Where your counterpart feels it is an escape route or uses it to continue the conversation for some edge.
 * Confirmation: A reflexive response to a black-and-white question, a simple affirmation with no promise of action.
 * Commitment: A true agreement that leads to action.
 
 ### Attributing irrationality
 
-If someone appears to be acting irrationally, consider:
+From the book [Never Split the Difference](never-split-the-difference.markdown) by Chris Voss. If someone appears to be acting irrationally, consider:
 
 * Either person may have incomplete information.
 * That person is operating under constraints that he or she is not eager to reveal.
