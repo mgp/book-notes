@@ -234,41 +234,33 @@ BICEPS is a model for representing one's core needs. Use it so that others feel 
 
 Belonging:
 
-* Community: A feeling of friendship and closeness with a group.
-* Community well-being: People feel cared for and happy.
-* Connection: Feeling mutual understanding with another person.
+* Closeness with a group and connection with others.
+* People feel cared for and happy.
 
 Improvement/Progress:
 
-* Progress towards purpose: Moving toward a goal for the company, team, or yourself.
+* Moving toward a goal for the company, team, or yourself.
 * Improving the lives of others.
-* Personal growth: Growth in yourself in skills that matter to you.
 
 Choice:
 
-* Choice: Having control over key parts of your world.
-* Autonomy: Having clear ownership with no need to ask for permission.
-* Ability to make decisions about what matters to you.
+* Having control over key parts of your world.
+* Having clear ownership with no need to ask for permission.
 
 Equality/Fairness:
 
-* Access to resources (money, time, space, etc) feels equitable.
-* Access to information is fair.
-* You support each other equally.
+* Access to resources (money, time, space, information, etc) feels equitable.
 * Decisions are fair and everyone is treated as equally important.
 
 Predictability:
 
 * There's certainty about resources (money, space, etc) to focus on your job.
-* There's certainty about when things will happen and when you can prepare.
-* You can anticipate and thus prepare for future challenges.
-* Goals, strategy, and direction don't change too fast.
+* Goals, strategy, and direction don't change too fast. You can anticipate and prepare.
 
 Status:
 
-* Status: You hold a title or role that honors your worth.
-* Your work is highly visible to people that matter.
-* Your work is recognized and appreciated in positive ways.
+* You hold a title or role that honors your worth.
+* Your work is both highly visible and recognized in positive ways.
 
 ### Diminishers vs Multipliers
 
