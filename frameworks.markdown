@@ -310,3 +310,20 @@ From [The Coaching Habit](the-coaching-habit.markdown) by Michael Bungay Stanier
 * The Lazy Question: "How can I help?"
 * The Strategic Question: "If you're saying Yes to this, what are you saying No to?"
 * The Learning Question: "What was the most useful to you?"
+
+### Good Strategy
+
+From the book [Good Strategy Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239) by Richard Rumelt.
+
+Diagnosis:
+
+* Replaces complexity with a simpler problem which can be solved.
+
+Guiding Policy:
+
+* Outlines the overall approach to overcome the obstacles highlighted by the diagnosis.
+* Direct and constrain actions without fully defining everything that happens.
+
+Coherent Actions:
+
+* Must have clarity and coordinated action to move forward.
