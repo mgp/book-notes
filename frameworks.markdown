@@ -298,3 +298,15 @@ Micromanagers vs Investors:
 
 * Micromanagers manage every detail of the work to ensure it is completed the way they would do it.
 * Investors give other people the ownership for results and invest in their success.
+
+### The Coaching Habit
+
+From [The Coaching Habit](the-coaching-habit.markdown) by Michael Bungay Stanier. Seven essential questions for coaching others:
+
+* The Kickstart Question: "What's on your mind?"
+* The AWE Question: "And what else?"
+* The Focus Question: "What's the real challenge for you here?"
+* The Foundation Question: "What do you want?"
+* The Lazy Question: "How can I help?"
+* The Strategic Question: "If you're saying Yes to this, what are you saying No to?"
+* The Learning Question: "What was the most useful to you?"
