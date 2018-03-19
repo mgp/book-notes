@@ -232,40 +232,69 @@ From the book [Never Split the Difference](never-split-the-difference.markdown) 
 
 BICEPS is a model for representing one's core needs. Use it so that others feel understood and valued.
 
-Belonging
+Belonging:
 
 * Community: A feeling of friendship and closeness with a group.
 * Community well-being: People feel cared for and happy.
 * Connection: Feeling mutual understanding with another person.
 
-Improvement/Progress
+Improvement/Progress:
 
 * Progress towards purpose: Moving toward a goal for the company, team, or yourself.
 * Improving the lives of others.
 * Personal growth: Growth in yourself in skills that matter to you.
 
-Choice
+Choice:
 
 * Choice: Having control over key parts of your world.
 * Autonomy: Having clear ownership with no need to ask for permission.
 * Ability to make decisions about what matters to you.
 
-Equality/Fairness
+Equality/Fairness:
 
 * Access to resources (money, time, space, etc) feels equitable.
 * Access to information is fair.
 * You support each other equally.
 * Decisions are fair and everyone is treated as equally important.
 
-Predictability
+Predictability:
 
 * There's certainty about resources (money, space, etc) to focus on your job.
 * There's certainty about when things will happen and when you can prepare.
 * You can anticipate and thus prepare for future challenges.
 * Goals, strategy, and direction don't change too fast.
 
-Status
+Status:
 
 * Status: You hold a title or role that honors your worth.
 * Your work is highly visible to people that matter.
 * Your work is recognized and appreciated in positive ways.
+
+### Diminishers vs Multipliers
+
+From the book [Multipliers](multipliers.markdown) by Liz Wiseman. It defines the characteristics of a Diminisher versus a Multiplier.
+
+Empire Builders vs Talent Magnets:
+
+* Empire Builders hoard resources and under-utilize talent.
+* Talent Magnets attract talent and deploy it at its highest point of contribution.
+
+Tyrants vs Liberators:
+
+* Tyrants create a tense environment that suppresses people's thinking and capability.
+* Liberators create an intense environment that requires people's best thinking and work.
+
+Know-It-Alls vs Challengers:
+
+* Know-It-Alls give directives that showcase "their" knowledge.
+* Challengers define opportunities that challenge people to go beyond what they know how to do.
+
+Decision Makers vs Debate Makers:
+
+* Decision Makers engage a select inner circle in the decision-making process.
+* Debate Makers access a wide spectrum of thinking in a rigorous debate before making decisions.
+
+Micromanagers vs Investors:
+
+* Micromanagers manage every detail of the work to ensure it is completed the way they would do it.
+* Investors give other people the ownership for results and invest in their success.
