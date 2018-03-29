@@ -319,3 +319,27 @@ Guiding Policy:
 Coherent Actions:
 
 * Must have clarity and coordinated action to move forward.
+
+### Effecting Change
+
+From the book [Switch](switch-how-to-change-things-when-change-is-hard.markdown) by Chip Heath and Dan Heath.
+
+Your brain is two systems: The emotional side (the Elephant) provides the energy, while the rational side (the Rider) provides the planning and direction.
+
+Direct the Rider:
+
+* Find the bright spots. Ask yourself "What is working, and how can we do more of it?"
+* Script the critical moves. Otherwise new choices create uncertainty, which leads to the default path, i.e. the status quo.
+* Point to the destination. Provide a vivid "destination postcard" and the rider will figure out how to get there.
+
+Motivate the Elephant:
+
+* Find the feeling. When fighting inertia and indifference, the sequence for change is not analyze-think-change but see-feel-change. 
+* Shrink the change. Engineer early successes to engineer hope, and make these advances visible.
+* Grow your people. Work hard to improve someone's self-image so that they'll aspire to be someone to make the change you're asking.
+
+Shape the Path:
+
+* Tweak the environment. Make the right behaviors a bit easier and the wrong behaviors a bit harder.
+* Build habits. The humble checklist is a tool that combines the strategies of tweaking the environment and building habits.
+* Rally the herd. In situations where the herd has embraced the right behavior, publicize it.
