@@ -343,3 +343,23 @@ Shape the Path:
 * Tweak the environment. Make the right behaviors a bit easier and the wrong behaviors a bit harder.
 * Build habits. The humble checklist is a tool that combines the strategies of tweaking the environment and building habits.
 * Rally the herd. In situations where the herd has embraced the right behavior, publicize it.
+
+### Customer Service
+
+From the book [The Power of Habit](the-power-of-habit.markdown) by Charles Duhigg.
+
+1. Listen
+1. Acknowledge the problem
+1. Take problem-solving action
+1. Thank them, and
+1. Explain what you've done
+
+### BANT
+
+BANT is a sales qualification framework.
+
+* Budget: What is the prospect's budget?
+* Authority: Does the prospect have the decision-making authority?
+* Need: What is the prospect's business need?
+* Timeframe: When will the prospect be implementing a solution?
+
