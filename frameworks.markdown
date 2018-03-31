@@ -363,3 +363,10 @@ BANT is a sales qualification framework.
 * Need: What is the prospect's business need?
 * Timeframe: When will the prospect be implementing a solution?
 
+### Weekly manager updates
+
+1. What you did last week
+1. Priorities for next week
+1. Team & organizational highlights & lowlights
+1. What's on your mind
+1. Fires
