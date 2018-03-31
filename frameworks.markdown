@@ -346,7 +346,7 @@ Shape the Path:
 
 ### Customer Service
 
-From the book [The Power of Habit](the-power-of-habit.markdown) by Charles Duhigg.
+The LATTE method used by Starbucks, from the book [The Power of Habit](the-power-of-habit.markdown) by Charles Duhigg.
 
 1. Listen
 1. Acknowledge the problem
