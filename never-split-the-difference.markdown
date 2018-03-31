@@ -41,7 +41,7 @@ by Chris Voss
 * Tactical empathy goes farther by also hearing what is behind those feelings so you increase your influence on all following moments.
 * Most of us enter verbal combat unlikely to persuade anyone of anything because we only know and care about our own goals and perspective.
 * When we closely observe a person's face, gestures, and tone of voice, we align with theirs in a process called neural resonance.
-* With labeling, we turn turns someone's feelings into words, and then very calmly and respectfully repeat their emotions back to them.
+* With labeling, we turn someone's feelings into words, and then very calmly and respectfully repeat their emotions back to them.
 * It has a special advantage when your counterpart is tense because exposing negative thoughts to daylight makes them seem less frightening.
 * Labeling moves the brain from a fearful response to rational thinking. It disrupts the raw intensity of the emotion.
 * The first step to labeling is detecting the other person's emotional state, usually by inspecting their words, tone, and body language.
