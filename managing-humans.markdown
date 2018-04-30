@@ -249,3 +249,31 @@ by Michael Lopp
 * Finally, you have Product. You don't have a company until you have a product, which a neutral party must validate because you've gone nuts.
 * The lower the failure in the pyramid, the higher the cost. A failure of pitch is a structural one that affects your entire company.
 * What you're really building in a 1.0 is a lasting, interesting culture that continues to build great products if you're lucky.
+
+#### 23. The Process Myth
+
+* Engineers don't hate process. They hate process that can't defend itself.
+* If you dig into process, you'll find the circumstances that led to its necessity, how it could be awesome, and your role in maintaining that awesome.
+* Process is created not as a means of control; it's being built as documentation of culture and values for The New Guard.
+* HR is good at defining process, but bad at explaining the culture. Process should be written by those who are also experts in the culture.
+* When cultural bellwethers leave, so does their cultural context and understanding of the root pain that defined these bulleted lists.
+* A healthy process is required to stand up to scrutiny, and when a process fails to do so, it must change.
+
+#### 24. How to Start
+
+* Beginning has three phases: You're either fretting about starting, you're preparing to begin, or you've begun.
+* Stress is a creativity buzz kill. When you're stressed, you're in survival mode, but elegant solutions require offense.
+* Mornings have the gift of optimism because nothing has screwed up your day yet.
+* Evenings are dark, repetitive reminders that no matter what you do, time is going to pass and you've likely wasted some of it.
+* Mornings allow you to flex the creative side of your brain; evenings, when you're tired, allow you to flex the logical side.
+* A hard thing is never done by reading a book or an article about doing it; a hard thing is done by figuring out how to start.
+
+#### 25. Taking Time to Think
+
+* The time to kick off deep thinking is right after your last major release, when every lesson of the prior release is in the forefront of the team's mind.
+* Schedule a brainstorm meeting and a prototype meeting in the same week, so that no one forgets everything over the weekend.
+* Assuming you have an idea of what to talk about, invite those with an educated opinion; otherwise invite people chosen at random.
+* Avoid inviting "obstructionists" who map every new idea against previous experience and then declare the idea "unoriginal."
+* Leave the first meeting with five hot topics that people want to address. Create prototypes, wireframes, etc. in the second meeting.
+* Red flags as weeks pass are constantly revisiting decisions, the same list of attendees, people venting for too long, and the to-do list always growing.
+* These meetings will slowly die off as you move from design to development. In general, questions should be getting answered, not created.
