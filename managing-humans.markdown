@@ -277,3 +277,27 @@ by Michael Lopp
 * Leave the first meeting with five hot topics that people want to address. Create prototypes, wireframes, etc. in the second meeting.
 * Red flags as weeks pass are constantly revisiting decisions, the same list of attendees, people venting for too long, and the to-do list always growing.
 * These meetings will slowly die off as you move from design to development. In general, questions should be getting answered, not created.
+
+#### 26. The Value of the Soak
+
+* You can spend a lot of energy deciding on what the big decisions might be, but that's much less important than making the decision.
+* Active soaks are activities that you can direct and usually require gathering content.
+* Passive soaks are activities where you point your brain in a random direction and pray.
+* To do an active soak, ask dumb questions to form a picture, pitch a stranger your mental picture, and then iterate.
+* To do a passive soak, sleep on it, because your subconscious can construct elegant solutions when you least expect it.
+
+#### 27. Capturing Context
+
+* Value is created when people choose to capture context and share the context of their content.
+* We need our tools to allow us to capture context at the moment when we're being bright, not Friday at 4pm when we're escaping work.
+
+#### 28. Trickle Theory
+
+* The only source of measurable truth regarding the product is the bug database.
+* The Critic is the internal voice who does careful and critical analysis of your life.
+* When you put an item on a to-do list, you avoid conflict with The Critic, who will argue with you about starting an impossible task.
+* Tasks are on a spectrum of impossibly dull (requiring no mental effort but vast in size) and impossibly hard.
+* In either case, the first move you must make is starting the task. Progress and momentum yields confidence, silencing The Critic.
+* After you start working, iterate. Fine-tune your process to eliminate inefficiencies.
+* If you're working on an impossibly hard or impossibly dull task and you're blocked by boredom or confusion, mix it up.
+* Mixing it up silences The Critic, stimulates your brain with new material, and still allows you to continue processing the task in the background.
