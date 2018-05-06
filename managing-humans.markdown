@@ -329,3 +329,17 @@ by Michael Lopp
 * What your team, and your culture, needs out of a project manager depends on the people, the team, the culture, the projects, and this moment in time.
 * Fire any project manager who goes crazy with power and becomes political, using information to control rather than illuminate.
 * The arrival of crap project managers is that you're punishing inefficiency with useless bureaucracy, which creates more inefficiency.
+
+### Part III: Versions of You
+
+#### 32. Bored People Quit
+
+* Boredom is not initially catastrophic. It shows up quietly and appears to pose no immediate threat, making it both easy to address and easy to ignore.
+* To detect boredom, look for any change in their daily routine, ask if your employee is bored, or they'll tell you and you listen.
+* Every second someone is bored, a second passes on an internal clock, and after some amount of time he or she gives up and quits.
+* For each person on your team you must be able to answer: Where are they going? And what are you currently doing to get them there?
+* If someone doesn't have a project that makes them light up, let them experiment. Your job isn't just building product, but building people.
+* Dole out shit work fairly. Be aware of who's doing it, communicate that you're aware, and tell them when they're going to be done.
+* Promising productive and creative time that is only taken away by urgent tasks only accelerates the boredom clock.
+* Remove daily distractions that pull people away from their work. These are more costly than they appear from the overhead of context switching.
+* As a manager, don't stop coding, otherwise you'll have a harder time talking to engineers because you'll forget how they think and how they become bored.
