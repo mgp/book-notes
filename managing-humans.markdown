@@ -310,3 +310,10 @@ by Michael Lopp
 * Once your theory is vetted, put it on the whiteboard and assign owners to each and every task. Don't let any name be yours.
 * While others work, your job is internal public relations. Communicating the status is also a way of vetting the plan and the progress.
 * When the sky is falling, fixing the situation is a bandage, but understanding what you're truly trying to fix is the cure.
+
+#### 30. Hacking is Important
+
+* Hacking creates new things which is a disruptive act, which scares the reasonable people who represent the majority.
+* Those who are responsible for maintaining and building on success will not understand why hacking is important.
+* A healthy product company is at odds with itself, as it must normalize to create predictability, but also build something new to disrupt that normality.
+* Failure to create predictability results in chaos; failure to hack and create chaos results in losing to more agile competitors.
