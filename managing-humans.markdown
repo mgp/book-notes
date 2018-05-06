@@ -317,3 +317,15 @@ by Michael Lopp
 * Those who are responsible for maintaining and building on success will not understand why hacking is important.
 * A healthy product company is at odds with itself, as it must normalize to create predictability, but also build something new to disrupt that normality.
 * Failure to create predictability results in chaos; failure to hack and create chaos results in losing to more agile competitors.
+
+#### 31. Entropy Crushers
+
+* A project manager is responsible for shipping a product, whereas a product manager is responsible for making sure the right product is shipped.
+* A program manager is an uber-mutated combination of both that handles multiple interrelated projects like, say, an operating system.
+* Each new person on your team increases the cost of communication of ideas, making decisions, and detecting and fixing errors.
+* If you're a full-time engineering manager of growing team, but you're also serving as a project manager, then you're half-assing one of those jobs.
+* A good project manager will measure, control, and crush entropy. They own execution of the machine ensuring that everything gets done.
+* A project manager will ask upon arriving on the scene "What the fuck is going on?" and then create artifacts of insight.
+* What your team, and your culture, needs out of a project manager depends on the people, the team, the culture, the projects, and this moment in time.
+* Fire any project manager who goes crazy with power and becomes political, using information to control rather than illuminate.
+* The arrival of crap project managers is that you're punishing inefficiency with useless bureaucracy, which creates more inefficiency.
