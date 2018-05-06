@@ -301,3 +301,12 @@ by Michael Lopp
 * After you start working, iterate. Fine-tune your process to eliminate inefficiencies.
 * If you're working on an impossibly hard or impossibly dull task and you're blocked by boredom or confusion, mix it up.
 * Mixing it up silences The Critic, stimulates your brain with new material, and still allows you to continue processing the task in the background.
+
+#### 29. When the Sky Falls
+
+* Given a disaster, your first goal is to understand absolutely everything you need to know about its current state.
+* Get a War Room to break everyone from their current flow. Focus on breadth of information acquisition until you have a glimpse of a theory.
+* Vet your theory with at least three qualified others who are not directly involved in the preceding step.
+* Once your theory is vetted, put it on the whiteboard and assign owners to each and every task. Don't let any name be yours.
+* While others work, your job is internal public relations. Communicating the status is also a way of vetting the plan and the progress.
+* When the sky is falling, fixing the situation is a bandage, but understanding what you're truly trying to fix is the cure.
