@@ -30,7 +30,7 @@ by Cary Siegel
 * There is always a coupon that saves you money on stuff that you're already buying. More importantly, don't buy products just because they are discounted.
 * When doing work on your home, get two or three estimates and play them off of each other. Also see how much you can save by paying cash for things.
 * A large percentage of consumer rebates are not redeemed, so fill one out and send it in immediately, even if the company says you have thirty days or so.
-* Focusing on spending is contageous. Budgeting and net worth statements can serve as the "scorecards" of your achievement.
+* Focusing on spending is contagious. Budgeting and net worth statements can serve as the "scorecards" of your achievement.
 
 ### Spending Lesson
 
