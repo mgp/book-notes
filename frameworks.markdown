@@ -370,3 +370,12 @@ BANT is a sales qualification framework.
 1. Team & organizational highlights & lowlights
 1. What's on your mind
 1. Fires
+
+### [Form, Storm, Norm, Perform](http://changingminds.org/explanations/groups/form_storm_norm_perform.htm)
+
+The developmental stages of a team. The manager or external facilitator must facilitate this social process and speed the team through the four stages.
+
+* Form: People first come together. They are initially polite and the conversation is mostly exploratory. Some may be timid, while others expose themselves more.
+* Storm: People start to get more into the work. They start to argue about things that were initially left unsaid or not realized. Can be fierce if more than one dominant person wants to lead, unclear formal roles, unclear objectives, or some external threat.
+* Norm: Personal conflicts are sorted out and focus turns towards the task. Group rules develop and are refined, and people start to help one another more. Internal conflict may be replaced with external conflict.
+* Perform: Steady-state where the team reaches and optimal level of performance.
