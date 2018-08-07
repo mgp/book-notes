@@ -379,3 +379,12 @@ The developmental stages of a team. The manager or external facilitator must fac
 * Storm: People start to get more into the work. They start to argue about things that were initially left unsaid or not realized. Can be fierce if more than one dominant person wants to lead, unclear formal roles, unclear objectives, or some external threat.
 * Norm: Personal conflicts are sorted out and focus turns towards the task. Group rules develop and are refined, and people start to help one another more. Internal conflict may be replaced with external conflict.
 * Perform: Steady-state where the team reaches and optimal level of performance.
+
+### Four states of a team
+
+From the blog post [Staying on the path to high performing teams](https://lethain.com/durably-excellent-teams/):
+
+* Falling behind: Each week the team's backlog is longer than the week before. The fix is to hire more people.
+* Treading water: The team is able to get critical work done, but is not able to start paying down technical debt or start major new projects. The fix is to add process to consolidate the team's efforts to finish more things, and to reduce concurrent work.
+* Repaying debt: The team is able to start paying down technical debt, and each piece of debt you repay leads to more time to repay more debt. The fix is to add more time. Also ensure that you find ways to support your stakeholders; they are probably antsy waiting for the team to start delivering new stuff.
+* Innovating: The team has a low amount of technical debt to repay, and the majority of work is satisfying new user needs. Ensure that folks value the work your team is doing; if viewed as a team that builds science projects, you'll be defunded.
