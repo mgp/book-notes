@@ -29,3 +29,6 @@
 * opprobrium: public disgrace arising from shameful conduct
 * cosset: care for and protect in an overindulgent way
 * puerile: childishly silly and trivial
+* despotism: absolute power or control
+* to brook: to tolerate or allow
+* ambit: the scope or extent of something
