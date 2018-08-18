@@ -49,3 +49,26 @@ by Daniel Pink
 * A fringe benefit of a social break is that you're more likely to take one if someone else is counting on you.
 * Controlled breathing can help in under a minute: Take a deep breath, expanding your belly, pause, exhale slowly to the count of five, and repeat four times.
 * When you and your team need to plow forward and get a job done even when in the trough, employ a vigilance break that combines a timeout with a checklist.
+
+### Part 2: Beginnings, Endings, and In Between
+
+#### Chapter 3: Beginnings
+
+* When we begin can have an outsize role in our personal and collective fortunes.
+* The three principles of successful beginnings are: Start right, start again, and start together.
+* Starting right means starting at the right time; this is difficult because we don't take issues of _when_ as seriously as we take issues of _what_.
+* Starting again leverages temporal landmarks to stand out from the ceaseless march of other days. They are either social (which are shared) or personal.
+* Temporal landmarks allow us to open "new mental accounts," creating a new period that disconnects us from the past self's mistakes and imperfections.
+* Temporal landmarks also slow our thinking, allowing us to deliberate at a higher level and make better decisions.
+* Earning more requires matching your skills to an employer's needs, but those who enter the labor market in a downturn are stuck longer in jobs that aren't a good match for their skills.
+* Starting together means engaging the wider community or ecosystem so that vulnerable people do not need to fend for themselves.
+
+#### Chapter 3: Time Hacker's Handbook
+
+* By imagining failure in advance, you can anticipate some of the potential sources and avoid them once the actual project begins.
+* Go first if you're on a ballot, you're not the default choice, there are relatively few competitors (at most five), or you're going against several strong candidates.
+* Don't go first if you are the default choice, there are many competitors, you're operating in an uncertain environment, or the competition is meager.
+* When starting a new job, mentally picture yourself "becoming" a new person and "transforming" into your new role, especially for leadership roles.
+* After starting a new job, set up and collect small wins. Later, once you've gained status by demonstrating excellence, become more assertive.
+* Past the age of 32, the odds of divorce increase by 5 percent per year for at least the next decade.
+* The more a couple spends on its wedding day and any engagement ring, the more likely they are to divorce.
