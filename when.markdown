@@ -26,3 +26,26 @@ by Daniel Pink
 * In the morning, drink water to rehydrate and control early hunger pangs.
 * Only drink coffee 60-90 minutes after you've woken up, so that it doesn't interfere with producing cortisol, which wakes us up naturally.
 * Schedule therapy sessions in the morning when your cortisol levels are highest; you will be more focused and absorb the advice more deeply.
+
+#### Chapter 2: Afternoons and Coffee Spoons
+
+* A "vigilance break" is a brief pause before a high-stakes encounter to review instructions and guard against any error.
+* Regardless of our chronotype, the afternoon impairs our professional and ethical judgment.
+* Inserting regular mandatory vigilance breaks into our tasks can help us regain the focus needed to proceed with challenging work in the afternoon.
+* A restorative break can steer around the dangers of the trough.
+* The best restorative breaks prefer moving over stationary, social over solo, outside over inside, and full detached over semi-detached.
+* Most of the research showing the value of breakfast are observational studies rather than randomized controlled experiments.
+* The best lunch breaks have a high degree of autonomy and detachment, and offer an important recovery setting to promote occupational health and well-being.
+* Naps confer two key benefits: They improve cognitive performance and they boost mental and physical health.
+* Ideal naps are between ten and twenty minutes; any longer and the napper experiences "sleep inertia," or that boggy feeling upon awakening.
+* Caffeine takes about 25 minutes to enter the bloodstream, and so drinking coffee before taking your short nap helps you rebound quickly.
+
+#### Chapter 2: Time Hacker's Handbook
+
+* The Mayo Clinic has found that the best time to nap is between 2pm and 3pm.
+* Drinking coffee and then setting a timer on your phone for 25 minutes to wake you is ideal, since it takes most people about 7 minutes to fall asleep.
+* A good micro-break is the 20-20-20 rule: Every twenty minutes, look at something twenty feet away for twenty seconds.
+* If you can't take a break outside, do the best you can by looking at some indoor plants or the trees outside your window.
+* A fringe benefit of a social break is that you're more likely to take one if someone else is counting on you.
+* Controlled breathing can help in under a minute: Take a deep breath, expanding your belly, pause, exhale slowly to the count of five, and repeat four times.
+* When you and your team need to plow forward and get a job done even when in the trough, employ a vigilance break that combines a timeout with a checklist.
