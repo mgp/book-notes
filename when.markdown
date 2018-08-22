@@ -72,3 +72,26 @@ by Daniel Pink
 * After starting a new job, set up and collect small wins. Later, once you've gained status by demonstrating excellence, become more assertive.
 * Past the age of 32, the odds of divorce increase by 5 percent per year for at least the next decade.
 * The more a couple spends on its wedding day and any engagement ring, the more likely they are to divorce.
+
+#### Chapter 4: Midpoints
+
+* Midpoints can either bring us down, in a slump, or can fire us up, as a spark.
+* The midpoint of life deflates us because when we're young our expectations of our life are too high; when we're old, our expectations are too low.
+* At midpoints of exercises, we relax our standards, perhaps because others relax their assessments of us. Knowing this can help us temper the consequences.
+* Evolution is not slow and incremental. Instead "punctuated equilibrium" is a trajectory of dull equilibrium punctuated by swift explosions of change.
+* Similarly, sometimes at a midpoint the realization that we squandered half our time injects a healthy dose of stress that revives our motivation and reshapes our strategy.
+* Knowing you are only slightly behind where you want to be at a midpoint leads you to exert more effort. So imagine that is the case.
+
+#### Chapter 4: Time Hacker's Handbook
+
+* To maintain or reignite motivation, set interim goals, and then public commit to them by telling someone how and by when you'll get something done.
+* The Zeigarnik Effect says we remember unfinished tasks better than finished ones, and so end the day partway through a task with a clear next step.
+* If you're feeling stuck in the middle of a project, picture one person who will benefit from your efforts. This will deepen your dedication.
+* A team coming together goes through "form and storm," where maximal harmony is replaced by conflict.
+* During "form and storm," ensure all participants have a voice, that expectations are clear, and that all members can contribute.
+* When team commitment is high, it's best to emphasize the work that remains. When it's low, it's wiser to emphasize the progress that's been made.
+* After the midpoint, teams are less open to new ideas and solutions, but they are also the most open to coaching.
+* In the last "perform" stage, ask your colleagues to step back, respect one another's roles, and re-emphasize the shared vision they're moving toward.
+* When in a slump, doing a few important things well is more likely to propel you out of it than a dozen half-finished projects.
+* Talking openly about the slump can help us realize that it's fine to experience some mid-career ennui.
+* Slumps are normal, but they're also short lived, and so sometimes the best course of action is simply to wait and you'll rise out of it.
