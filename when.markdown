@@ -139,3 +139,10 @@ by Daniel Pink
 * Email response time is the single best predictor of whether employees are satisfied with their boss.
 * One way that groups cohere is through storytelling, but not just of triumph. Stories of failure and vulnerability foster a sense of belongingness.
 * The most valuable group rituals emerge from the people in the group, instead of being orchestrated or imposed by those at the top.
+
+#### Chapter 7: Thinking in Tenses
+
+* "Time" is the most common noun in the English language and nearly every phrase we utter is tinged with time. In some sense, we think in tenses.
+* We plan more effectively and behave more responsibly when the future feels more closely connected to the current moment and our current selves.
+* As with nostalgia, the highest function of the future is to enhance the significance of the present.
+* The path to a life of meaning and significance is to integrate our perspectives on time into a coherent whole, which helps us comprehend who we are and why we're here.
