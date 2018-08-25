@@ -95,3 +95,26 @@ by Daniel Pink
 * When in a slump, doing a few important things well is more likely to propel you out of it than a dozen half-finished projects.
 * Talking openly about the slump can help us realize that it's fine to experience some mid-career ennui.
 * Slumps are normal, but they're also short lived, and so sometimes the best course of action is simply to wait and you'll rise out of it.
+
+#### Chapter 5: Endings
+
+* Because life transitions tend to prompt changes in evaluations of the self, we are most apt to evaluate our lives when a chronological decade ends.
+* At the beginning of a pursuit, we're motivated by how far we're progressed. At the end, we're motivated by trying to close the small gap that remains.
+* When we near the end of a project, we kick harder. This is why imposing a deadline, even an artificial one, can be so effective.
+* Deadlines for creative tasks can reduce intrinsic motivation and stifle creativity. And for negotiations they can lead to sub-optimal outcomes.
+* The James Dean Effect says we view a short life that ends on an upswing as more favorable than a longer life that ends on a downswing.
+* The "peak-end rule" says that when we remember an event we assign the greatest weight to its most intense moment and how it culminates.
+* The "duration neglect" means we downplay how long the event lasts and instead magnify what happens at the end.
+* Older people have fewer total friends because they've begun "active pruning," or removing peripheral partners with whom interactions are less emotionally meaningful.
+* Socioemotional selectivity says that our perspective on time shapes the orientation of our lives and therefore the goals that we pursue.
+* The converse is also true, where expanding people's time horizons arrests their behavior of editing our relationships.
+* The science of timing has repeatedly found that we have a preference for happy endings.
+* But the best endings are poignant, or deliver both a mix of happiness and sadness, because such poignancy delivers significance.
+
+#### Chapter 5: Time Hacker's Handbook
+
+* Last lines can elevate and encode, by encapsulating a theme, resolving a question, or leaving the story lingering in the reader's head.
+* Quit a job if you dread being there on your next work anniversary, or if it doesn't provide challenge and autonomy.
+* Change jobs after you develop marketable skills but before you move up in leadership ranks, or usually three to five years after you start.
+* Making progress is the largest day-to-day motivator on the job; writing down accomplishments at the end of the day encodes your day more positively.
+* Also end your day by laying out your plan for the following day. This helps close the door on today and energize you for tomorrow.
