@@ -118,3 +118,24 @@ by Daniel Pink
 * Change jobs after you develop marketable skills but before you move up in leadership ranks, or usually three to five years after you start.
 * Making progress is the largest day-to-day motivator on the job; writing down accomplishments at the end of the day encodes your day more positively.
 * Also end your day by laying out your plan for the following day. This helps close the door on today and energize you for tomorrow.
+
+### Part 3: Synching and Thinking
+
+#### Chapter 6: Synching Fast and Slow
+
+* Pendulum clocks, which were far more accurate than their predecessors, remade civilization by allowing people to synchronize their actions.
+* Groups must synchronize on three levels: to the boss, to the tribe, and to the heart.
+* Timing requires a boss, or someone or something apart from the group to set the pace, maintain the standards, and focus the collective mind.
+* Our internal clocks synching up with external cues so we wake up in time for work or go to sleep at a reasonable hour is called "entrainment."
+* Groups need zeitgebers, or environmental signals that can synchronize the circadian clock, such as fiscal years or sales cycles.
+* The drive for belonging is innate, and for group coordination it comes in three forms: codes, garb, and touch.
+* The more cohesive a team is, or the more they chat and gossip, they more they get done.
+* Feeling good promotes social cohesion, which helps us synchronize. Synchronizing with others feels good, which deepens attachment and improves synchronization further still.
+* Operating in synch expands our openness to outsiders and makes us more likely to engage in "pro-social" behavior.
+
+#### Chapter 6: Time Hacker's Handbook
+
+* To maintain a well-timed group, you should regularly ask: Do we have a clear boss? Are we fostering a sense of belonging? Are we feeling good and doing good?
+* Email response time is the single best predictor of whether employees are satisfied with their boss.
+* One way that groups cohere is through storytelling, but not just of triumph. Stories of failure and vulnerability foster a sense of belongingness.
+* The most valuable group rituals emerge from the people in the group, instead of being orchestrated or imposed by those at the top.
