@@ -13,20 +13,22 @@
 * expiate: to make amends, atone
 * grist: useful material to support an argument
 * imprimatur: official approval or sanction
-* ineluctable: inevitable, inescapable
+* ineluctable: impossible to avoid
 * l'esprit de l'escalier: thinking of the perfect retort too late
 * legerdemain: a display of skill or adroitness, wizardry
 * leitmotif: a dominant or recurring theme
 * magisterial: having or showing great authority
 * moratorium: a temporary suspension of activity
-* opprobrium: public disgrace arising from shameful conduct
-* provenance: the origin or earliest known history of something
+* opprobrium: severe criticism and blame
+* protean: easily and continuously changing
+* provenance: the place of origin of something
 * puerile: childishly silly and trivial
 * purgatory: a place or condition of suffering or expiation
 * raise Cain: to raise trouble, raise hell
 * salient: most noticeable or important
+* simulacra: something that looks like or represents something else
 * specious: superficially plausible, but actually wrong
-* spurious: false or fake
+* spurious: based on false reasoning or information that is not true
 * third rail: dangerous area of discussion, commonly used in politics
 * to brook: to tolerate or allow
 * unrequited: (of a feeling, esp. love) not returned or rewarded
