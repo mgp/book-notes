@@ -12,6 +12,7 @@
 * equanimity: calmness or composure in difficult situations
 * expiate: to make amends, atone
 * grist: useful material to support an argument
+* hagiography: a biography which is uncritically supportive of its subject
 * imprimatur: official approval or sanction
 * ineluctable: impossible to avoid
 * l'esprit de l'escalier: thinking of the perfect retort too late
