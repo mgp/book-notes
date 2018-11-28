@@ -94,3 +94,31 @@ by Donella H. Meadows
 * Renewable resources are flow-limited: The stock supports indefinite extraction at a rate equal to its regeneration rate, or else the resource may be driven below a threshold and become non-renewable.
 * More and more, increases in technology and harvest efficiency have the ability to drive resource populations to extinction.
 * If the balancing feedback loop is weak, so that capital grows even as the resource dips below its threshold ability to regenerate itself, the resource and industry both collapse.
+
+### Part 2: Systems and Us
+
+#### Ch 3: Why Systems Work So Well
+
+* When a system works well, chances are good that you may have observed one of three characteristics: resilience, self-organization, or hierarchy.
+
+##### Resilience
+
+* Resilience is a measure of a system's ability to survive and persist within a variable environment. The opposite is brittleness or rigidity.
+* Resilience arises from a rich structure of many feedback loops that can work in different ways to restore a system even after a large perturbation.
+* It can be very hard to see, unless you exceed its limits, overwhelm and damage the balancing loops, and the system structure breaks down.
+* Think of resilience as a plateau upon which the system can play, performing its normal functions in safety.
+
+##### Self-Organization
+
+* The capacity of a system to make its own structure more complex is called self-organization.
+* If we weren't so blind to the property of self-organization, we'd do a better job of encouraging rather than destroying the self-organizing capacities of systems of which we're a part.
+* Self-organization produces heterogeneity and unpredictability, yielding whole new structures or ways of doing things. It requires freedom of experimentation and a certain amount of disorder.
+* Out of simple rules of self-organization can grow enormous, diversifying crystals of technology, physical structures, organizations, and cultures.
+
+##### Hierarchy
+
+* Complex systems can evolve from simple systems only if there are stable intermediate forms. The resulting complex forms will be naturally hierarchic.
+* Hierarchies not only give a system stability and resilience, but they reduce the amount of information that any part of the system has to keep track of.
+* Hierarchies evolve from the lowest level up, and the original purpose of a hierarchy is always to help its originating subsystems do their jobs better.
+* When a subsystem's goals dominate at the expense of the total system's goals, the resulting behavior is called sub-optimization. But just as damaging is too much central control.
+* To be a highly functional system, hierarchy must balance the welfare, freedoms, and responsibilities of the subsystems and the total system. It must balance autonomy and central control.
