@@ -11,6 +11,7 @@
 * disabuse: to rid oneself or another of error or fallacy
 * equanimity: calmness or composure in difficult situations
 * expiate: to make amends, atone
+* facile: ignoring the true complexities of an issue, superficial
 * grist: useful material to support an argument
 * hagiography: a biography which is uncritically supportive of its subject
 * imprimatur: official approval or sanction
