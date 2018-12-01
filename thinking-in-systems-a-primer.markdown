@@ -122,3 +122,50 @@ by Donella H. Meadows
 * Hierarchies evolve from the lowest level up, and the original purpose of a hierarchy is always to help its originating subsystems do their jobs better.
 * When a subsystem's goals dominate at the expense of the total system's goals, the resulting behavior is called sub-optimization. But just as damaging is too much central control.
 * To be a highly functional system, hierarchy must balance the welfare, freedoms, and responsibilities of the subsystems and the total system. It must balance autonomy and central control.
+
+#### Ch 4: Why Systems Surprise Us
+
+* Everything we think we know about the world is a model. Our models have a strong congruence with the world, but fall far short of representing the real world fully.
+
+##### Beguiling Events
+
+* It's engrossing to see the world as a series of events, and constantly surprising, because that way of seeing the world has almost no predictive or explanatory value.
+* We are less likely to be surprised if we can see how events accumulate into dynamic patterns of behavior.
+* System structure, or the stocks and flows and feedback loops, reveals itself as a series of events over time. It's the key to understanding not just what is happening, but why.
+* All systems surprise us because we focus too little on their history, and we are insufficiently skilled at seeing in this history clues to the structures from which behavior and events flow.
+
+##### Linear Minds in a Nonlinear World
+
+* We often are not very skilled in understanding the nature of relationships, especially nonlinear ones, where a cause does not produce a proportional effect.
+* Nonlinearities foil the reasonable expectation that if a little of some cure did a little good, then a lot of it will do a lot of good. Similarly for destructive actions and harm.
+* Nonlinearities change the relative strengths of feedback loops, flipping a system from one mode of behavior to another. They are the chief cause of shifting dominance.
+
+##### Nonexistent Boundaries
+
+* The greatest complexities of a system exist at its boundaries, or sources or sinks as stocks that are ignored for the purposes of simplifying a system.
+* Disorderly, mixed-up borders are sources of diversity and creativity.
+* We have to invent boundaries for clarity and sanity, and boundaries can produce problems when we forget that we've artificially created them.
+* There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion – the questions we want to ask.
+* We are attached to the boundaries that our minds happen to be accustomed to, but boundaries can and should be reconsidered for each new discussion, problem, or purpose.
+
+##### Layers of Limits
+
+* We live in a world where multiple inputs come together to produce multiple outputs, and virtually all of the inputs, and therefore all of the outputs, are limited.
+* At any given time, the input that is the most important to a system is the one that is the most limiting.
+* Whenever one factor ceases to be limiting, growth occurs, which itself changes the relative scarcity of factors until another becomes limiting.
+* To shift attention from the abundant factors to the next potential limiting factor is to gain real understanding of, and control over, the growth process.
+* Any physical entity with multiple inputs and outputs is surrounded by layers of limits. The choice is not to grow forever, but to decide what limits to live within.
+
+##### Ubiquitous Delays
+
+* Delays are often sensitive leverage points for policy, if they can be made shorter or longer.
+* Delays determine how fast systems can react, how accurately they hit their targets, and how timely is the information that is passed around. Overshoots, oscillations, and collapses are all caused by delays.
+* When there are long delays in feedback loops, some sort of foresight is essential. To act only when a problem becomes obvious is to miss an important opportunity to solve a problem.
+
+##### Bounded Rationality
+
+* Bounded rationality means people make reasonable decisions based on the information they have, but they don't have perfect information, especially about distant parts of the system.
+* Instead of finding a long-term optimum, we are blundering "satisficers," discovering within our limited purview a choice we can live with for now, and sticking to it until we are forced to change.
+* We don't make decisions that optimize our individual good, much less the good of the system as a whole. We imperfectly interpret our imperfect information.
+* Seeing how individual decisions are rational within the bounds of the information available does not excuse narrow-minded behavior, but it illuminates why that behavior arises.
+* If the bounded rationality of each actor does not lead to decisions that furthers the welfare of a system, we must redesign the system to improve the information, incentives, disincentives, goals, stresses, and constraints that affect each actor.
