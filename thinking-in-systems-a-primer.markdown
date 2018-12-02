@@ -169,3 +169,64 @@ by Donella H. Meadows
 * We don't make decisions that optimize our individual good, much less the good of the system as a whole. We imperfectly interpret our imperfect information.
 * Seeing how individual decisions are rational within the bounds of the information available does not excuse narrow-minded behavior, but it illuminates why that behavior arises.
 * If the bounded rationality of each actor does not lead to decisions that furthers the welfare of a system, we must redesign the system to improve the information, incentives, disincentives, goals, stresses, and constraints that affect each actor.
+
+#### Ch 5: System Traps... and Opportunities
+
+* We call the system structures that produce common patterns of problematic behavior archetypes.
+
+##### Policy Resistance – Fixes that Fail
+
+* Policy resistance is when balancing loops persist undesirable behaviors despite efforts to invent technological or policy fixes.
+* Policy resistance comes from the bounded rationalities of the actors in a system, where each actor has goals that are inconsistent with the goals of others.
+* In such a system, each actor has to put great effort into keeping a system where no one wants to be, because if any actor gives up then the others will drag the system closer to their goals.
+* The way out: Find a way of aligning the various goals of the subsystems, usually by providing an overarching goal that allows all actors to break out of their bounded rationality.
+
+##### The Tragedy of the Commons
+
+* For a system to be subject to tragedy, the resource must not only be limited, but erodable. Beyond some threshold it cannot regenerate itself and is more likely to be destroyed.
+* A commons system also needs users of the resource, which have good reasons to increase, and which increase at a rate that is not influenced by the conditions of the commons.
+* The tragedy of the commons arises from missing (or too long delayed) feedback from the resource to the growth of the users of that resource.
+* The structure of a commons system makes selfish behavior much more convenient and responsible than behavior that is responsible to the whole community and to the future.
+* The way out: Educate and exhort, privatize the commons (divide it up so that each person reaps the consequences of his or her own actions), or regulate the commons (enforced by policing and penalties).
+
+##### Drift to Low Performance
+
+* Drift to low performance happens when a system not only resists policy and stays in a normal bad state, but it keeps getting worse.
+* The actor believes bad news more than good news, and so the actor thinks things are worse than they are. Standards aren't absolute, and so as perceived performance slips, the goal is allowed to slip.
+* The lower the perceived system state, the lower the desired state, and so the less the discrepancy, and so the less the corrective action, and so the lower the system state.
+* The way out: Keep standards absolute, regardless of performance. And make goals sensitive to the best performances of the past, instead of the worst.
+
+##### Escalation
+
+* Escalation comes from a reinforcing loop set up by competing actors trying to get ahead of each other.
+* If nothing is done to break the loop, the process usually ends with one or both of the competitors breaking down.
+* The way out: Unilateral disarmament, thereby refusing to compete and interrupting the reinforcing loop. Or negotiate a new system with balancing loops to control the escalation.
+
+##### Success to the Successful – Competitive Exclusion
+
+* This is a reinforcing feedback loop where winners in a competition receive, in the reward, a means to compete even more effectively in the future. And so winners go on winning, while losers go on losing.
+* If everything the winner wins is extracted from the losers, then the losers are gradually bankrupted, or forced out, or starved.
+* The "competitive exclusion principle" says given two species competing for the same resource, one will reproduce faster or use the resource more efficiently, and so it reproduces faster and drives the other to extinction.
+* One way out is diversification (or exploiting new resources), but this is not a strategy for the poor when the monopolizing firm can crush or buy up all offshoots.
+* Other ways out: Add a feedback loop to stop any competitor from taking over entirely, or by periodically "leveling the playing field."
+
+##### Shifting the Burden to the Intervenor – Addiction
+
+* An intervenor may step in to bring a system to a desirable state, but the original problem will reappear since no one has fixed whatever feedback process is not maintaining the state of the system.
+* The trap is formed if an intervention undermines the capacity of the system to maintain itself. Increased intervention only weakens the capacity of the original system, creating a vicious cycle.
+* Addiction is finding a quick and dirty solution to the symptom of the problem, which distracts one from the harder and longer-term task of solving the real problem.
+* The way out: Intervene in a way that strengthens the ability to shoulder its own burdens, which can be cheaper and easier than taking over and running the system. Then remove yourself.
+
+##### Rule Beating
+
+* Rule beating is evasive action to get around the intent of a system's rules – abiding by the letter, and not the spirit, of the law.
+* Rule beating becomes a problem when it leads a system into large distortions, unnatural behaviors that would make no sense at all in the absence of the rules.
+* Rule beating is usually a response of the lower levels in a hierarchy to over-rigid, unworkable, or ill-defined rules from above.
+* The way out: Better explain the rules, or re-design the rules to release creativity not in the direction of beating the rules, but in the direction of achieving their purpose.
+
+##### Seeking the Wrong Goal
+
+* If the goal of a system is designed badly, if it doesn't measure what it's supposed to measure, if it doesn't reflect the real welfare of the system, then the system can't produce a desirable result.
+* Confusing effort with results is one of the most common mistakes in designing systems around a wrong goal.
+* You have the problem of wrong goals when something stupid happening "because it's the rule." You have the problem of rule beating when something stupid happens as a way around the rule.
+* The way out: Specify indicators and goals that reflect the real welfare of the system.
