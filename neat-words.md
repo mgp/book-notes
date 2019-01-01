@@ -22,6 +22,7 @@
 * magisterial: having or showing great authority
 * monastic: a simple way of living with few possessions and no people near you
 * moratorium: a temporary suspension of activity
+* oeuvre: the complete works of a writer, painter, or other artist
 * opprobrium: severe criticism and blame
 * protean: easily and continuously changing
 * provenance: the place of origin of something
