@@ -5,7 +5,7 @@ by David Cohen and Brad Feld
 *I, [Michael Parker](http://omgitsmgp.com/), own this book and took these notes to further my own learning. If you enjoy these notes, please [purchase the book](http://www.amazon.com/Do-More-Faster-TechStars-Accelerate/dp/0470929839)!*
 
 ### Theme 1: Idea and Vision
-* pg 12: If you can raise your prices and customers still your product, you've found a pain point to exploit.
+* pg 12: If you can raise your prices and customers still buy your product, you've found a pain point to exploit.
 * pg 20: If you're not embarrassed when you ship your first version, you've waited too long.
 * pg 21: Shipping early and often gives you the unique competitive advantage of getting useful feedback on your product.
 * pg 24: By focusing on a niche, you can be the best at what you do with less work, and position and market yourself easier.
