@@ -230,3 +230,69 @@ by Donella H. Meadows
 * Confusing effort with results is one of the most common mistakes in designing systems around a wrong goal.
 * You have the problem of wrong goals when something stupid happening "because it's the rule." You have the problem of rule beating when something stupid happens as a way around the rule.
 * The way out: Specify indicators and goals that reflect the real welfare of the system.
+
+### Part 3: Creating Change – in Systems and in Our Philosophy
+
+#### Ch 6: Leverage Points – Places to Intervene in a System
+
+* Leverage points are frequently not intuitive because as systems become more complex, their behavior becomes more surprising.
+* In the end, it seems that mastery has less to do with pushing leverage points than it does with strategically, profoundly, madly, letting go and dancing with the system.
+
+##### 12. Numbers – Constants and parameters such as subsidies, taxes, standards
+
+* Different hands on the faucets may change the rate at which they turn, but they're still the same faucets plumbed into the same system, turned according to the same information and goals and rules.
+* Parameters become leverage points when they go into ranges that kick off one of the higher items on this list.
+
+##### 11. Buffers - The sizes of stabilizing stocks relative to their flows
+
+* You can often stabilize a system by increasing a buffer. But if a buffer is too big, the system gets inflexible, and it reacts too slowly.
+
+##### 10. Stock-and-Flow Structures – Physical systems and their nodes of intersection
+
+* After a structures is built, the leverage is in understanding its limitations and bottlenecks, using it with maximum efficiency, and refraining from fluctuations or expansions that strain its capacity.
+
+##### 9. Delays – The lengths of time relative to the rates of system changes
+
+* Delays that are too short cause over-reaction, oscillations amplified by the jumpiness of the response. Delays that are too long cause damped, sustained, or exploding oscillations, depending on how much too long.
+* Delay length would be a high leverage point, except for the fact that delays are not often easily changeable.
+
+##### 8. Balancing Feedback Loops – The strength of the feedbacks relative to the impacts they are trying to correct
+
+* The strength of a balancing feedback loop is important relative to the impact it is trying to correct. If the impact increases in strength, so must the feedbacks.
+
+##### 7. Reinforcing Feedback Loops – The strength of the gain of driving loops
+
+* A system with an unchecked reinforcing loop will ultimately destroy itself.
+* Slowing down the growth of the reinforcing loop is usually a more powerful leverage point than strengthening balancing loops.
+
+##### 6. Information Flows – The structure of who does and does not have access to information
+
+* Given missing information flows, adding or restoring information is usually much easier and cheaper than rebuilding physical infrastructure.
+* There are so many missing feedback loops because we tend to avoid accountability for our own decisions.
+
+##### 5. Rules – Incentives, punishments, constraints
+
+* The rules of a system determine its scope, its boundaries, its degrees of freedom.
+* Power over the rules is real power. If you want to understand the deepest malfunctions of systems, pay attention to the rules and who has power over them.
+
+##### 4. Self-Organization – The power to add, change, or evolve system structure
+
+* Self-organization means changing any aspect of a system lower on this list – adding new balancing or reinforcing loops, or new rules. It is the strongest form of system resilience.
+* It is basically a matter of an evolutionary raw material – a highly variable stock of information – and a means for experimentation, for selecting and testing new patterns.
+* This intervention is unpopular, as encouraging variability and experimentation and diversity means "losing control."
+
+##### 3. Goals – The purpose or function of the system
+
+* Even people within systems don't often recognize what whole-goal system they are serving.
+* Changing the person at the top of a system can change its goals and therefore radically change its behavior.
+
+##### 2. Paradigms – The mind-set out of which the system (its goals, structures, rules, delays, parameters) arises
+
+* The shared idea in the minds of society, the great big unstated assumptions, constitute that society's paradigm, or deepest set of beliefs about how the world works.
+* Paradigms are the sources of systems. From them, from shared social agreements about the nature or reality, come system goals and information flows, feedbacks, stocks, flows, and everything else.
+* There's nothing physical or expensive or slow in the process of paradigm change. In a single individual it can happen in a millisecond.
+
+##### 1. Transcending Paradigms
+
+* Every paradigm, including the ones you hold dear, is a tremendously limited understanding of an immense and amazing universe that is far beyond human comprehension.
+* If you think no paradigm is right, you can choose whatever one will help to achieve your purpose.
