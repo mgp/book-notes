@@ -296,3 +296,69 @@ by Donella H. Meadows
 
 * Every paradigm, including the ones you hold dear, is a tremendously limited understanding of an immense and amazing universe that is far beyond human comprehension.
 * If you think no paradigm is right, you can choose whatever one will help to achieve your purpose.
+
+#### Ch 7: Living in a World of Systems
+
+* Seeing the future exactly and preparing for it perfectly is unrealizable. Making a complex system do just what you want it to do can be achieved only temporarily, at best.
+* For any objective other than the most trivial, we can't optimize. We don't even know what to optimize.
+* But we can listen to what the system tells us, and discover how its properties and our values can work together to create something much better than could ever be produced by our will alone.
+* Living successfully in a world of systems requires our full humanity – our rationality, our ability to sort out truth from falsehood, our intuition, our compassion, our vision, and our morality.
+
+###### Get the Beat of the System
+
+* Starting with the behavior of a system forces you to focus on facts, not theories, and helps you avoid any beliefs or misconceptions.
+* Moreover starting with the history of a system discourages us from defining a problem not by its actual behavior, but by the lack of our favorite solution.
+
+###### Expose Your Mental Models to the Light of Day
+
+* Everything you know, and everything everyone knows, is only a mental model.
+* Exposing your mental models, making them rigorous, testing them against the evidence, and scuttling them if they are no longer supported is simply practicing the scientific method.
+
+###### Honor, Respect, and Distribute Information
+
+* Most of what goes wrong in a system is from biased, late, or missing information. So do not distort, delay, or withhold information.
+
+###### Use Language with Care and Enrich It with Systems Concepts
+
+* The language and information systems of an organization are not an objective means of describing an outside reality – they structure the perceptions and actions of its members.
+* Keep language as concrete, meaningful, and truthful as possible. And then enlarge language to make it consistent with our enlarged understanding of systems.
+
+###### Pay Attention to What Is Important, Not Just What Is Quantifiable
+
+* Our culture is obsessed with numbers, and has therefore given us the idea that what we can measure is more important than what we can't measure.
+* We have been endowed not only with the ability to count, but also with the ability to assess quality. Be a quality detector.
+
+###### Make Feedback Policies for Feedback Systems
+
+* The best policies contain meta-feedback loops – or loops that alter, correct, and expand loops. They design learning into the management process.
+
+###### Go for the Good of the Whole
+
+* Don't maximize parts of the system while ignoring the whole. Don't go to great trouble to optimize something that never should be done at all.
+
+###### Listen to the Wisdom of the System
+
+* Before you charge in to make things better, pay attention to the value of what's already there. Don't destroy the system's own self-maintenance policies.
+
+###### Locate Responsibility in the System
+
+* This means looking for the ways the system creates its own behavior.
+* "Intrinsic responsibility" means that the system is designed to send feedback about the consequences of decision making directly, quickly, and compellingly to decision makers.
+
+###### Stay Humble – Stay a Learner
+
+* When you're learning take small steps, constantly monitor, and change course as you find out more about where it's leading.
+* Error-embracing is the condition for learning. It means seeking and using – and sharing – information about what went wrong with what you expected or hoped would go right.
+
+###### Expand Time Horizons
+
+* In a systems sense, there is no long-term or short-term distinction. Phenomena at different time scales are nested within each other.
+
+##### Defy the Discipline
+
+* Interdisciplinary communication works only if there is a real problem to be solved, and if its representatives are more committed to solving the problem than being academically correct.
+
+##### Don't Erode the Goal of Goodness
+
+* The most damaging example of the systems archetype "drift to low performance" is the process by which modern industrial culture has eroded the goal of morality.
+* Don't weigh the bad news more heavily than the good. And keep standards absolute.
