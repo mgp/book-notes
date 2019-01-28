@@ -20,6 +20,7 @@
 * legerdemain: a display of skill or adroitness, wizardry
 * leitmotif: a dominant or recurring theme
 * magisterial: having or showing great authority
+* milquetoast: feeble, insipid, or bland
 * monastic: a simple way of living with few possessions and no people near you
 * moratorium: a temporary suspension of activity
 * oeuvre: the complete works of a writer, painter, or other artist
