@@ -31,6 +31,7 @@
 * purgatory: a place or condition of suffering or expiation
 * raise Cain: to raise trouble, raise hell
 * salient: most noticeable or important
+* simpatico: likeable and easy to get on with
 * simulacra: something that looks like or represents something else
 * specious: superficially plausible, but actually wrong
 * spurious: based on false reasoning or information that is not true
@@ -38,4 +39,5 @@
 * to brook: to tolerate or allow
 * unrequited: (of a feeling, esp. love) not returned or rewarded
 * vainglory: excessive vanity
+* vertiginous: extremely high or steep
 * waiflike: apparently homeless, starving, or forsaken
