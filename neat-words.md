@@ -8,6 +8,7 @@
 * demure: reserved, modest, and shy
 * denouement: the final resolution of the intricacies of a plot
 * despotism: absolute power or control
+* diminuendo: reduction of force or loudness
 * disabuse: to rid oneself or another of error or fallacy
 * equanimity: calmness or composure in difficult situations
 * expiate: to make amends, atone
@@ -29,6 +30,7 @@
 * provenance: the place of origin of something
 * puerile: childishly silly and trivial
 * purgatory: a place or condition of suffering or expiation
+* unalloyed: complete and unreserved
 * raise Cain: to raise trouble, raise hell
 * salient: most noticeable or important
 * simpatico: likeable and easy to get on with
