@@ -1,6 +1,7 @@
 * ambit: the scope or extent of something
 * anodyne: unlikely to offend, often deliberately so
 * apophenia: seeing connections or patterns in random data
+* atavistic (adj): characterized by reversion to something primitive or ancestral
 * attenuated: weakened in force or effect
 * blithely: happily, or in a joyous manner
 * cachet: prestige, or the state of being respected
@@ -26,6 +27,7 @@
 * moratorium: a temporary suspension of activity
 * oeuvre: the complete works of a writer, painter, or other artist
 * opprobrium: severe criticism and blame
+* preternatural (adj): beyond what is normal or natural
 * protean: easily and continuously changing
 * provenance: the place of origin of something
 * puerile: childishly silly and trivial
