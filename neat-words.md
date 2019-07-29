@@ -44,4 +44,5 @@
 * unrequited: (of a feeling, esp. love) not returned or rewarded
 * vainglory: excessive vanity
 * vertiginous: extremely high or steep
+* vivisection (noun): ruthlessly sharp and detailed criticism or analysis
 * waiflike: apparently homeless, starving, or forsaken
