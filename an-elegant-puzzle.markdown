@@ -152,7 +152,7 @@ by Will Larson
 * pg 74: A vision is succeeding when people reference it to make their own decisions, and is struggling when decisions keep happening that don't fit its direction.
 * pg 75: Have one vision for every distinct area. Having two articulated visions in one place is worse than having zero.
 
-##### 3.4: Metrics and baselines
+#### 3.4: Metrics and baselines
 
 * pg 76: Defining goals – good goals are a composition of four specific kinds of numbers
   * pg 76: A _target_ states where you want to reach.
@@ -164,3 +164,37 @@ by Will Larson
   * pg 77: Baseline metrics are useful for narrowing the solution space that you explore in order to accomplish your investment goals.
 * pg 77: Plans and contracts
   * Specify as few investment goals as possible, maybe three, and focus discussion on those. You should identify more baseline goals.
+
+#### 3.5: Guiding broad organizational change with metrics
+
+* pg 78: Metrics can be an extremely effective way to lead change with little or no organizational authority.
+* pg 79: First identify where the levers for change are, then dive deep on building a mental model around them.
+* pg 79: Diving deep also kicks off a relationship between you and the teams who you'll want to partner with most closely.
+* pg 79: Build a system of second-degree attribution for metric performance, thereby allowing you to build data around teams using the platform.
+* pg 79: Once you have attribution data, begin benchmarking, which is particularly powerful because it automatically adapts to changes in behavior.
+* pg 80: Nudge teams by emailing teams whose metrics has changed recently, both in terms of absolute change and their benchmarked performance.
+* pg 80: If nudges aren't effective, work with key teams to agree on baseline metrics.
+  * pg 80: This ensures baselines are top-of-mind and gives them a powerful tool for negotiating priorities with stakeholders.
+
+#### 3.6: Migrations: the sole scalable fix to tech debt
+
+* pg 81: The fact that something stops working at significantly increased scale is a sign that it was not originally over-designed.
+
+##### 3.6.1: Why migrations matter
+
+* pg 82: Migrations are usually the only available avenue to make meaningful progress on technical debt.
+* pg 82: Migrations occupy the awkward territory of reduced immediate contribution today in exchange for more capacity tomorrow.
+
+##### 3.6.2: Running good migrations
+
+* pg 83: De-risk
+  * pg 83: After you have buy-in on a new design, embed into the one or two most challenging teams and work with them to build and migrate to the new system.
+  * pg 83: If you leave one migration partially finished, then people will be exceedingly suspicious of participating in the next one.
+* pg 83: Enable
+  * pg 83: Instead of generating tracking tickets for teams to implement, build tooling to programmatically migrate the easy 90 percent.
+  * pg 83: After programmatically migrating as much as possible, write out the self-service tooling and documentation for the remaining teams.
+* pg 84: Finish
+  * pg 84: By ensuring that all newly written code uses the new approach, time becomes your friend because you are making progress by default.
+  * pg 84: Generate tracking tickets for teams that need to migrate.
+  * pg 84: If a team isn't working on a migration, it's typically because their leadership has not prioritized it.
+  * pg 84: And for the remaining work, finish it yourself, and reserve celebration and recognition for when it is completed successfully.
