@@ -198,3 +198,63 @@ by Will Larson
   * pg 84: Generate tracking tickets for teams that need to migrate.
   * pg 84: If a team isn't working on a migration, it's typically because their leadership has not prioritized it.
   * pg 84: And for the remaining work, finish it yourself, and reserve celebration and recognition for when it is completed successfully.
+
+#### 3.7: Running an engineering re-org
+
+##### 3.7.1: Is a re-org the right tool?
+
+* pg 85: The best kind of re-org solves a structural problem. The worst kind of re-org is done to avoid a people management issue.
+* pg 87: Only re-org if the problem it will solve already exists, because it's remarkably hard to predict future problems.
+
+##### 3.7.2: Project head count a year out
+
+* pg 87: Use the historical hiring rate to project this.
+
+##### 3.7.4: Defining teams and groups
+
+* pg 89: Ensure that you can write a crisp mission statement for each team, define their areas of ownership, and define the interfaces between them.
+* pg 89: Put teams that work together (especially poorly) as close together as possible. This close proximity helps fill harmful information gaps between them.
+* pg 89: Avoid implicitly creating holes of ownership, instead explicitly defining such holes (i.e. defining an unstaffed team).
+
+##### 3.7.5: Staffing the teams and groups
+
+* pg 90: Accidentally missing someone is the cardinal sin of a reorganization.
+
+##### 3.7.6: Commit to moving forward
+
+* pg 91: Organizational change is very resistant to rollback, and so you must be collectively committed to moving forward with it in the face of adversity.
+
+##### 3.7.7: Roll out the change
+
+* pg 91: A good roll-out requires explaining the reasoning driving the re-org, documenting how each person and team is impacted, and availability and empathy to impacted individuals.
+* pg 91: To execute, _discuss with heavily impacted individuals in private_, _prepare managers and key individuals_, _send out an email_, _be available for discussion_, and _have more skip-level one-on-ones_.
+
+#### 3.8: Identify your controls
+
+* pg 92: Controls are the mechanisms that you use to align with other leaders you work.
+* pg 92: Controls include _metrics_, _visions_, _strategies_, _organization design_, _roadmaps_, _performance reviews_, and more.
+* pg 93: For whatever controls you pick, you must then agree on the degree of alignment for each one.
+* pg 93: Levels of alignment include _do it yourself_, _preview_, _review_, _notes_, _no surprises_, and _let me know if something comes up_.
+  * pg 93: If you do something yourself, it's better to be explicit and avoid confusion on responsibilities.
+  * pg 93: The _no surprises_ level only requires updates to keep your mental model current. This is important when you are evaluated on your ability to stay on top of new problems.
+* pg 94: Analyzing your distribution across levels can reveal whether you are micromanaging or not.
+
+#### 3.9: Career narratives
+
+* pg 94: Most of us are always at the furthest point in our career, each change a step into the unknown, with limited visibility into upcoming opportunities.
+
+##### 3.9.1: Artificial competition
+
+* pg 95: Climbing the career ladder isn't bad, but it has the side-effect of funneling most folks toward a constrained pool of opportunity.
+
+##### 3.9.2: Translating goals
+
+* pg 96: Managers have a strong sense of the business's needs, allowing them to find the intersection of your interests and the business's priorities.
+* pg 96: Your goals, once aligned to your company's priorities, should become a central artifact for how you and your manager collaborate on your career evolution.
+
+#### 3.10: The briefest of media trainings
+
+* pg 97: Three rules for speaking with the media:
+  * pg 97: _Answer the question you want to be asked_, re-framing a difficult or challenging question into one you're comfortable with.
+  * pg 97: _Stay positive_, by finding a positive frame and sticking to it.
+  * pg 97: _Speak in threes_, narrowing down your message to three concise points that you make your refrain.
