@@ -21,6 +21,7 @@
 * grist (n): useful material to support an argument
 * hagiography (n): a biography which is uncritically supportive of its subject
 * imprimatur (n): official approval or sanction
+* inchoate (adj): just begun and so undeveloped; rudimentary
 * ineluctable (adj): impossible to avoid
 * l'esprit de l'escalier (n): thinking of the perfect retort too late
 * legerdemain (n): a display of skill or adroitness, wizardry
@@ -42,7 +43,7 @@
 * salient (adj): most noticeable or important
 * samizdat (n): clandestine copying and distribution of banned literature
 * simpatico (adj): likeable and easy to get on with
-* simulacra (a: an unsatisfactory imitation or substitute
+* simulacrum (n): an unsatisfactory imitation or substitute
 * soi-disant (adj): self-styled, self-proclaimed
 * specious (adj): superficially plausible, but actually wrong
 * spurious (adj): based on false reasoning or information that is not true
@@ -53,5 +54,5 @@
 * unrequited (adj): (of a feeling, esp. love) not returned or rewarded
 * vainglory (n): excessive vanity
 * vertiginous (adj): extremely high or steep
-* vivisection (noun): ruthlessly sharp and detailed criticism or analysis
+* vivisection (n): ruthlessly sharp and detailed criticism or analysis
 * waiflike (adj): apparently homeless, starving, or forsaken
