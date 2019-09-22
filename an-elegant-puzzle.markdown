@@ -316,3 +316,92 @@ by Will Larson
   * pg 113: Folks want to learn from each other more than they want to learn from a single presenter.
   * pg 113: Successful topics are ones that people have already thought about, typically because these concepts are core to their daily work.
   * pg 115: Encourage the most senior folks to attend, because there is so much for them to teach newer folks.
+
+### Chapter 4: Approaches
+
+#### 4.1: Work the policy, not the exceptions
+
+* pg 119: Environments that tolerate frequent exceptions are not only susceptible to bias but also inefficient.
+
+##### 4.1.1: Good policy is opinionated
+
+* pg 120: Every policy you write is a small strategy, built by identifying your goals and the constraints that bring actions into alignment with those goals.
+* pg 121: A bad policy is one that does little to constrain behavior.
+
+##### 4.1.2: Exception debt
+
+* pg 121: Applying policy consistently is challenging because of:
+  * pg 121: _Accepting reduced opportunity space_: This is incurred by establishing good constraints.
+  * pg 121: _Local sub-optimality_: Sometimes teams must deal with challenging circumstances to support a broader goal that they experience little benefit from.
+* pg 122: Granting exceptions undermines people's sense of fairness, and sets a precedent that undermines future policy.
+* pg 122: Organizations spending significant time on exceptions are experiencing _exception debt_, and they must instead _work the policy_.
+
+##### 4.1.3: Work the policy
+
+* pg 122: Once you've collected enough escalations, revisit your constraints, merge in challenges discovered from applying the policy, and either preserve the existing constraints or generate new ones that handle escalations more effectively.
+
+#### 4.2: Saying no
+
+##### 4.2.1: Constraints
+
+* pg 123: Folks who communicate a no are able to convincingly explain their team's constraints and articulate why the proposed path is unattainable or undesirable.
+* pg 124: When articulating your constraints, the two most frequent disagreements are over _velocity_ and _prioritization_.
+
+##### 4.2.2: Velocity
+
+* pg 124: When folks want you to commit to more work than you believe you can deliver, your goal is to provide a compelling explanation of how your team finishes work.
+* pg 125: Once you can explain your constraints and how time is being spent, then you're having a useful conversation about whether you can shift time from other behaviors toward your constraints.
+* pg 125: The only two ways to add capacity are by moving existing resources to the team (away from their current work) or creating new resources (usually through hiring).
+
+##### 4.2.3: Priorities
+
+* pg 125: To communicate your priorities: document all your incoming tasks, develop guiding principles for selecting work, and then share subsets of selected tasks.
+* pg 126: If a stakeholder has a request that is more important than your current work, shift priorities at your next planning session.
+
+##### 4.2.4: Relationships
+
+* pg 126: If you've explained your velocity and priorities but your perspective isn't resonating, then you likely have a relationship problem to address.
+
+#### 4.3: Your philosophy of management
+
+##### 4.3.1: An ethical profession
+
+* pg 127: Remember that you leave a broad wake, and that your actions have a profound impact on those around you.
+
+##### 4.3.2: Strong relationships > any problem
+
+* pg 127: Almost every internal problem can be traced back to a missing or poor relationship, and that great relationships allow us to come together and solve almost anything.
+
+##### 4.3.3: People over process
+
+* pg 128: Process is a tool to make it easy to collaborate, and the process that the team enjoys is usually the right process.
+
+##### 4.3.4: Do the hard thing now
+
+* pg 128: Instead of avoiding the hardest parts, double down on them. As a leader you can't run from problems, so you must engage them.
+
+##### 4.3.5: Your company, your team, yourself
+
+* pg 129: Do the right thing for the company, then do the right thing for the team, and then do the right thing for yourself.
+* pg 129: While this puts you last, it is a reminder to "pay yourself": Give as much as you can sustainably give, and draw the line there.
+
+##### 4.3.6: Think for yourself
+
+* pg 130: The best theory of management evolves as it comes into contact with reality. The worst theory is to not have one at all, and the second worst is one that doesn't change.
+
+#### 4.4: Managing in the growth plates
+
+* pg 130: At a mid-size company, parts of it are growing quickly with an emphasis on execution, and other parts have stabilized with ideas becoming the more valued currency.
+
+##### 4.4.1: In the growth plates
+
+* pg 131: What folks in the growth plates need is help reducing and executing the existing backlog of ideas, not adding more ideas to be evaluated.
+* pg 131: It is extremely hard to do the basics well in the growth plates, because you don't have enough time to do them well.
+
+##### 4.4.2: Outside the growth plates
+
+* pg 132: All slow-growth environments used to be high-growth environments, meaning a sufficiently effective executor evolved them into a slow-growth environment.
+
+##### 4.4.3: Aligning with values
+
+* pg 132: Leadership is matching appropriate action to your current context, and it's uncommon that any two situations will flourish from the same behaviors.
