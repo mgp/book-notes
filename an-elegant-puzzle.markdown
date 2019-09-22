@@ -258,3 +258,61 @@ by Will Larson
   * pg 97: _Answer the question you want to be asked_, re-framing a difficult or challenging question into one you're comfortable with.
   * pg 97: _Stay positive_, by finding a positive frame and sticking to it.
   * pg 97: _Speak in threes_, narrowing down your message to three concise points that you make your refrain.
+
+#### 3.11: Model, document, and share
+
+* pg 98: One of the trickiest, but most common, leadership scenarios is leading without authority.
+
+##### 3.11.1: How it works
+
+* pg 98: When needing to effect change, it's a hard sell to convince someone that your personal experience should invalidate their personal experience.
+* pg 99: To _model_ a behavior, just begin doing it. Frame it as a short experiment, and keep iterating on it until you're confident it works.
+* pg 99: Then _document_ the problem you set out to solve, the learning process you went through, and how another team would adopt the practice.
+* pg 99: Finally _share_ your documented approach in a short email, without asking anyone to adopt the practice or lobbying for change.
+
+##### 3.11.2: Where it works
+
+* pg 99: A _mandate_ assumes it's better to adopt a good-enough approach quickly.
+* pg 100: A _model, document, and share approach_ assumes it's better to adopt a great approach slowly.
+
+#### 3.12: Scaling consistency: designing centralized decision-making groups
+
+* pg 101: We create a centralized, accountable group whenever a problem becomes truly acute.
+
+##### 3.12.1: Positive and negative freedoms:
+
+* pg 101: A _positive freedom_ is the freedom to do something, such as pick a programming language that you prefer.
+* pg 101: A _negative freedom_ is the freedom from something happening to you, such as not having to support a programming language, even if someone prefers it.
+* pg 102: When ownership is extremely diffuse, a group should increase net positive freedom without greatly reducing negative freedom.
+* pg 102: Group design considers _influence_, _interaction modes_, _size_, _time commitment_, _identity_, _selection process_, _length of term_, and _representation_.
+  * pg 102: If a group is six or fewer individuals, then they are able to gel and shift a portion of their individual identities to the team.
+  * pg 103: The best default is fixed terms for members, while allowing current individuals to remain eligible, and without enacting term limits.
+* pg 104: Failure modes for groups are being _domineering_, _bottlenecked_, _status-oriented_, and _inert_.
+  * pg 104: A domineering group is most common when decision-makers are abstracted from the consequences of their decisions.
+  * pg 104: A bottlenecked group attempts to do too much, thereby burning out its members, and slowing down folks who need their authority.
+  * pg 104: An inert group doesn't do much of anything; their members have not gelled or are too busy.
+
+#### 3.13: Presenting to senior leadership
+
+* pg 107: Senior leaders pierce into areas to debug problems. Instead of hiding problems, use them as an opportunity to explain your plans to address them.
+* pg 108: A playbook is _tie topic to business value_, _establish narrative_, _make ask_, _show data_, _present decision-making principles_, _present actions with timeline_, and _reiterate ask_.
+  * pg 108: You must tie the topic to business value to answer "Why should anyone care?"
+  * pg 108: The historical narrative should be two to four sentences explaining how things are going, how we got here, and the next planned step.
+  * pg 108: Present enough raw data to allow people to follow your analysis. Providing only an analysis without data is evasive.
+  * pg 108: Explain your mental model and principles that you're applying against the diagnosis; it should be clear how your actions follow from them.
+
+#### 3.14: Time management
+
+* pg 109: You have to prioritize long-term success over short-term quality, even if it's personally unrewarding to do so.
+* pg 111: _Finish small, leveraged things_: Each thing you finish should create more bandwidth to do more work, and it's rewarding to finish things.
+* pg 111: _Stop doing things_: If you're very underwater, alert your team and management chain that you're not doing some work. But don't drop work silently.
+* pg 111: _Delegate handling exceptions_: By holding onto the authority to handle exceptions, you lose much of the system's leverage.
+* pg 112: _Decouple participation from productivity_: Don't assume that attending every meeting is valuable.
+* pg 112 :_Hire until you are slightly ahead of growth_: Having a clear organizational design allows hiring folks before their absence is crippling.
+
+#### 3.15: Communities of learning
+
+* pg 113: For a community, _facilitate, don't lecture_, _brief presentations and long discussions_, _use breakout groups_, _bring learnings to the full group_, _choose known topics_, _encourage tenured folks to attend_, _provide optional pre-reads_, and _start by checking in_.
+  * pg 113: Folks want to learn from each other more than they want to learn from a single presenter.
+  * pg 113: Successful topics are ones that people have already thought about, typically because these concepts are core to their daily work.
+  * pg 115: Encourage the most senior folks to attend, because there is so much for them to teach newer folks.
