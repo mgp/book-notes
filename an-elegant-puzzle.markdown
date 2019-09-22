@@ -405,3 +405,47 @@ by Will Larson
 ##### 4.4.3: Aligning with values
 
 * pg 132: Leadership is matching appropriate action to your current context, and it's uncommon that any two situations will flourish from the same behaviors.
+
+#### 4.5: Ways engineering managers get stuck
+
+* pg 132: New managers _only manage down_, _only manage up_, _never manage up_, _optimize locally_, _assume hiring never solves problems_, _don't spend time building relationships_, _define their role too narrowly_, and _forget their manager is human_.
+  * pg 133: If you never manage up, then excellent work goes unnoticed because it was never shared.
+  * pg 133: If your business is growing quickly, then eventually you hire or burn out.
+  * pg 133: Managers are the glue in their team, filling any gaps – and that may mean doing things you don't want to do in order to set a good example.
+* pg 133: More experienced managers _do what worked at their previous company_, _spend too much time building relationships_, _assume that more hiring can solve every problem_, _abscond rather than delegate_, and _become disconnected_.
+  * pg 133: Pause to listen and foster awareness before "fixing" things, or else you may fix problems that don't exist with tools that may not be appropriate.
+* pg 134: Managers at all levels of experience _mistake team size for impact_, _mistake title for impact_, _confuse authority with truth_, _don't trust the team enough to delegate_, _let other people manage their time_, and _only see problems_.
+  * pg 134: Authority lets you get away with weak arguments and poor justifications, which causes people to leave quickly.
+
+#### 4.6: Partnering with your manager
+
+* pg 135: To partner with your manager _you must know a few things about them_, _they must know a few things about you_, and _you should occasionally update the things you know about each other_.
+* pg 136: Tell your manager _what you're trying to solve_, _that you're making progress_, _what you prefer to work on_, _how busy you are_, _your professional goals and growth areas_, and _how you believe you're being measured_.
+* pg 136: Success hinges on finding the communication mechanism that works for your manager.
+* pg 136: If a manger doesn't seem to care, it's likely they do care but are too stressed to participate in successful communication.
+* pg 137: Ask your manager _their current priorities_, _how stressed they are_, _what you can do to help_, _their management's priority_, and _what their goals are_.
+
+#### 4.7: Finding managerial scope
+
+* pg 138: To grow we should pursue scope – not enumerating people, but taking responsibility for the success of increasingly important and complex facets of the organization and company.
+* pg 139: This means can can always find ways to increase your scope and learning, even if your company doesn't have room for more directors or vice presidents.
+
+#### 4.8: Setting organizational direction
+
+##### 4.8.1: Scarce feedback, vague direction
+
+* pg 140: When things go poorly, you're swamped with more direction and input than you can absorb. When things are going well, you must supply your own direction and that of your team.
+
+##### 4.8.2: Mining for direction
+
+* pg 140: The first step to setting direction is to cast the widest possible net for ideas.
+* pg 141: From the ideas form a strategy, define its key pivots, and let that set your direction.
+* pg 141: No one will have the time to soak up all the detail of your overly precise document, so distill it down to three of four bullet points.
+
+#### 4.9: Close out, solve, or delegate
+
+* pg 142: Upon transitioning to management, your ability to put your head down and solve gritty, important problems is now the wrong answer to most of your problems.
+* pg 142: For every problem that comes your way, either _close out_, _solve_, or _delegate_.
+  * pg 142: _Closing out_ means making a decision and communicating it to all involved participants.
+  * pg 142: _Solving_ means designing a solution such that you won't need to spend time on this particular kind of ask again in the next six months.
+  * pg 142: _Delegate_ means passing it to someone who has the specialized skills to close it or solve it, or who can work in the system.
