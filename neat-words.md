@@ -1,6 +1,7 @@
 * ambit (n): the scope or extent of something
 * anodyne (adj): unlikely to offend, often deliberately so
 * apophenia (n): seeing connections or patterns in random data
+* apoplectic (adj): filled with rage
 * atavistic (adj): characterized by reversion to something primitive or ancestral
 * attenuated (adj): weakened in force or effect
 * blithely (adv): happily, or in a joyous manner
