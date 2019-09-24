@@ -449,3 +449,77 @@ by Will Larson
   * pg 142: _Closing out_ means making a decision and communicating it to all involved participants.
   * pg 142: _Solving_ means designing a solution such that you won't need to spend time on this particular kind of ask again in the next six months.
   * pg 142: _Delegate_ means passing it to someone who has the specialized skills to close it or solve it, or who can work in the system.
+
+### Chapter 5: Culture
+
+#### 5.1: Opportunity and membership
+
+* pg 147: An inclusive organization is one in which individuals have access to opportunity and membership.
+  * pg 147: Opportunity is having access to professional success and development.
+  * pg 147: Membership is participating as a version of themselves that they feel comfortable with.
+
+##### 5.1.1: Opportunity
+
+* pg 148: The most effective way to provide opportunity to members of your organization is structured application of good process.
+* pg 148: To create opportunity, _employ rubrics_, _have a structured approach to choosing leads_, _have explicit budgets_, _nudge involvement_, and _create education programs_.
+  * pg 148: It's effective to reach out to people and encourage them to apply to opportunities or use available resources. Even more powerful is showing where they are on a distribution.
+* pg 149: To measure opportunity, focus on _retention_, _who leads critical projects_, _level distribution_, and _time at level_.
+  * pg 149: Retention is the first thing you pay attention to, but it is the slowest to show change.
+
+##### 5.1.2: Membership
+
+* pg 150: Impactful programs include _recurring weekly events_, _employee resource groups_, _team offsites_, _coffee chats_, and _team lunches_.
+* pg 151: To measure membership, focus on _retention_, _referral rate_, _attendance rates for recurring events_, and the _number of completed coffee chats_.
+* pg 151: Balancing opportunities for membership across a large population is tricky; success requires a broad portfolio of options and a willingness to balance concerns across events and time.
+
+#### 5.2: Select project leads
+
+* pg 152: The number of people who can lead critical projects both measures the company's ability to execute and the extent that its members have access to growth.
+* pg 152: For a critical project _define its scope and goals with selection criteria_, _announce it_, _nudge good candidates_, _select a lead_, _find an advisor to sponsor it_, _notify whoever wasn't selected_, and _kick it off_.
+  * pg 153: This is a great learning opportunities for the sponsors, who aren't used to teaching others how to lead large and ambiguous projects.
+  * pg 153: When notifying those who weren't selected, provide feedback on why they weren't selected. Saying you want to create room for another person to learn is reasonable.
+* pg 154: Done well, selecting project leads like this can be the cornerstone to your efforts of creating an inclusive organization.
+
+#### 5.3: Make your peers your first team
+
+* pg 154: The best collaboration happens when teams had managers willing to disappoint the teams they managed in order to help their peers succeed.
+* pg 155: Members of such a team have shifted their _first team_ from the folks they support to their peers.
+* The ingredients for this are:
+  * pg 155: _Awareness of each other's work_: A member cannot optimize for their team if they're not familiar with other members' work.
+  * pg 155: _Evolution from character to person_: Spending time together, often at an offsite, will transform strangers into people.
+  * pg 155: _Refereeing deflection_: If someone acts in self-interest, then other team members will do the same. A manager must referee and ensure good behavior.
+  * pg 155: _Avoiding zero-sum culture_: No one will coordinate in such cultures, where perceived success depends on capturing scarce resources like headcount.
+* pg 156: The more fully you embrace optimizing for your collective peers, the closer your priorities will mirror your manager's.
+* pg 156: A first team provides a community of learning, where your team's rate of learning is the sum of everyone's challenges – not just your own experiences.
+
+#### 5.4: Consider the team you have for senior positions
+
+* pg 157: Fair consideration doesn't mean that we prefer internal candidates, but that there is a structured way for them to apply, and for us to consider them.
+* pg 157: Evaluating candidates tests _partnership_, _execution_, _vision_, _strategy_, _spoken and written communication_, and _stakeholder management_.
+* pg 158: To test these categories, _collect written feedback_, _see a 90-day plan_, _see a strategy/vision doc_, and them have them _present it to peers_ and _present it to an executive_.
+  * pg 158: When collecting feedback, lean into controversial feedback and listen to the concerns of would-be dissenters.
+  * pg 158: The 90-day plan is a great opportunity to understand their diagnosis of the situation, and having them incorporate your feedback is an opportunity to try out working together.
+* pg 159: This process creates intentional practice: Folks get to take risks in their plans, and you get to give direct feedback without micromanaging.
+
+#### 5.5: Company culture and managing freedoms
+
+* pg 160: Each positive freedom we enforce strips away a negative freedom, and each negative freedom we guarantee eliminates a corresponding positive freedom.
+* pg 160: We ramp toward negative freedom to keep the times rolling, and ramp toward positive freedom to help adapt to new and challenging circumstances.
+
+#### 5.6: Kill your heroes, stop doing it harder
+
+* pg 161: Unless people aren't trying hard, the mantra "work harder" only breeds hero programmers whose heroic ways make it difficult for non-heroes to contribute meaningfully.
+* pg 161: Eventually you have a cadre of burned-out heroes, everyone else is alienated, and your project is still totally screwed.
+
+##### 5.6.2: Kill the hero programmer
+
+* pg 163: You must either kill the environment that breeds the hero programmers, or kill the hero programmer by burnout.
+
+##### 5.6.3: A long time coming, a long time going
+
+* pg 163: Working at a frenetic pace for weeks or months may feel like a major outpouring of effort and energy, but you cannot quickly counteract a deficit created over months of poor implementation or management choices.
+
+##### 5.6.4: Resetting broken systems
+
+* pg 164: If you set the original direction and have the leverage to change directions, then stand up and taking the bullet for the fiasco you're in.
+* pg 164: Without policy, step back and allow the brokenness to collapse under its own weight. Conserve your energy for the system that comes next.
