@@ -21,6 +21,7 @@
 * functionary (n): paper-pusher, bean counter
 * grist (n): useful material to support an argument
 * hagiography (n): a biography which is uncritically supportive of its subject
+* hirsute (adj): hairy
 * imprimatur (n): official approval or sanction
 * inchoate (adj): just begun and so undeveloped; rudimentary
 * ineluctable (adj): impossible to avoid
@@ -28,6 +29,7 @@
 * legerdemain (n): a display of skill or adroitness, wizardry
 * leitmotif (n): a dominant or recurring theme
 * magisterial (adj): having or showing great authority
+* mensch (n): a person of integrity and honor
 * métier (n): an activity in which one excels, forte
 * milquetoast (adj): feeble, insipid, or bland
 * monastic (adj): a simple way of living with few possessions and no people near you
