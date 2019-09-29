@@ -523,3 +523,62 @@ by Will Larson
 
 * pg 164: If you set the original direction and have the leverage to change directions, then stand up and taking the bullet for the fiasco you're in.
 * pg 164: Without policy, step back and allow the brokenness to collapse under its own weight. Conserve your energy for the system that comes next.
+
+### Chapter 6: Careers
+
+#### 6.1: Roles over rocket ships, and why hypergrowth is a weak predictor of personal growth
+
+* pg 170: Thriving in a company requires finding a way to succeed in each new era and successfully navigating the transitional periods.
+
+##### 6.1.2: Opportunities for growth
+
+* pg 170: Transitions allow raising the floor by building competencies in new skills, and stable periods allow raising the ceiling by developing mastery in skills that the era values.
+
+#### 6.2: Running a humane interview process
+
+* pg 172: To interview candidates: _be kind_, _establish requirements_, _understand the signal you're looking for_, _come prepared_, _express interest in candidates_, _create feedback loops_, and _optimize_.
+
+##### 6.2.1: Be kind
+
+* pg 173: You can't conduct a kind, candidate-centric interview process if you're interviewers are tightly time-constrained.
+* pg 173: Unkind interviewers are either suffering from burnout from doing so many interviews, or are so busy with other work that they view interviewing as a burden rather than a contribution.
+
+##### 6.2.3: Finding signal
+
+* pg 174: Each skill should be covered by two different interviews to create some redundancy in signal detection, in case one interview doesn't go cleanly.
+* pg 174: You must also ensure that the interviewer and the interview format actually ecpose that signal.
+
+##### 6.2.4: Be prepared
+
+* pg 175: Being unprepared is the cardinal sin of interviewing, because it shows a disinterest in the candidate's time, your team's time, and your own time.
+* pg 175: Interview preparedness is much more company-dependent than it is individual-dependent.
+
+##### 6.2.5: Deliberately express interest
+
+* pg 176: Whenever you extend an offer to a candidate, have every interviewer send a note to them saying that they enjoyed the interview.
+
+##### 6.2.6: Feedback loops
+
+* pg 176: Since your goal is to create a consistent experience for your candidates, shadow interviews are as important for new hires who are experienced interviewing elsewhere as they are for new college grads.
+* pg 177: If you own or design the interview loop, the best place to get feedback is from the candidate and from the interview debrief session.
+
+#### 6.3: Cold sourcing: hire someone you don't know
+
+* Referrals come with two major drawbacks:
+  * pg 180: Your personal network will always be quite small, especially when you consider the total candidate pool.
+  * pg 180: By hiring within these circles, it's easy to end up with a company whose employees think, believe, and sometimes even look similar.
+
+##### 6.3.1: Moving beyond your personal networks
+
+* pg 181: A concise, thoughtful invitation to discuss a job opportunity is an opportunity, not an infringement, especially for those who are on career networking sites like LinkedIn.
+
+##### 6.3.2: Your first cold sourcing recipe
+
+* pg 183: When sending someone a message on LinkedIn, customization doesn't matter, because people mostly choose to respond based on their circumstances, not on the quality of your message.
+* pg 184: When scheduling phone calls or coffee chats, interact with each person as if they'll be providing feedback on whether or not to hire you at your next job.
+* pg 184: When you meet, explain why you're personally excited about the company and the role, how the interview process works, and then leave ample time for them to ask questions.
+* pg 185: Coordinate reaching out; having multiple folks from the same company reach out around the same time can paint a picture of chaos.
+
+##### 6.3.3: Is this high-leverage work?
+
+* pg 185: Be cautiously concerned if an engineering manager spends more than an hour of week on sourcing (excluding follow-up chats, which take up more time).
