@@ -16,6 +16,7 @@
 * doyen (n): the most respected or prominent person in given field
 * epistemic (n): relating to knowledge, cognitive
 * equanimity (n): calmness or composure in difficult situations
+* ersatz (adj): a poor-quality imitation
 * expiate (v): to make amends, atone
 * facile (adj): ignoring the true complexities of an issue, superficial
 * functionary (n): paper-pusher, bean counter
