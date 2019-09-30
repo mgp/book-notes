@@ -582,3 +582,50 @@ by Will Larson
 ##### 6.3.3: Is this high-leverage work?
 
 * pg 185: Be cautiously concerned if an engineering manager spends more than an hour of week on sourcing (excluding follow-up chats, which take up more time).
+
+#### 6.4: Hiring funnel
+
+##### 6.4.1: Funnel fundamentals
+
+* pg 186: The four major steps are identifying candidates, motivating them to apply, evaluating them, and then closing them on joining.
+* To motivate candidates:
+  * pg 187: Have the people the candidate would work with spend time with them.
+  * pg 187: Clearly define the role. Always give an accurate description of the work, but try to find the best frame for describing that work.
+* pg 188: When evaluating a candidate, one of the worst outcomes of the hiring funnel is that the candidate is no longer interested in being a part of your company.
+
+##### 6.4.2: Instrument and optimize
+
+* pg 189: Put your effort where there is the most room to improve, but understand that the reasonable upper bound for each stage of your funnel is not obvious.
+
+##### 6.4.3: Extending the funnel
+
+* pg 189: Extend your funnel with _onboard_, _impact_, _promote_ and _retain_ stages:
+  * pg 189: To measure the effectiveness of your onboarding process, measure how long it takes new hires to reach P40 productivity.
+  * pg 190: To measure the impact of your hires, a good proxy is looking at the performance rating distribution for new hires based on time since hiring.
+  * pg 190: Measuring how long it takes individuals to get promoted is useful for understanding whether they have access to opportunity within the organization.
+  * pg 190: Measuring retainment of employees is a lagging indicator, since it typically takes years for folks to leave.
+
+#### 6.5: Performance management systems
+
+* pg 190: If you want to shape your company's culture, inclusion, or performance, this is your most valuable entry point.
+* pg 191: Most approaches to performance management are composed of _career ladders_, _performance designations_, and _performance cycles_.
+
+##### 6.5.1: Career ladders
+
+* pg 192: Any ladder with more then 10 individuals should probably be fully fleshed out, but smaller functions can survive with something rough.
+* pg 192: Crisp level boundaries provide those on a ladder with a useful mental model of where they are on their journey, who their peers are, and whom they should view as role models.
+* pg 193: If you can only invest in one component of performance management, make it the career ladders; everything else builds on this foundation.
+
+##### 6.5.2: Performance designations
+
+* pg 193: It is a cause of concern and debugging if the explicit designation doesn't match the implicit signals someone has received.
+* pg 195: Calibrations fall soundly in the category of things that are terrible but have no obvious replacement.
+* pg 195: Useful rules for calibrations are _adopt a shared quest or consistency_, _read and don't present_, _compare against the ladder and not others_, and _study but don't enforce the distribution_.
+  * pg 195: Steer managers in a calibration away from anchoring on the designations they enter with, and toward shared inquiry.
+  * pg 195: To reduce bias, everyone read the manager review instead of allowing managers pitch their candidates to the room.
+* pg 196: Waiting for performance designations to deal with performance issues is typically a sign of managerial avoidance.
+
+##### 6.5.3: Performance cycles
+
+* pg 196: The most important factor for effective performance cycles is forcing folks to practice.
+* pg 197: You want to change the cycle at most once every second time, thereby allowing everyone to adapt fully and allowing you to observe how well changes work.
