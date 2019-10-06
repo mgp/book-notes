@@ -629,3 +629,54 @@ by Will Larson
 
 * pg 196: The most important factor for effective performance cycles is forcing folks to practice.
 * pg 197: You want to change the cycle at most once every second time, thereby allowing everyone to adapt fully and allowing you to observe how well changes work.
+
+#### 6.6: Career levels, designation momentum, level splits, etc.
+
+* pg 197: _Designation momentum_ is the natural tendency of a performance process to consistently produce the same evaluations of the same people despite performance changes.
+  * pg 198: If you're not happy with the direction of your designation momentum, and your manager isn't prescribing a path to high performance, then you must be an active participant.
+  * pg 198: If your manager is pushing back on your goals' ambition, this is probably their way of saying that their peers will challenge their difficulty.
+* pg 199: _Tit-for-tat_ favor trading, via silence by participants instead of raising concerns, pushes all responsibility on the calibration referee.
+* pg 199: A company experiencing frequent _level expansion_ is a sign that progression, compensation, or recognition is overly tied to the level system.
+* pg 199: Levels added at the top introduce _level drift_ by downward pressure on existing levels, so that expectations at a given level decrease over time.
+* pg 200: _Time-at-level limits_ are typically used as a backstop for situations in which performance management seems appropriate but is not occurring.
+* pg 200: A _level split_ of the career level into two halves extends the runway of career progression, but tends to solidify the moat guarding post-career levels.
+* pg 201: _Retention-driven performance designations_ reset expectations permanently in ways that sacrifice long-term usefulness of the system in order to manage short-term difficulty.
+
+#### 6.7: Creating specialized roles, like SRE or TPMs
+
+##### 6.7.1: Challenges
+
+* pg 202: Folks often look at new roles as less important, framing them as service roles to absorb work they're not interested in.
+* pg 203: Moving from generalized roles toward specialists introduces more single points of failure; this is especially acute in organizations with frequent structural changes.
+* pg 203: Many individuals will offload challenging, difficult, or uninteresting tasks, leading to the new roles being immediately underwater.
+* pg 204: Requiring the first hires to be strong role models leads to a proliferation of requirements until it's impossible for any candidate to pass the bar.
+
+##### 6.7.2: Facilitating success
+
+* pg 204: If you can't find an executive sponsor, it's a sign that leadership doesn't believe the new role will have a good return on invested energy.
+* pg 204: Every role to recruit for has a high fixed cost, so new roles can make it difficult for recruiters to hit the targets that their performance is measured against.
+* pg 205: Don't frame roles as auxiliary support functions. You must frame the role's work without referencing other existing roles for it to succeed long-term.
+* pg 205: It's not possible for a  role to be valued or evaluated coherently without a thoughtful career ladder.
+
+##### 6.7.3: Advantages
+
+* pg 206: Specialized efficiency can lead to more throughput without increasing head count. This is the most important for teams where financial resources are the limit on growth.
+* pg 206: With specialists, you can add exactly the capacity you are missing, which is very powerful for effectively solving constraints.
+* pg 206: Creating a new role allows you to consider a new pool of candidate sin your hiring funnel.
+
+##### 6.7.4: What to do?
+
+* pg 207: Some questions to decide whether to create the new role include:
+  * pg 207: Do you have a plan for changing how the compnay values the work? Creating a new role won't inherently change how the company values this work.
+  * pg 207: Who will pay the maintenance costs for the new role? And if it's you, who will take up the torch when you leave?
+* pg 207: Always create a new role if it immediately covers 20 individuals; reluctantly create one if it would cover 20 individuals within two months; and otherwise, be skeptical.
+
+#### 6.8: Designing an interview loop
+
+* pg 208: Do not start designing a new interview loop until you've instrumented your metrics funnel.
+* pg 208: To understand the current loop's performance, look at funnel performance, employee trajectory after hiring, and perform candidate debriefs.
+* pg 210: Identify skills to test for from role models and a career ladder, and then for each one design a test where the candidate shows their strength instead of tells you about it.
+* pg 210: If you find it difficult to identify a useful rubric for a test, then you should look for a different test that is easier to assess.
+* pg 211: Avoid designing by committee, and instead prefer a working group of one or two people that is then tested against a bunch of candidates for feedback.
+* pg 211: Don't hire for potential, which is a major vector for bias and should be strictly avoided.
+* pg 212: To summarize the approach: Avoid reusing stuff you know doesn't work, creatively approach the matter from first principles, and keep iterating on it.
