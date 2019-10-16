@@ -56,3 +56,26 @@ by Mark Manson
 * An interesting question that most people will never consider is "What _pain_ do you want in your life? What are you willing to struggle for?" 
 * Real, serious, lifelong fulfillment and meaning have to be earned through the choosing and managing of our struggles.
 * What determines your success isn't "What do you want to enjoy?" but "What pain do you want to sustain?" Our struggles determine our success.
+
+### Chapter 3: You Are Not Special
+
+* A true and accurate measurement of one's self-worth is how you feel about the negative aspects of yourself.
+* Entitled people have a delusional degree of self-confidence.
+* Because entitled people are incapable of acknowledging their problems openly and honestly, they are incapable of improving their lives in any lasting or meaningful way.
+
+#### Things Fall Apart
+
+* If we have problems that are unsolvable, our unconscious figures that we're uniquely special or uniquely defective in some way. Put simply: we become entitled.
+* Entitled people flip between being on top of the world or having the world on top of them, demanding special treatment in each case.
+* It takes just as much energy and delusional self-aggrandizement to maintain the belief that one has insurmountable problems as that one has no problems at all.
+* In an age when we're more connected than ever, entitlement seems to be at an all-time high.
+
+#### The Tyranny of Exceptionalism
+
+* Our lives today are filled with information from the extremes of the bell curve of human experience, because in the media business that what sells.
+* This flood of extreme information has conditioned us to believe that exceptionalism is the new normal. Because we are mostly average, this drives us to feel insecure and desperate.
+
+#### B-b-b-but If I'm Not Going to Be Special or Extraordinary, What's the Point?
+
+* When a culture's standard of success is "be extraordinary," it's better to be at the low end of the bell curve than in the middle, because there you're still special and deserve attention.
+* People who become great at something become great because they understand that they're only mediocre, and that they could be so much better. It's anti-entitlement.
