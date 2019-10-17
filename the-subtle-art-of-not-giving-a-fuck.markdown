@@ -79,3 +79,38 @@ by Mark Manson
 
 * When a culture's standard of success is "be extraordinary," it's better to be at the low end of the bell curve than in the middle, because there you're still special and deserve attention.
 * People who become great at something become great because they understand that they're only mediocre, and that they could be so much better. It's anti-entitlement.
+
+### Chapter 4: The Value of Suffering
+
+* If suffering is inevitable and our problems are unavoidable, then we should not ask "How do I stop suffering?" but instead "Why am I suffering – for what purpose?"
+
+#### The Self-Awareness Onion
+
+* The first layer of self-awareness is a simple understanding of one's emotions.
+* The second layer is the ability to ask why we feel some way; these questions are important because they illuminate what we consider success or failure.
+* The third layer integrates our personal values; this is important because our values determine the nature of our problems, which in turn determines the quality of our lives.
+* We must ask these questions accurately to achieve a deeper knowledge of our own values.
+* What is objectively true about your situation is not as important as how you come to see the situation, and how you choose to measure it and value it.
+* Problems may be inevitable, but their _meaning_ is not. We can control our problems mean based on how we choose to think about them, the standard by which we measure them.
+
+#### Rock Star Problems
+
+* If you want to change how you see your problems, you have to change what you value and how you measure failure or success.
+
+#### Shitty Values
+
+* Shitty values include:
+  * Pleasure: People who focus their energy on superficial pleasures end up more anxious, more emotionally unstable, and more depressed.
+  * Material Success: Once one is able to provide for basic physical needs (food, shelter, etc), the correlation between happiness and worldly success approaches zero.
+  * Always Being Right: Assuming you're ignorant keeps you unattached to superstitions or poorly informed beliefs and promotes a constant state of learning and growth.
+  * Staying Positive: Constant positivity is an avoidance of life's problems – but upon choosing the right values and metrics, these problems should motivate you.
+* The trick with negative emotions is to 1) express them in a socially acceptable and healthy manner, and 2) express them in a way that aligns with your values.
+
+#### Defining Good and Bad Values
+
+* Good values are reality-based, socially-constructive, and immediate and controllable; while bad values are superstitious, socially destructive, and not immediate or controllable.
+* Good values are achieved internally, and thereby controllable so that you engage the world as it is rather than by how you wish it were.
+* Bad values are generally reliant on external events, and thereby outside your control so that you must rely on socially destructive or superstitious means to achieve them.
+* Values are about prioritization: What values do you prioritize above all else, and therefore influence your decision-making above all else?
+* By choosing better values, you divert your fucks to something better – to things that matter, improve our state of well-being and generate happiness, pleasure, and success as side-effects.
+* When you give better fucks, you get better problems. And when you get better problems, you get a better life.
