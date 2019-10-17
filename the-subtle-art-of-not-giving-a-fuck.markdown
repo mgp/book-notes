@@ -114,3 +114,39 @@ by Mark Manson
 * Values are about prioritization: What values do you prioritize above all else, and therefore influence your decision-making above all else?
 * By choosing better values, you divert your fucks to something better – to things that matter, improve our state of well-being and generate happiness, pleasure, and success as side-effects.
 * When you give better fucks, you get better problems. And when you get better problems, you get a better life.
+
+### Chapter 5: You Are Always Choosing
+
+* When we feel like we are choosing problems, we feel empowered. When we feel like our problems are being forced upon us, we feel victimized and miserable.
+
+#### The Choice
+
+* We don't always control what happens to us. But we _always_ control how we interpret what happens to us, as well as how we respond.
+* Whether we like it or not, we are _always_ taking an active role in what's occurring around or within us. We are _always_ choosing, whether we recognize it or not.
+
+#### The Responsibility/Fault Fallacy
+
+* The more we choose to accept responsibility into our lives, the more power we will exercise over our lives. Accepting responsibility for our problems is the first step to solving them.
+* We hesitate to take responsibility for our problems because we believe that to be _responsible_ for our problems is to also be at _fault_ for our problems.
+* But we are responsible for experiences that aren't our fault all the time.
+* Fault results from choices that have already been made. Responsibility results from the choices you're currently making, every second of every day.
+* Responsibility means you get to choose how you see things, how you react to things, and how you value things. You choose the metric by which to measure your experiences.
+* Taking responsibility for our problems is far more important than taking responsibility for success and happiness, because that's where the real learning comes from.
+
+#### Responding to Tragedy
+
+* Pain of one sort or another is inevitable for all of us, but again, we get to choose what it means to and for us.
+
+#### Genetics and the Hand We're Dealt
+
+* People who consistently make the best choices in the situations they're given are the ones who eventually come out ahead in life.
+
+#### Victimhood Chic
+
+* Public sharing of "injustices" garners attention and emotional outpouring, rewarding people who are able to perpetually feel victimized with ever-growing amounts of attention and sympathy.
+* The biggest problem with victimhood chic is that it diverts attention away from _actual_ victims.
+* But part of living in a democracy and a free society is that we all have to deal with views and people we don't necessarily like.
+
+#### There Is No "How"
+
+* You are _already choosing_, in every moment of every day, what to give a fuck about; so change is as simple as choosing to give a fuck about something else.
