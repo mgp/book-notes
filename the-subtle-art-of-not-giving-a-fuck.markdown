@@ -212,3 +212,39 @@ by Mark Manson
 * We can therefore reorient our mindset around the chain _action ⇒ inspiration ⇒ motivation_.
 * So if you lack the motivation to make an important change in your life, _do something_ and then harness the reaction to that action as a way to begin motivating yourself.
 * With _doing something_ as your only metric for success, then even failure pushes you forward.
+
+### Chapter 8: The Importance of Saying No
+
+* The only way to achieve meaning and a sense of importance is one's life is through a rejection of alternatives, or a narrowing of freedom – a choice of commitment to one place, one belief, or one person.
+* Exposure to different cultural values and metrics forces you to reexamine what seems obvious in your own life and whether it's actually the best way to live.
+* There is such pressure in the West to be likable that people often reconfigure their entire personally depending on whom they're dealing with.
+
+#### Rejection Makes Your Life Better
+
+* We need to reject something. Or else we stand for nothing, and are without values and live our lives without any purpose.
+* To truly appreciate something, you must confine your life to it. There is a certain level of joy and meaning you reach only after focusing significant time on a single relationship, craft, or career.
+* Entitled people, because they feel as though they *deserve* to feel great all the time, avoid rejecting anything because doing so might make themselves or others feel bad.
+
+#### Boundaries
+
+* Healthy relationships are defined by 1) each person accepting responsibility, and 2) each person being willing to both reject and be rejected by their partner.
+* People in healthy relationships with strong boundaries take responsibility for their own values and problems, and do not take responsibility for those of their partner.
+* Entitled people either expect take others to take responsibility for their problems, or take on too much responsibility for other people's problems.
+* Entitled people adopt these strategies in their relationships, as with everything, to help avoid accepting responsibility for their own problems.
+* In an unhealthy relationship two people solve each other's problems to feel good about themselves. In a healthy relationship they solve their own problems to feel good about each other.
+* "Victims" and "savers" end up in relationships because they use each other to achieve emotional highs.
+* Acts of love are valid only if they're performed without conditions or expectations.
+* It's not about giving a fuck about everything your partner gives a fuck about; it's about giving a fuck about your partner regardless of the fucks he or she gives.
+
+#### How to Build Trust
+
+* Conflict exists to show us who is there for us unconditionally and who is just there for the benefits.
+* A healthy relationship requires both sides to be willing and able to say no and hear no, or else boundaries break down and one person's problems and values dominate the other's.
+* When trust is destroyed, it can be rebuilt only if 1) the trust-breaker admits and owns up to the true values that caused the breach, and 2) the trust-breaker builds a solid track record of improved behavior over time.
+
+#### Freedom Through Commitment
+
+* The more options we're given, the less satisfied we become with whatever we choose, because we're aware of all the other options we're potentially forfeiting.
+* There are some experiences that you can have only when living in the same place, being with the same person, or working on the same craft for significant time.
+* You will find increased opportunity and upside in rejecting alternatives and distractions in favor of what you've chosen to let truly matter to you.
+* The rejection of alternatives liberates us from things that do not align with our most important values or with our chosen metrics.
