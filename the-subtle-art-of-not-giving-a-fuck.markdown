@@ -188,3 +188,27 @@ by Mark Manson
   * _What would it mean if I'm wrong?_ Being able to evaluate different values without necessarily adopting them is perhaps _the_ central skill in changing one's own life meaningfully.
   * _Would being wrong create a better or worse problem than my current problem, for both myself and others?_ Our problems are endless, so we must look at which problem is better.
 * If it feels like you versus the world, chances are it's really just you versus yourself.
+
+### Chapter 7: Failure Is the Way Forward
+
+#### The Failure/Success Paradox
+
+* Improvement at anything is based on thousands of tiny failures, and the magnitude of your success is based on how many times you've failed at something.
+* At some point, most of us reach a place where we're afraid to fail, and stick only to what is placed in front of us or only what we're really good at.
+* Shitty values involve tangible external goals outside our control, and once they're achieved you feel empty because there are no more problems to solve.
+* Better values are process-oriented, and their problems must continuously be re-engaged. Such a value is an ongoing, lifelong process that defies completion.
+* Consequently goals, as they are traditionally defined, are limited in the amount of happiness they can produce in our lives.
+
+#### Pain Is Part of the Process
+
+* We must suffer emotional pain to develop greater emotional resilience, a stronger sense of self, increased compassion, and a generally happier life.
+* If you avoid pain by chasing highs or indulging in entitlement or overindulging in substances, then you'll never generate the requisite motivation to actually change.
+* When you choose a new value, you choose to introduce a new form of pain into your life. Learn to sustain it, and act despite it.
+
+#### The "Do Something" Principle
+
+* The "do something" principle states: Action isn't just the effect of motivation; it's also the cause of it.
+* We assume a chain reaction of _emotional inspiration ⇒ motivation ⇒ desirable action_, but it's actually an endless loop: _inspiration ⇒ motivation ⇒ action ⇒ inspiration_.
+* We can therefore reorient our mindset around the chain _action ⇒ inspiration ⇒ motivation_.
+* So if you lack the motivation to make an important change in your life, _do something_ and then harness the reaction to that action as a way to begin motivating yourself.
+* With _doing something_ as your only metric for success, then even failure pushes you forward.
