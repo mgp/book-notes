@@ -248,3 +248,22 @@ by Mark Manson
 * There are some experiences that you can have only when living in the same place, being with the same person, or working on the same craft for significant time.
 * You will find increased opportunity and upside in rejecting alternatives and distractions in favor of what you've chosen to let truly matter to you.
 * The rejection of alternatives liberates us from things that do not align with our most important values or with our chosen metrics.
+
+### Chapter 9: ... And Then You Die
+
+* In a backwards way, death is the light by which the shadow of all life's meaning is measured.
+
+#### Something Beyond Our Selves
+
+* We are the only animals that are aware of the inevitability of our own death; this "death terror" is a deep existential anxiety that underlies everything we think or do.
+* To compensate for our mortality, we try to construct a conceptual self that will live forever. All human civilization is a result of such "immortality projects."
+* Our immortality projects are our values – the barometers of meaning and worth in our life. And when our values fail, so do we, psychologically speaking.
+* Rather than attempting to implement our conceptual self across the world, we should question our conceptual self and become more comfortable with the reality of our own death.
+* Becoming comfortable with our mortality allows us to choose values more freely, unrestrained by the quest for immortality, and freed from dangerous dogmatic views.
+
+#### The Sunny Side of Death
+
+* Death confronts us all with a painful and important question: What is your legacy?
+* To be comfortable with death, see yourself as something bigger than yourself, choose values that go beyond serving yourself, and that are simple and immediate and controllable and tolerant of our chaotic world.
+* Our culture today confuses great attention with great success, but they are not the same.
+* There is nothing to be afraid of. Ever.
