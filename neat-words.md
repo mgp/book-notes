@@ -6,6 +6,7 @@
 * attenuated (adj): weakened in force or effect
 * blithely (adv): happily, or in a joyous manner
 * cachet (n): prestige, or the state of being respected
+* capacious (adj): spacious, roomy
 * chafed (v): become annoyed because of a restriction or inconvenience
 * cosset (v): care for and protect in an overindulgent way
 * demure (adj): reserved, modest, and shy
@@ -23,9 +24,11 @@
 * grist (n): useful material to support an argument
 * hagiography (n): a biography which is uncritically supportive of its subject
 * hirsute (adj): hairy
+* importune (v): to harass (someone) persistently for or to do something
 * imprimatur (n): official approval or sanction
 * inchoate (adj): just begun and so undeveloped; rudimentary
 * ineluctable (adj): impossible to avoid
+* inveigh against (v): to protest or criticize bitterly or vehemently
 * l'esprit de l'escalier (n): thinking of the perfect retort too late
 * legerdemain (n): a display of skill or adroitness, wizardry
 * leitmotif (n): a dominant or recurring theme
@@ -43,6 +46,7 @@
 * puerile (adj): childishly silly and trivial
 * purgatory (n): a place or condition of suffering or expiation
 * raise Cain (v): to raise trouble, raise hell
+* rapacious (adj): inordinately greedy, extortionate
 * rejoinder (n): a sharp or witty reply
 * salient (adj): most noticeable or important
 * samizdat (n): clandestine copying and distribution of banned literature
