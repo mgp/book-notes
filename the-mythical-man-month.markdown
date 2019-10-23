@@ -106,3 +106,105 @@ by Frederick P. Brooks, Jr.
 * pg 55: The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 * pg 56: The second system also has a tendency to refine techniques whose very existence has been made obsolete by changes in basic system assumptions.
 * pg 58: The architect must be conscious of the peculiar hazards of a system, and exert extra self-discipline to avoid functional ornamentation and to avoid extrapolation of functions that are obviated by changes in assumptions and purposes.
+
+### Chapter 6: Passing the Word
+
+#### Written Specifications – the Manual
+
+* pg 62: The architect must always be prepared to show _an_ implementation for any feature he decides, but he must not attempt to dictate _the_ implementation.
+* pg 62: The style of a manual must be precise, full, and accurately detailed. And so they make for dull reading, but precision is more important than liveliness.
+* pg 62: The casting of decisions into prose specifications must be done by only one or two, if the consistency of the prose and product is to be maintained.
+
+#### Formal Definitions
+
+* pg 63: With English prose one can show structural principles, delineate structure, give examples, mark exceptions, and emphasize contrasts. Most important, one can explain _why_.
+* pg 63: Formal definitions inspire wonder at their elegance and confidence in their precision, but demand prose explanations to make their content easy to learn and teach.
+* pg 64: If one has both, one must be the standard, and the other must be a derivative description – and clearly labeled as such.
+* pg 64: A formal definition can serve as an implementation, and an implementation can serve as a formal definition.
+* pg 65: An implementation may over-prescribe the externals, it not only says what a machine must do, but it may also say a great deal about how it had to do it.
+* pg 65: One must also refrain from modifications to the implementation while it is serving as a standard.
+
+#### Conferences and Courts
+
+* pg 66: One useful level of meeting is a conference of all the architects with the chief architect presiding:
+  * pg 66: This group attempts to invent many solutions to problems, then a few solutions are passed to one or more architects for detailing into proposals.
+  * pg 66: Minutes are kept and decisions are formally, promptly, and widely disseminated.
+* pg 67: A "supreme court session" handles a backlog of minor appeals, open issues, and disgruntelements:
+  * pg 68: In these meetings, everyone is heard, everyone participates, everyone better understands the intricate constraints and interrelationships among decisions.
+
+#### The Telephone Log
+
+* pg 69: A puzzled implementer must telephone the responsible architect and ask his or her question, rather than to guess and proceed.
+* pg 69: A *telephone log* kept by the architect records every question and every answer. Each week these are aggregated among architects and distributed among implementers.
+
+### Chapter 7: Why Did the Tower of Babel Fall?
+
+#### Communication in the Large Programming Project
+
+* pg 74: Schedule disaster, functional misfits, and system bugs all arise because the left hand doesn't know what the right hand is doing.
+* pg 75: Regular project meetings, with one team after another giving technical briefings, are invaluable.
+* pg 75: A *project workbook* imposes structure on documents that will be produced anyway; all documents of the project must be a part of its structure.
+* pg 75: Technical prose is almost immortal.
+* pg 76: A project workbook helps ensure that relevant information gets to all the people who need it.
+* pg 76: Of critical importance is timely updating: The workbook must be current.
+
+#### Organization in the Large Programming Project
+
+* pg 79: The means by which communication is obviated are *division of labor* and *specialization of function*.
+* pg 79: The inadequacies of a tree-like organizational structure give rise to staff groups, task forces, committees, and other organizational structures.
+* pg 79: A *producer* assembles the team, divides the work, and establishes the schedule; the *architect* conceives the design, identifies its subparts, and sketches its internal structure.
+* pg 80: Organizations must be designed around the people available; not people fitted into pure-theory organizations.
+* pg 80: If the producer is the boss of the architect, the difficulty is to establish the architect's authority to make technical decisions without impacting his time.
+* pg 83: The producer as boss is a more suitable arrangement than the "surgical team" for the larger subtrees of a really big project.
+
+### Chapter 8: Calling the Shot
+
+* pg 88: "Extrapolation of the hundred-yard dash shows that a man can run a mile in under three minutes."
+* pg 88: A survey at System Development Corporation shows *effort* = *constant* x (*number of instructions*) ^ (1.5).
+* pg 90: Many estimates make an unrealistic assumption about the number of technical work hours per programmer per year.
+
+#### Corbató's Data
+
+* pg 94: Productivity seems constant in terms of elementary statements.
+* pg 94: Programming productivity may be increased as much as five times when a suitable high-level language is used.
+
+### Chapter 9: Ten Pounds in a Five-Pound Sack
+
+#### Program Space as Cost
+
+* pg 98: Like any cost, size itself is not bad, but unnecessary size is.
+
+#### Size Control
+
+* pg 100: Define exactly what a module must do when you specify how big it must be.
+* pg 100: Beyond policing, fostering a total-system, user-oriented attitude in the implementers may well be the most important function of the programming manager.
+
+#### Space Techniques
+
+* pg 101: For a given function, the more space, the faster. This is true over an amazingly large range.
+
+#### Representation Is the Essence of Programming
+
+* pg 102: "Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won't usually need your flowcharts; they'll be obvious."
+* pg 103: Disentangling yourself from your code and contemplating your data is invaluable, for representation _is_ the essence of programming.
+
+### Chapter 10: The Documentary Hypothesis
+
+* pg 108: A document can serve as a major occasion for focusing thought and crystallizing discussions that otherwise would wander endlessly. Its maintenance becomes a surveillance and warning mechanism.
+
+#### Documents for a Computer Product
+
+* pg 108: Existence of the budget forces technical decisions that otherwise would be avoided; and, more important, it forces and clarifies policy decisions.
+
+#### Documents of a Software Project
+
+* pg 110: No matter how small the project, begin to immediately formalize at least mini-documents to serve as your database.
+* pg 111: Conway's Law says "Organizations which design systems are constrained to produce systems which are copies of the communication structures of those organizations."
+* pg 111: If the system design is to be free to change, the organization must be prepared to change.
+
+#### Why Have Formal Documents?
+
+* pg 111: First, writing decisions down is essential, as only then do the gaps appear and the inconsistencies protrude.
+* pg 111: Second, the documents will communicate the decision to others.
+* pg 111: Finally, a manager's documents gives him a data base and checklist, where he can see progress and where changes of emphasis or shifts in direction are needed.
+* pg 112: The task of the manager is to develop a plan and then to realize it. But only the written plan is precise and communicable.
