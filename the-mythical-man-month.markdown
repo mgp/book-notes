@@ -208,3 +208,92 @@ by Frederick P. Brooks, Jr.
 * pg 111: Second, the documents will communicate the decision to others.
 * pg 111: Finally, a manager's documents gives him a data base and checklist, where he can see progress and where changes of emphasis or shifts in direction are needed.
 * pg 112: The task of the manager is to develop a plan and then to realize it. But only the written plan is precise and communicable.
+
+### Chapter 11: Plan to Throw One Away
+
+#### Pilot Plants and Scaling Up
+
+* pg 116: In most projects, the first system built is barely usable. It may be too slow, too big, awkward to use – or all three.
+* pg 116: You will always discard and redesign. Plan to throw one away; if you don't plan this, you may deliver what you want to throw away to customers.
+
+#### The Only Constancy is Change Itself
+
+* pg 117: The throw-one-away concept is itself just an acceptance of the fact that as one learns, one changes the design.
+
+#### Plan the Organization for Change
+
+* pg 118: Reluctance to document designs comes from the designer's reluctance to commit to the defense of decisions which he or she knows to be tentative.
+* pg 118: Each programmer must be assigned to jobs that broaden him or her, so that the whole force is technically flexible.
+* pg 118: On a large project the manager needs to keep two or three top programmers as technical cavalry that can gallop to the rescue wherever the battle is thickest.
+* pg 119: A reassignment from the technical ladder to the managerial one must not come with a raise, and must be announced as a "reassignment" and not a "promotion."
+
+#### Two Steps Forward and One Step Back
+
+* pg 121: The cost of maintaining a program is strongly affected by the number of users, as more users find more bugs.
+* pg 122: Defects are not fixed cleanly because:
+  * pg 122: The defect shows itself as a local failure, while its system-side ramifications are non-obvious.
+  * pg 122: The repairer is not the programmer who wrote the code, and may be a junior programmer.
+
+#### One Step Forward and One Step Back
+
+* pg 122: All repairs tend to destroy the structure and increase the entropy of a system. As time passes, the fixing of the system ceases to gain any ground.
+* pg 123: Systems program building is an entropy-decreasing process.
+* pg 123: Program maintenance is an entropy increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+
+### Chapter 12: Sharp Tools
+
+#### Vehicle Machines and Data Services
+
+* pg 132: Preproduction hardware does not work as defined, does not work reliably, and does not stay constant.
+* pg 132: Consequently a dependable simulator on a well-aged vehicle retains its usefulness far longer than one would expect.
+
+#### High-Level Language and Interactive Programming
+
+* pg 134: Over-documentation is far preferable to the under-documentation that characterizes most programming systems.
+* pg 135: The chief reasons for using a high-level language are productivity and debugging speed.
+* pg 135: There are fewer bugs because one avoids an entire level of exposure to error, a level on which one makes not only syntactic errors but semantic ones.
+
+### Chapter 13: The Whole and the Parts
+
+#### Designing the Bugs Out
+
+* pg 142: The most pernicious and subtle bugs are system bugs arising from mismatched assumptions made by the authors of various components.
+* pg 142: Many failures concern exactly those aspects that were never quite specified.
+* pg 143: Using top-down design, one can identify modules of solution or of data whose further refinement can proceed independently of other work.
+* pg 144: Many poor systems come from an attempt to salvage the bad basic design and patch it with all kinds of cosmetic relief.
+
+#### System Debugging
+
+* pg 147: Common sense, if not common practice, dictates that one should begin system debugging only after all the pieces seem to work.
+* pg 148: Build plenty of scaffolding, or programs and data built for debugging purposes but never intended to be part of the final product.
+* pg 149: Add one component at a time when debugging, even though optimism and laziness tempt us to violate it.
+* pg 150: One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+
+### Chapter 14: Hatching a Catastrophe
+
+* pg 154: With schedule slippage, major calamities are easier to handle, as one responds with major force, radical reorganization, the invention of approaches. The whole team rises to the occasion.
+* pg 154: Day-to-day slippage is harder to recognize, harder to prevent, and harder to make-up.
+
+#### Milestones or Milestones?
+
+* pg 154: To control a big project on a tight schedule, one must first have a schedule. Each of a list of events, called milestones, has a date.
+* pg 154: Milestones must be concrete, specific, measurable events, defined with knife-edge sharpness.
+* pg 155: It is more important that milestones be sharp-edged and unambiguous than that they be easily verifiable by the boss.
+* pg 155: If a milestone is fuzzy, we often deceive ourselves. No one enjoys bearing bad news to the boss, and so we soften it without any real intent to deceive.
+* pg 155: A fuzzy milestone deceives one about lost time until it is irremediable, and chronic slippage is a morale-killer.
+
+#### "The other Piece Is Late, Anyway"
+
+* pg 155: Hustle provides the cushion and reserve capacity for a team to cope with routine mishaps and to forfend minor calamities. A calculated response dampens hustle.
+* pg 156: In determining which slips matter, there is no substitute for a PERT chart or a critical-path schedule.
+* pg 156: The PERT chart shows how much hustle is needed to keep one's own part off the critical path, and it suggests ways to make up the lost time in the other part.
+
+#### Under the Rug
+
+* pg 157: Every boss needs two kinds of information: Exceptions to plan that require action, and a status picture for education.
+* pg 157: So long as a first-line manager thinks he or she can solve something alone, that manager will not tell his or her boss.
+* pg 157: There are two rug-lifting techniques open to the boss:
+  * pg 157: If the boss disciplines himself to accept status reports without panic or preemption, the first-line manager will come to give honest appraisals.
+  * pg 158: Or the manager can require a report showing milestones and actual completions.
+* pg 160: A *Plans and Controls* team has no authority except to ask all the line managers for updates on their milestones, from which it creates a PERT chart.
+* pg 160: The Plans and Controls team is the watchdog who renders the imperceptible delays visible and who points up the critical elements.
