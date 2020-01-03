@@ -24,6 +24,7 @@
 * grist (n): useful material to support an argument
 * hagiography (n): a biography which is uncritically supportive of its subject
 * hirsute (adj): hairy
+* impishly (adv): mischievously
 * importune (v): to harass (someone) persistently for or to do something
 * imprimatur (n): official approval or sanction
 * inchoate (adj): just begun and so undeveloped; rudimentary
@@ -47,6 +48,7 @@
 * purgatory (n): a place or condition of suffering or expiation
 * raise Cain (v): to raise trouble, raise hell
 * rapacious (adj): inordinately greedy, extortionate
+* referendum (n): a vote where an entire electorate is invited
 * rejoinder (n): a sharp or witty reply
 * salient (adj): most noticeable or important
 * samizdat (n): clandestine copying and distribution of banned literature
