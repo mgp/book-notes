@@ -18,6 +18,7 @@
 * epistemic (n): relating to knowledge, cognitive
 * equanimity (n): calmness or composure in difficult situations
 * ersatz (adj): a poor-quality imitation
+* evince (v): to reveal the presence of
 * expiate (v): to make amends, atone
 * facile (adj): ignoring the true complexities of an issue, superficial
 * functionary (n): paper-pusher, bean counter
@@ -34,6 +35,7 @@
 * legerdemain (n): a display of skill or adroitness, wizardry
 * leitmotif (n): a dominant or recurring theme
 * magisterial (adj): having or showing great authority
+* martial (adj): warlike
 * mensch (n): a person of integrity and honor
 * métier (n): an activity in which one excels, forte
 * milquetoast (adj): feeble, insipid, or bland
@@ -41,6 +43,7 @@
 * moratorium (n): a temporary suspension of activity
 * oeuvre (n): the complete works of a writer, painter, or other artist
 * opprobrium (n): severe criticism and blame
+* polity (n): a politically organized unit
 * preternatural (adj): beyond what is normal or natural
 * protean (adj): easily and continuously changing
 * provenance (n): the place of origin of something
@@ -50,8 +53,11 @@
 * rapacious (adj): inordinately greedy, extortionate
 * referendum (n): a vote where an entire electorate is invited
 * rejoinder (n): a sharp or witty reply
+* reproach (n): an expression of rebuke, strong disapproval
 * salient (adj): most noticeable or important
+* salvific (adj): leading to salvation
 * samizdat (n): clandestine copying and distribution of banned literature
+* skein (n): a tangled or complicated arrangement, state, or situation
 * simpatico (adj): likeable and easy to get on with
 * simulacrum (n): an unsatisfactory imitation or substitute
 * soi-disant (adj): self-styled, self-proclaimed
