@@ -89,3 +89,54 @@ by Marcus Aurelius
 * When "misfortune" befalls you, think of others who have experienced the same thing. Can you turn this obstacle into a stepping stone?
 * Don't treat inhumane people the way they treat others, lest you become inhumane.
 * It is ridiculous to despite others for their faults and failings, while indulging and excusing your own.
+
+### Book 8
+
+* Happiness is a byproduct of thinking and acting in ways that are just, generous, resolute, purposeful, and free.
+* You can be angry until your head explodes, but it wouldn't change how other people behave.
+* We need to repent not just for the bad things we do, but the good things that we don't do.
+* If you know a person's ruling principles and motivations, nothing they do will surprise you.
+* Welcome correction, and change your thinking to fit reason. Don't twist reason to fit your opinions.
+* If something undesirable happens, don't get angry. All your thoughts and actions should be directed to a purpose.
+* Be grateful to the universe, from which you can never be separated, and to the human family, with which you can always be reunited.
+* You can't hurt in the past or future, only the present. Limit your pain to that moment and it will be bearable.
+* What does it matter to you if someone a thousand years from now utters your name, or has an opinion about you?
+* If your own thoughts are causing you pain, there is no one but you who keeps you from changing them.
+* A mind ruled by reason is a fortress. Take refuge within its walls and you'll be safe and free.
+
+### Book 9
+
+* Each transition of your self entailed the death of what came before. Change is nothing to fear and resist.
+* If your trouble is caused by your opinion of things, change the story you tell yourself.
+* It's in your power to act now, so get moving. Don't wait for the perfect time, perfect environment, or anyone to cheer you.
+* You ask for the gods to deliver you from what you fear. But why not pray for the strength to let go of your desires and fears?
+* It's unreasonable to demand a world with no brazen wrongdoers. You being upset will not bring about utopia.
+* Someone will go astray if they've never been taught to follow the right way. It's your mistake to expect an ignorant person to act like a knowledgeable one.
+
+### Book 10
+
+* *Rationality* is the quality of seeing past appearances to discern the true nature of things.
+* *Equanimity* means the calm acceptance of all that exists and all that happens.
+* *Magnanimity* means greatness of spirit, unmoved by the lure of pleasure, the lust for fame, and the fear of death.
+* Stop wasting energy on procrastination. Your job is to see what needs to be done and then do it, proceeding forward without looking back.
+* As you improve your mind and disposition, your surroundings become more interesting, beautiful, and inspiring – no matter where you are.
+* Focus on improving yourself, for others are outside of your control.
+* Courageously facing challenges and patiently enduring suffering are ways of improving your character and disposition.
+* Healthy eyes enjoy seeing all colors; healthy ears hear all sounds; a healthy nose takes in all scents.
+* A healthy mind perceives all things, accepts all things, and makes use of all things.
+
+### Book 11
+
+* Euripides said "Why be angry at the world? As if the world cares!"
+* Remain calm in the face of those who try to hinder or harm you. If you become angry and hateful, you focus on the obstacle and lose sight of your goal.
+* There's never a reason to announce beforehand that you're going to be fair or generous. Do it, and the action will speak for itself.
+* Far better to have an honest opponent than a false friend.
+* Speak what you really think, not what you think people want to hear.
+* Epictetus said "No one can rob you of your free will."
+
+### Book 12
+
+* Freedom consists of detaching from all those things that are not you, and letting them be whatever they will be.
+* You wonder how most people value their own lives above others, yet value other's opinions of them over their own self-opinions.
+* Internalize your principles so that they become part of you.
+* Remember that everything is opinion, and your opinion is within your power.
