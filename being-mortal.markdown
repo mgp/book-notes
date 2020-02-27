@@ -73,3 +73,21 @@ by Atul Gawande
 * Assisted living isn't built for the sake of older people, but for their children. The children usually decide where the elderly live, and you can see that in the way that places sell themselves.
 * We have replaced the extended family that allows the elderly to make their own choices with a controlled and supervised institutional existence.
 * These institutions are a medically designed answer to unfixable problems, a life designed to be safe but empty of anything the elderly care about.
+
+### 5. A Better Life
+
+* The Three Plagues of nursing home existence are boredom, loneliness, and helplessness.
+* Culture is the sum of shared habits and expectations.
+* In nursing homes, differences in death rates are correlated to the fundamental human need for a reason to live.
+* Pets, plants, and living things replace boredom with spontaneity, loneliness with companionship, and helplessness with the chance to take care of another being.
+* We seek a cause beyond ourselves. By ascribing value to the cause and seeing it as worth making sacrifices for, we give our lives meaning.
+* Death is not meaningless if you see yourself as part of something greater: a family, a community, a society. Or else mortality is only a horror.
+* Above Maslow's level of self-actualization is an existence in people of transcendent desire to see and help others achieve their potential.
+* Medicine and its institutions have an incorrect view on what makes life significant, concentrating on repair of health instead of sustenance of the soul.
+* We put our fates in the hands of people more valued for their technical prowess than for their understanding of human needs.
+* Nursing homes with fewer than twenty people per unit have less anxiety and depression, more socializing and friendship, an increased sense of safety, and more interaction with staff.
+* Making lives meaningful in old age is new, and therefore requires more imagination and invention than making them merely safe does.
+* The very marrow of being human is to retain the freedom to be the authors of our lives – regardless of the limits and travails we face.
+* We want to retain the freedom to shape our lives in ways consistent with our character and loyalties.
+* The battle of being mortal is to avoid becoming so diminished, dissipated, or subjugated that who you are becomes disconnected from who you were or who you want to be.
+* The terror of sickness and old age is not merely the terror of losses one is forced to endure but also the terror of the isolation.
