@@ -33,3 +33,43 @@ by Atul Gawande
 * When the prevailing fantasy is that we can be ageless, the geriatrician demands that we accept that we are not.
 * In a year, fewer than 300 doctors will complete geriatrics training – not enough to replace those going into retirement, or to meet demand.
 * The risk of a fatal car crash with a driver who's 85 or older is more than three times higher than it is with a teenage driver.
+
+### 3. Dependence
+
+* It's not death we fear, but what happens before – losing our hearing, our memory, our best friends, and our way of life.
+* Even if we live well, eventually our losses accumulate to a point where life's daily requirements become more than we can physically and mentally manage on our own.
+* In 1935, with the passage of Social Security, the creation of pensions secured the future of widows, and retirement was no longer exclusive to the rich but a mass phenomenon.
+* The most common complaint of nursing home residents is that "It just isn't home."
+* In 1946 the Hill-Burton Act provided massive amounts of funding for the construction of nine thousand medical facilities over two decades.
+* As medicine became more powerful, the modern hospital emerged as a place where you could go saying "Cure me."
+* Nursing homes were not created to help people face dependency in old age, but instead clear out hospital beds – hence their name.
+* Nursing homes are where half of us will spend a year or more of our lives, but they were never really made for us.
+* Nursing homes – like military training camps, orphanages, and mental hospitals – are "total institutions," or places largely cut off from wider society.
+* Nursing home prioritize medical goals like avoiding bedsores and maintaining residents' weight, but those are means and not ends.
+* Nursing home staff like residents who are "fighters" and "show dignity and self-esteem" until they interfere with the staff's priorities for them. Then they are termed "feisty."
+* Society creates institutions that address societal goals like freeing hospital beds and taking burdens off families' hands.
+* These institutions do not address the goal that matters most to those inside: How to make a life worth living when we're weak and frail and can't fend for ourselves anymore.
+
+### 4. Assistance
+
+* Your chances of avoiding the nursing home are proportional to the number of children you have.
+* Having at least one daughter also seems crucial to the amount of help you will receive.
+* The burdens for today's caregiver have increase from that of a century ago.
+* Assisted living is now regarded as something of an intermediate station between independent living and life in a nursing home.
+* Home is the one way where your priorities hold sway: You decide how to spend your time, how to share your space, and how to manage your possessions.
+* When care providers understand they are entering someone else's home, that changes the power relations fundamentally.
+* Regardless of age, people readily demonstrate a willingness to sacrifice their safety and survival for something beyond themselves, such as family, country, or justice.
+* As people grow older:
+  * they interact with fewer people and concentrate more on spending time with family and established friends
+  * they focus on being rather than doing and on the present more than the future
+* Studies show that we find living to be more emotionally satisfying and stable as time passes, even as old age narrows our lives.
+* How we seek to spend our time may depend on how much time we perceive ourselves to have.
+* When horizons are measured in decades, we desire everything at the top of Maslow's pyramid – achievement, creativity, and self-actualization.
+* When the future ahead is finite and uncertain, our focus shifts to here and now, to everyday pleasures and those closest to you.
+* Assisted living most often is a mere layover from independent living to a nursing home, perpetuating conditions that treat the elderly like preschool children.
+* A study in 2003 found that only 11 percent of assisted living facilities offered privacy and sufficient services to allow frail people to remain in residence.
+* Assisted living puts completing tasks before preserving independence for the elderly, e.g. dressing people instead of letting them dress themselves.
+* While we have very precise ratings for health and safety, we have no good metrics for a place's success in assisting people to live.
+* Assisted living isn't built for the sake of older people, but for their children. The children usually decide where the elderly live, and you can see that in the way that places sell themselves.
+* We have replaced the extended family that allows the elderly to make their own choices with a controlled and supervised institutional existence.
+* These institutions are a medically designed answer to unfixable problems, a life designed to be safe but empty of anything the elderly care about.
