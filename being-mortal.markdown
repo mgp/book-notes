@@ -91,3 +91,36 @@ by Atul Gawande
 * We want to retain the freedom to shape our lives in ways consistent with our character and loyalties.
 * The battle of being mortal is to avoid becoming so diminished, dissipated, or subjugated that who you are becomes disconnected from who you were or who you want to be.
 * The terror of sickness and old age is not merely the terror of losses one is forced to endure but also the terror of the isolation.
+
+### 6. Letting Go
+
+* As people's capacities wane, whether through age or ill health, making their lives better often requires curbing our purely medical imperatives.
+* More than 15 percent of lung cancers occur in non-smokers.
+* The soaring cost of health care has become the greatest threat to the long-term solvency of most advanced nations.
+* In the United States, 25 percent of all Medicare spending is for the 5 percent who are in their final year of life, and most of that money goes toward their last couple months that is of little apparent benefit.
+* Spending on a disease like cancer has a U-shaped curve: High initial costs, tapering if all goes well, and then rising at the end if it proves fatal.
+* Terminally ill cancer patients treated aggressively in intensive care had substantially worse quality of life in their last week than those who received no such interventions.
+* The the same study found six months after death, their caregivers were three times as likely to suffer major depression.
+* Top concerns of people with serious illness include avoiding suffering, strengthening relationships with family and friends, being mentally aware, not being a burden on others, and achieving a sense that their life is complete.
+* Before modern medicine, the time between recognizing that you had a life-threatening ailment and dying was usually days or weeks.
+* People believed death should be accepted stoically, without fear or self-pity or hope for anything more than the forgiveness of God.
+* Death is certain, but the timing isn't. So we struggle with this uncertainty – with how, and when, to accept the battle is lost.
+* The goal of ordinary medicine is to extend life. For hospice, it's to help people with a fatal illness have the fullest possible lives right now.
+* In one study of terminally ill patients, 63 percent of doctors overestimated their patients survival time, while just 17 percent underestimated it.
+* Doctors worry far more about being overly pessimistic than they do about being overly optimistic.
+* A problem is that we have built our medical system and culture around the long tail of possibility for the terminally ill.
+* Raising prices of treatments won't work because people who opt for them aren't thinking of a few added months, but a few years.
+* The only seeming alternative to a market solution is outright rationing – or death panels, as some have charged.
+* Insurers raising questions about doctors' and patients' treatment decisions in terminal illness is now considered political suicide.
+* One study found two thirds of terminal cancer patients having had no discussion with their doctors about goals for end-of-life care, despite being on average four months from death.
+* People who discuss end-of-life preferences with their doctor are more likely to die in peace and in control of their situation, and to spare their family anguish.
+* Studies have found that medicine for the terminally ill can inflict more harm than good – so you only live longer when you stop trying to live longer.
+* Important end-of-life questions:
+  * Do you want to be resuscitated if your heart stops?
+  * Do you want aggressive treatments such as intubation and mechanical ventilation?
+  * Do you want antibiotics?
+  * Do you want tube or intravenous feeding if you can't eat on your own?
+* It's important to define what you want or don't want before you or your relatives find yourselves in the throes of crisis and fear.
+* For the terminally ill, doctors should understand what's important to the patient under the circumstances, and then provide information and advice on the best-fitting approach.
+* Two-thirds of patients are willing to undergo therapies they don't want if that's what their loved ones want.
+* Most patients and their families will never stop all-out treatment: They are riven by doubt and fear and desperation, or are deluded by a fantasy of what medical science can achieve.
