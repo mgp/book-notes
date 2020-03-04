@@ -130,3 +130,39 @@ by Steven Pressfield
 
 * Grandiose fantasies are the sign of an amateur. A professional knows that success, like happiness, is a by-product of work.
 * The professional concentrates on the work and allows rewards to come or not come, whatever they like.
+
+#### Resistance and Isolation
+
+* We're never alone when embarking on an enterprise: The act of courage calls forth infallibly that deeper part of ourselves that supports and sustains us.
+
+#### Resistance and Isolation, Part Two
+
+* Avoid loneliness when writing by imagining the reader, to whom you hope to impart inspiration and wisdom.
+
+#### Resistance and Healing
+
+* The idea that you must complete your healing before you are ready to do your work is a myth.
+* The athlete knows the day will never come when he wakes up pain-free. He has to play hurt.
+* The part of us that we imagine needs healing is not the part we create from; that part is far deeper and stronger. The more troubles you have, the better and richer that part becomes.
+* The part that needs healing is our personal life. But personal life has nothing to do with work.
+* Resistance knows that the more psychic energy we expend dredging and re-dredging the tired, boring injustices of our personal lives, the less juice we have to do our work.
+
+#### Resistance and Support
+
+* Seeking support from friends and family is like having people gathered around your deathbed: It's nice, but when the ship sails, all they can do is stand on the dock waving goodbye.
+* The more energy we spend stoking up on support from colleagues and loved ones, the weaker we become and the less capable of handling our business.
+
+#### Resistance and Rationalization
+
+* The job of rationalization is to keep us from feeling the shame we would feel if we truly faced what cowards we are for not doing our work.
+* It's one thing to lie to ourselves. It's another thing to believe it.
+
+#### Resistance and Rationalization, Part Two
+
+* Instead of showing us fear, which might shame us and impel us to do our work, Resistance brings in rationalization as a spin doctor.
+* What's insidious about the rationalizations that Resistance presents to us is that a lot of them are true – they're legitimate.
+* What Resistance leaves out is that all this means nothing. Tolstoy had thirteen kids and wrote War and Peace.
+
+#### Resistance Can Be Beaten
+
+* Defeating Resistance is like giving birth – it seems impossible until you remember that women have been doing it successfully, with and without support, for fifty million years.
