@@ -264,3 +264,33 @@ by Steven Pressfield
 
 * The professional cannot let himself take humiliation personally. The professional must endure adversity.
 * The professional reminds himself it's better to be in the arena, getting stomped by the bull, than to be up in the stands or out in the parking lot.
+
+#### A Professional Self-Validates
+
+* An amateur lets the negative opinion of others unman him, allowing external criticism to trump his own belief in himself and his work.
+* The professional cannot allow the actions of others to define his reality.
+* Resistance wants us to cede sovereignty to others – to stake our self-worth, our identity, or reason-for-being, on the response of others to our work.
+* The professional recognizes envy-driven criticism and to take it for what it is: the supreme compliment.
+
+#### A Professional Recognizes Her Limitations
+
+* A professional knows she can only be a pro at one thing, and brings in other pros and treats them with respect.
+
+#### A Professional Reinvents Himself
+
+* The professional does not permit himself to become hidebound within one incarnation, however comfortable or successful. He continues his journey.
+
+#### You, Inc.
+
+* Thinking of yourself as a corporation reinforces the idea of professionalism because it separates the artist-doing-the-work from the will-and-consciousness-running-the-show.
+* With success, you-the-writer may get a swelled head, but you-the-boss remember how to take yourself down a peg.
+* Thinking of yourself as a corporation creates a healthy distance on yourself. You're more cold-blooded.
+
+#### A Critter That Keeps Coming
+
+* Resistance yields to turning pro because Resistance has no strength of its own; its power derives entirely from our fear of it.
+* The essence of professionalism is the focus upon the work and its demands, while we are doing it, to the exclusion of all else.
+
+#### No Mystery
+
+* Turning pro is a decision brought about by an act of will. We make up our minds to view ourselves as pros and we do it.
