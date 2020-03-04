@@ -166,3 +166,101 @@ by Steven Pressfield
 #### Resistance Can Be Beaten
 
 * Defeating Resistance is like giving birth – it seems impossible until you remember that women have been doing it successfully, with and without support, for fifty million years.
+
+### Book Two: Combating Resistance
+
+#### Professionals and Amateurs
+
+* Aspiring artists defeated by Resistance all think like amateurs; they have not yet turned pro.
+* The professional loves the game so much he dedicates his life to it. He commits full-time.
+* Resistance hates it when we turn pro.
+
+#### A Professional
+
+* Performing the mundane physical act of sitting down and starting to work sets in motion a mysterious but infallible sequence of events that will produce inspiration.
+
+#### What a Writer's Day Feels Like
+
+* The Principle of Priority states a) you must know the difference between what's urgent and what's important; and b) you must do what's important first.
+* What's important is the work – that's the game you have to suit up for.
+
+#### How to Be Miserable
+
+* An artist committing himself to his calling has volunteered for hell, whether he knows it or not.
+* An artist has to know how to be miserable, and to love being miserable. Because this is war, and war is hell.
+
+#### We're All Pros Already
+
+* All of us are pros in one area: Our jobs.
+* Principles we can take from our workday lives and apply to our artistic aspirations:
+  * We accept remuneration for our labor: We're not here for fun.
+  * We don't over-identify with our jobs: We are not our job descriptions. But the amateur defines himself by his avocation, and takes it so seriously it paralyzes him.
+* The amateur has not mastered the technique of his art, nor does he expose himself to judgment in the real world.
+* Nothing is as empowering as real-world validation, even if it's for failure.
+* Taking a few blows is the price for being in the arena and not on the sidelines. Stop complaining and be grateful.
+
+#### For Love of the Game
+
+* The seeming detachment of the professional is a compensating device to keep him from loving the game so much that he freezes in action.
+* Playing the game for money produces the proper professional attitude. It inculcates the hard-core, hard-head, hard-hat state of mind that always shows up for work and slugs it out.
+* Remember, the muse favors working stiffs. She hates prima donnas.
+* Thinking of yourself as a mercenary implants the proper humanity, purging pride and preciousness.
+
+#### A Professional is Patient
+
+* Resistance gets amateurs to plunge into projects with an overambitious and unrealistic timeline for completion, knowing we can't sustain the intensity and will burn out.
+* Do not be seduced and believe that you can pull off the big score without pain and without persistence.
+* The professional arms himself with patience, not only to give the stars time to align in his career, but to keep himself from flaming out in each individual work.
+
+#### A Professional Seeks Order
+
+* A professional will not tolerate disorder. He will eliminate chaos from his world in order to banish it from his mind.
+
+#### A Professional Demystifies
+
+* A pro views her work as craft, not an art.
+* She doesn't dwell on how holy her creative endeavor is, because that will paralyze her. So she concentrates on the technique.
+* The sign of the amateur is over-glorification of and preoccupation with the mystery.
+
+#### A Professional Acts in the Face of Fear
+
+* The amateur believes he must first overcome his fear to do his work. The professional knows that fear can never be overcome.
+
+#### A Professional Accepts No Excuses
+
+* The professional knows if he caves into procrastinating today, no matter how plausible the pretext, he will be twice as likely to cave in tomorrow.
+* Resistance is like a telemarketer: If you so much as say hello, you're finished. The professional doesn't even pick up the phone – he stays at work.
+
+#### A Professional Plays It as It Lays
+
+* The professional conducts his business in the real world, with adversity, injustice, and bad breaks. The field is level only in heaven.
+
+#### A Professional is Prepared
+
+* Resistance will throw at you stuff that you've never seen before.
+* The goal of the professional is not victory but to handle himself, his insides, as sturdily and steadily as he can.
+
+#### A Professional Dedicates Himself to Mastering Technique
+
+* The professional dedicates himself to mastering technique not because he believes it is a substitute for inspiration, but because he wants to be in possession of the full arsenal of skills when inspiration comes.
+
+#### A Professional Does Not Hesitate to Ask for Help
+
+* An amateur assumes he knows everything, or assumes that he can figure everything out on his own.
+* The professional seeks out the most knowledgeable teacher and listens with both ears.
+
+#### The Professional Distances Herself from Her Instrument
+
+* The professional assesses her instrument – that is the physical, mental, emotional, and psychological being she uses in her work – coolly, impersonally, and objectively.
+
+#### A Professional Does Not Take Failure (Or Success) Personally
+
+* When people say an artist has thick skin, they mean the artist has seated his professional consciousness in a place other than his personal ego.
+* Fear of rejection isn't just psychological, it's biological: Tribes wielded the threat of expulsion to enforce obedience.
+* Taking rejection personally reinforces Resistance. We cannot let external criticism, even if it's true, fortify our internal foe.
+* The professional loves her work, and invests in it wholeheartedly, but she does not forget that the work is not her.
+
+#### A Professional Endures Adversity
+
+* The professional cannot let himself take humiliation personally. The professional must endure adversity.
+* The professional reminds himself it's better to be in the arena, getting stomped by the bull, than to be up in the stands or out in the parking lot.
