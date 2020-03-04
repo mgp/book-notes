@@ -124,3 +124,25 @@ by Atul Gawande
 * For the terminally ill, doctors should understand what's important to the patient under the circumstances, and then provide information and advice on the best-fitting approach.
 * Two-thirds of patients are willing to undergo therapies they don't want if that's what their loved ones want.
 * Most patients and their families will never stop all-out treatment: They are riven by doubt and fear and desperation, or are deluded by a fantasy of what medical science can achieve.
+
+### 7. Hard Conversations
+
+* As incomes rise, doctors become all to ready to offer false hopes, leading families to empty their bank accounts for futile treatments.
+* Countries go through three stages of medical development:
+  1. When a country is in extreme poverty, most deaths occur in the home because people lack access to professional treatment.
+  1. When the economy develops and people reach higher income levels, medical capabilities become more widely available, and people often die in the hospital.
+  1. When a country climbs to its highest income levels, people have the means to be concerned about the quality of their lives, even in sickness, and deaths at home rise again.
+* Patients tend to be optimists, even if that makes them prefer doctors who are more likely to be wrong.
+* The oldest clinical relationship is _paternalistic_, where doctors are medical authorities who ensure patients receive what they believe is best.
+* The paternalistic relationship is often denounced but remains common with vulnerable patients like the frail, the poor, and the elderly.
+* In an _informative_ relationship, a doctor provides facts and figures, and the rest is up to the patient.
+* The informative relationship causes doctors to know less and less about their patients, but more and more about their science.
+* An _interpretive_ relationship balances information and control with guidance, where the doctor helps patients decide what they want.
+* It is necessary and right for a doctor to deliberate with people on their larger goals, and challenge them to re-think ill-considered priorities and beliefs.
+* An _informative_ relationship falls short because patients want the meaning behind the information, not just the facts.
+* A doctor should tell the patient what the information means to him or herself.
+* To talk about bad news with people: Ask what they want answered, tell them the answer, and then ask what they understood.
+* The closing phase of modern life is often a mounting series of crises from which medicine offers only brief and temporary rescue.
+* Autonomy means not being able to control life's circumstances, but getting to control what you do with them.
+* Life is choices, and they are relentless. No sooner have you made one choice than another is upon you.
+* Clinicians always feel the pressure to do more, because they only mistake they seem to fear is doing too little.
