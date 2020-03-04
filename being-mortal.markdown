@@ -153,9 +153,9 @@ by Atul Gawande
 * Two kinds of courage are required in aging and sickness: The courage to confront the reality of mortality, and then to act on the truth you find.
 * In the end, we must decide whether one's fears or one's hopes are what should matter most.
 * When approaching the end and evaluating options, we should ask:
-  1. What are your biggest fears and concerns?
-  1. What goals are most important to you?
-  1. What trade-offs are you willing to make, and what ones are you not?
+  * What are your biggest fears and concerns?
+  * What goals are most important to you?
+  * What trade-offs are you willing to make, and what ones are you not?
 * We evaluate experiences like suffering in two ways: How we apprehend them in the moment, and how we look at them afterward.
 * The "Peak-End rule" says after painful experiences, we weigh two points most: The worst moment and the last one.
 * We have two selves: a "experiencing self" that endures every moment equally, and a "remembering self" that obeys the Peak-End rule.
