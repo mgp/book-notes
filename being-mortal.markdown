@@ -146,3 +146,34 @@ by Atul Gawande
 * Autonomy means not being able to control life's circumstances, but getting to control what you do with them.
 * Life is choices, and they are relentless. No sooner have you made one choice than another is upon you.
 * Clinicians always feel the pressure to do more, because they only mistake they seem to fear is doing too little.
+
+### 8. Courage
+
+* Courage is the strength in the face of knowledge of what is to be feared or hoped. Wisdom is prudent strength.
+* Two kinds of courage are required in aging and sickness: The courage to confront the reality of mortality, and then to act on the truth you find.
+* In the end, we must decide whether one's fears or one's hopes are what should matter most.
+* When approaching the end and evaluating options, we should ask:
+  1. What are your biggest fears and concerns?
+  1. What goals are most important to you?
+  1. What trade-offs are you willing to make, and what ones are you not?
+* We evaluate experiences like suffering in two ways: How we apprehend them in the moment, and how we look at them afterward.
+* The "Peak-End rule" says after painful experiences, we weigh two points most: The worst moment and the last one.
+* We have two selves: a "experiencing self" that endures every moment equally, and a "remembering self" that obeys the Peak-End rule.
+* When our time is limited and we are uncertain how to best serve our priorities, we must consider both of our selves.
+* As time goes on, we have narrower confines in which we have room to act and to shape our stories.
+* Our most cruel failure in treating the sick and aged is failing to recognize that beyond merely being safe and living longer, they want to shape their story.
+* With assisted suicide, the debate is about what mistakes we fear most: that of prolonging suffering versus that of shortening valued life.
+* Only a minority of people saved from suicide make a repeated attempt; the vast majority eventually report being glad to be alive.
+* Our ultimate goal is not a good death, but a good life to the very end.
+* Assisted living is far harder than assisted death, but its possibilities are far greater as well.
+* Technological society has forgotten the importance of the "dying role" to people nearing the end: They want to share memories, pass on wisdoms and keepsakes, settle relationships, establish their legacies, make peace with God, and ensure those left behind will be okay.
+* Endings matter not just for the person, but perhaps even more for the ones left behind.
+
+### Epilogue
+
+* The job of doctors is not just to ensure health and survival, but to enable well-being.
+* Whenever serious sickness or injury strikes, the vital questions are always:
+  * What is your understanding of the situation and potential outcomes?
+  * What are your fears and what are your hopes?
+  * What are the trade-offs you are willing to make and not willing to make?
+  * And what is the course of action that best serves this understanding?
