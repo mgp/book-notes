@@ -294,3 +294,69 @@ by Steven Pressfield
 #### No Mystery
 
 * Turning pro is a decision brought about by an act of will. We make up our minds to view ourselves as pros and we do it.
+
+### Book Three: Beyond Resistance
+
+#### Angels in the Abstract
+
+* As Resistance works to keep us from becoming who we were born to be, our "angels" are equal and opposite powers counterpoised against it.
+
+#### Approaching the Mystery
+
+* Nothing else matters except sitting down every day and trying. When we sit down and work, ideas come and insights accrete.
+
+#### Invoking the Muse, Part Two
+
+* A poet proficient in technique will produce sane compositions; but a poet touched by the madness of the Muses will create performances that utterly eclipse them.
+* The Greeks believed the universe was not indifferent, and that the gods take an interest in human affairs, interceding for good or ill in our designs.
+
+#### Testament of a Visionary
+
+* William Blake said "Eternity is in love with the creations of time." Pressfield thinks this means creatures of a higher sphere take joy in what us time-bound beings bring into physical existence, and may also nudge us to produce them.
+
+#### Invoking the Muse, Part Three
+
+* There is magic to effacing our human arrogance and humbly entreating help from a source we cannot see, hear, touch, or smell.
+
+#### The Magic of Making a Start
+
+* One of Goethe's couplets is: "Whatever you can do, or dream you can, begin it. Boldness has genius, magic, and power in it. Begin it now."
+* When we conceive an enterprise and commit to it in the face of our fears, angel midwives congregate around us, and assist us as we give birth to that person we were born to be.
+
+#### The Magic of Keeping Going
+
+* The process of self-revision and self-correction is so often that we don't even notice. It goes to work and it seems to enjoy it.
+
+#### Life and Death
+
+* Faced with imminent extinction, all assumptions are called into question: What does our life mean? Have we lived it right? What's left undone or unspoken?
+* Jung says that:
+  * The Ego is the part of the psyche that we think of as "I," our conscious intelligence.
+  * The Self is the greater entity, which includes the Ego and the Personal and Collective Unconsciousness. It is the sphere of the soul.
+* When we learn that we may soon die, our consciousness shifts from the Ego to the Self, and our new world view shows us what's really important.
+
+#### The Ego and the Self
+
+* The Self wishes to create and evolve, while the Ego likes things just the way they are. The two fight.
+
+#### Experiencing the Self
+
+* Dreams come from the Self. Ideas come from the Self. When we deliberately alter our consciousness in any way, we're trying to find the Self.
+* The Self is our deepest being, united to God, incapable of falsehood. It is ever-growing and ever-evolving, and speaks for the future.
+* The Ego hates this instinct that pulls us toward art – the impulse to evolve, to learn, to heighten and elevate our consciousness.
+* Such evolution is life-threatening to the Ego, which produces Resistance and attacks the awakening artist.
+
+#### Fear
+
+* Our great fear is that we succeed – we access the powers we secretly know we possess, and become the person we sense in our hearts we truly are.
+* This is the most terrifying prospect a person can face, because he imagines it ejects him from all the tribal inclusions his psyche is wired for.
+* We fear this because it estranges us from all we know. But we are not alone, because we tap into an inexhaustible source of wisdom, consciousness, and companionship.
+
+#### The Authentic Self
+
+* None of us are born as passive generic blobs waiting for the world to stamp its imprint on us. We are born with a highly refined and individuated soul.
+* Our job in this lifetime is not to shape ourselves into some ideal we imagine we ought to be, but to find out who we already are and become it.
+
+#### Territory Versus Hierarchy
+
+* Individuals define themselves in one of two ways: by their rank within a hierarchy, or by their connection to a territory.
