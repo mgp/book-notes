@@ -360,3 +360,47 @@ by Steven Pressfield
 #### Territory Versus Hierarchy
 
 * Individuals define themselves in one of two ways: by their rank within a hierarchy, or by their connection to a territory.
+
+#### The Hierarchical Orientation
+
+* School, advertising, and the entire materialist culture drills into us to define ourselves by others' opinions. This creates hierarchy.
+* The hierarchical orientation breaks down when the numbers get too big. We thrash about, flashing our badges of status and wondering why no one gives a shit.
+
+#### The Artist and the Hierarchy
+
+* Those with a hierarchical orientation evaluate their happiness by their rank, act hostile toward others based on their rank, and evaluate every move based on its effect on others.
+* The artist cannot look to others to validate his efforts or his calling. He must operate territorially, and do his work for its own sake.
+
+#### The Definition of a Hack
+
+* A hack is a writer who second-guesses his audience. He doesn't ask what's in his own heart, but what the market is looking for.
+* The hack writes hierarchically.
+* Even if you succeed as a hack commercially, you've lost, because you've sold out your – the best part of yourself, where your fines and only true work comes from.
+
+#### The Territorial Orientation
+
+* We humans have territories: they provide sustenance, they sustain us without any external input, they can only be claimed alone, they can only be claimed by work, and they return exactly what you put in.
+
+#### The Artist and the Territory
+
+* The act of creation is by definition territorial.
+* Ask what you feel growing inside you. Then bring that forth for its own sake, and not for what it can do for you or advance your standing.
+
+#### The Difference Between Territory and Hierarchy
+
+* To tell if your orientation is territorial or not, ask: If you were feeling really anxious, what would you do? Would you seek the opinion of others or not?
+* Or of any activity you do, ask yourself: If I were the last person on earth, would I still do it? If you'd still do it, you're acting territorially.
+
+#### The Supreme Virtue
+
+* Contempt for failure is the cardinal virtue of an artist.
+
+#### The Fruits of Our Labor
+
+* You have the right to your labor but not to the fruits of your labor. This orients you to act territorially, not hierarchically.
+* We must do our work for its own sake, not for the fortune or attention or applause.
+
+#### The Artist's Life
+
+* Creative work is not a selfish act or a bid for attention. It's a gift to the world and every being in it.
+* Don't cheat the world of your contribution. Give it what you've got.
