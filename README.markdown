@@ -51,7 +51,7 @@ Completed notes from books that I've finished reading. In rare cases, notes for 
 * [Never Split The Difference](never-split-the-difference.markdown) by Chris Voss
 * [ppk on JavaScript, 1st Edition](ppk-on-javascript.markdown) by Peter-Paul Koch
 * [Pragmatic Learning & Thinking](pragmatic-learning-and-thinking.markdown) by Andy Hunt
-* [Pro Git](pro-git.markdown)
+* [Pro Git](pro-git.markdown) by Scott Chacon
 * [Rework](rework.markdown) by Jason Fried and David Heinemeier Hansson
 * [Rocket Surgery Made Easy](rocket-surgery-made-easy.markdown) by Steve Krug
 * [Switch](switch-how-to-change-things-when-change-is-hard.markdown) by Chip Heath and Dan Heath
@@ -96,15 +96,15 @@ Notes from things that I've read or watched on the web:
 
 * [Auto Layout Guide](auto-layout-guide.markdown)
 * [Core Data Programming Guide](core-data-programming-guide.markdown)
-* [Effective Tech Lead notes](effective-tech-lead-notes.markdown)
 * [Eric Barker newsletter](eric-barker-newsletter.markdown)
 * [First Round Capital: The Review](first-round-capital-the-review.markdown)
-* [High Scalability notes](high-scalability-notes.markdown)
+* [High Scalability](high-scalability-notes.markdown)
 * [Khan Academy finance and capital markets](khan-academy-finance-and-capital-markets.markdown)
 * [Leanpub Manual](leanpub-manual.markdown)
+* [On being an effective tech lead](effective-tech-lead-notes.markdown)
 * [SQLAlchemy 0.7.8 Documentation](https://github.com/mgp/book-notes/blob/master/sqlalchemy.markdown)
 * [The Swift Programming Language: Language Guide](the-swift-programming-language.markdown)
-* [vimtutor notes](vimtutor.markdown)
+* [vimtutor](vimtutor.markdown)
 
 ### Other
 
