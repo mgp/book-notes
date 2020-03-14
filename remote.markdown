@@ -59,3 +59,70 @@ by Jason Fried and David Heinemeier Hansson
 
 * Legal, accounting, payroll, and advertising may already be done outside your company's walls, and outside your management's direct control.
 * Every day this kind of remote work works, and no one considers it risky, reckless, or irresponsible.
+
+### Chapter 2: Dealing With Excuses
+
+#### Magic only happens when we're all in a room
+
+* Magic is not coming up with The Next Big Thing, but instead making better the thing that you already thought of six months ago.
+* Meeting too frequently in-person to ponder breakthrough ideas means giving up on the last great idea that still requires follow-up, or further stuffing the backlog of great ideas.
+
+#### If I can't see them, how do I know they're working?
+
+* If you run your ship with the conviction that everyone's a slacker, your employees will put all their ingenuity into proving you right.
+* If you can't let your employees work from home out of fear they'll slack off without your supervision, you're a babysitter, not a manager.
+* You shouldn't hire people you don't trust, or work for bosses who don't trust you.
+
+#### People's homes are full of distractions
+
+* The number one counter to distractions is interesting, fulfilling work.
+* Resorting to distractions warns you that your work is not well defined, or our tasks are menial, or the whole project we're engaged in is fundamentally pointless.
+* If you're at a dead-end job that has no prospect of stimulating or fulfilling work, you don't need a remote position – you need a new job.
+
+#### Only the office can be secure
+
+* A simple security checklist:
+  * All computers must have hard drive encryption.
+  * Make sure all smartphones and tablets use lock codes and can be wiped remotely – they need be treated with as much respect as your laptop.
+  * Use a unique, generated, long-form password for each site you visit, managed by a program like 1Password.
+  * Turn on two-factor authentication for Gmail – because if your Gmail security fails, then all your accounts are vulnerable to password resets.
+
+#### Who will answer the phone?
+
+* Being available for a one-off 11pm or 5am must-do phone call is a small price to pay for the freedom of remote work.
+
+#### Big business doesn't do it, so why should we?
+
+* Looking to big business for productivity tips is a bad idea – you should be innovating and disrupting by doing things differently from those before you.
+* To institute remote work, you need the confidence that you see a smarter way of working when everyone else is sticking to business as usual.
+
+#### Others would get jealous
+
+* Some say we should all suffer equally and in unity, but if working remotely is such an obvious good, then you should allow everyone who can to work remotely.
+* You're all in the game to find the best way to work, where the most productive and happiness-inducing setup wins.
+
+#### What about culture?
+
+* Culture is the spoken and unspoken values and actions of the organization.
+* Culture is incredibly important when it comes to loosening the leash, because stronger cultures require less explicit training and supervision.
+* Having people work remotely forces you to forgo the illusion that building a company culture is just about in-person social activities.
+
+#### I need an answer now!
+
+* There's nothing more arrogant than taking up someone's time with a question that you don't need an answer to right now.
+* 80 percent of your questions aren't so time-sensitive after all, and are often better served by asynchronous communication than by walking over to someone's desk.
+
+#### But I'll lose control
+
+* Many arguments against working remotely are based on the fear of losing control.
+* To such alpha males and females, having someone under "direct supervision" means having them in their literal line of sight.
+* To fight against someone's fear of losing control, start small and show that the world doesn't fall apart when you work remotely for one day. And then ramp up.
+
+#### We paid a lot of money for this office
+
+* Money spent on the office is a sunk cost.
+* The only thing that matters regarding where to work is whether the office is a more productive place or not.
+
+#### That wouldn't work for our size or industry
+
+* There are very few industries left in which working remotely can categorically be ruled out.
