@@ -126,3 +126,56 @@ by Jason Fried and David Heinemeier Hansson
 #### That wouldn't work for our size or industry
 
 * There are very few industries left in which working remotely can categorically be ruled out.
+
+### Chapter 3: How To Collaborate Remotely
+
+#### Thou shalt overlap
+
+* You need four hours of overlap to avoid collaboration delays and feel like a team.
+* You'll probably get far more done when only half your workday overlaps with the rest of your team, allowing for maker time.
+* Access to one-of-a-kind talent is a good reason to break this rule, but saving money is not.
+
+#### Seeing is believing
+
+* Most of the magic that people ascribe to sitting together in a room is really just being able to see and interact with the same stuff.
+* When recording a screen-cast, don't worry about it being perfect. Just let the tape roll and it will be more than "good enough."
+
+#### All out in the open
+
+* Avoid locking up important stuff in a single person's computer or inbox.
+* Put all important stuff out in the open, and no one will have to chase down a wild goose in order to get their work done.
+
+#### The virtual water cooler
+
+* Have a virtual water cooler where you can spend mindless breaks with your team.
+
+#### Forward motion
+
+* To instill a sense of company cohesion and to share forward motion, everyone needs to feel like they're in the loop.
+* We all have a natural instinct to avoid letting our team down, so when that commitment becomes visual, it gets reinforced.
+* It's a lot harder to bullshit your peers than your boss.
+* Progress is a joy best shared with coworkers.
+
+#### The work is what matters
+
+* When you can't see someone all day long, the only thing to evaluate is the work.
+* When it's all about the work, it's clear who in the company is pulling their weight and who isn't.
+
+#### Not just for people who are out of town
+
+* If you're an owner or manager, letting local people work remotely is a great first step toward seeing if remote work is right for you.
+* Try it for at least three months, to allow everyone to adjust and settle into their new rhythm.
+
+#### Disaster ready
+
+* Forcing everyone into the office every day is an organizational single point of failure.
+* While natural disasters are infrequent, personal "disasters" strike regularly, and at such times the ability to work remotely is essential.
+* Whatever the work throws at it, a distributed workforce is one that can keep working regardless.
+
+#### Easy on the M&Ms
+
+* The further away you are from meetings and managers (the M&Ms), the more work gets done.
+* Meetings are major distractions, as they require multiple people to drop whatever it is they're doing and instead do something else.
+* If you're in a room with five people for an hour, it's a five hour meeting.
+* Working remotely makes it easier to spot managers drumming up busywork for themselves and for others.
+* When management is forced to manage remotely using email, chat, and so on, its intervention is much more purposeful and compressed, and we can just get on with the actual work.
