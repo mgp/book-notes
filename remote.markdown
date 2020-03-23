@@ -179,3 +179,48 @@ by Jason Fried and David Heinemeier Hansson
 * If you're in a room with five people for an hour, it's a five hour meeting.
 * Working remotely makes it easier to spot managers drumming up busywork for themselves and for others.
 * When management is forced to manage remotely using email, chat, and so on, its intervention is much more purposeful and compressed, and we can just get on with the actual work.
+
+### Chapter 4: Beware the Dragons
+
+#### Cabin fever
+
+* Instead of interacting with coworkers, even more satisfying interaction comes from interacting with your spouse, your children, your family, your friends, and your neighbors.
+* Alternatively, find a co-working space, or wander out into the real world.
+
+#### Check-in, check-out
+
+* A manager's instinct is to worry about his workers getting too little done, but the real threat is that they'll get too much done. And because the manager isn't sitting across from his worker anymore, he can't see the burnout.
+* To help set a healthy boundary for ending the day, look at your progress toward the end and ask, "Have I done a good day's work?"
+* If yesterday was a good day's work, chances are you'll stay on a roll. And if you stay on a roll, everything else will probably take care of itself.
+
+#### Ergonomic basics
+
+* Ergonomic equipment may seem expensive, but it's a bargain if it means not ruining your back, your eyesight, or any other part of your anatomy.
+
+#### Mind the gut
+
+* Without a conscious effort to the contrary, working from home will likely afford less opportunity to hit your recommended 10,000 steps per day.
+* Studies vary, but office workers on average take between two-thousand and four-thousand steps per day.
+* Find excuses to move, such as walking to a café for lunch, taking your dog for a walk, or running on a treadmill.
+
+#### The lone outpost
+
+* To give remote a try, you must set free an entire team (including project management and stakeholders) for longer than it takes to break in a new pair of shoes.
+* The new work arrangement will come with trade-offs, and it's important for everyone to feel those trade-offs together.
+
+#### Working with clients
+
+* When pitching businesses, let the prospective client know up front that you don't live where they live.
+* Provide references before they even asks in order to build trust.
+* Show work often in order to chip away at the client's natural situational anxiety.
+* Be very available. If you're local, the client often feels like "they know where you live" and can always knock on your door.
+* Get the client involved and let them follow along, so that they feel like this is their project too.
+
+#### Taxes, accounting, laws, oh my!
+
+* In the United States, people can work remotely from anywhere in the country.
+* Having a remote worker out of state establishes a "nexus" for your company there, which can lead to paying additional taxes in that state.
+* There are two ways to higher people internationally: establish a local office, or hire people as contractors.
+* It's probably best just to start out hiring people as contractors.
+* To qualify as a contractor, one has to work on self-directed work, and must incorporate him or herself or otherwise be recognized as a company in their own right, so that they can send invoices.
+* If you feel uncomfortable, you can always hire lawyers or accountants who specialize in this stuff.
