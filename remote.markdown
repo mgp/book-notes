@@ -224,3 +224,67 @@ by Jason Fried and David Heinemeier Hansson
 * It's probably best just to start out hiring people as contractors.
 * To qualify as a contractor, one has to work on self-directed work, and must incorporate him or herself or otherwise be recognized as a company in their own right, so that they can send invoices.
 * If you feel uncomfortable, you can always hire lawyers or accountants who specialize in this stuff.
+
+### Chapter 5: Hiring and Keeping the Best
+
+#### It's a big world
+
+* The majority of hassle in adjusting to remote work exists as soon as you're not sitting in the same office, and so the incremental hassle of working in different cities or even different countries is negligible.
+* Thinking internationally not only dramatically increases the size of the applicant pool, but makes you a better fit for tackling global markets.
+* You need solid writers to make remote work work, and a solid command of your home language is key.
+
+#### Life moves on
+
+* People who've been with the company a long time make ideal remote workers, because they already know everyone, how everything works, and what they need to do.
+* Keeping a solid team together for a long time is a key to peak performance.
+* Doing great work with great people is one of the most durable sources of happiness we can tap into.
+
+#### Keep the good times going
+
+* Human connection is even more important when hiring remote workers because it has to be stronger to survive the difference.
+* Over chat and email, small understandings that could have been nipped in the bud with a wink of an eye or a certain tone of voice can snowball into drama.
+* A manager of remote workers needs to make an example of the small stuff – things like snippy comments or passive-aggressive responses.
+
+#### Seeking a human
+
+* Smart solutions, friendly service, and edgy design all happen in the intersection between professional skill and life experience.
+* Having people work remotely carries the risk of narrowing their lives.
+* A manager directing a remote workforce has to ensure that a diversity of human experience happens for his troops.
+
+#### No parlor tricks
+
+* When hiring you must evaluate the candidate's work, as the main way you'll communicate is through the work itself.
+* If the quality isn't there, it will be apparent from the moment the person starts – and you'll have wasted everyone's time by hiring on circumstantial evidence.
+* For positions that don't lend themselves to portfolio accumulation, pose real-world problems as part of the application.
+
+#### The cost of thriving
+
+* Companies that offer equal pay for equal work across geographies have an almost unfair advantage in attracting and keeping the best people anywhere.
+* If with regard to compensation you accept being treated as a second-class worker based on location, you open to being treated poorly on other matters as well.
+
+#### Great remote workers are simply great workers
+
+* Remote work gives back the edge to quiet-but-productive workers who often lose out in a traditional office environment.
+* When work product is out in the open, it's easier to see who's actually smart as opposed to who simply sounds smart.
+* But in an office, we take a mental shortcut: In the office from 9–5 + nice = must be a good worker.
+
+#### On writing well
+
+* The first filter that really matters is the cover letter explaining why there's a fit between applicant and company.
+* In hiring for remote-working positions, managers should be ruthless in filtering out poor writers.
+* Focus on clarity first, style second.
+
+#### Test project
+
+* The best way to accurately judge work is to hire the person to do a little work before hiring them to do a lot of work.
+* Make the pre-hire project meaningful. Make it about creating something new that solves a problem.
+
+#### Meeting them in person
+
+* Before hiring someone to work remotely, meet them in person. This allows you to get a feel for their character.
+* The prospective teammate is going to be working with their teammates a lot more than their manager, so it's important for them to get a good feel for this person.
+
+#### Contractors know the drill
+
+* Contracting is an excellent way for both a company and the person being hired to ease into remote work and try it on for size.
+* Someone who's had a chance to taste the dysfunction of several companies as a contractor is more likely to appreciate a company that actually _gets_ remote work.
