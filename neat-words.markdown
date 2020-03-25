@@ -45,6 +45,7 @@
 * opprobrium (n): severe criticism and blame
 * polity (n): a politically organized unit
 * preternatural (adj): beyond what is normal or natural
+* pro forma (adv): as a matter of form or politeness
 * protean (adj): easily and continuously changing
 * provenance (n): the place of origin of something
 * puerile (adj): childishly silly and trivial
