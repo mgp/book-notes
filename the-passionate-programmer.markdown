@@ -86,3 +86,70 @@ by Chad Fowler
 * Many people have no idea why they are in the IT field, and their performance on the job reflects it.
 * Natural talent plays a big role in ability, but we can all take a big step away from mediocrity by finding work that we are passionate about.
 * You can fake it for a while, but a lack of passion will catch up with you and your work.
+
+### Part 2: Investing in Your Product
+
+* To have a great product to sell on the job market, you must invest in that product.
+* In business, ideas and even talent are a dime a dozen. It's the blood, sweat, tears, and money you pour into a product that makes it really worth something.
+
+#### Tip 11: Learn to Fish
+
+* Education requires both a teacher and a student, and many of us are too often reluctant to be a student.
+* Don't be at the mercy of others for expertise in tools or technology. Don't take expertise of these things for granted.
+* Someone ignorant of their business domain lets mistakes slip through that should be easily caught, and will be slower than someone who understands the business.
+* Ask yourself "How does this work?" and "Why does this happen?" to learn about things. Moreover this puts you in a new frame of mind and generates a higher level of awareness about your work environment.
+* Pick a critical tool you use, and then allot yourself time each day to learn one new thing about it that will make you more productive.
+
+#### Tip 12: Learn How Businesses Really Work
+
+* The basics of business finance is one body of knowledge that is neither technical nor domain-specific and won't be outdated anytime soon.
+* You work for a business, and your job is to contribute to either making or saving money for that business.
+* You cannot creatively help a business be profitable if you don't even understand how the business works.
+* Understand whether your organization is a cost center or a profit center.
+
+#### Tip 13: Find a Mentor
+
+* The first and most important purpose that a mentor serves is that of a role model.
+* A role model sets the standard for what "good" means. Without a role model, there's no incentive to get better.
+* A mentor can give structure to your learning process, helping you take some of the choice out of what to focus your energies on.
+* A mentor is someone you can trust enough to ask "What should be different about me as a professional?" because they'll not only criticize you, but help you improve.
+* As a mentor, your role is to help someone, and so you become invested in that person's success. Their success is your success as well.
+* A mentor becomes a positively reinforced connection from you to his or her network, because it's not what you know, but whom you know.
+* Find a role model, and define the ten most important attributes of them. Devise concrete tasks to improve on attributes you perceive as very important but you are unskilled at.
+
+#### Tip 14: Be a Mentor
+
+* There is no better way to crystallize your understanding of something than to make it understandable and teachable to someone else.
+* When you teach, you have to answer questions that may never have occurred to you.
+* You find a mentee not by proclaiming yourself a guru but by being knowledgeable and willing to patiently share that knowledge.
+* Mentoring is about people, and so an online mentoring relationship can never compare to one that happens between two people in the same place.
+
+#### Tip 15: Practice, Practice, Practice
+
+* In the computer industry, it's common to find developers stretched to their limits.
+* Our industry tends to practice on the job, but like many professionals, we need to make time for practice.
+* If we're going to compete based on quality, we have to stop treating our jobs as a practice session. We have to invest the time in our craft.
+* If you sit down to practice coding and nothing elegant comes out, you're probably not near the edges of your capabilities, where a good practice session should place you.
+* To sight read code would mean to understand what you're looking at as quickly as possible.
+* To sharpen your mind and improve your improvisational coding skills is to pick a program, and to write it with self-imposed constraints.
+
+#### Tip 16: The Way That You Do It
+
+* Take your eye off the process of developing software, and you risk delivering late, delivering the wrong thing, or not delivering at all.
+* For a software process to have any chance of being implemented successfully, it has to be embraced by the people who are using the process.
+* The best way to feel ownership of processes is to help implement them.
+* The methodology world is full of buzzwords, but you can always learn *something* from the study of a software process – even if it's what not to do.
+* The best process to follow is the one that makes your team most productive and results in the best products.
+* Study the available options, pick out the pieces that make sense to you and your team, and continuously refine them based on real experience.
+* It's much easier to find someone who can make software work than it is to find someone who can make the *making of* software work.
+
+#### Tip 17: On the Shoulders of Giants
+
+* Studying the work of masters is an essential part of becoming a master.
+* Even more important than finding solutions to specific problems is the use of existing code as a magnifying mirror to inspect our own style and capabilities.
+* By looking at the code of others with a critical eye, you will start to develop your own tastes, just as you would for music, art, or literature.
+
+#### Tip 18: Automate Yourself into a Job
+
+* To increase software development throughput, you can get faster people to do the work, get more people to do the work, or automate the work.
+* To provably make better software faster and cheaper than your offshore competition, automate your work.
