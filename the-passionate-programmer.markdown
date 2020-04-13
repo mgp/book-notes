@@ -153,3 +153,127 @@ by Chad Fowler
 
 * To increase software development throughput, you can get faster people to do the work, get more people to do the work, or automate the work.
 * To provably make better software faster and cheaper than your offshore competition, automate your work.
+
+### Part 3: Executing
+
+* You likely work for an institution that tries to make money. Your job is to do something to help the organization meet that goal.
+* To be successful, raw ability will only get you so far. The final stretch is populated by closers – people who finish things.
+
+#### Tip 19: Right Now
+
+* Parkinson's law states that "Work expands so as to fill the time available for its completion."
+* Even a manufactured sense of urgency allows you to double or triple your productivity. You get it done instead of talking about getting it done.
+* Always be the one to ask "But what can we do _right now_?"
+
+#### Tip 20: Mind Reader
+
+* Doing what your customers ask for will satisfy them. But doing more than they ask for, or doing things before they even ask it, will delight them.
+* To hedge, only do the guesswork that you can fit in between the cracks of your normal job so the impact is little to none.
+* People who can keep a project moving in the right direction without given much guidance are highly valued and appreciated by their overworked managers and customers.
+
+#### Tip 21: Daily Hit
+
+* Becoming a standout performer is more likely with some specific and intentional work. Ask how you can increase the *visible* instances of this behavior.
+* When you start to search for outstanding accomplishments, you naturally evaluate and prioritize your activities based on their business value.
+* Tracking hits, or accomplishments, at a reasonably high frequency will ensure that you don't get stuck. Moreover you get addicted to achieving them daily.
+
+#### Tip 22: Remember Who You Work For
+
+* It's hard to align your work with the goals of the business when you're buried under so many organizational layers that you hardly know what your business is.
+* Start by aligning your team, which is small and focused enough that you can conceptually wrap yourself around it.
+* Or else ask your manager: In a well-structured environment, your manager's goals are your team's goals, and so solving your manager's problems solves your team's problems.
+* Your manager's goals are also his or her manager's goals, and so on up to the CEO – and so doing your small part helps fulfill the company's goals.
+* A job well done by the team is a job well done by the manager. Your manager may share credit for your work, but he or she reciprocates with performance reviews, raises, and promotions.
+* Understand your manager's goals for the team over the coming month, quarter, and year. Prioritize your work based on these goals.
+
+#### Tip 23: Be Where You're At
+
+* If you spend your time mentally living in your next role or your next job, you're usually doing a mediocre job in your current role.
+* If you're a mediocre performer with a bad attitude and you're convinced you have "high potential," beware: Your company doesn't make money because of potential.
+* Furthermore, your attitude makes your managers want to stop investing in you.
+* Even if you finally land that promotion you've been dreaming about, you'll quickly grow tired and realize that it's not this job you were meant for – but the _next_ one.
+* Keeping your mind focused on the present gets you further toward your goals than keeping your mind focused on the goal itself.
+* Focusing on the present allows you to enjoy the small victories of daily work life.
+* By focusing on the present you'll feel better, those around you will feel it as well, and it will show in your work.
+
+#### Tip 24: How Good a Job Can I Do Today?
+
+* Boring work is usually boring for two reasons: It isn't a creative outlet, and it's not challenging.
+* To make boring work both creative and challenging, make it a goal to do the boring stuff _perfectly_.
+* Look at your workday and ask yourself "How good a job can I do today?"
+
+#### Tip 25: How Much Are You Worth?
+
+* Assuming you cost your employer twice your salary, ask whether your positive impact on the company's bottom line is bigger than that number.
+* You work for a business, and unless you provide some real value, you are a waste of money. Salary increases are not an entitlement.
+* To make how much value you add concrete, ask your manager about how to best quantify it.
+* The *time value of money* says that a dollar today is worth more than a dollar next year, because the dollar today can be used to make more dollars.
+* Many investments have to yield an agreed-upon percentage in an agreed-upon period of time, or they aren't made. This is called the *hurdle rate*.
+
+#### Tip 26: A Pebble in a Bucket of Water
+
+* In few cases does a company feel a significant impact from an employee's departure. Even in critical positions, the effect is surprisingly low.
+* If you left tomorrow, the difference would be (on the average) no more or no less impactful than if any of your co-workers left.
+* The more successful you are, the more likely you are to make a fatal mistake. You become arrogant, and with arrogance you develop blind spots.
+* Attempting to be irreplaceable is a defensive maneuver that creates a hostile relationship with your employer where one may not have already existed.
+* For any code or task where the team depends completely on you, document, automate, or refactor it so that it can be easily understood by anyone on your team.
+
+#### Tip 27: Learn to Love Maintenance
+
+* We crave "project work" over "maintenance work" because we believe it allows us to be creative and is a chance to make steps toward a promotion.
+* When we don't have the constraints of legacy code and lack of funding to deal with, our managers and customers expect more from us.
+* If you don't deliver on project work, you've failed, and suddenly your every move is dictated from above.
+* With maintenance work, you're only expected to keep the software running smoothly and for as little money as possible.
+* As long as you're keeping things running and responding to user requests in a timely fashion, maintenance mode is a place of freedom and creativity.
+* In maintenance mode you can interact directly with customers. So you can build a larger base of advocates in your business, and learn the inner workings of your business.
+* Moreover project work is maintenance: As soon as you've written your first line of code, each additional feature is grafted onto an existing code base.
+
+#### Tip 28: Eight-Hour Burn
+
+* Rebranding "forty-hour workweek" to "eight-hour burn" conveys that you should work so relentlessly that there is no way you could work longer than eight hours.
+* When we're tired, we can't think as effectively as when we're rested. We're not as creative and the quality of our work decreases dramatically.
+* When you have too much time to work, your work time reduces significantly in perceived value. In a longer work week, each hour is less precious.
+* With strict barriers on start and end times to your work, you naturally start to organize your tasks more effectively.
+* If you work intensely every day and set boundaries, you'll find that your work doesn't follow you home.
+
+#### Tip 29: Learn How to Fail
+
+* A craftsperson is really put to the test when errors arise, but learning to deal with mistakes is a skill that is both highly valuable and difficult to teach.
+* We all make mistakes, so within reason, we don't judge each other on the mistakes we make. We judge each other on how we respond to mistakes.
+* When a mistake happens, follow these rules:
+  * Raise the issue as early as you know it. The earlier you expose what you've done, the smaller the negative impact.
+  * Take the blame. A problem needs a resolution, and lingering on who's fault it is only prolongs the issue.
+  * Offer a solution. Even small and immaterial concrete and attainable goals move things from bad to good, and help rebuild credibility.
+  * Ask for help. Your team members, management, and customers will look at you more positively if you can maintain a healthy attitude and set your ego aside.
+* A mistake handled well might make us more loyal customers than we would have been had we never experienced a service problem.
+
+#### Tip 30: Say "No"
+
+* The quickest path to missing your commitments is to make commitments that you know you can't meet.
+* A *can-do* attitude is different from misrepresenting one's abilities: The latter causes problems for both you and your stakeholders.
+* We are programmed to want to always succeed, and saying we can't do something makes it feel like we failed.
+* We know it to be true, but fail to internalize, that "yes" is not always the right answer, and "no" is seldom the wrong answer.
+* If someone has the strength to say "no" when that's the truth, then you know that when they say "yes," they really mean it.
+* A guru in a subject area is never afraid to admit when they don't know something, because "I don't know" is not a phrase for the insecure.
+* The same courage is useful when dealing with decision from above, as people who speak up and offer better suggestions become trusted lieutenants.
+
+#### Tip 31: Don't Panic
+
+* If you look back on every "disaster," you'll likely find that not a single one has made a lasting or noticeable impact on you or your career.
+* Panicking creates an inability to perform at your best at the times when you really need to be performing at your best.
+* When something is going wrong, we focus all of our attention on the problem. This makes the problem, no matter how small, seem more important than it is.
+* To reduce panic when something bad happens, analyze the situation from a third-person perspective, and try to laugh at yourself.
+
+#### Tip 32: Say It, Do It, Show It
+
+* When you have too much to do, a plan can make the difference between confused ambiguity and clear-headed confidence at the start of a workday.
+* A simple plan that allows you to answer the question "What am I going to do today?" at the start of the day is a great first step.
+* To create such a plan, take time in the afternoon to list in priority order everything you want to get done on the next workday.
+* The larger the time span you're planning for, the higher level your plan should be.
+* Start communicating your plans to management after executing one cycle of the plan. And start doing it before they ask you to do it.
+* Every item in your plan must be completed, delayed, removed, or replaced. No items should go unaccounted for.
+* If items show up on a plan and are never mentioned again, people will stop trusting your plans, thereby counteracting the effectiveness of planning.
+* We all make mistakes. Differentiate yourself by addressing your mistakes or inabilities publicly and ask for help resolving them.
+* Creating and executing plans shows that you are not just a robot typing code, but a *leader*.
+* If you say what you're going to do and then you do it and show that it's done, you develop a reputation as a *doer*, and with credibility comes influence.
+* Your leaders want you to have independence and ownership. Making, executing, and communicating plans will help you attain both.
