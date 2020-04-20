@@ -277,3 +277,88 @@ by Chad Fowler
 * Creating and executing plans shows that you are not just a robot typing code, but a *leader*.
 * If you say what you're going to do and then you do it and show that it's done, you develop a reputation as a *doer*, and with credibility comes influence.
 * Your leaders want you to have independence and ownership. Making, executing, and communicating plans will help you attain both.
+
+### Part 4: Executing
+
+* A leader must develop teams that deliver maximum value to a company. A leader can't do that without knowing who is capable of doing what kind of work.
+* Manager's don't have time to keep close tabs on what each employee is doing every day. They instead focus on the big picture.
+* Don't assume management knows who you are, or that just because a leader knows your name he or she has the faintest understanding of your capabilities.
+
+#### Tip 33: Perceptions, Perschmeptions
+
+* You should care about what other people think of you. Perception is reality.
+* There's no way to objectively measure the quality of a knowledge worker or the quality of their work, so you'll always be measured based on someone else's *perception* of you.
+* People in different roles and relationships to you build their perceptions based on the qualities most important to making *that particular* relationship work well.
+* Managing perception is practical: When you explicitly take note of the factors that drive other people's perceptions of you, you more firmly discover how to make them happy customers.
+
+#### Tip 34: Adventure Tour Guide
+
+* It's obvious, but the most important aspect of getting the word out in the workplace is your ability to communicate.
+* Customers (or managers) are looking to you to make them comfortable about the project they're working on.
+* You must be your customer's tour guide through the unforgiving terrain of the information technology world. You will make your customers comfortable while guiding them through an unfamiliar place.
+* When promotion and staffing decisions are being made, the best advocate for you is a customer who can't live without you.
+* Don't forget that your customer represents the needs of the business, and you are paid to provide for those needs.
+
+#### Tip 35: Me Rite Reel Nice
+
+* In one report, more than half of responding companies consider writing skills when making hiring and promotion decisions.
+* Forty percent of surveyed companies in the service sector said that a third or fewer of their new hires had the writing skills they desired.
+* Even if you're a great coder, you won't be very effective in a distributed team if you can't express yourself in words.
+* Communication, especially through writing, is the bottleneck through which all your wonderful ideas must pass. You are what you can explain.
+
+#### Tip 36: Being Present
+
+* Being face to face with your leaders and your customers is an advantage. Don't squander it.
+* We not only see greater productivity and enhanced communication from face-to-face interactions, but we also form tighter bonds.
+* In the majority of cases, the relationship built in a remote work environment will remain strictly centered around accomplishing tasks.
+* The human tendency is to want to work with other humans – not voicemail, email, or instant messaging but actual people.
+* In a distributed environment, if making regular trips for face-to-face meetings is impractical, pick up the phone and call your bosses and co-workers instead.
+
+#### Tip 37: Suit Speak
+
+* People who run businesses are interested in business *results*, so marketing your accomplishments in any language other than the language of the business is ineffective.
+* To sell a product to an audience, you must speak to that audience in a language they can both understand and relate to.
+* As a software developer, that means framing your accomplishments in the context of the business you work for.
+* To put this into practice, make a list of your recent accomplishments and write the business benefit of each.
+
+#### Tip 38: Change the World
+
+* When you come to work without a mission, you do only what people tell you to do. And so the only ones who know what you've done are the ones who asked you to do it.
+* You must have a mission to be a good software developer in a high-cost country. You must effect visible change through your team, organization, or company.
+* You must do things you're internally *driven* to do. It's because you know things could be better, and so you *have* to change them.
+* If you don't know what your crusade is, you probably don't have one.
+
+#### Tip 39: Let Your Voice Be Heard
+
+* Don't think of yourself as a programmer at a specific company, but as a participating member of an industry. You are a craftsperson or an artist.
+* No objective system exists for rating and employing software developers. Being good is important, but doesn't get you all the way there.
+* Publishing and public speaking are the best ways for your name to be propagated and your voice to be heard.
+* Write on the web as if you were writing a feature column for your favorite magazine.
+* More writing leads to more writing opportunities. And all of these lead to the opportunity to speak at conferences.
+* Start sooner than you think you're ready: Most people undersell themselves, and you definitely have something to teach!
+
+#### Tip 40: Build Your Brand
+
+* Brand building has two parts: Making your mark so that people will recognize it, and then ensuring it's associated with positive traits.
+* The most potentially destructive force for your brand, or that recognition and respect, is yourself.
+* The things you choose to do and associate with yourself will have a lasting impact on what your name means to people. And Google never forgets.
+
+#### Tip 41: Release Your Code
+
+* Open source developers are building a name for themselves, a reputation in the industry, and are marketing themselves in the process.
+* It takes skills in leadership, release management, documentation, and product and community support to foster a community around your efforts.
+
+#### Tip 42: Remarkability
+
+* Traditional marketing curricula refer to the four *p*'s of marketing: product, price, promotion, and placement.
+* The goal of marketing is to create a connection between producers and consumers of a product or service.
+* To be remarkable means that something is worthy of attention. You will not become a remarkable software developer by simply being better than all the other software developers you know.
+* To be remarkable, you must be significantly different from those around you.
+* You might be the smartest or the fastest software developer, but just *being* isn't good enough. You have to be *doing something*.
+
+#### Tip 43: Making the Hang
+
+* Really good people won't mind if you want to know them, because such people like to be appreciated and like to talk about the topics they're passionate about.
+* Most of us are afraid to try and associate with smart, well-connected people who can teach you things or find work – even thought its' best for you.
+* The gurus are the supernodes in the social and professional network, and connecting with them just takes a little less humility.
+* Some of the most influential minds in software development are readily accessible via email or real-time chat.
