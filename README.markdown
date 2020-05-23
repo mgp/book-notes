@@ -64,6 +64,7 @@ Completed notes from books that I've finished reading. In rare cases, notes for 
 * [The Meditations](the-meditations.markdown) by Marcus Aurelius
 * [The Mythical Man-Month](the-mythical-man-month.markdown) by Frederick P. Brooks, Jr.
 * [The Non-Designer's Design Book, 3rd Edition](the-non-designers-design-book.markdown) by Robin Williams
+* [The Passionate Programmer](the-passionate-programmer.markdown) by Chad Fowler
 * [The Power of Habit](the-power-of-habit.markdown) by Charles Duhigg
 * [The Ruby Programming Language](the-ruby-programming-language.markdown) by David Flanagan and Yukihiro Matsumoto
 * [The Subtle Art of Not Giving a Fuck](the-subtle-art-of-not-giving-a-fuck.markdown) by Mark Manson
