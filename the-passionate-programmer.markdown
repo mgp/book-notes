@@ -405,48 +405,6 @@ by Chad Fowler
 
 #### Tip 49: That Fat Man in the Mirror
 
-### Part 5: Maintaining Your Edge
-
-* In your career you must research, invest, execute, market, repeat. Spending too much time in any iteration of the loop puts you at risk of becoming obsolete.
-
-#### Tip 44: Already Obsolete
-
-* The more successful your business, the more comfortable you are with your business model, leaving you vulnerable to others with radical ideas.
-* The more mainstream your knowledge, the greater risk you have of being left in the technology stone age.
-* If you're on the bleeding edge of today's wave, you're probably behind on the next one. Start thinking _ahead_ with your study.
-* Learn something on the bleeding edge. Worst case you learn something enriching but not applicable later. Best case you remain ahead of the curve.
-
-#### Tip 45: You've Already Lost Your Job
-
-* If your surroundings are changing and the context of your work is constantly moving, clinging to your work creates an unhealthy dissonance that infects your work.
-* Have ambition but don't buy too heavily into a long, imagined future. You cannot afford tunnel vision with something too far off.
-
-#### Tip 46: Path with No Destination
-
-* We are a goal-oriented society, obsessed with the *outcome* of a process. But we spend all our time *doing* things and little time actually reaching goals.
-* The meat of your career is not promotions and salary advances, but the time you spend working *regardless* of the advances.
-* If this is the core of your work life – the actual work – then you've already arrived at your destination.
-* A goal-oriented mindset leads only from one goal to the next. It has no logical end, and what most of us fail to realize is that *the path* is the end.
-* Focusing on the ending makes you forget to make the process good. And bad processes create bad products.
-* Bad products also make bad processes: Once you have one of these products that is messy inside, your processes wrap around it.
-
-#### Tip 47: Make Yourself a Map
-
-* Create a road map for your career like for a product, or "your personal product road map." Use it to tell whether or not you've moved in your career.
-* Throw out some markers you can see in the distance, so you'll know that you've moved when you get to them. Your product "features" are these markers.
-* Think of each new set of knowledge or capability as a single feature in an application. An application with one feature isn't much of an application.
-* Moreover, an application with a bunch of features that aren't cohesive is going to confuse its users.
-* Although it's okay to learn diverse skills – it expands your thinking – it's also a good idea to think about the story your skill set tells.
-
-#### Tip 48: Watch the Market
-
-* As the conditions of the market change, not paying attention could result in money lost or money that *could* have been earned missed.
-* The same holds true for your knowledge investments.
-* If you are comfortable in your current job with your current set of skills, you might remain blissfully ignorant of the Next Big Thing as it rolls in.
-* Monitor the alpha geeks, or those super-nerds who are always on the bloodiest tip of the bleeding edge – at least in their hobby activities.
-
-#### Tip 49: That Fat Man in the Mirror
-
 * If you're constantly exposed to something, it's hard to see it changing unless change happens rapidly.
 * There is no objective, universal scale for measuring your marketability or skill as a software developer, so you'll have to develop your own.
 * An easy way to measure your progress is to use a trusted third party, such as a mentor or a close colleague.
