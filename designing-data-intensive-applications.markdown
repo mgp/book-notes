@@ -670,3 +670,90 @@ by Martin Kleppmann
 
 * With multiple replicas, we need to use a version number *per replica* as well as per key, so that we know which values to overwrite and which to preserve as siblings.
 * The collection of version numbers from all the replicas is called a *version vector*. It is also sometimes called a *vector clock*, even though they are not the same.
+
+### Chapter 6: Partitioning
+
+* Partitioning enables scalability: By distributing data across many disks, the query load can be distributed across many processors.
+
+#### Partitioning and Replication
+
+* Partitioning is usually combined with replication so that copies of each partition are stored on multiple nodes for fault tolerance.
+
+#### Partitioning of Key-Value Data
+
+* If some partitions have more data or queries than others, then the partitioning is *skewed* and is less effective.
+* A partition with a disproportionately high load is called a *hot spot*.
+
+##### Partitioning by Key Range
+
+* When assigning a contiguous range of keys to each partition, the ranges are not necessarily evenly spaced, because your data may not be evenly distributed.
+* Certain access patterns can lead to hot spots with key range partitioning, e.g. partitioning by timestamp and then always writing to the partition for today.
+
+##### Partitioning by Hash of Key
+
+* When using a hash function to determine the partition for a given key, the hash function does not need to be cryptographically strong.
+* Each partition is responsible for a range of hashes of keys. Assuming the hash function is uniform, the partition boundaries can be evenly spaced.
+* Keys that were once adjacent are now scattered across all the partitions, so their sort order is lost.
+* In Cassandra, the first part of the key is hashed to determine the partition, while the remaining columns are used as a concatenated index into Cassandra's SSTables.
+* Cassandra achieves a compromise between the partitioning strategies: If a query specifies a fixed value for the first column, it can perform an efficient range scan over the other columns.
+
+##### Skewed Workloads and Relieving Hot Spots
+
+* Most systems are not able to automatically compensate for a highly skewed workload, and so it's the responsibility of the application reduce the skew.
+
+#### Partitioning and Secondary Indexes
+
+* The problem with secondary indexes is that they don't map neatly to partitions.
+
+##### Partitioning Secondary Indexes by Document
+
+* Each partition can maintain its own secondary indexes, covering only the documents in the partition. Such a document-partitioned index is called a *local index*.
+* Querying such a partitioned database requires a *scatter/gather* operation. Even if querying the partitions in parallel, scatter/gather is prone to tail latency amplification.
+
+##### Partitioning Secondary Indexes by Term
+
+* Rather than each partition having its own secondary index, we can construct a *global index* that covers data in all partitions.
+* Such an index is *term-partitioned* because the term you're looking for determines the partition of the index.
+* A client needs to query only the partition containing the term it wants, but a write to a single document may update multiple terms and in turn update multiple partitions of the index.
+* In practice, updates to global secondary indexes are often asynchronous.
+
+#### Rebalancing Partitions
+
+* The process of moving load from one node to another is called *rebalancing*.
+
+##### Strategies for Rebalancing
+
+###### How not to do it: hash mod N
+
+* The problem with the *mod N* approach is that if the number of nodes *N* changes, then most keys will need to be moved from one node to another.
+
+###### Fixed number of partitions
+
+* We can create more partitions than nodes, and then assign multiple partitions to each node. As nodes are added or removed, this assignment changes.
+* In this configuration, the number of partitions does not change, nor does the assignment of keys to partitions.
+* By assigning more partitions to nodes that are more powerful, you can force these nodes to take a greater share of the load.
+
+###### Dynamic partitioning
+
+* With *dynamic partitioning*, partitions are split and merged dynamically based on their size, similar to interior nodes in a B-tree.
+* An advantage of dynamic partitioning is that the number of partitions adapts to the total data volume.
+* Dynamic partitioning can be used with both key range-partitioned data, as well as with hash-partitioned data.
+
+###### Partitioning proportionally to nodes
+
+* With dynamic partitioning, the number of partitions is proportional to the size of the data set. With a fixed number of partitions, the size of each partition is.
+* A third option is a fixed number of partitions per node. Since a larger data volume generally requires a larger number of nodes to store, this also keeps the size of each partition stable.
+
+##### Operations: Automatic or Manual Rebalancing
+
+* If not done correctly, rebalancing can overload the network or the nodes and harm the performance of other requests while it is happening.
+* If a node is overloaded, then automated rebalancing may lead other nodes to conclude the node is dead and move load away from it. This increases load on the other nodes and the network, potentially causing a cascading failure.
+* While fully automated rebalancing can be convenient, it's good to have a human in the loop to prevent operational surprises.
+
+#### Request Routing
+
+* *Service discovery* addresses which node a client should connect to, and is a critical requirement for software accessible over a network with high availability.
+* Any component making the routing decision (a random node, a routing tier, or a client) must learn about changes in the assignment of partitions to nodes.
+* Many distributed systems rely on a separate coordination service such as ZooKeeper to track this cluster metadata.
+* Cassandra and Riak use a *gossip protocol* among the nodes to disseminate any changes in cluster state.
+* When a random node or a routing tier makes the routing decision, clients can use DNS to find their IP addresses as their assignment changes slowly.
