@@ -757,3 +757,250 @@ by Martin Kleppmann
 * Many distributed systems rely on a separate coordination service such as ZooKeeper to track this cluster metadata.
 * Cassandra and Riak use a *gossip protocol* among the nodes to disseminate any changes in cluster state.
 * When a random node or a routing tier makes the routing decision, clients can use DNS to find their IP addresses as their assignment changes slowly.
+
+### Chapter 7: Transactions
+
+* Transactions *simplify the programming model* for applications accessing a database.
+* A *safety guarantee* is when the database prevents a potential error and concurrency issue, and so the application does not have to compensate for it.
+* Sometimes there are advantages to weakening transaction guarantees or abandoning them entirely, e.g. for higher performance or higher availability.
+
+#### The Slippery Concept of a Transaction
+
+* Transactions are not the antithesis of stability. But like every other technical design choice, they come with trade-offs.
+
+##### The Meaning of ACID
+
+* In practice, one database's implementation of *ACID* does not equal that of another. ACID has become mostly a marketing term.
+
+###### Atomicity
+
+* Atomicity is not about concurrency, but about ensuring that when a transaction is aborted, that no data was changed and the operation can be safely retried.
+
+###### Consistency
+
+* Consistency means that there exist invariants about your data, but it is the application's responsibility to define its transactions so that they preserve consistency.
+* Atomicity, isolation, and durability are properties of the database, whereas consistency is actually a property of the application.
+
+###### Isolation
+
+* Isolation means that concurrently executing transactions do not step on each other's toes.
+* Isolation is sometimes formalized as *serializability*, where each transaction can pretend like it's the only transaction running, but this carries a large performance penalty.
+
+###### Durability
+
+* Durability means that once a transaction has committed successfully, its written data will not be forgotten, even if there is a hardware fault or the database crashes.
+* To provide durability, a database must wait until writing to non-volatile storage or replication has completed before reporting a transaction as committed.
+
+##### Single-Object and Multi-Object Operations
+
+* Atomicity gives all-or-nothing guarantees when writing data in a transaction, and isolation ensures concurrently running transactions don't interfere with each other.
+
+###### Single-object writes
+
+* For a single object in a storage engine, atomicity can be implemented using a log for crash recovery, and isolation can be implemented using a lock on each object.
+* Compare-and-set and other single-object operations are not transactions, because they do not allow grouping multiple operations on multiple objects.
+
+###### The need for multi-object transactions
+
+* Use cases where writes to several different objects need to be coordinated include:
+  * Inserting several records that refer to one another and ensuring that their foreign keys are valid.
+  * Updating denormalized data across several documents together.
+  * Updating secondary indexes to reflect a changed value.
+
+###### Handling errors and aborts
+
+* If the database is in danger of violating its guarantee of atomicity, isolation, or durability, then it would rather abandon the transaction than half-finish.
+
+#### Weak Isolation Levels
+
+* Concurrency issues happen when one transaction reads data that is concurrently modified by another, or when two transactions try to concurrently modify the same data.
+* Databases try to hide concurrency issues from application developers by providing *transaction isolation*.
+* *Serializable* isolation means the database guarantees that transactions have the same effect as if they ran *serially*.
+
+##### Read Committed
+
+* The most basic level of transaction isolation is *read committed*, which guarantees *no dirty reads* and *no dirty writes*.
+
+###### No dirty reads
+
+* *No dirty reads* means when reading from the database, you will only see data that has been committed.
+* Any writes by a transaction only become visible to others when that transaction commits, and then all its writes become visible at once.
+* No dirty reads means transactions won't see data in a partially updated state, and that a transaction won't see data that is later rolled back.
+
+###### No dirty writes
+
+* *No dirty writes* means when writing to the database, you will only overwrite data that has been committed.
+* Instead of allowing overwriting of uncommitted data, databases usually delay the second write until the first write's transaction has committed or aborted.
+* If transactions update multiple objects, dirty writes allow interleaving the writes to the multiple objects.
+
+###### Implementing read committed
+
+* Read committed is the default setting in Oracle 11g, PostgreSQL, SQL Server 2012, MemSQL, and many other databases.
+* To prevent dirty reads, a transaction must acquire a row-level lock before writing and then relinquish it upon committing or aborting.
+* When a transaction updates a object, other transactions read the old value until the transaction commits, at which point they begin reading the updated value.
+
+##### Snapshot Isolation and Repeatable Read
+
+* *Read skew* is an example of a *non-repeatable read*, where a transaction querying an object at different times sees different values because of concurrent updates.
+* *Read skew* is considered acceptable under read committed isolation, as the client is indeed reading only committed data.
+* *Snapshot isolation* provides a consistent snapshot of the database, so the transaction sees all data that was committed at the start of the transaction.
+* Snapshot isolation is a boon for long-running read-only queries such as backups and analytics.
+* Snapshot isolation is supported by PostgreSQL, MySQL with the InnoDB storage engine, Oracle, SQL Server, and others.
+
+###### Implementing snapshot isolation
+
+* A key principle of snapshot isolation is that readers never block writers, and writers never block readers. Reads do not require any locks.
+* With *multi-version concurrency control*, the database keeps several different versions of a committed object so that various in-progress transactions can see the database state at different points in time.
+* When a transaction deletes a row, a garbage collector deletes it later, only when it is certain no transaction can any longer access the deleted data.
+
+###### Visibility rules for observing a consistent snapshot
+
+* When a transaction starts, the database enumerates all the IDs of in-progress transactions, and their writes are ignored even if they subsequently commit.
+* Any writes made by transactions with a later transaction ID – which are strictly increasing, and therefore started after the current transaction – are ignored.
+* An object is visible if both of the following conditions are true:
+  * When the reader's transaction started, the transaction that created the object had already committed.
+  * The object is not marked for deletion, or if it is, the transaction that requested deletion had not yet committed when the reader's transaction started.
+
+###### Indexes and snapshot isolation
+
+* With a *copy-on-write* strategy for B-tree indexes, parent pages – up to the root of the tree – are copied and updated to point to the new versions of their child pages.
+* With this strategy, any pages that are not affected by a write do not need to be copied, and remain immutable.
+
+###### Repeatable read and naming confusion
+
+* The SQL standard's definition of isolation levels is flawed – it is ambiguous, imprecise, and not an implementation-independent standard.
+* No one really knows what repeatable read means: Databases implementing it provide very different guarantees, and most don't satisfy a formal definition.
+
+##### Preventing Lost Updates
+
+* The *lost update* can occur if an application reads some value, modifies it, and writes back the modified value (a *read-modify-write* operation).
+
+###### Atomic write operations
+
+* Atomic operations are usually implemented by acquiring an exclusive lock on the object to update. This technique is known as *cursor stability*.
+* Object-relational mapping frameworks make it easy to accidentally perform unsafe read-modify-write operations instead of relying on atomic operations provided by the database.
+
+###### Explicit locking
+
+* The `FOR UPDATE` clause in SQL indicates that the database should take a lock on all rows returned by the query.
+
+###### Automatically detecting lost updates
+
+* PostgreSQL's repeatable read, Oracle's serializable, and SQL Server's snapshot isolation levels automatically detect a lost update and abort the corresponding transaction.
+
+###### Compare-and-set
+
+* An update statement with a `WHERE` clause specifying the old value may not stop a lost update if it reads from an old snapshot while a concurrent write occurs.
+
+###### Conflict resolution and replication
+
+* Locks and compare-and-set operations assume a single up-to-date copy of the data, but multi-leader or leaderless replication does not guarantee this.
+* But atomic operations can work well in a replicated context, especially if they are commutative.
+* While the *last write wins* (LWW) conflict resolution strategy is prone to lost updates, it is the default in many replicated databases.
+
+##### Write Skew and Phantoms
+
+* *Write skew* generalizes the lost update problem: Two transactions read the same objects, and then concurrently update some of those objects.
+* In the special case where different transactions update the same object, you a lost update or a dirty write anomaly, depending on the timing.
+* If you cannot use a serializable isolation level to prevent write skew, the second-best option is to explicitly lock rows that the transaction depends on.
+
+###### Phantoms causing write skew
+
+* In all cases of write skew, a `SELECT` query finds rows that match some condition, and then an `UPDATE` statement changes the set of rows matching that condition.
+* If the `SELECT` query checks for the *absence* of rows matching a search condition, and the write adds a matching row, then `SELECT FOR UPDATE` returning no rows can't attach locks to anything.
+* A *phantom* is when a write in one transaction changes the result of a query in another transaction.
+* Snapshot isolation avoids phantoms for read-only queries, but in read-write transactions, phantoms can lead to tricky cases of write skew.
+
+###### Materializing conflicts
+
+* *Materializing conflicts* takes a phantom and turns it into a lock conflict on a concrete set of rows that exist in the database.
+
+#### Serializability
+
+* Serializable isolation is the strongest isolation level, guaranteeing that transactions executing in parallel yield the same result as if they ran serially.
+* This means that the database prevents *all* possible race conditions.
+
+##### Actual Serial Execution
+
+* Redis, VoltDB, and more use a single-threaded execution model with all data in RAM, which allows transactions to execute much faster than if they had to load data from disk.
+
+###### Encapsulating transactions in stored procedures
+
+* Almost all OLTP applications keep transactions short by avoiding interactively waiting for a user within a transaction, because we're slow at making up our minds.
+* Even after removing the user, an interactive style between the application and database would yield dreadful throughput in a database without concurrency.
+* Instead, single-threaded transaction processing requires the application to submit the entire transaction code to the database as a *stored procedure*.
+
+###### Pros and cons of stored procedures
+
+* With stored procedures and in-memory data, executing all transactions on a single thread become feasible.
+
+###### Partitioning
+
+* For applications with high write throughput, the single-threaded transaction processor can become a serious bottleneck.
+* If you can ensure that each transaction only reads and writes data within some partition, then each partition to have its own independent transaction processing thread.
+* Since cross-partition transactions have additional coordination overhead, they are much slower than single-partition transactions.
+
+##### Two-Phase Locking (2PL)
+
+* Two-phase *locking* sounds very similar to two-phase *commit*, but they are completely different things.
+* In 2PL, writers don't just block other writers, but they also block readers. Additionally, readers can block writers.
+
+###### Implementation of two-phase locking
+
+* 2PL is used by the serializable isolation level in MySQL (InnoDB) and SQL Server, and is the repeatable read isolation level in DB2.
+* Each object in the database has a lock that can be acquired in *shared mode* or *exclusive mode*:
+  * Multiple readers can hold the lock in shared mode simultaneously, but they must wait for any transaction with an exclusive lock.
+  * A writer must first acquire the lock in exclusive mode. A transaction that first reads and then writes can upgrade its shared lock to an exclusive lock.
+* The "two-phase" name comes from a transaction acquiring locks in the first phase, and then releasing its locks in the second phase (at the end of the transaction).
+* The database automatically detects deadlocks betweens transactions and aborts one so that the others can make progress.
+
+###### Performance of two-phase locking
+
+* Transaction throughput and query latency with 2PL is worse than under weak isolation because the locking and exclusive access reduces concurrency.
+* Databases running 2PL have unstable latencies and can be very slow at high percentiles if there is contention in the workload.
+* Deadlocks happen much more frequently with 2PL, and so clients can waste significant effort retrying transactions repeatedly.
+
+###### Predicate locks
+
+* To prevent phantoms, a *predicate lock* allows locking all objects that match some search condition.
+* A predicate lock applies even to objects that don't yet exist in the database, but which might be added in the future (phantoms).
+
+###### Index-range locks
+
+* Checking for matching locks is time consuming, so most databases with 2PL implement a simplified approximation of predicate locking called *index-range locking*.
+* It's safe to simplify a predicate by making it match a larger set of objects, as any write that matches the original predicate will also match the approximations.
+* If there is no suitable index where a range lock can be attached, the database can fall back to a shared lock on the entire table.
+
+##### Serializable Snapshot Isolation (SSI)
+
+* *Serializable snapshot isolation* (SSI) provides full serializability, but has only a small performance penalty compared to snapshot isolation.
+* SSI is the serializable isolation level in PostgreSQL since 9.1, and FoundationDB uses a similar algorithm.
+
+###### Pessimistic versus optimistic concurrency control
+
+* 2PL uses *pessimistic* concurrency control: if anything can go wrong (as indicated by another transaction holding a lock), then a transaction must wait.
+* SSI uses *optimistic* concurrency control: a transaction will always forge ahead, but the database will abort it before committing if anything bad happened (i.e. isolation was violated).
+* Given enough capacity, and if contention between transactions is not too high, optimistic concurrency control techniques perform better than pessimistic ones.
+
+###### Decisions based on an outdated premise
+
+* Under snapshot isolation, the result of a query before updating may no longer be up-to-date when the transaction commits, because it may have been concurrently modified.
+* We say the transaction was based on a *premise*, or a fact that was true at the start of the transaction, but may no longer be true by the end.
+* To provide serializable isolation, the database must detect when a transaction may have acted on an outdated premise and consequently abort it.
+
+###### Detecting stale MVCC reads
+
+* When a transaction wants to commit, the database checks whether other transactions have committed writes that it ignored earlier because of MVCC visibility rules. If so, the database aborts the transaction.
+
+###### Detecting writes that affect prior reads
+
+* When a transaction writes to the database, it notifies transactions that recently read the affected data that what they read may no longer be up to date.
+
+###### Performance of serializable snapshot isolation
+
+* Less detailed tracking of reads and writes is faster but less precise, and consequently may lead to more transactions being aborted than necessary.
+* The big advantage of SSI over 2PL is that a transaction doesn't need to block waiting for locks held by another transaction, thereby making query latency more predictable and less variable.
+
+#### Summary
+
+* Transactions are an abstraction layer allowing applications to pretend that certain concurrency problems and certain kinds of faults don't exist.
