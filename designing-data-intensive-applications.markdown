@@ -1004,3 +1004,4 @@ by Martin Kleppmann
 #### Summary
 
 * Transactions are an abstraction layer allowing applications to pretend that certain concurrency problems and certain kinds of faults don't exist.
+* Only serializable isolation protects against all types of anomalies and race conditions in a database.
