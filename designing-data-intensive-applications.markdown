@@ -374,7 +374,7 @@ by Martin Kleppmann
 
 ###### Field tags and schema evolution
 
-* With Thirft and Protocol Buffers, you can change a field name, but changing its tag renders all existing encoded data invalid.
+* With Thrift and Protocol Buffers, you can change a field name, but changing its tag renders all existing encoded data invalid.
 * If old code reads data written by new code, including a new field with an unrecognized tag, it can simply ignore that field. This maintains forward compatibility.
 
 ###### Datatypes and schema evolution
