@@ -1005,3 +1005,197 @@ by Martin Kleppmann
 
 * Transactions are an abstraction layer allowing applications to pretend that certain concurrency problems and certain kinds of faults don't exist.
 * Only serializable isolation protects against all types of anomalies and race conditions in a database.
+
+### Chapter 8: The Trouble with Distributed Systems
+
+#### Faults and Partial Failures
+
+* An individual computer with good software is either fully functional or completely broken, but not something in between.
+* If an internal fault occurs, we prefer to crash completely rather than returning a wrong result, which are confusing and difficult to debug.
+* A *partial failure* in a distributed system is where some parts break in an unpredictable way, even though other parts of the system are working fine.
+* The possibility of partial failures and their non-determinism is what makes distributed systems hard to work with.
+
+##### Cloud Computing and Supercomputing
+
+* In a system with thousands of nodes, it's reasonable to assume that *something* is always broken.
+* We must accept the possibility of partial failure and incorporate fault-tolerance, thereby building a reliable system from unreliable components.
+* Suspicion, pessimism, and paranoia pay off in distributed systems, so consider and test for a wide range of possible faults in your environment.
+
+#### Unreliable Networks
+
+* We focus on *shard-nothing distributed systems*, which are a collection of machines connected by a network.
+* In this kind of network, one node can send a message to another node, but the node makes no guarantees when it will arrive, or if it will arrive at all.
+* If you send a request to another node and don't receive a response, it is impossible to tell why.
+* When a timeout occurs, you still don't know whether the remote node got your request or not.
+
+##### Network Faults in Practice
+
+* A *network partition* or *netsplit* is when one part of the network is cut off from the rest due to a network fault.
+* Whenever any communication happens over a network, it may fail – there is no avoiding it.
+
+##### Detecting Faults
+
+* Many systems need to automatically detect faulty nodes, but the uncertainty about the network makes it difficult to tell whether a node is working or not.
+* Even if TCP acknowledges that a packet was delivered, the application may have crashed before processing it. The client needs a positive response from the application itself to confirm its processing.
+* Conversely, if something goes wrong, you have to assume that you will get no response at all.
+
+##### Timeouts and Unbounded Delays
+
+* Prematurely declaring a node as dead is problematic because if it's actually alive and in the middle of performing some action, having another node take over may perform the action twice.
+* If the system is struggling with high load, declaring nodes dead prematurely can transfer their load to other nodes, causing a cascading failure.
+* Asynchronous networks have unbounded delays and most server implementations cannot guarantee handling a request within some maximum time.
+
+###### Network congestion and queueing
+
+* *Network congestion* is when a packet experiences delay because it is queued up for sending onto a busy network link.
+* When a VM is paused while another VM runs in a virtualized environment, it cannot consume data from the network, and so any incoming data is queued by the virtual machine monitor.
+* Because UDP does not perform control flow and does not retransmit lost packets, it is a better choice than TCP when delayed data is worthless.
+* Queueing delays have an especially wide range when a system is close to its maximum capacity, as long queues build up quickly.
+* In multi-tenant environments, a *noisy neighbor* can use a lot of the resources without your knowledge and introduce highly variable network delays.
+* Rather than using fixed timeouts, systems can continually measure the distribution of response times and their variability and adjust their timeouts accordingly.
+
+##### Synchronous Versus Asynchronous Networks
+
+* A *synchronous* network with reserved resources for communication has no queueing, and so the maximum end-to-end latency is fixed. We call this a *bounded delay*.
+
+###### Can we not simply make network delays predictable?
+
+* Ethernet an IP are packet-switched protocols, which suffer from queueing and thus unbounded delays in the network.
+* Protocols using packet switching is optimized for *bursty traffic*, and dynamically adapt the rate of data transfer to the available network capacity.
+* With careful use of *quality of service* (prioritization of packets) and *admission control* (rate limiting senders) we can provide statistically bounded delay.
+* There is no "correct" value for timeouts - they need to be determined experimentally.
+
+#### Unreliable Clocks
+
+* The quartz crystal oscillator powering a clock on a node is not perfectly accurate, and may be faster or slower than those of other machines.
+
+##### Monotonic Versus Time-of-Day Clocks
+
+* Modern computers have a *time-of-day clock* and a *monotonic clock*.
+
+###### Time-of-day clocks
+
+* A time-of-day clock returns the current date and time according to some calendar, also known as the *wall-clock time*.
+* If such a clock is too-far ahead of the NTP server it's synchronizing with, it can be forcibly reset and jump back to a previous time. This makes it unsuitable for measuring elapsed time.
+
+###### Monotonic clocks
+
+* The name *monotonic clock* comes from the fact that it is guaranteed to always move forward.
+* The difference between two monotonic clock values tells you how much time has elapsed, but the *absolute* value of the clock is meaningless.
+* NTP allows the monotonic clock to be sped up or slowed down by up to 0.05%, but it cannot cause the clock to jump forward or backward.
+* The resolution of monotonic clocks is quite good, as they can measure time intervals in microseconds or less.
+
+##### Clock Synchronization and Accuracy
+
+* Google assumes a drift of 6 ms for a clock that is synchronized every 30 seconds, or 17 seconds for a server that is synchronized once per day.
+* If a computer's clock differs too much from an NTP server, it may refuse to synchronize, or the local clock will be forcibly reset.
+* The best way for NTP servers to handle leap seconds is to perform the leap second adjustment gradually over the course of the day, a technique known as *smearing*.
+* When a VM is paused so that another VM can run, the application experiences the pause as the clock suddenly jumping forward.
+
+##### Relying on Synchronized Clocks
+
+* Incorrect clocks easily go unnoticed. Any bug that results is more likely to be silent and subtle data loss than a dramatic crash.
+* Any node who's clock drifts too far from the others should be declared dead and removed from the cluster.
+
+###### Timestamps for ordering events
+
+* Fundamental problems with last write wins given inaccurate clocks include:
+  * A node with a lagging clock cannot overwrite values previously written by a node with a fast clock until the clock skew between them has elapsed.
+  * Two nodes can independently generate writes with the same timestamp, especially when the clock has only millisecond precision.
+* NTP's synchronization accuracy is limited by the network round-trip time, as well as quartz drift.
+* *Logical clocks* are based on incrementing counters rather than oscillating quartz crystal and are a safer alternative for ordering events.
+* *Physical clocks* are time-of-day and monotonic clocks, which measure actual elapsed time.
+
+###### Clock readings have a confidence interval
+
+* Given quartz drift, don't think of a clock reading as a point in time, but as a range of times within a confidence interval.
+* Google's *TrueTime* API in Spanner explicitly returns a confidence interval with the earliest possible and latest possible timestamp.
+
+###### Synchronized clocks for global snapshots
+
+* The most common implementation of snapshot isolation requires a monotonically increasing transaction ID.
+* With lots of small, rapid transactions, creating transaction IDs in a distributed system becomes an untenable bottleneck.
+* If you have two non-overlapping TrueTime confidence intervals in Spanner, then one definitely happened before the other.
+* To ensure transaction timestamps reflect reality, Spanner waits for the confidence interval length before committing a read-write transaction. This ensures that any transaction that may read the data has a non-overlapping confidence interval.
+* Google deploys a GPS receiver or atomic clock in each data center to synchronize clocks within 7 ms.
+
+##### Process Pauses
+
+* Reasons for *preempting* a running thread for a long time include:
+  * The programming language time might run garbage collection and "stop the world."
+  * The hypervisor can switch to a different virtual machine. The CPU time spent in other virtual machines is known as *steal time*.
+  * Unexpected disk access, such as the Java class loader lazily loading class files on first use.
+  * The server did not disable paging, and so a simple memory access results in a page fault that loads a page from disk into memory.
+  * The Unix process being paused by a `SIGSTOP` signal, and so it yields all CPU cycles until it receives a `SIGCONT` signal.
+* A node in a distributed system must assume its execution can be paused, during which the rest of the world keeps moving and may even declare the node dead.
+
+###### Response time guarantees
+
+* A *hard real-time* system is one where if the software does not respond by some *deadline*, the entire system may fail.
+* In embedded systems, *real-time* means that a system is carefully designed and tested to meet specified timing guarantees in all circumstances.
+* Real-time systems may have lower throughput, since they have to prioritize timely responses above all else.
+
+###### Limiting the impact of garbage collection
+
+* If the runtime can warn the application that a node soon requires a GC pause, it can shift traffic to other nodes while the garbage collection runs.
+
+#### Knowledge, Truth, and Lies
+
+* A node in the network cannot *know* anything for sure – it can only make guesses based on messages it does or does not receive via the network.
+* In a distributed system, we can state the assumptions we are making about the behavior (the system model) and design the system in a way to meet those assumptions.
+
+##### The Truth is Defined by the Majority
+
+* Many distributed algorithms rely on a *quorum*, where decisions require some minimum number of votes from several nodes in order to reduce the dependence on any single node.
+* Most commonly the quorum is an absolute majority of more than half the nodes, as you cannot have two such majorities with conflicting decisions.
+
+###### The leader and the clock
+
+* There can be problems if the majority of nodes have declared some node dead, but that node still believes it is the single node responsible for some thing.
+
+###### Fencing tokens
+
+* With *fencing*, when a lock server grants a lock or lease, it can also return a *fencing token*, or a number that increases every time.
+* A resource protected by the lock service can check tokens and reject any requests with an older token than one that has already been processed.
+* It's unwise for a service to assume that clients are well behaved, as the people running the clients and those running the service likely have very different priorities.
+
+##### Byzantine Faults
+
+* A *Byzantine fault* is when there is the risk that nodes may "lie," or send arbitrarily faulty or corrupted responses.
+* The *Byzantine Generals Problem* imagines there are *n* generals who need to agree, but this is hampered by generals who are traitors.
+* A system is *Byzantine fault-tolerant* if it operates correctly even if some nodes are not obeying the protocol, or if attackers are interfering with the network.
+* In most server-side data systems, the cost of deploying Byzantine fault-tolerant solutions makes the impracticable.
+
+##### System Model and Reality
+
+* A *system model* is an abstraction that describes what things an algorithm may assume.
+* There are three system models for timing assumptions:
+  * A *synchronous model* assumes bounded network delay, bounded process pauses, and bounded clock error.
+  * A *partially asynchronous model* mostly behaves like the synchronous model, but can sometimes exceed its bounds for network delay, process pauses, and clock drift.
+  * An *asynchronous model* does not allow the model to make any timing assumptions, and in fact does not even have a clock.
+* There are three system models for node failures:
+  * A *crash-stop faults model* assumes a node can fail only by crashing, and once it has crashed it is gone forever.
+  * A *crash-recovery faults model* assumes the node can crash but respond at some later time, and that stable storage is preserved while in-memory state is lost.
+  * A *Byzantine faults model* assumes nodes can do absolutely anything.
+* For modeling real systems, the most useful model is partially asynchronous with crash-recovery faults.
+
+###### Correctness of an algorithm
+
+* An algorithm is *correct* if it always satisfies its *properties* in all situations that we assume may occur in that system model.
+
+###### Safety and liveness
+
+* Safety is often informally defined as *nothing bad happens*, and liveness as *something good eventually happens*.
+* If a safety property is violated, we can point to the exact time at which it was broken. At this time the damage is done, and cannot be undone.
+* A liveness property may not hold at some point in time, but there is always hope that it may be satisfied in the future.
+* For distributed algorithms, it's common to require that safety properties *always* hold. Meaning even if all nodes crash, the algorithm must not return a wrong result.
+* With liveness properties we can make caveats. The definition of the partially synchronous model requires that eventually the system returns to a synchronous state.
+
+###### Mapping system models to the real world
+
+* System models help distill the complexity of real systems to a set of faults that we can reason about, so that we can understand the problem and try to solve it systematically.
+
+#### Summary
+
+* If you can avoid opening Pandora's box and simply keep things on a single machine, it's generally worth doing so.
+* Distributed sequence number generators like Twitter's Snowflake cannot guarantee that ordering is consistent with causality, because the timescale at which blocks of IDs are assigned is longer than the timescale of database reads and writes.
