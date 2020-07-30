@@ -352,3 +352,51 @@ by Mortimer J. Adler and Charles Van Doren
 ##### The Second Stage of Analytical Reading
 
 * The second stage of analytical reading answers the second basic question about a book, namely: *What is being said in detail, and how?*
+
+#### Chapter 10: Criticizing a Book Fairly
+
+* Reading a book is a kind of conversation where the reader has the last word. The author has had his say, and then it is the reader's turn.
+* We must observe an *intellectual etiquette* in this conversation. Without it, conversation is bickering rather than profitable communication.
+* The activity of reading does not stop with the work of understanding what a book says. *It must be completed by the work of criticism, the work of judging.*
+
+##### Teachability as a Virtue
+
+* There is no book so good that no fault can be found with it.
+* The author does what he can to make the readers his equal. He deserves that they act like his peers, that they engage in conversation with him, that they talk back.
+* Teachability is an extremely active virtue. No one is really teachable who does not freely exercise his power of independent judgment.
+* The most teachable reader is, therefore, the most critical.
+* The third group of rules for reading is a guide to the last stage in the disciplined exercise of teachability.
+
+##### The Role of Rhetoric
+
+* You must be not only a *responsive* but a *responsible* listener:
+  * You are responsive to the extent that you follow what has been said and note the intention that prompts it.
+  * You also have the responsibility of taking a position. When you take it, it is yours, and not the author's.
+* On the part of the speaker or writer, rhetorical skill is knowing how to convince or persuade.
+* Reciprocally, on the part of the reader or listener, rhetorical skill is knowing how to react to anyone who tries to convince or persuade us.
+
+##### The Importance of Suspending Judgment
+
+* Rule 9 of reading: You must be able to say, with reasonable certainty, "I understand" before you can say "I agree," "I disagree," or "I suspend judgment." These three remarks exhaust all critical positions you can take.
+* To agree is just as much an exercise of critical judgment on your part as to disagree.
+* To agree without understanding is inane. To disagree without understanding is impudent.
+* If someone cannot repeat what you said *in their own words*, then you know they do not understand, and you are entirely justified in ignoring all their criticisms.
+* All criticism that is not based on understanding is irrelevant.
+* Equally bad as disagreeing with something you do not understand is agreeing to a position that you cannot express intelligibly in your own words.
+* You should hesitate before you say "I understand," for you have a lot of work to do before you can make that declaration honestly and with assurance.
+* To say "I don't understand" is also a critical judgment, but *only after you have tried your hardest does it reflect on the book rather than yourself*.
+
+##### The Importance of Avoiding Contentiousness
+
+* Rule 10 of reading: When you disagree, do so reasonably, and not disputatiously or contentiously.
+* Whoever regards conversation as a battle can win only by being an antagonist, only by disagreeing successfully, whether he is right or wrong.
+* A reader should be as prepared to agree as to disagree. Whichever she decides should be motivated by only the facts, or the truth about the case.
+
+##### On the Resolution of Disagreements
+
+* Disagreement is futile agitation unless it is undertaken with the hope that it may lead to the resolution of an issue.
+* The great majority of disagreements can be resolved by the removal of misunderstanding or of ignorance, but neither cure is easy.
+* No one who looks upon disagreement as an occasion for teaching another should forget that it is also an occasion for being taught.
+* Disagreements are arguable matters. And argument is empty unless one supposes that there is an attainable understanding that, when attained by reason in the light of all the evidence, resolves the original issues.
+* Rule 11 of reading: Respect the difference between knowledge and mere professional opinion by giving reasons for any critical judgment you make.
+* Knowledge consists of those *opinions that can be defended*, opinions for which there is evidence of some kind. But ordinary opinion is just unsupported judgment.
