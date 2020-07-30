@@ -119,3 +119,45 @@ by Mortimer J. Adler and Charles Van Doren
 * Every book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension.
 * Do not try to understand every word or page of a difficult book the first time through. This is the most important rule of all; it is the essence of inspectional reading.
 * Systemic skimming anticipates the comprehension of a book's structure. Superficial reading is the first step in the interpretation of a book's contents.
+
+#### Chapter 5: How to Be a Demanding Leader
+
+##### The Essence of Active Reading: The Four Basic Questions a Reader Asks
+
+* The heart of active reading is to ask questions as you read – questions that you yourself must try to answer in the course of reading.
+* There are four main questions that you must ask about any book:
+  1. What is the book about as a whole?
+  2. What is being said in detail, and how? You must try to discover the main ideas, assertions, and arguments that constitute the author's particular message.
+  3. Is the book true, in whole or part? You must make up your own mind – knowing the author's mind is not enough.
+  4. What of it? If the book has given you information, you must ask about its significance. And if the book has not only informed but enlightened you, you must seek further enlightenment by asking what else follows.
+* Reading a book beyond the elementary level is essentially an effort on your part to ask it questions and then answer them to the best of your ability.
+* The undemanding reader asks no questions, and gets no answers.
+* You must remember to ask the questions as you read; the habit of doing so is the mark of a demanding reader. And you must know how to answer them precisely and accurately.
+
+##### How to Make a Book Your Own
+
+* Full ownership of a book only comes when you have made it a part of yourself, and the best way to make yourself a part of it is by writing in it.
+* Marking a book, first, keeps you awake; second, allows you to express your thinking, which is activity; and third, helps you remember your thoughts about the author.
+* Marking a book is an expression of your agreements and disagreements with the author. It is the highest respect you can pay him.
+* Devices for marking a book intelligently include:
+  * Star or asterisk in the margin to emphasize the ten or dozen most important statements or passages in a book.
+  * Number of other pages in the margin to indicate where else in the book the author makes the same points, or points relevant to or in contradiction of those here marked.
+  * Writing in the margin to record questions raised in your mind, to reduce a complicated discussion to a simple statement, or to record a sequence of major points right through the book.
+
+##### The Three Kinds of Note-making
+
+* The questions answered by inspectional reading are: What kind of book is it? What about it as a whole? What is the structural ordering of the work whereby the author develops his understanding of that general subject matter?
+* *Structural notes* answer these questions. The best place to make them is on the contents page or the title page.
+* *Conceptual notes* are made during an analytical reading, and they answer questions about the truth and significance of the book.
+* *Dialectical notes* are made during syntopical reading, and they pertain to the *shape of the discussion*, or the discussion that is engaged by all of the authors.
+
+##### Forming the Habit of Reading
+
+* The art as something that can be taught consists of rules to be followed in operation.
+* The art as something learned and possessed consists of the habit that results from operating according to the rules.
+
+##### From Many Rules to One Habit
+
+* Each separate act while reading requires your full attention while you are doing it.
+* After you have practiced the parts separately, you can not only do each with greater facility and less attention but can also gradually put them together into a smoothly running whole.
+* It is hard to think of mental acts as the beginning analytical reader must do: He is thinking about his own thoughts, and most of us are unaccustomed to doing this.
