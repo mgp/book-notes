@@ -46,3 +46,76 @@ by Mortimer J. Adler and Charles Van Doren
 * Analytical reading is preeminently for the sake of understanding. The reader must ask many, and organized, questions of what he is reading.
 * The fourth level is *Syntopical Reading*, where the reader reads many books and places them in relation to one another and to a subject about which they all revolve.
 * The syntopical reader is able to construct an analysis of the subject that *may not be in any of the books*.
+
+#### Chapter 3: The First Level of Reading: Elementary Reading
+
+##### Stages of Learning to Read
+
+* There are at least four distinguishable stages in the child's progress toward what is called mature reading ability.
+* The first is "reading readiness," and spans from birth until age six or seven. It includes physical readiness, intellectual readiness, language readiness, and personal readiness.
+* The child who is not yet ready to read is frustrated if attempts are made to teach him, and he may carry over his dislike for the experience into his later schooling or adult life.
+* In the second stage, children read simple materials. We learn a few sight words and master perhaps 300 to 400 words by the end of the first year.
+* The transformation of words as meaningless symbols to having meaning takes only two to three weeks. Most of us do this before seven years old.
+* The third stage is characterized by rapid progress in vocabulary and by increasing skill in "unlocking" the meaning of unfamiliar words through context clues.
+* The fourth stage is characterized by refinement and enhancement of previous skills, where the reader can carry over concepts between writings, and can compare the views of different writers on the same subject.
+* This final and mature stage of reading should be reached by young people in their early teens.
+
+##### Stages and Levels
+
+* The four stages of reading outlined above are all stages of the first level of reading, as outlined in the previous chapter.
+* Typically the four stages of elementary reading are attained with the help of living teachers.
+
+##### Higher Levels of Reading and Higher Education
+
+* Remedial reading instruction only brings students up to a level of maturity in reading that they should have attained by the time they graduated from elementary school.
+
+#### Chapter 4: The Second Level of Reading: Inspectional Reading
+
+* There are two levels of inspectional reading, and the experienced reader learns to perform both steps simultaneously.
+
+##### Inspectional Reading I: Systematic Skimming or Pre-reading
+
+* Skimming or pre-reading is the first sublevel of inspectional reading.
+* Your main aim is to discover whether the book requires a more careful reading. It can also tell you many other things about the book, even if you don't read it with care.
+* To do it:
+  * Read the title page and its preface, if it has one, quickly.
+  * Study the table of contents to obtain a general sense of the book's structure.
+  * Check the index if it has one. When you see terms that look crucial, look up some of the passages cited. Those passages may contain the crux that is key to the author's approach and attitude.
+  * Read the publisher's blurb. It is not uncommon for authors to try and summarize as accurately as possible the main points of their book on it.
+  * Look at the chapters that seem to be pivotal to the book's argument. If they have summary statements in their opening or closing pages, read them carefully.
+  * Turn the pages, dipping in here and there to read at most a paragraph or two, or several pages in sequence, but never more than that. Always read the last two or three pages of the book.
+* Skimming the book systematically is actually a very active sort of reading.
+
+##### Inspectional Reading II: Superficial Reading
+
+* In tackling a difficult book for the first time, read through it without ever stopping to look up or ponder the things you do not understand right away.
+* Go reading right on past the point where you have difficulties in understanding, and you will soon come to things you do understand. Concentrate on these.
+* What you understanding reading the book beginning to end will help you when you make the additional effort later to go back to the places you passed by on your first reading.
+* When we *prematurely* stop to understand what we don't understand, this only impedes our reading instead of helping it.
+* In your effort to master the fine points of a book, you will miss the big points.
+
+##### On Reading Speeds
+
+* Many books are hardly even worth skimming; some should be read quickly; and few should be read at a slow rate that allows for complete comprehension.
+* It is wasteful to read a book slowly that deserves only a fast reading; speed reading skills can help you solve that problem.
+* The ideal is not merely to be able to read faster, but to read at *different speeds* – and to know when the different speeds are appropriate.
+* Every book, no matter how difficult, contains interstitial material that should be read quickly. And every good book also contains matter that is difficult and should be read slowly.
+
+##### Fixations and Regressions
+
+* The eyes of young or untrained readers "fixate" as many as five or six times in the course of each line that is read. (The eye is blind when it moves; it can only see when it stops.)
+* Eyes of incompetent readers regress as often as once every two or three lines – that is, they return to phrases or sentences previously read.
+* The mind can grasp a sentence or even a paragraph with only a "glance," and so the primary task of all speed reading courses is to correct the fixations and regressions that slow readers down.
+* To break eye fixations, sweep your thumb and first two fingers across a line of type, a little faster than is comfortable for your eyes. Force yourself to keep up with your hand.
+
+##### The Problem with Comprehension
+
+* The hand used as a timer not only increases your reading rate, but also improves your concentration on what you are reading.
+* Concentration is another name for what we have called activity in reading – the good reader reads actively, with concentration.
+* You cannot comprehend a book without reading it analytically; analytical reading, as we have noted, is undertaken primarily for the sake of comprehension (or understanding).
+
+##### Summary of Inspectional Reading
+
+* Every book should be read no more slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension.
+* Do not try to understand every word or page of a difficult book the first time through. This is the most important rule of all; it is the essence of inspectional reading.
+* Systemic skimming anticipates the comprehension of a book's structure. Superficial reading is the first step in the interpretation of a book's contents.
