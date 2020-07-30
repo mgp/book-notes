@@ -161,3 +161,78 @@ by Mortimer J. Adler and Charles Van Doren
 * Each separate act while reading requires your full attention while you are doing it.
 * After you have practiced the parts separately, you can not only do each with greater facility and less attention but can also gradually put them together into a smoothly running whole.
 * It is hard to think of mental acts as the beginning analytical reader must do: He is thinking about his own thoughts, and most of us are unaccustomed to doing this.
+
+### Part 2: The Third Level of Reading: Analytical Reading
+
+#### Chapter 6: Pigeonholing a Book
+
+##### The Importance of Classifying Books
+
+* Rule 1 of analytical reading: You must know what kind of book you are reading, and you should know as early as possible – preferably before you begin to read.
+* An expository book is one that consists primarily of opinions, theories, hypotheses, or speculations, and for which the claim is made more or less explicitly that they are true in some sense, conveying knowledge.
+* The first rule of analytical reading applies particularly to nonfictional, expository works.
+
+##### What You Can Learn from the Title of a Book
+
+* One reason why titles and prefaces are ignored by many readers is that they do not think it important to classify the book they are reading.
+* The main distinction discussed is between works of fiction, on one hand, and works conveying knowledge, or expository works, on the other hand.
+
+##### Practical vs. Theoretical Books
+
+* The practical has to do with what works in some way, at once or in the long run. The theoretical concerns something to be seen or understood.
+* To make knowledge practical we must convert it into rules of operation, thereby providing a method for its application.
+* Theoretical books teach you *that* something is the case. Practical books teach you *how* to do something you want to do or think you should do.
+* Any book that tells you either what you *should* do or *how* to do it is practical.
+* Anyone who writes practically about anything not only tries to advise you but also tries to persuade you to follow his advice.
+* A practical book will reveal itself by the frequent occurrence of "should" and "ought," "good and "bad," "ends" and "means." A theoretical book keeps saying "is," not "should" or "ought."
+
+##### Kinds of Theoretical Books
+
+* The traditional subdivision of theoretical books classifies them as history, science, and philosophy.
+* The essence of history is narration, where the historian colors his narrative with comment on, or insight into, the significance of events.
+* The scientist seeks laws or generalizations. He wants to find out how things happen for the most part or in every case.
+* If a theoretical book emphasizes things that lie outside the scope of your normal, routine, daily experience, it is a scientific work. If not, it is philosophical.
+* A philosopher refers the reader to his own normal and common experience for the verification or support of anything the writer has to say.
+* We say that science is experimental or depends upon elaborate observational researches, whereas philosophy is merely armchair thinking.
+* To prove their conclusions, the scientist points to the results of his special experiences, while the philosopher points to experiences that are common to all.
+* Just as there is a difference in the art of teaching of different fields, so there is a reciprocal difference in the art of being taught.
+
+#### Chapter 7: X-raying a Book
+
+* Rule 2 of analytical reading: State the unity of the whole book in a single sentence, or at most a few sentences (a short paragraph).
+* This means that you must state what the book is about as briefly as possible.
+* To find out what a book is about in this sense is to discover its *theme* or main *point*. Do not feel satisfied with unity that you cannot express.
+* Rule 3: Set forth the major parts of the book, and show how these are organized into a whole, by being ordered to one another and to the unity of the whole.
+* Each major part of a book has a certain amount of independence, but it must be connected to the other parts or else it would not contribute its share of intelligibility to the whole.
+* The most readable book is an architectural achievement by the author, and the best books are those that have the most intelligible structure.
+
+##### Of Plots and Plans: Stating the Unity of a Book
+
+* Sometimes the author tells you the unity of his plan in his preface.
+* Many readers pay little attention to the author's introductory words, but frequently the author will use this part to state their plan for the book.
+
+##### Mastering the Multiplicity: The Art of Outlining a Book
+
+* The major parts of a book are usually complex and have an interior structure that you must see.
+* This requires outlining them – treating them as subordinate wholes, each with a unity and complexity of its own.
+* No book deserves a perfect outline because no book is perfect. It goes only so far, and so must you.
+* When outlining a book, you do not need to follow the apparent structure of its chapter divisions. That structure may be better than the outline you develop, but it may also be worse.
+* Rule 2 – stating the unity of a book – cannot be effectively followed without obeying Rule 3 – the requirement that you state the parts that make up that unity.
+* The requirement that you outline the parts of a book, and show how they exemplify and develop the main theme, is thus supportive of your statement of the book's unity.
+
+##### The Reciprocal Arts of Reading and Writing
+
+* The reader tries to *uncover* the skeleton that the book conceals. The author starts with the skeleton and tries to *cover it up*, concealing the skeleton artistically.
+* The "flesh" of a book is essential because most readers cannot read outlines, and because the flesh adds an additional dimension.
+* Good writing is clear and coherent. What is clear is so by the distinctness of its outlines, and what is coherent hangs together in an orderly disposition of parts.
+
+##### Discovering the Author's Intentions
+
+* Rule 4 of analytical reading: Find out what the author's problems were. The author of a book starts with a set of questions, and the book ostensibly contains the answers.
+* Do not fall into the *intentional fallacy*, or the fallacy of thinking you can discover what was in an author's mind from the book he has written.
+* Without asking what the author's problems were, you will fail to see *why the book has the unity it has*, and your grasp of the skeletal structure will lack comprehension of *the end that it serves*.
+
+##### The First Stage of Analytical Reading
+
+* These four rules together provide the reader who applies them with a knowledge of the book's structure.
+* Applying these four rules helps you answer the first basic question about a book, namely: *What is the book about as a whole?*
