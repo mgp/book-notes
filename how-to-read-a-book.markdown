@@ -236,3 +236,47 @@ by Mortimer J. Adler and Charles Van Doren
 
 * These four rules together provide the reader who applies them with a knowledge of the book's structure.
 * Applying these four rules helps you answer the first basic question about a book, namely: *What is the book about as a whole?*
+
+#### Chapter 8: Coming to Terms with an Author
+
+* Unless the reader comes to terms with the author, communication of knowledge does not take place. For *a term is the basic element of communicable knowledge*.
+
+##### Words vs. Terms
+
+* For communication to be successfully completed, it is necessary for the two parties to use the same words *with the same meanings* – in short, to come to terms.
+* A term is a word *used unambiguously*.
+* When writer and reader manage to use a word with one and only one meaning, then during that time of unambiguous usage, they have come to terms.
+* We can think of terms as *a skilled use of words for the sake of communicating knowledge*.
+* Rule 5 of reading: Find the most important words and through them come to terms with the author.
+* A good writer will try to reach us through the barrier language inevitably sets up, but she cannot do the job all by herself. We must meet her halfway.
+* If language is used without thought, nothing is being communicated. And thought or knowledge cannot be communicated without language.
+* One word can be the vehicle for many terms, and one term can be expressed by many words.
+
+##### Finding the Key Words
+
+* Given a passage that you do not fully understand, mark the words that trouble you. You may hit the very words the author is using specially.
+* From your point of view as the reader, the most important words are those that give you trouble.
+
+##### Technical Words and Special Vocabularies
+
+* The most obvious sign of a word being important is the explicit stress that the author puts on it, but not others.
+* The author may do this using italics or quotation marks, by calling attention to it explicitly, or by defining the thing that the word is used to name.
+* Every field of knowledge has its own vocabulary, and that vocabulary must be discovered by the reader.
+* Knowing what kind of book it is, what it's about as a whole, and what its major parts are, will aid you in separating the technical vocabulary from the ordinary words.
+* You can spot words belonging to the vocabulary *positively* by having some acquaintance with the field, or *negatively* by identifying them as not ordinary.
+* When you find an author telling you how a particular word has been used by others, and why he chooses to use it otherwise, you can be sure that word makes a great difference to him.
+* The relatively small set of words that express an author's main ideas and leading concepts constitutes his special vocabulary. They carry his analysis and argument.
+* Most readers do not pay enough attention to words to locate their difficulties, failing to distinguish words they don't understand from those they do.
+
+##### Finding the Meanings
+
+* For a word that troubles you, either the author is using it in a single sense throughout, or he is using it in two or more senses and shifting his meaning between places.
+* You have to discover the meaning of a word you don't understand by using the meanings of all the other words in the context that you do understand.
+* A book comes to you with a large number of words already in place. *A word in place is a term.*
+* The better you understand the picture that the words so far in place already partially reveal, the easier it is to complete the picture by making terms of the remaining words.
+* If the author uses words ambiguously you cannot find out what he is trying to say. You can only find out that he has not been precise.
+* To use a word ambiguously is to use it in several senses without distinguishing or relating their meanings. The author who does that has not made terms that the reader can come to.
+* Good authors may substitute different words having the same or very similar meanings for important words in their text. One term is represented by multiple words used synonymously.
+* The words are different, but there is only one term for you as a reader to grasp.
+* All the relations that exist between words and terms hold between terms and phrases.
+* A phrase is less likely to be ambiguous than a word. Because it is a group of words, each of which is in the context of others, the single words are more likely to have restricted meanings.
