@@ -120,7 +120,7 @@ by Mortimer J. Adler and Charles Van Doren
 * Do not try to understand every word or page of a difficult book the first time through. This is the most important rule of all; it is the essence of inspectional reading.
 * Systemic skimming anticipates the comprehension of a book's structure. Superficial reading is the first step in the interpretation of a book's contents.
 
-#### Chapter 5: How to Be a Demanding Leader
+#### Chapter 5: How to Be a Demanding Reader
 
 ##### The Essence of Active Reading: The Four Basic Questions a Reader Asks
 
