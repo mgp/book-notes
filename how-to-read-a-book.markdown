@@ -280,3 +280,75 @@ by Mortimer J. Adler and Charles Van Doren
 * The words are different, but there is only one term for you as a reader to grasp.
 * All the relations that exist between words and terms hold between terms and phrases.
 * A phrase is less likely to be ambiguous than a word. Because it is a group of words, each of which is in the context of others, the single words are more likely to have restricted meanings.
+
+#### Chapter 9: Determining an Author's Message
+
+* A proposition in a book is also a declaration. It is an expression of the author's judgment about something.
+* The reader must usually come to terms with the author first, before he can find out what the author is proposing, what judgment he is declaring.
+* The author's propositions are nothing but expressions of personal opinion unless they are supported by reasons.
+* We want to know not merely what the author's propositions are, but also why he thinks we should be persuaded to accept them.
+* Arguments are indicated by other words that relate statements, such as: *if* this, *then* that; or *since* this, *therefore* that; or it *follows* from this, that this is the case.
+* A conclusion may not be true since one or all of the premises that support it may be false.
+* The two processes of outlining and interpretation meet at the level of propositions and arguments.
+* You work down to propositions and arguments by dividing the book into parts. You work up to arguments by seeing how they are composed of propositions and ultimately terms.
+
+##### Sentences vs. Propositions
+
+* Sentences and paragraphs are grammatical units. They are units of language. Propositions and arguments are logical units, or units of thought and knowledge.
+* The greatest error you can make in applying these rules is to suppose that a one-to-one relationship exists between the elements of language and those of thought or knowledge.
+* Propositions are the answers to questions. They are declarations of knowledge or opinion.
+* Not all declarative sentences can be read as if each expressed one proposition for at least two reasons:
+  * First, it is possible for the same sentence to express different propositions if there is a shift in the terms the words express.
+  * Second, a compound sentence can express multiple propositions related in the form of an argument. Such sentences can be very difficult to interpret.
+* Unless you recognize the distinct propositions in a complicated sentence, you cannot make a discriminating judgment of what the writer is saying.
+* Rule 6 of reading: Mark the most important sentences in a book and discover the propositions they contain.
+* Rule 7 of reading: Locate or construct the basic arguments in the book by finding them in the connection of sentences.
+
+##### Finding the Key Sentences
+
+* The sentences important for you *as the reader* are those that require an effort of interpretation because, at first sight, they are not completely intelligible.
+* These are likely to be the most important *for the author* because you are likely to have the greatest difficulty with the most important things the author has to say.
+* From the author's point of view, the important sentences are the ones that express the judgments on which the whole argument rests.
+* The heart of an author's communication lies in the major affirmations and denials she is making, and the reasons she gives for so doing.
+* An essential part of reading is to *be perplexed and know it*. Wonder is the beginning of wisdom in learning from books as well as from nature.
+* Principal propositions must belong to the main argument of the book. They must be either premises or conclusions.
+* If you can detect those sentences that seem to form a sequence, in which there is a beginning and an end, you probably have put your finger on the important sentences.
+* When reading at different speeds, you should pause over the sentences that *puzzle you* and not over the sentences that *interest you*.
+
+##### Finding the Propositions
+
+* You discover terms by discovering what a word means in a given usage. You discover propositions similarly by interpreting all the words that make up the sentence, especially its principal words.
+* There are only two differences between finding the terms that words express and the propositions that sentences express:
+  1. You employ a larger context in the latter case.
+  2. Complicated sentences usually express more than one proposition. You have not completed your interpretation of an important sentence until you have separated out of it all the different, though perhaps related, propositions.
+* "State in your own words" is the best test for telling whether you have understood the proposition or propositions in a sentence.
+* If you cannot get away at all from the author's words, it shows that *only words* have passed from him to you, *not though or knowledge*.
+* The reader who cannot see through the language to the terms and propositions will never be able to compare related works.
+* If you cannot do anything to exemplify or illustrate the proposition, either imaginatively or by referring to actual experiences, then you do not know what is being said.
+* Unless you can show some acquaintance with actual or possible facts to which the proposition refers or is relevant somehow, you are *playing with words*, and not dealing with thought or knowledge.
+* "Verbalism" can be defined as the bad habit of using words without regard for the thoughts they should convey and without awareness of the experiences to which they should refer.
+
+##### Finding the Arguments
+
+* Another formulation of Rule 7: Find if you can the paragraphs in a book that state its most important arguments; but if the arguments are not thus expressed, your task is to construct them, by arranging a sequence of sentences across multiple paragraphs that state the propositions that compose the argument.
+* To mark such sentences, put marks in the margin to indicate where the sentences occur that should be tied together in a sequence.
+* By inspecting a book before reading it analytically, you will know whether the summary passages exist and if they do, where they are.
+* If your mind works at all during the process of reading, if it comes to terms with the author and reaches his propositions, it will see his arguments as well.
+* If you find the conclusion first, look for the reasons. If you find the reasons first, see where they lead.
+* Observe what things the author says he must *assume*, what he says can be *proved* or otherwise evidenced, and what need not be proved because it is *self-evident*.
+* There are two ways to start an argument:
+  1. With *assumptions* agreed on between reader and writer.
+  2. With what are called *self-evident propositions*, which neither the writer nor reader can deny.
+* In a *tautology*, the proposition is contained in the definition of the words.
+* Self-evident propositions have the status of indemonstrable but also undeniable truths. They are based on common experience alone and are part of common-sense knowledge, because they belong to no organized body of knowledge.
+* Euclid called such self-evident propositions "common notions."
+
+##### Finding the Solutions
+
+* Rule 8 of imperative reading: Find out what the author's solutions are.
+* By applying this rule and the three rules that precede it in imperative reading, you can feel sure that you have managed to understand the book.
+* From this point on, you are going to have a chance to argue with the author and express yourself.
+
+##### The Second Stage of Analytical Reading
+
+* The second stage of analytical reading answers the second basic question about a book, namely: *What is being said in detail, and how?*
