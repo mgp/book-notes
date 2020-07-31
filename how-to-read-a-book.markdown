@@ -507,3 +507,39 @@ by Mortimer J. Adler and Charles Van Doren
   3. Facts are reflections of reality. They may be either informational singulars or relatively unquestioned generalizations.
   4. Facts are to some extent conventional. They can change, as any proposition that we take to be true can be falsified by more patient and more accurate observation and investigation.
 * The art of using an encyclopedia as an aid to reading is the art of asking the proper questions about facts.
+
+### Part 3: Approaches to Different Kinds of Reading Matter
+
+#### Chapter 13: How to Read Practical Books
+
+##### The Two Kinds of Practical Books
+
+* A practical book *can never solve the practical problem with which it is concerned*. A practical problem can only be solved by action itself.
+* To make a book applicable in practice, the reader must add her knowledge of the particular situation and her judgment of how the rule applies to the case.
+* Practical books fall into two main groups:
+  1. Books like this one, or a cookbook, or a driver's manual, are primarily presentations of rules.
+  2. Other books are concerned with the principles that generate rules. Most of the great books in economics, politics, and morals are like this.
+* A practical book is different from a theoretical book in that it is always about a field of human behavior in which men can do better or worse.
+* In reading a practical book that is primarily a rule book, can always recognize a rule because it recommends something as worth doing to gain a certain end.
+* The arguments in a practical book of this sort will be attempts to show you that the rules are sound.
+* The practical books that deal with the principles underlying rules will contain major propositions and arguments that look like those in a purely theoretical book.
+* The reader must try to see the rules that may not be expressed but can still be derived from the principles. He figures out how to apply the rules in practice.
+* A rule of conduct is practically true on two conditions: that it works, and that its working leads you to an end that you desire.
+* In judging a theoretical book, the reader must observe the relation between her own principles or assumptions and those of the offer. In judging a practical book, everything turns on the ends or goals.
+
+##### The Role of Persuasion
+
+* You must ask yourself two major questions when reading any practical book:
+  1. What are the author's objectives?
+  2. What means for achieving them is he proposing?
+* Only hidden and undetected oratory is really insidious. What reaches the heart without going through the mind will put the mind out of business.
+* The person who reads a practical book intelligently, who knows its basic terms, propositions, and arguments, will always be able to detect its oratory.
+* Only when you are aware that you are the subject of persuasion can you do something about weighing its appeals.
+
+##### What Does Agreement Entail in the Case of the Practical Books?
+
+* Rule 4 adapted for practical books is *Find out what the author wants you to do*. Rule 8 for practical books is *Find out how he proposes that you do this.*
+* Your main consideration is whether the author's objectives align with your conception of what is right to seek, and of what is the best way of seeking it.
+* Given a practical book, agreement with the author's ends and acceptance of his means implies action on your part.
+* An exception to this contention is if the end is selective, meaning it applies to only a certain class of people, and if the reader decides he does not belong to that class.
+* But the reader may be fooling himself, or misunderstanding his own motives, in deciding that he does not belong to the class to which the end is relevant.
