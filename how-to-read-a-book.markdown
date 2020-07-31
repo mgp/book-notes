@@ -468,8 +468,8 @@ by Mortimer J. Adler and Charles Van Doren
 ##### How to Use Commentaries and Abstracts
 
 * Such works should be use sparingly for two reasons:
-1. Commentators are not always right in their comments on a book.
-2. Even if they are right, they may not be exhaustive. Reading a commentary, especially one that is very self-assured, tends to limit your understanding of a book.
+  1. Commentators are not always right in their comments on a book.
+  2. Even if they are right, they may not be exhaustive. Reading a commentary, especially one that is very self-assured, tends to limit your understanding of a book.
 * Whereas you should read an author's preface and introduction *before* reading a book, you should not read a commentary by someone else until *after* you have read the book.
 * Reading a commentary before the book will distort your reading: You will tend to see only the points made by the scholar or critic, and fail to see other points that may be just as important.
 * If you rely on commentaries and habits too often, you will be totally lost if you cannot find one. You will be a worse reader.
@@ -477,9 +477,9 @@ by Mortimer J. Adler and Charles Van Doren
 ##### How to Use Reference Books
 
 * To use a reference book well:
-1. You must have some idea of what you want to know. That is, you must be able to ask the reference book an intelligible question.
-2. You must know where to find out what you want to know.
-3. You must know how the particular work is organized. By reading its introduction and preface, the editor should communicate to you *how* to use it.
+  1. You must have some idea of what you want to know. That is, you must be able to ask the reference book an intelligible question.
+  2. You must know where to find out what you want to know.
+  3. You must know how the particular work is organized. By reading its introduction and preface, the editor should communicate to you *how* to use it.
 * Unsupported opinions have no business in reference books. Only those things that we generally and conventionally agree upon are to be found in them.
 * A fourth requirement of using a reference book well: You must know what is *considered knowable* by the authors of the book.
 
@@ -489,10 +489,10 @@ by Mortimer J. Adler and Charles Van Doren
 * If you have to look up too many words at the beginning of a book, you will lose track of the book's unity and order.
 * Resist looking up new words during your first reading of a good book unless they seem to be important to the author's general meaning.
 * Words can be looked at four ways:
-1. Words are physical things – writable words with speakable sounds.
-2. Words are parts of speech.
-3. Words are signs. They have multiple meanings, and through their meanings, words are related to one another.
-4. Words are conventional. They are man-made signs, and so every word has a history.
+  1. Words are physical things – writable words with speakable sounds.
+  2. Words are parts of speech.
+  3. Words are signs. They have multiple meanings, and through their meanings, words are related to one another.
+  4. Words are conventional. They are man-made signs, and so every word has a history.
 * A good dictionary will answer all of these four different kinds of questions about words.
 
 ##### How to Use an Encyclopedia
@@ -502,8 +502,8 @@ by Mortimer J. Adler and Charles Van Doren
 * A table of contents is a topical arrangement of a book, whereas an index is an alphabetical arrangement.
 * Facts should never be argued about in the first place, and encyclopedias should be used to end disputes about matters of fact as quickly and permanently as possible.
 * An encyclopedia is about facts as a dictionary is about words. Some points:
-1. Facts are propositions.
-2. Facts are "true" propositions, not opinions. When someone says "it is a fact that" she means that it is generally agreed that such is the case.
-3. Facts are reflections of reality. They may be either informational singulars or relatively unquestioned generalizations.
-4. Facts are to some extent conventional. They can change, as any proposition that we take to be true can be falsified by more patient and more accurate observation and investigation.
+  1. Facts are propositions.
+  2. Facts are "true" propositions, not opinions. When someone says "it is a fact that" she means that it is generally agreed that such is the case.
+  3. Facts are reflections of reality. They may be either informational singulars or relatively unquestioned generalizations.
+  4. Facts are to some extent conventional. They can change, as any proposition that we take to be true can be falsified by more patient and more accurate observation and investigation.
 * The art of using an encyclopedia as an aid to reading is the art of asking the proper questions about facts.
