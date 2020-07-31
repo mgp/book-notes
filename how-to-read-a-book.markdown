@@ -400,3 +400,49 @@ by Mortimer J. Adler and Charles Van Doren
 * Disagreements are arguable matters. And argument is empty unless one supposes that there is an attainable understanding that, when attained by reason in the light of all the evidence, resolves the original issues.
 * Rule 11 of reading: Respect the difference between knowledge and mere professional opinion by giving reasons for any critical judgment you make.
 * Knowledge consists of those *opinions that can be defended*, opinions for which there is evidence of some kind. But ordinary opinion is just unsupported judgment.
+
+#### Chapter 11: Agreeing or Disagreeing with the Author
+
+* To the extent that a reader can support his charge that the book is unintelligible, he has no further critical obligations.
+* If in addition to understanding the book, you agree thoroughly with what the author says, the work is over and your analytical reading is completely done.
+* Not simply by following an author's arguments, but only by meeting them as well, can the reader ultimately reach significant agreement or disagreement with his author.
+* The author makes claims about the world we live in. His claims are justified only to the extent that he speaks truly, to the extent that he says what is possible in the light of evidence.
+* Because of your meeting the author's mind through a sound interpretation of his book, you are able to make up your own mind as concurring in or dissenting in his position.
+
+##### Prejudice and Judgment
+
+* There are three conditions to be satisfied if controversy is to be well conducted:
+  1. Acknowledge the emotions you bring to a dispute, or those that arise in the course of it. Otherwise you are likely venting feelings, not stating reasons.
+  2. Make your assumptions explicit. You must know what your prejudices are, otherwise you are not likely to admit that your opponent may be equally entitled to different assumptions.
+  3. Attempt impartiality to counteract the blindness of partisanship. Each disputant should at least try to take the other person's point of view.
+* To talk back to the author, after you say "I understand but I disagree" you can make the following remarks to the author:
+  1. "You are uninformed"
+  2. "You are misinformed"
+  3. "You are illogical – your reasoning is not congruent"
+  4. "Your analysis is incomplete"
+
+##### Judging the Author's Soundness
+
+* To say the author is *uninformed* means he lacks some piece of knowledge that is relevant to the puzzle he is trying to solve.
+  * You must be able yourself to state the knowledge that the author lacks and show how it is relevant, how it makes a difference to his conclusions.
+* To say the author is *misinformed* means he asserts what is not the case, meaning he is proposing as true or more probable what is in fact false or less probable.
+  * You must be able to argue the truth or greater probability of a position contrary to the author's.
+* To say the author is *illogical* means he has committed a fallacy in reasoning.
+  * The first type of fallacy is the non sequitur, meaning what is concluded simply does not follow from the reasons offered.
+  * The second type of fallacy is the occurrence of inconsistency, meaning the author has tried to say two things that are incompatible.
+  * You must be able to show the precise respect in which the author's argument lacks cogency.
+
+##### Judging the Author's Completeness
+
+* If you have not been able to show that the author is uninformed, misinformed, or illogical on relevant matters, then you cannot disagree without relying on emotions or prejudices.
+* To say the author's analysis is *incomplete* means he has not solved all the problems he started with, or that he did not see all their implications and ramifications, or that he failed to make relevant distinctions.
+* You can only make this remark if you can define the inadequacy precisely.
+* This fourth point is not a basis for disagreement. It is critically adverse only to the extent that it marks the limitations of the author's achievement.
+* Structural outlining reveals how adequately the author has stated his problems, while interpretation measures how satisfactorily he has solved them.
+
+##### The Third Stage of Analytical Reading
+
+* If you are reading for enlightenment, then there is no end to the inquiry that, at every stage of learning, is renewed by the question "What of it?"
+* We often use "well read" to mean the quantity rather than the quality of reading. But a person who has read widely but not well deserves pity, not praise.
+* Many books are worth reading well, and many more should only be inspected.
+* Being well-read means knowing how to use whatever skill one possesses with discrimination – and by reading every book according to its merits.
