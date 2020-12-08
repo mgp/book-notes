@@ -1200,6 +1200,241 @@ by Martin Kleppmann
 * If you can avoid opening Pandora's box and simply keep things on a single machine, it's generally worth doing so.
 * Distributed sequence number generators like Twitter's Snowflake cannot guarantee that ordering is consistent with causality, because the timescale at which blocks of IDs are assigned is longer than the timescale of database reads and writes.
 
+### Chapter 9: Consistency and Consensus
+
+* The best way of building fault-tolerant systems is to find some general-purpose abstractions with useful guarantees, implement them once, and then let applications rely on them.
+* *Split brain* is when nodes believe they are the leader, and it often leads to data loss.
+
+#### Consistency Guarantees
+
+* A better name for eventual consistency may be *convergence*, as we expect all replicas to eventually converge to the same value.
+* The edge cases of eventual consistency only become apparent when there is a fault in the system or at high concurrency.
+* Transaction isolation is about avoiding race conditions due to concurrently executing transactions. Distributed consistency is about coordinating the state of replicas in the face of delays and faults.
+
+#### Linearizability
+
+* *Linearizability* (or *strong consistency*) is to make a system appear as if there were only one copy of the data, and all operations on it are atomic.
+* Linearizability is a *recency guarantee*: As soon as a client completes a write, all clients reading from the database must be able to see the value just written.
+
+##### What Makes a System Linearizable?
+
+* A linearizable system appears as if it has only a single copy of the data.
+* A *concurrent read* is a read that overlaps in time with the write operation. Because we don't know whether the write has taken effect when the read operation is processed, it may return either the old value or the new value.
+* In a linearizable system there must be some point in time at which a register is updated to its new value, and so all subsequent reads must return the new value even if the write operation has not yet completed.
+* It is possible to test whether a system is linearizable by recording the timings of all requests and responses, and checking whether they can be arranged in a valid sequential order.
+* Serializability is a isolation property of transactions which guarantees that the transactions behave as if they had executed in some serial order.
+* Implementations of serializability based on two-phase locking or actual serial execution are typically linearizable.
+* Snapshot isolation is not linearizable because a consistent snapshot does not include writes that are more recent than the snapshot.
+
+##### Relying on Linearizability
+
+###### Locking and leader election
+
+* Electing a leader requires one node successfully acquiring a lock. This system must be linearizable, as all nodes must agree on which node owns the lock.
+* Consensus algorithms implement linearizability in a fault-tolerant way, but linearizable storage is the foundation for these coordination tasks.
+
+###### Constraints and uniqueness guarantees
+
+* A hard uniqueness constraint requires linearizability, while constraints like foreign key or attribute constraints do not require linearizability.
+
+###### Cross-channel timing dependencies
+
+* Without the recency guarantees of linearizability, you must be concerned with race conditions between two communication channels.
+
+##### Implementing Linearizable Systems
+
+* The simplest way to implement linearizability is to rely on only a single copy of the data, but that does not tolerate faults.
+* Single-leader replication is potentially linearizable if you make all reads from the leader – which assumes you know for sure who the leader is – or from synchronously updated followers.
+* Multi-leader replication are generally not linearizable, because they concurrently process writes on multiple nodes and asynchronously replicate them to other nodes.
+* Leaderless replication systems with LWW conflict resolution or sloppy quorums are not linearizable.
+* Quorums where *w + r > n* can be linearizable if readers perform read repair synchronously before returning results, and if writers read the latest quorum state before sending writes.
+  * Only linearizable read and write operations can be performed in this way; a linearizable compare-and-set operation cannot, because it requires a consensus algorithm.
+
+##### The Cost of Linearizability
+
+* The *CAP theorem* states that applications that don't require linearizability can be more tolerant of failures:
+  * If your application requires linearizability, then a disconnected replica is *unavailable* and must either wait until the network is fixed, or return an error.
+  * If your application doesn't require linearizability, then a replica can remain *available* and process requests even if disconnected.
+* The CAP theorem encouraged database engineers to explore a wider design space of distributed shared-nothing systems, which were more suitable for implementing large-scale web services.
+* CAP is sometimes presented as *Consistent, Available, Partitioned – pick 2* but partitions are a kind of fault and so they will happen whether you like it or not.
+* A better way of presenting CAP is *Consistent or Available when Partitioned*, as you must choose linearizability or total availability when a network fault occurs.
+* CAP has little practical value for designing systems as it doesn't say anything about network delays, dead nodes, or other trade-offs.
+
+###### Linearizability and network delays
+
+* The response times of linearizable reads and writes is very high in a network with highly variable network delays, and so weaker consistency models can be much faster.
+
+#### Ordering Guarantees
+
+* The leader in single-leader replication determines the *order of writes* in the replication log, while serializability ensures that transactions behave as if executed in *some sequential order*.
+
+##### Ordering and Causality
+
+* Ordering is recurring because it helps preserve *causality*. Cases where causality is important include:
+  * Snapshot isolation provides a snapshot consistent with causality: The effects of all operations that happened causally before that point in time are visible, but no operations that happened causally afterward are seen.
+  * Serializable snapshot isolation detects write skew by tracking the causal dependencies between transactions.
+* A *causally consistent* system obeys the ordering imposed by causality, where chains of causally dependent operations define the causal order in the system.
+
+###### The causal order is not a total order
+
+* In a linearizable system, we have a *total order* of operations: For any two operations, we can always say which happened first.
+* Other consistency models offer a *partial order*: Two events are ordered if they are causally related, but they are incomparable if they are concurrent.
+* There are no concurrent operations in a linearizable datastore, as there must be a single timeline along which all operations are totally ordered.
+* Concurrency means that the timeline branches and merges again, and that operations on different branches are incomparable (i.e. concurrent).
+
+###### Linearizability is stronger than causal consistency
+
+* Linearizability ensures causality, which is what makes linearizable systems simple to understand and appealing.
+* Causal consistency is the strongest consistency model that does not slow down due to network delays, and remains available in the face of network failures.
+
+###### Capturing causal dependencies
+
+* Concurrent operations may be processed in any order, but if one operation happened before another, then they must be processed in that order on every replica.
+* Causal consistency must track causal dependencies across the entire database. And to determine the causal ordering, the database must know which version of the data was read by the application.
+
+##### Sequence Number Ordering
+
+* Causality is an important theoretical concept, but actually keeping track of all causal dependencies can become impracticable.
+* Monotonically increasing *sequence numbers* can create a total ordering that is consistent with causality: If operation A happened before operation B, then A occurs before B in the total order.
+
+###### Noncausal sequence number generators
+
+* Multiple leaders independently generating sequence numbers will not correctly capture the ordering of operations across different nodes, and are not consistent with causality.
+
+###### Lamport timestamps
+
+* If each node has a unique identifier and a count of the number of operations it has processed, its Lamport timestamp is the pair *(counter, node ID)*.
+* Each node and client maintains the maximum counter value it has seen so far and includes it on every request. When a node receives a request or response with a maximum counter value greater than its own counter value, it immediately increases its own counter to that maximum.
+* The ordering from the Lamport timestamps is consistent with causality, because every causal dependency results in an increased timestamp.
+* Version vectors can distinguish whether two operations are concurrent or whether one is casually dependent on the other, whereas Lamport timestamps enforce a total ordering.
+
+###### Timestamp ordering is not sufficient
+
+* To implement something like a uniqueness constraint for usernames, it's not sufficient to have a total ordering of operations - you also need to know when that ordering is finalized.
+
+##### Total Order Broadcast
+
+* *Total order broadcast* or *atomic broadcast* is the problem of how to scale the system if the throughput is greater than a single leader can handle, and how to handle failover if the leader fails.
+* Total ordering across all partitions in a partitioned database is possible, but it requires additional coordination.
+* Total order broadcast is a protocol for exchanging messages between nodes and requires two safety guarantees: reliable delivery and totally ordered delivery.
+
+###### Using total order broadcast
+
+* Consensus services such as ZooKeeper and etcd actually implement total order broadcast.
+* *State machine replication* is the use of total order broadcast for database replication: Every replica processes every write in the same order.
+* Total order broadcast can be framed as creating a *log*, where delivering a message is like appending to the log.
+* ZooKeeper uses total order broadcast to implement a lock service: Every request to acquire the lock is appended as a message to the log, and all messages in the log are sequentially ordered. The sequence number, or `zxid`, serves as a fencing token.
+
+###### Implementing linearizable storage using total order broadcast
+
+* You can build linearizable storage on top of total order broadcast by appending a message for each write or read, and then processing the write or read upon reading the message from the log.
+
+###### Implementing total order broadcast using linearizable storage
+
+* For every message you want to send through total order broadcast, increment-and-get the linearizable integer, and then attach the register value as a sequence number to the message.
+* It can be proved that a linearizable compare-and-set (or increment-and-get) register and total order broadcast are both *equivalent to consensus*.
+
+#### Distributed Transactions and Consensus
+
+* Consensus is needed for leader election, as all nodes need to agree on which node is the leader.
+* In the *atomic commit problem*, all nodes participating in a distributed transaction need to agree on the outcome of the transaction (either all aborting or all committing).
+
+##### Atomic Commit and Two-Phase Commit (2PC)
+
+* Atomicity ensures that a secondary index stays consistent with the primary data.
+
+###### From single-node to distributed atomic commit
+
+* The deciding moment for whether a transaction commits or aborts is the moment at which the disk finishes writing the commit record: After this moment, the transaction is committed.
+* Once a transaction has been committed on one node, it cannot be retracted if it later turns out that it was aborted on another node.
+* If a transaction was allowed to abort after committing, it would violate *read committed isolation*, and any transactions that read the committed data would be based on data that was retroactively declared not to have existed.
+
+###### Introduction to two-phase commit
+
+* 2PC (two-phase commit) provides atomic commit in a distributed database, whereas 2PL (two-phase locking) provides serializable isolation.
+* 2PC requires a *coordinator*, or *transaction manager*, which is often implemented as a library within the same application process that is requesting the transaction.
+* When an application is ready to commit, the coordinator begins phase 1, sending a *prepare* request to every node asking if it is able to commit.
+* If all nodes reply "yes" then the coordinator sends a *commit* request in phase 2 and the commit actually takes place.
+
+###### A system of promises
+
+* By replying "yes" to the coordinator, a node promises to commit the transaction without error if requested.
+* The *commit point* is when the coordinator writes to its transaction log on disk whether it will go ahead with phase 2 or abort, so that its decision is preserved in case it subsequently crashes.
+* If the decision was to commit, then that decision must be enforced, no matter how many retires it takes.
+
+###### Coordinator failure
+
+* After a node has voted "yes" to a prepare request, it must wait to hear from the coordinator whether to commit or abort.
+* If a node replies to a prepare request and then the coordinator crashes or the network fails, the node's transaction state is called *in doubt* or *uncertain*.
+* Upon the coordinator recovering from a crash, it computes the status of all in-doubt transactions by reading its transaction log, and aborts any without a commit record.
+
+##### Distributed Transactions in Practice
+
+* Distributed transactions are criticized for causing operational problems, killing performance, and promising more than they can deliver.
+* The performance cost inherent in 2PC is due to the additional disk forcing (`fsync`) that is required for crash recovery, and the additional network round-trips.
+* Database-internal distributed transactions can often work quite well, while transactions spanning heterogeneous technologies are a lot more challenging.
+
+###### XA transactions
+
+* X/Open XA (for eXtended Architecture) is a C API for interfacing with a transaction coordinator. It is supported by many traditional databases and message brokers.
+* In practice the transaction coordinator implementing the XA API is a library loaded into the same process as the application issuing the transaction.
+
+###### Holding locks while in doubt
+
+* Database transactions take a row-level exclusive lock on any rows they modify, and serializable isolation requires acquiring a shared lock on any rows read by the transaction.
+* Using 2PC, a transaction must hold onto locks throughout the entire time it is in doubt, which can cause large parts of your application to be unavailable until the in-doubt transaction is resolved.
+
+###### Recovering from coordinator failure
+
+* Orphaned in-doubt transactions do occur, which hold locks and block other transactions until they are either manually committed or rolled back by an administrator.
+
+###### Limitations of distributed transactions
+
+* When the transaction coordinator is part of the application server, the application servers are no longer stateless because the coordinator logs are a critical part of the durable system state.
+* Distributed transactions tend to *amplify failures*, because if any part of the system is broken then the distributed transaction also fails.
+
+##### Fault-Tolerant Consensus
+
+* Consensus is where one or more nodes may *propose* values, and a consensus algorithm *decides* on one of those values.
+* The algorithm must have uniform agreement (no two nodes decide differently), integrity (no node decides twice), validity (a node can decide only on a proposed value), and termination (every node that does not crash eventually decides a value).
+* The termination property formalizes the idea of fault tolerance, as the consensus algorithm must make progress.
+* Termination is a liveness property, whereas uniform agreement, integrity, and validity are all safety properties.
+* Any consensus algorithm requires at least a majority of nodes to be functioning correctly in order to assure termination. This majority can safely form a quorum.
+* A large-scale outage can stop the consensus system from being able to process requests, but it cannot corrupt the system by causing it to make invalid decisions.
+
+###### Consensus algorithms and total order broadcast
+
+* Total order is equivalent to repeated rounds of consensus: In each round, nodes propose the message that they want to send next, and then decide on the next message to be delivered in the total order.
+
+###### Epoch numbering and quorums
+
+* Consensus protocols like Raft and Paxos define an *epoch number*, and guarantee that within each epoch the leader is unique.
+* Every time the leader is thought to be dead, a vote is started among the nodes to elect a new leader. This election is given an incremented epoch number.
+* The quorums for voting for a leader and for voting on a leader's proposal must overlap. So if a vote on a proposal succeeds, then at least one of the nodes that voted for it must have also participated in the most recent leader election.
+* If the vote on a proposal doesn't reveal any higher-numbered epoch, the current leader can conclude that no leader election with a higher epoch number has happened, and so it is still the leader.
+
+###### Limitations of consensus
+
+* The process by which nodes vote on proposals before they are decided is a kind of synchronous replication.
+* Most consensus algorithms assume a fixed set of nodes that participate in voting, meaning you cannot add or remove nodes in the cluster.
+* In geographically distributed systems, nodes can falsely believe the leader to have failed because of a transient network issue, leading to frequently leader elections that degrade performance.
+
+##### Membership and Coordination Services
+
+* ZooKeeper and etc are designed to hold small amounts of data that fit entirely in memory, which is replicated across all nodes using a fault-tolerant total order broadcast algorithm.
+* Using an atomic compare-and-set operation, you can implement a lock in ZooKeeper: If several nodes concurrently try to perform the same operation, only one will succeed.
+* ZooKeeper provides a monotonically increasing fencing token by totally ordering all operations and giving each one a monotonically increasing transaction ID (`zxid`) and version number (`cversion`).
+
+###### Allocating work to nodes
+
+* Leader election and assigning partitioned resources to nodes can be achieved by judicious use of atomic operations, ephemeral nodes, and notifications in ZooKeeper.
+* ZooKeeper provides a way of "outsourcing" some of the work of coordinating nodes (consensus, operation ordering, and failure detection) to an external service.
+
+###### Service discovery
+
+* ZooKeeper, etc, and consul are often used for *service discovery*, which returns the set of IP addresses that are running a given service.
+* Replicas that asynchronously receive the log of all decisions of the consensus algorithm but don't participate in the voting can serve read requests that don't need to be linearizable.
+
 ### Chapter 10: Batch Processing
 
 * There are three types of systems:
