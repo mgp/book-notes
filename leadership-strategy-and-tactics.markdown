@@ -69,3 +69,39 @@ by Jocko Willink
   * The leader can stick to the plan and replace the subordinate with someone more obedient, but the team will suffer because the voice of reason is gone.
   * The subordinate can refuse to execute the plan or quit in protest, but after making this statement there is nothing more the subordinate can do.
   * The subordinate can follow through, mitigating the negative impacts of the poor plan, noting the harmful effects so that they can be explained clearly, and continuing to build a relationship with the boss for better outcomes going forward. But the subordinate is still culpable for the outcome.
+
+##### Born or Made?
+
+* Just as a person can improve their physical capabilities, they can improve their intellect until they reach the limits of their genomes.
+* To become more articulate, practice speaking, study to expand your vocabulary, and read and write to improve your ability to clarify and communicate thoughts.
+* To become better at simplifying things, detach and think about problems abstractly, and reprioritize and remove unimportant things.
+* To become more charismatic, improve your posture, look people in the eye, listen intently, and speak loud and clear with humble authority.
+* To improve your ability to read people, pay attention to body language, facial expressions, and tone of voice.
+* A good leader finds other people to bring onto the team who compensate for his or her shortfalls.
+* People who lack humility can't improve because they don't acknowledge their own weaknesses, and won't bring on others to compensate for them.
+
+##### Leadership and Manipulation
+
+* Manipulators get people to do things that benefit the manipulator. Leaders get people to do things that benefit the team and the people themselves.
+* If you sacrifice others for yourself, people will notice you are not looking out for the good of the team, and they won't follow you for long.
+* If you make sacrifices and put other people and the mission first, then people will recognize that and follow you.
+
+##### Subordinate Your Ego
+
+* Subordinating your ego is the ultimate form of self-confidence. You have not backed down, but shown you have the strength to give the other person credit.
+
+##### Leaders Tell the Truth
+
+* Many people, including leaders, fail to deliver the hard truth because it hurts as much to say as it does to hear.
+* If you communicate often with someone, then delivering them bad news will sting less.
+* If people are unsure why something is happening, and the truth is withheld, they will make up their own reasons that are likely much worse than reality.
+* Withholding the truth erodes trust in the leader's words, plan, and vision, and so the team and the leader will fail.
+* When a mistake is made, the leader must be truthful about what happened, what mistakes were made, and how they are going to fix them.
+* Don't wait to have hard conversations, as they will only get harder.
+* Sandwiching negative criticism between two positive points is a poor shortcut to having actual relationships with your direct reports.
+* Most people don't like criticism, so most criticism is best delivered indirectly and with the minimal amount of negativity to get the desired change.
+
+##### Study
+
+* In any group of people, leadership is occurring. Note the successful techniques leaders use and how you can apply them.
+* If a leader thinks they have reached their peak, then they are stagnant in their skill set and unconsciously giving off the stink of arrogance.
