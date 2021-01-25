@@ -105,3 +105,53 @@ by Jocko Willink
 
 * In any group of people, leadership is occurring. Note the successful techniques leaders use and how you can apply them.
 * If a leader thinks they have reached their peak, then they are stagnant in their skill set and unconsciously giving off the stink of arrogance.
+
+#### Section 2: Core Tenets
+
+##### Be Capable and Ask for Help
+
+* If a leader doesn't understand a skill or job that plays a role in the accomplishment of a mission, ask and then actually practice the task.
+* Learning front-line skills demonstrates humility – it shows you don't know everything, and that you're not above what those troops are doing.
+* Before going to the front-line, at least be familiar with what they do, or else you will appear out of touch and you will lose their respect.
+* Build relationships with the front-line troops; they in turn will tell you what's going on, and what is working and what isn't.
+
+##### Building Trust and Relationships
+
+* We need relationships to form a team, and we need trust to build relationships.
+
+###### Down the Chain
+
+* To build relationships down the chain, you must *give* trust.
+* A subordinate may make a bad decision, fail to solve a problem, or fail a mission, so start to build trust with small, incremental steps.
+* If the subordinate is successful in a task, mutual trust increases and you can assign bigger tasks.
+* If the subordinate is unsuccessful in a task, use the mistake as an opportunity to mentor them. Do not punish them.
+
+###### Up the Chain
+
+* Tell the truth – but do not complain. Do not tell your boss what you think he or she wants to hear.
+* Lies come back to hurt the mission, the team, and the boss. The boss will remember you fed them incorrect information, and their trust in you will be diminished.
+
+###### Trust and Decentralized Command
+
+* Once a subordinate understands *why* they are doing something, they can take ownership of a task and execute it while making adjustments as needed.
+* Open dialogue between a leader and subordinates is required to fully understand the situation and to formulate the best possible plan.
+
+##### Earning Influence and Respect
+
+* Too often leaders think they *deserve* to be respected because of their rank, and equate their position of authority to influence.
+* The more you respect people and allow them to influence you, the more respect you will gain, and the more influence you will have over them.
+
+##### Extreme Ownership of Everything
+
+* Extreme ownership means that leaders are responsible for every action the people on their team make.
+* The moment a leader decides he or she is going to allow excuses, it opens the door to shift blame onto others, and that leads to failures.
+
+###### Preemptive Ownership
+
+* Preemptive ownership is taking ownership of things to prevent problems from unfolding in the first place.
+
+###### Taking Ownership When Being Blamed
+
+* When you're blamed for something, accept it, and then either explain your solution or say you are trying to figure one out.
+* When you are a leader and someone blames you for something going wrong, you own it and accept the blame.
+* Any leader wants people on his or her team who step up and take ownership, so be one of those people.
