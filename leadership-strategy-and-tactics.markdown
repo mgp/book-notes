@@ -155,3 +155,28 @@ by Jocko Willink
 * When you're blamed for something, accept it, and then either explain your solution or say you are trying to figure one out.
 * When you are a leader and someone blames you for something going wrong, you own it and accept the blame.
 * Any leader wants people on his or her team who step up and take ownership, so be one of those people.
+
+##### Picking Up Brass
+
+* When a job is too taxing on the troops, it is important to get down in the dirt with the folks on the front line and *do work*.
+* A leader should also do this during high-risk operations or anything where there is a significant level of discomfort.
+* By doing the hard things their subordinates do every day, leaders never forget to respect the job itself and the people who do it.
+* Also, the leaders recognize the leaders willingness to shoulder some of the burden so he or she can understand the challenges of the job.
+
+##### Leading from the Rear
+
+* In any situation that has stagnated from fear or apprehension, or which is arduous, a leader stepping up and taking action is a solid solution.
+* A leader in the weeds of day-to-day operations loses visibility of the broader events unfolding, and the decision-making process suffers.
+* When the leader allows the team to come up with a plan, those members have already bought into it; there is no need to convince them of anything.
+* The best ideas often come from the team members on the front line, who are closest to the problem. They have the knowledge, so give them the power.
+
+##### Don't Overreact
+
+* Anything you might say in the moment is based on incomplete and likely inaccurate information, so wait for the situation to unfold before speaking up.
+* Overreacting is always bad, because not only does it lead to poor decisions, but it also makes you look bad as a leader.
+* Take a step back, detach from your emotional reaction, understand what is really going on, and then make calm, logical decisions.
+
+##### Don't Care
+
+* The ability to not care is a hard ability to acquire, as it requires you to subdue your ego – the most powerful driving force a human being has.
+* Many of our feelings are tied to our egos, but our egos are very shortsighted and so we must set them aside. You must learn not to care.
