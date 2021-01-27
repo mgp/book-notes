@@ -180,3 +180,28 @@ by Jocko Willink
 
 * The ability to not care is a hard ability to acquire, as it requires you to subdue your ego – the most powerful driving force a human being has.
 * Many of our feelings are tied to our egos, but our egos are very shortsighted and so we must set them aside. You must learn not to care.
+
+##### Everyone Is the Same, Everyone Is Different
+
+* As much as you can categorize someone as a "leader" or "loner," they are still completely different from all the other leaders or loners you've worked with.
+* When a leader applies the same leadership tool in the same way that's worked in the past, and it doesn't work, the leader reacts by applying the tool even harder.
+* The prudent leader recognizes that the leadership tool being used is either the wrong tool or he or she is applying it in the wrong way.
+* Different people in similar situations who have the same symptoms can require different treatment, so tools and approaches must be deployed with tact.
+
+##### Let Nature Work
+
+* To grow and learn, people must be assigned tasks that bring them outside their domain of competence.
+* But people's primary duties should reflect what they are naturally suited to do. They will enjoy their work more and do a better job, benefiting them and the team.
+
+##### Isolation as a Leader
+
+* You will be alone with decisions, because as a leader, decisions are ultimately yours and yours alone. That is the burden of command.
+* Build relationships, but relationships do not mean preferential treatment, or undue influence, or unfiltered candor and completely revealing one's thoughts.
+* While it is good to build consensus around what the final decision is, that final decision rests with only the leader.
+* The leader must make the final decision because the position of leadership reveals a perspective that is almost impossible for others to appreciate.
+
+##### Know What Is Important and What Isn't
+
+* To discriminate between things that matter and things that don't, a leader must detach, take a step back, and assess whether or not any detail in a situation matters.
+* A good rule to follow is for a leader to err on the side of not getting involved in problems; the goal is always to allow problems to get solved at the lowest level.
+* A leader should know what is important and when it is time to step down into the tactical situation and solve a problem before it gets out of hand.
