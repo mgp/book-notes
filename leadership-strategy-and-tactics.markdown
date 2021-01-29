@@ -256,3 +256,20 @@ by Jocko Willink
 * In a successful team led by junior people, the structural leader does deserve credit for having the humility to letting subordinates run things.
 * When it's unclear who is driving the success of a subordinate team, it can be problematic to make changes like moving personnel or making promotions.
 * A bad team is without question the result of a bad leader, a good team is not necessarily the result of a good leader.
+
+### Part 2: Leadership Tactics
+
+#### Section 1: Becoming a Leader
+
+##### How to Succeed As a New Leader
+
+* Treat people with respect. Regardless of rank, everyone is a human being and plays an important role on the team.
+* Work hard. As the leader, you should be working harder than anyone else on the team. No job is beneath you.
+* Build relationships. A team is a group of people who have relationships and trust one another. Otherwise it is a disconnected and incoherent group of people.
+* Get the job done. Your purpose is to lead a team in accomplishing a mission, and if you don't accomplish the mission then you fail as a leader.
+* Being new is not an excuse for ignorance or lack of preparation.
+
+##### How to be Chosen to Lead
+
+* The best way to give yourself a chance for a promotion and leadership is outstanding performance.
+* Do not focus on yourself, and don't make being chosen as a leader your goal. Instead, make your goal *helping the team win*.
