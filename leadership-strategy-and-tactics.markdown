@@ -205,3 +205,47 @@ by Jocko Willink
 * To discriminate between things that matter and things that don't, a leader must detach, take a step back, and assess whether or not any detail in a situation matters.
 * A good rule to follow is for a leader to err on the side of not getting involved in problems; the goal is always to allow problems to get solved at the lowest level.
 * A leader should know what is important and when it is time to step down into the tactical situation and solve a problem before it gets out of hand.
+
+#### Section 3: Principles
+
+##### The Most Important Member of the Team
+
+* Explain to each team member what happens if they don't do their jobs well, and how their job fit into the big picture and the strategic mission.
+
+##### Span of Control
+
+* Beyond 8 to 10 direct reports, a leader doesn't have the time or bandwidth to keep track of events inside the worlds of their subordinate leaders.
+* The better the subordinate leaders, the less supervision and intervention they require from the boss.
+* If you have too many people under your control, it may be effective to elevate a few of the high-potential troops to be leaders of some smaller teams beneath you.
+
+##### Taking Care of Your People With Discipline
+
+* If you want to take care of your people, push them. Ensure they understand their jobs, and drive them toward their goals.
+* If they fail professionally, they fail to achieve their financial goals and cannot take care of their families or provide for them the way they want to.
+
+##### Imposed Discipline
+
+* When you give a direct order or impose your will on the team, you are removing subordinates' input from the equation.
+* When people have no input, they have no ownership; when they have no ownership, they have no personal stake in driving mission success.
+* It is always better to have people embrace change voluntarily and to take ownership of it so they can drive toward success.
+* A direct order may be warranted when individuals on the team have agendas that are not aligned with the leader's or the mission's.
+* Whenever possible, explain the *why*, ensure the team members understand the benefits to the mission and to themselves, and then give them as much ownership as possible.
+
+##### Pride
+
+* In the worst case, pride becomes arrogance, the ego inflates, stagnation ensues, and the downward spiral begins.
+* In the best case, pride is an unseen force that keeps team members working hard, giving their best effort, and holding themselves and each other to the highest standard.
+* Optimally, a leader doesn't need to police infractions and motivate the team to give their best; if there is pride, the team polices itself.
+* To build pride within a team, put its members through situations that require unity, strength, and perseverance to get through. Through hard work they must overcome shared suffering.
+* No pride is built on easy wins, but a team has to win some to have pride. Try to find that point, and then fight to maintain it.
+
+##### Giving Orders
+
+* Commander's Intent is where, when giving orders, you simply state the mission goal – the goal that must be accomplished.
+* Let your subordinates come up with the plan whenever possible. Not only do they buy into it and take ownership, but it will give you the distance and altitude you need to see holes in it.
+* With each iteration of planning they conduct, and with each correction you give them, they will become better.
+
+##### Yes-Men
+
+* Subordinates should always push back against their leaders, ask why things are done a certain way, and offer information and recommendations from their perspective on the front line.
+* If you want optimal performance, you cannot rely only on your brainpower. You must encourage the rest of your team to think and to question you.
