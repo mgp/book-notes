@@ -249,3 +249,10 @@ by Jocko Willink
 
 * Subordinates should always push back against their leaders, ask why things are done a certain way, and offer information and recommendations from their perspective on the front line.
 * If you want optimal performance, you cannot rely only on your brainpower. You must encourage the rest of your team to think and to question you.
+
+##### The Exception to No Bad Teams, Only Bad Leaders
+
+* When subordinates on the team lead regardless of their rank, then you can have a *good team* that delivers outstanding performance despite a *bad leader*.
+* In a successful team led by junior people, the structural leader does deserve credit for having the humility to letting subordinates run things.
+* When it's unclear who is driving the success of a subordinate team, it can be problematic to make changes like moving personnel or making promotions.
+* A bad team is without question the result of a bad leader, a good team is not necessarily the result of a good leader.
