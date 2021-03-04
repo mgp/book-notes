@@ -115,3 +115,58 @@ by Will Larson
 
 * If you have a problem and believe that your title is the only thing holding you back, rest assured that focusing on developing your approach and skills will be far more impactful than the title.
 * However, women and minorities often do find they spend significantly less time and energy proving themselves once they attain a Staff-plus title.
+
+### Operating at Staff
+
+* A big part of the learning curve of Staff engineer is that much of the work you're doing has a much slower feedback cycle.
+
+#### Work on what matters
+
+* If you're continuing to advance your career, then even as your time available for work shrinks, the expectations around your impact will keep growing.
+* Only through pacing your career to your life can you sustain yourself in the long term.
+
+##### Avoiding snacking
+
+* When you run out of easy and high-impact work, only hard and high-impact work or easy and low-impact work is left. The latter choice is *snacking*.
+* In senior roles, you're more likely to self-determine your work. If you're not deliberately tracking your work then it's easy to catch yourself doing little to no high-impact work.
+
+##### Stop preening
+
+* Preening is the seductive subset of snacking that is low-impact, high-visibility work.
+* Many companies can't distinguish between preening and impact, leading senior engineers to do work of dubious value that is frequently recognized in company meetings.
+* To be a successful preener requires near invulnerability to criticism of your actual impact, and your true work will suffer if your energy is diverted to preening.
+
+##### Stop chasing ghosts
+
+* After joining a new company, taking the time to understand the status quo before shifting it will always repay diligence with results.
+
+##### Existential issues
+
+* Companies operate in an eternal iterative elimination tournament, balancing future success against surviving until that future becomes the present.
+* If you're about to lose one of those rounds, then always focus there.
+
+##### Work where there's room _and_ attention
+
+* The most effective places to work are those that matter to your company but still have enough room to actually do work.
+* Teaching a company to value something it doesn't care about is the hardest soft of work you can do, and it often fails, so you should do as little of it as you can, but no less.
+
+##### Foster growth
+
+* If you start dedicating a few hours per week to developing the team around you, it's quite likely that will become your legacy long after your tech specs and pull requests are forgotten.
+
+##### Edit
+
+* With your organizational privilege, relationships, and ability to see around corners derived from your experience, you can often shift a project's outcomes by investing the smallest amount of effort.
+
+##### Finish things
+
+* We only get value from finishing projects, and getting a project over the finish line is the magical moment it goes from risk to leverage.
+
+##### What only you can
+
+* The final category of work that matters is the work you're uniquely capable of accomplishing, which is an intersection of what you're exceptionally good at and what you genuinely care about.
+
+##### Why it matters
+
+* Interviewing judges you on subjective measures like your accumulated prestige, your titles at companies you've worked at, your backchannel reputation, and how you present yourself in the interview process.
+* The only viable long-term bet on your career is focusing on work that matters, doing projects that develop you, and steering yourself toward companies that value genuine experience.
