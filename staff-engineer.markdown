@@ -319,3 +319,107 @@ by Will Larson
   * Give support quickly to others who are working to make improvements. Someone trustworthy leading a project will almost always get to a good outcome.
   * Make your feedback explicitly non-blocking.
 * You must incorporate your worldview into those of people around you, accelerating overall progress around you even if it means detouring from your vision.
+
+#### Learn to never be wrong
+
+* You must build a deep perspective on technology and architecture, and then develop an equally deep pragmatism and agnosticism to technical religion to remain skeptical of yourself.
+
+##### Listen, clarify and read the room
+
+* Enter a room with the goal of agreeing on the problem at hand, understanding the needs and perspectives within the room, and identifying must happen to align on an approach.
+* If the room isn't ready to agree and move forward on a solution, don't force it to happen.
+* To do this, master listening through questions, defining the purpose, and reading the room.
+  * Listening through questions: Good questions are specific, and are asked with a desire to learn. They open up conversation, creating space and safety for others to ask questions.
+  * Define the purpose: If in a meeting with an unclear goal, ask if your understanding of what the group hopes to accomplish is correct.
+  * Read the room: If folks in the room are too far apart, dig into the problem together with a suitable subgroup, or escalate to an appropriate party outside the room.
+
+##### Jerks
+
+* A jerk withholds consent from the group, isn't willing to compromise, or doesn't listen.
+* A jerk hasn't learned that their career depends more on being easy to work with than being technically correct.
+* The two most effective ways to deal with jerks are:
+  * Include someone they can't be a jerk to in the meeting.
+  * Invest heavily into aligning with them before the meeting, so they feel heard and are less likely to derail the discussion.
+* If you frequently work with a jerk, try giving honest feedback to improve their behavior. Then give it again. If that fails, communicate the concerns to their manager.
+
+##### How it helps
+
+* More complex projects get derailed by personal conflict than by technical complexity, and so you must replace tension with partnership.
+
+#### Create space for others
+
+* As a Staff-plus engineer the organization around you should increasingly benefit from, but should not rely upon, your contributions.
+
+##### Discussions
+
+* When you make a key contribution, reflect on what needs to happen for someone else to make that contribution next time.
+* To create more space in discussions:
+  * Shift your contribution toward asking questions.
+  * If you see someone else who isn't participating, pull them into the discussion.
+  * Be the one to take notes, and thereby de-stigmatize taking notes as "low status," and free an alternative would-be note-taker to contribute more instead.
+  * If you realize someone's missing from the discussion who should be there, pull them into the next occurrence of the meeting.
+
+##### Decisions
+
+* To shift increasingly complex and important discussions to your wider team:
+  * Write it down: By writing down the process of finding an answer, as well as the answer's rationale, others can learn from your decisions rather than being directed by them.
+  * Circulate early, and do it before you've crystallized on a decision.
+  * Separate style from substance: If a piece of feedback won't meaningfully change a project's success, then consider not giving it.
+  * Don't try to show value: Don't weigh in on everything, or require each decision to mirror a decision you made. This makes you look insecure, and prevents others from growing as leaders.
+  * Change your mind: If senior leaders don't change their mind, then everyone will correlate bluster with success.
+
+##### Sponsorship
+
+* When critical work comes to you, ask "Who could be both successful and grown by this work?" Ask that person to lead the work and scaffold the project for their success.
+* Counsel, give advice, and provide context, but ultimately sponsorship includes letting someone take an approach that you wouldn't.
+* Keep a sponsorship journal, and ensure you're sponsoring others at least a few times per month.
+
+##### What if you don't?
+
+* If you don't create space for others, then the only company that can tolerate being constrained by your personal limitations is a company that doesn't grow.
+* To remain a long-term leader of a genuinely successful company, you must create space for others to take the work, reward, and recognition that got you to where you're currently sitting.
+
+#### Build a network of peers
+
+* The two most common strategies to building your network are being easy to find, and networking internally.
+
+##### Be visible
+
+* There is so much pent-up demand for community among Staff-plus engineers that the easiest way to build your network is being easy to find as a Staff-plus engineer.
+
+##### Internal networks, too
+
+* If you're at a decently large or prestigious company, folks leaving and spreading across the industry will help bootstrap your broader network.
+
+##### Quality over quantity
+
+* Slowly build your network with folks you trust, respect, and who inspire you. They will help you solve the hardest problems and trickiest situations that come your way.
+
+#### Present to executives
+
+* As you get further into your career, your impact will be constrained by your ability to influence executives effectively.
+
+##### Why this is hard
+
+* Communication with executives is challenging because they may lack familiarity with your domain, and they have limited time for the topic at hand.
+
+##### How to communicate effectively
+
+* Communicating with an executive is always one of three topics: planning, reporting on status, or resolving misalignment.
+* Your goal is to extract as much perspective from the executive as possible, and the best way to do this is by writing a structured document.
+* The clearest sequence for presenting your ideas is to give the summarizing idea before you give the individual ideas being summarized.
+* Every document's opening paragraph should follow the SQCA format:
+  * Situation: Define the relevant context.
+  * Complication: Explain why the current situation is problematic.
+  * Question: State the core question to address.
+  * Answer: State the best answer to the posed question.
+* Aligning with stakeholders before your presentation, sometimes called *nemawashi*, is extremely effective at reducing surprises.
+* A great meeting with leadership is defined by engaged discussion, and not by addressing every topic on the agenda.
+
+##### Mistakes to avoid
+
+* Never fight feedback: If you show up as resistant to feedback, then executives will start withholding their comments, and you'll get less out of the meeting.
+* Don't evade responsibility or problems: By putting issues on the table, you can move towards solving them together rather than hiding them.
+* Don't present a question without an answer: Doing so will make an executive wonder if they need to hire a more senior leader to supplement or replace you.
+* Don't fixate on your preferred outcome: It's easy to get upset over the "wrong" decision being made, but keep in mind there is much context that you're missing.
+* Send an early draft to an executive attending the meeting and ask them what to change.
