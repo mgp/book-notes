@@ -423,3 +423,137 @@ by Will Larson
 * Don't present a question without an answer: Doing so will make an executive wonder if they need to hire a more senior leader to supplement or replace you.
 * Don't fixate on your preferred outcome: It's easy to get upset over the "wrong" decision being made, but keep in mind there is much context that you're missing.
 * Send an early draft to an executive attending the meeting and ask them what to change.
+
+### Getting the title where you are
+
+* A Staff engineer isn't a better Senior engineer, but someone who's moved into fulfilling one of the Staff archetypes.
+* The promotion and performance system will no longer feel be designed around attaining a timely promotion and may take on the feel of gatekeeping.
+
+##### Opportunity is unevenly distributed
+
+* When pursuing a Staff role, it's simpler to align your approach with where the opportunity is concentrated than fighting the causes of inequality.
+
+##### Should you try management?
+
+* If you take on management with the wrong motivations, you'll regret the experience, but not nearly as much as your team will.
+
+##### A semi-permeable boundary
+
+* Folks with the privilege of *seeming like* they are already part of the existing leadership team have a much easier time making the transition.
+
+#### Promotion packets
+
+* Write your first promotion packet long before you think or you're likely to be promoted to Staff, similar to writing a brag document.
+* A general template format is:
+  * What are your Staff projects?
+  * What are the high-leverage ways you've impacted the organization?
+  * Who have you mentored and through what accomplishments?
+  * What glue work have you done for your organization?
+* Promotions, especially at this level, are built over years, and so temper your expectations.
+* Edit the promotion packet with your peers, who are often better at identifying your strengths and contributions than you are.
+* Maintaining this sort of document and reviewing it across managers will help mitigate the loss of progress toward your promotion that occurs after a manager change.
+
+#### Find your sponsor
+
+* Promotions are a team activity. Don't play team games alone, or you'll lose.
+
+##### Finding your sponsor
+
+* This is the person speaking up for your work in forums of influence and when advocating for constrained resources.
+* If your skip-level manager isn't familiar enough with your work's impact to remember it in a meeting two months from now, you're unlikely to get promoted into a Staff role.
+
+##### Activating your sponsor
+
+* Sponsors have more organizational capital than bandwidth to deploy that capital, so they'll help you most when you align the pieces for them.
+* Activating your sponsor should not happen only once before your promotion. Build a relationship over time, and put in the work to help them when they need your support.
+
+##### What if it doesn't work?
+
+* If you an your manager don't work together well, then you're not going to get promoted into a leadership role.
+* If you have an amazing relationship with your manager, your promotion clock will likely get reset as you build a relationship with your new manager.
+
+#### Staff projects
+
+* Folks who attain the Staff role at a company they've grown up in are more likely to have completed a Staff project.
+* Staff engineers who don't complete such a project either accumulated a track record of success over a long period without a single capstone, or because they've switched roles to reach the title.
+
+##### Staff project required
+
+* Staff projects are sometimes a "soft gate" that's brought up during a promotion meeting, sometimes to the surprise of the manager and the would-be Staff engineer.
+
+##### Why you should do a staff project
+
+* Staff projects are effective at stretching you as an engineer because they may have the following characteristics:
+  * Complex and ambiguous: Such projects generally start with a poorly scoped but complex and *important* problem.
+  * Numerous and divided stakeholders: Such projects may lack organizational alignment around both the problem and the solution.
+  * Named bet where failure matters: Such projects are important enough that senior leadership talks about it, and any failures will be very visible.
+
+##### Getting access to Staff projects
+
+* Getting access to staff projects comes down to three factors:
+  * Stay aligned with your leadership team.
+  * Be known to have the technical aptitude for the problem at hand.
+  * Your company having a pressing need to solve a Staff-level problem.
+
+##### Should you pursue a Staff project?
+
+* Beyond the pursuit of the Staff engineer title, in the long-term pursuit of self-growth, such projects are irreplaceable.
+
+#### Get in the room, and stay there
+
+* To reach senior levels, you have to become effective at not only *entering* but also *staying* in these rooms of power.
+
+##### Getting in the room
+
+* To get in the room, you need:
+  * To bring something useful to the room, and that the room doesn't already have. 
+  * A sponsor to grant you membership. It may be the case that your sponsor's manager is also in the room, evaluating *them* based on their decision to sponsor *you*.
+  * Your sponsor needs to know you want to be there.
+* Sometimes the easiest way to increase your value in the room is by decreasing the cost of including you. Some approaches include:
+  * Stay aligned with your manager: If you are especially aligned, then your manager is more likely to yield their own seat to you.
+  * Optimize for the group.
+  * Speak clearly and concisely: Remember that it's your obligation to be understood, and not the obligation of everyone else to understand you.
+  * Be low friction: You're more likely to be involved if you're known as someone who can navigate difficult conversations effectively.
+  * Come prepared: You'll stand out if you organize your thoughts before each meeting, as well as follow up on what you're committed to.
+  * Focus and be present.
+  * Volunteer for low-status tasks: Prioritize being useful, especially when it isn't the most exciting work.
+
+##### Staying in the room
+
+* There are a few patterns that will consistently get you kicked out of the room:
+  * Misunderstanding the room's purpose: Take the time to understand how the room operates and integrate into it.
+  * Being dogmatic.
+  * Withholding consent: Effective groups are formed from individuals who are willing to disagree and commit.
+  * Sucking the oxygen out of the room: Distinguish between brainstorm discussions where every idea is welcome, and when you've shifted into operating mode to unblock project execution.
+  * Embarrassing your sponsor.
+  * Not showing up regularly.
+
+##### Exiting the room
+
+* Exit any room that doesn't feel useful. While exiting, sponsor someone else into the opportunity you're leaving behind.
+
+#### Being visible
+
+* Your goal is to be known for good things while minimizing the organizational bandwidth you consume to do so.
+
+##### Why visibility matters
+
+* Staff-plus roles are leadership roles, and by recognizing you with such a position, the company is bringing you into its leadership team.
+* The existing members of that team want to expand their ranks with folks they believe in, and they can't believe in you if they don't know you.
+
+##### Internal visibility
+
+* The best way to create internal visibility is to work on the things that matter to your company and company leadership.
+
+##### Executive visibility
+
+* All positive visibility above your manager will be helpful to you, but it's especially valuable to build a relationship with your manager's manager.
+
+##### External visibility
+
+* Building an external presence gives you more room to create a niche and name for yourself, as external efforts don't compete for attention with your peers like internal efforts do.
+
+##### Should you focus on visibility?
+
+* At some point, increasing your visibility is likely reducing the opportunities for others to create visibility for themselves.
+* If you identify a lack of visibility is likely to hold you back in the promotion process, work to clear that threshold, but not much further.
