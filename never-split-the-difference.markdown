@@ -223,3 +223,64 @@ by Chris Voss
 * It is not the person across the table who scares us, but conflict itself. We overwhelmingly resort to flight in fight-or-flight.
 * Genuine, honest conflict between people over their goals helps energize the problem-solving process in a collaborative way.
 * Every negotiation, every conversation, every moment of life is a series of small conflicts that can rise to creative beauty. Embrace them.
+
+#### Additional Notes
+
+## Labeling
+
+>It seem like...(obvious thing they are feeling)  
+It looks like....(obvious thing they are feeling)  
+It sounds like....  
+
+E.g. “You seem like you don’t want to go back to jail.”
+
+Repeat back what they are feeling. By acknowledging their feelings you validate them. 
+
+Labeling your mistakes is the most effective way to rebuild trust. (“Look, I’m an asshole”) works wonders.
+
+## No
+No is not a word to be feared, it is not the end of a conversation, it is the beginning of it. 
+
+No really means one of these:
+- You are making me feel uncomfortable
+- I am not yet ready to agree
+- I am uncomfortable
+- I do not understand
+- I don’t think I can afford it
+- I want something else
+- I want to talk it over with someone else
+
+After the no, pause then label with an ask:
+- what would you need to make it work?
+- It seems there is something here that bothers you?
+
+
+## Thats right
+
+The goal is not to get people to say “yes”, since they rarely mean it, the magic is when they say “that’s right”
+
+Get the other person to say “that’s right”. Do this by summarizing their believes so they feel understood. 
+
+
+## 6 steps to negotiation
+
+1. Silence
+2. Encouraging “unhunh I’m listening”
+3. Mirroring
+4. Labeling
+5. Paraphrase 
+6. Summarize (paraphrase + labeling)
+
+## Questions in negotiations
+
+"What" and "how" are the only type of questions you should ask.
+
+e.g.
+
+> How am I supposed to do that? 
+What about this doesn't work for you?  
+How can I make this better for us?  
+How can we solve this problem?  
+What are we trying to accomplish here?   
+
+
