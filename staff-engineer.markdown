@@ -408,7 +408,7 @@ by Will Larson
 * Communicating with an executive is always one of three topics: planning, reporting on status, or resolving misalignment.
 * Your goal is to extract as much perspective from the executive as possible, and the best way to do this is by writing a structured document.
 * The clearest sequence for presenting your ideas is to give the summarizing idea before you give the individual ideas being summarized.
-* Every document's opening paragraph should follow the SQCA format:
+* Every document's opening paragraph should follow the SCQA format:
   * Situation: Define the relevant context.
   * Complication: Explain why the current situation is problematic.
   * Question: State the core question to address.
