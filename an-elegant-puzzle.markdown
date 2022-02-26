@@ -14,7 +14,7 @@ by Will Larson
   * pg 33: This is for a two-tier 24/7 rotation.
   * pg 33: Shared rotations are not long-term solutions because it is stressful for people to be on-call for components they're unfamiliar with.
 * pg 33: Small teams (fewer than four members) are not teams
-  * pg 34: To reason about their deliery you must know about each on-call shift, vacation, and interruption.
+  * pg 34: To reason about their delivery you must know about each on-call shift, vacation, and interruption.
 
 #### 2.2: Staying on the path to high-performing teams
 
