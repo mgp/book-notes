@@ -59,7 +59,7 @@ by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
 * Crucial conversations often go awry not because others dislike the content of the message, but because they believe the content suggests a malicious intent, thereby subverting safety.
 * Mutual Purpose is required to begin dialogue: Where others perceive that you're working toward a common outcome, and that you care about their goals, interests, and values. And vice versa.
 * When Mutual Purpose is at risk, we end up in debate. Other signs include defensiveness, hidden agendas, accusations, and circling back to the same topic.
-* If you enter a conversation to get what you want, you will appear critical and selfish. Instead, find the Mutual Purpose: to draw someone willingly into a crucial conversation, see their point point of view.
+* If you enter a conversation to get what you want, you will appear critical and selfish. Instead, find the Mutual Purpose: to draw someone willingly into a crucial conversation, see their point of view.
 * Mutual Respect is required to continue dialogue: If someone perceives disrespect in the conversation, it is no longer about its original purpose, but about defending dignity.
 * When Mutual Purpose is at risk, emotions become charged and fear turns to anger. Then people resort to name-calling, yelling, and making threats.
 * Recognize that we all have weaknesses; this creates a kinship and connection to others, which creates a Mutual Respect and eventually enables us to stay in dialogue with virtually anyone.
