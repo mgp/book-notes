@@ -506,7 +506,7 @@ by Will Larson
 ##### Getting in the room
 
 * To get in the room, you need:
-  * To bring something useful to the room, and that the room doesn't already have. 
+  * To bring something useful to the room, and that the room doesn't already have.
   * A sponsor to grant you membership. It may be the case that your sponsor's manager is also in the room, evaluating *them* based on their decision to sponsor *you*.
   * Your sponsor needs to know you want to be there.
 * Sometimes the easiest way to increase your value in the room is by decreasing the cost of including you. Some approaches include:
@@ -557,3 +557,113 @@ by Will Larson
 
 * At some point, increasing your visibility is likely reducing the opportunities for others to create visibility for themselves.
 * If you identify a lack of visibility is likely to hold you back in the promotion process, work to clear that threshold, but not much further.
+
+#### Deciding to switch companies
+
+* Sometimes the best way to get a desired title is to switch companies.
+* Software engineers aren't as likely to stay at the same company for their entire careers as other professions.
+
+##### What's the right decision for you?
+
+* Circumstances can vary greatly depending on personal situation such as family, location, visas, and other factors.
+* Some advice must be discounted with personal situations.
+
+##### Why leaving works
+
+* Your current company knows most about your work and capabilities, though in practice it doesn't necessarily lead to a staff promotion.
+* There can be current constraints such as: budget, attribution of work, sponsorship, and visibility.
+* Interviewing allows you to specifically find a role with your desired title, qualifications, and has the sponsorship of the hiring manager.
+* Leaving may allow you to leave behind any rut or baggage from previous roles.
+* At some level there are connections or "back-channel references" that can follow you from job to job.
+
+##### Things to try before leaving
+
+* Try exploring internal positions first. This allows you to more easily bring a reputation with you.
+* If experiencing burnout, you may be able to negotiate a paid or unpaid sabbatical to recharge.
+
+##### Leaving without a job
+
+* Checklist to consider leaving without a job due to burnout:
+  * Does your visa support this?
+  * Are you financially secure for at least a year without working?
+  * Do you work in an area with lots of opportunities or are you flexible to relocate?
+  * Do you interview well? Can you explain why you took a gap in working?
+  * Do you have positive references?
+* If all of the above are true, it may be worth leaving as a personal sabbatical.
+
+##### Taking the plunge
+
+* If close to staff, there is likely a company out there that will give you the title.
+* If you want to stay and get the title, be more intentional about getting the promotion.
+
+#### Finding the right company
+
+* Picking the right company for you will have a large impact on your ability to get a staff plus role.
+
+##### Find a place that disproportionately values you
+
+* A company that needs your skill set immediately will have high value for your contributions.
+* If a company values your incidentals rather than contributions it can be a recipe for frustration.
+
+##### Meritocrats and proceduralists
+
+* Companies are often merit based leading to a small inner circle of individuals of similar beliefs. The other possibility is one of a more fairness or structure based approach.
+* Neither type of company has a better chance of propelling you into a staff plus role, though it greatly depends on your identity and that of existing staff.
+
+##### Archetypes
+
+* Reaching out to existing staff and getting a feel for the work they do gives you the best vision into how the company may value you.
+* It can take scaling engineering to 1000s of people before fully covering staff archetypes.
+
+##### Growth
+
+* There can be a lack of room for growth in certain companies.
+* Some companies may grow faster, though they can be more stressful to work in.
+
+##### Sponsorship
+
+* Getting a staff plus role, requires sponsorship. For a new company it is likely the hiring manager that needs to believe in you.
+* Internally the sponsor should be someone you've work well with before.
+* It can be considered toxic when sponsorship is used to bring along former coworkers to new teams.
+* An external presence has implicit sponsorship.
+
+##### Durability
+
+* It's important to consider: will the company exist a few years from now when you'd be ready for the staff plus promotion?
+* Be with a company where you align with their vision and goals.
+
+##### Pace
+
+* Sometimes you're looking for faster paced rolls. Sometimes you're looking for a slower paced roll.
+* Try to understand the pace you'd be expected to function at before you accept the role.
+
+#### Interviewing for Staff-plus roles
+
+* Interviewing for staff-plus roles can be different than senior, but can also be the same. Often the steps are less clear though.
+
+##### Draw your lines
+
+* The staff plus phase of your career can span 20 years, but the direction will likely come down to a few key decisions.
+* Before the interview, try to figure out what is right for you.
+* Some staff plus interviewees will not practice code beforehand. Make sure that you align your interview expectations with career expectations.
+
+##### Debug the process
+
+* Feel free to ask for more details about the interview process.
+* Before the interviews, it's important to understand:
+  * What are the interview formats? What are the evaluating for?
+  * Do any of the interviews need prep?
+  * Who are the interviewers?
+* Use these questions to figure out if the possible offer will be right for you.
+* Do not get pulled into a role that would not fit your career goals.
+
+##### Finish well
+
+* Send followup questions and brief any references.
+
+#### Negotiating your offer
+
+* Offers are often generated in a formulaic way.
+* There is an expectation around negotiating while also not crossing over an unspoken threshold.
+* Some negotiation can happen for higher roles in pieces often not negotiated on. For example: stock vesting timelines. Finalizing a senior staff higher will have more flexibility than lower roles.
+* Be strategic in your negotiations. Be able to say why a request is important to you in a good narrative.
